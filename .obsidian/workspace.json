@@ -160,6 +160,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57c192895dd30b7d",
+  "active": "09e28e2825314179",
   "lastOpenFiles": [
     "General/General Kanban.md",
     "General/Polish The Demo.md",
