@@ -11,32 +11,13 @@
             "id": "57c192895dd30b7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault Entry.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Vault Entry"
-            }
-          },
-          {
-            "id": "1f2345ed06c0cae2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,12 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f2345ed06c0cae2",
+  "active": "57c192895dd30b7d",
   "lastOpenFiles": [
+    "Test Card!.md",
+    "Trent.md",
     "Vault Entry.md",
     "conflict-files-obsidian-git.md",
-    "Trent.md",
-    "Test Card!.md",
     "Excalidraw/Drawing 2025-04-18 02.42.45.excalidraw.md",
     "Excalidraw",
     "General/General Kanban.md",
