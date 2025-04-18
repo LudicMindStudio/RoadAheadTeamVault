@@ -77,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "8ea4f7ccc4c00905",
+    "id": "10afc860c4313080",
     "type": "split",
     "children": [
       {
-        "id": "1243f3601617ccb2",
+        "id": "4f555b72ac7522e0",
         "type": "tabs",
         "children": [
           {
-            "id": "942179f5f9b1a8e1",
+            "id": "81df1e3ec71881e9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test NOte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test NOte"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "e82024c549369211",
+            "id": "c3e35cda17465c06",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test NOte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test NOte"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "4e33797dc5b62d3f",
+            "id": "4b78794b46eee669",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,26 +131,25 @@
             }
           },
           {
-            "id": "83a14aecdee827f1",
+            "id": "eeffab530c0c13a0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
