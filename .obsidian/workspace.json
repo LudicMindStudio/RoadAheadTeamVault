@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Vault Entry"
             }
+          },
+          {
+            "id": "1f2345ed06c0cae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,14 +186,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09e28e2825314179",
+  "active": "1f2345ed06c0cae2",
   "lastOpenFiles": [
+    "Vault Entry.md",
+    "conflict-files-obsidian-git.md",
+    "Trent.md",
+    "Test Card!.md",
+    "Excalidraw/Drawing 2025-04-18 02.42.45.excalidraw.md",
+    "Excalidraw",
     "General/General Kanban.md",
     "General/Polish The Demo.md",
     "General/Create a proper toolset and plugin stack.md",
     "General/Gameplay design.md",
     "Memories/Memories Kanban.md",
-    "Vault Entry.md",
     "Dolphin Bay Story.md",
     "script.md",
     "Drawing 2025-02-17 19.09.36.excalidraw.md",
@@ -200,16 +220,12 @@
     "Dolphin Bay Graph.md",
     "DolphinBay/Dolphin Bay Graph.md",
     "Misc Documents",
-    "Untitled.md",
     "Writing Documents",
     "Development Documents",
     "Art Documents",
-    "Test NOte.md",
     "Untitled.canvas",
     "DolphinBay",
     "Bubble Town",
-    "General",
-    "create a link.md",
-    "Welcome.md"
+    "General"
   ]
 }
