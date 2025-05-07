@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "86bf44a33f724bb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca1a3c6e031bc98c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fa4822c1f573f6c",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "General/General Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "General Kanban"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d50dfdb9cc4a62d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fafa5b1195c1d7c5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "c66ef3af2c6f8d7e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "836e81a2d4cf7c9c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "04c0772c58847a3e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "90f60d555f08cddb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a482b867ae3e5be3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "General/General Kanban.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "6a54e7e853f7a883",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "General/General Kanban.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "8ff1a7e6bc540cd8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "General/General Kanban.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "3fa4822c1f573f6c",
+  "lastOpenFiles": [
+    "General/Di Ah.md",
+    "General/General Kanban.md",
+    "Vault Entry.md",
+    "DolphinBay/Dolphin Bay NPC Art.md",
+    "DolphinBay/What is Dolphin Bay_.md",
+    "DolphinBay/Dolphin Bay Graph.canvas",
+    "DolphinBay/Dolphin Bay Npc behaviours.md",
+    "DolphinBay/Dolphin Bay Kanban.md",
+    "DolphinBay",
+    "Memories/Memories Graph.canvas",
+    "Memories/Memory Styles.md",
+    "Memories/Memories Kanban.md",
+    "Memories",
+    "General/Polish The Demo.md",
+    "General/Gameplay design.md",
+    "General/Create a proper toolset and plugin stack.md",
+    "General/Michael.md",
+    "General/Trent.md",
+    "General"
+  ]
+}
