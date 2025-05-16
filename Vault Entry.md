@@ -1,13 +1,11 @@
 Welcome to our Obsidian Vault! A tool used for The Road Ahead team's organisation of tasks and workflow!
 
-# Currently Working On
+# Currently Working On (BIG IDEAS)
 
 ## #General
 
 Any general work for the game. The general category contains anything that wouldn't fit into the other more specific categories. New categories should start as ideas general topics.
-
 ### [[General Kanban]]
-
 
 
 ## #DolphinBay

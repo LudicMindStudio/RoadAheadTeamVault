@@ -15,16 +15,19 @@ tags:
 
 - [ ] Dolphin Bay Npc Profiles
 - [ ] [[Dolphin Bay Story]]
+- [ ] [[Old sailor npc]]
 
 
 ## Art Tasks
 
 - [ ] [[Dolphin Bay NPC Art]]
+- [ ] [[the old sailor art]]
 
 
 ## Development Tasks
 
 - [ ] [[Dolphin Bay Npc behaviours]]
+- [ ] [[Add old sailor to the game]]
 
 
 

@@ -1,7 +1,12 @@
 {
 	"nodes":[
-		{"id":"b5a2d8ab8d5dffc6","type":"file","file":"DolphinBay/What is Dolphin Bay?.md","x":-280,"y":-120,"width":360,"height":400},
-		{"id":"dcff7417fcfae576","x":-240,"y":-240,"width":250,"height":60,"type":"text","text":"#DolphinBay "}
+		{"id":"dcff7417fcfae576","type":"text","text":"#DolphinBay ","x":-240,"y":-280,"width":250,"height":60},
+		{"id":"b5a2d8ab8d5dffc6","type":"file","file":"DolphinBay/What is Dolphin Bay_.md","x":-280,"y":-100,"width":360,"height":400},
+		{"id":"d33901729df5157f","type":"file","file":"Fillip's story notes.md","x":401,"y":-500,"width":400,"height":180},
+		{"id":"8ea31349420c754c","type":"text","text":"I talk about if it should be the starting town here:\n[[Fillip's story notes#header 1]]","x":533,"y":-18,"width":387,"height":138}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"1cea784bfbb1fc52","fromNode":"b5a2d8ab8d5dffc6","fromSide":"right","toNode":"d33901729df5157f","toSide":"left"},
+		{"id":"97d1f5a4be0e0513","fromNode":"b5a2d8ab8d5dffc6","fromSide":"right","toNode":"8ea31349420c754c","toSide":"left"}
+	]
 }
