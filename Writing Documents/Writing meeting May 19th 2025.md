@@ -18,4 +18,4 @@ Tags: #DolphinBay
 		- The story should naturally place importance on the npcs that lakshmi delivers mail to
 - The writing team should incorporate rough storyboard style notes.
 	- As an in-between layer from the brainstorming/character bios to the dialogue/scripts
-- 
+- While writing team members have time, we should have more weekly meetings to get on the same page and brainstrom
