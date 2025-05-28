@@ -1,0 +1,37 @@
+# Dolphin Bay - Event 1 post exam
+
+- **Greg**: Lakshmi, I know this isn't even your first day, you just passed your test but...
+- **Greg**: Think you could deliver some mail today?
+- **Lakshmi**: M... mm... me?!
+- **Greg**: If that's okay with you, technically you're supposed to be in training as of tomor...
+- **Lakshmi**: I'LL DO IT
+- **Greg**: Ok ok, but just so you know, we don't currently have anyone to train you.
+- **Lakshmi**: Greg... I said I'll do it. Give me those mails
+	- *She looks at him with determination and (literal) fire in her eyes*
+- Well... In that case:
+	- First one’s the little house with the yellow curtains, just behind the communal wash station — try not to knock too loud, alright?
+	- Then there's the cottage with all the wind chimes near the old greenhouse. You'll know you're there when you smell something burning, probably on purpose.
+	- And the last one’s that brick house on the hill at the end of Sparrow Lane — with the ivy-covered porch and the big oak out front.
+- **Lakshmi**: Yellow curtains, greenhouse, brick house... EASY!
+	- *Lakshmi runs off... and then comes back walking and slightly embarrassed for forgetting to take the mail with her*
+	- I'm just gonna... take the mail with me before... leaving to deliver... mail
+	- *And she runs off again*
+- **Lakshmi**: Ok first off, yellow-curtained house. Hmm where was the communal wash station again?
+	- *Deliver your first mail. Some villagers can give you directions in these situations*
+- **Possible interaction with an old man if the player chooses to look for clues**: 
+	- Yellow curtains, huh? Yeah, you’ll wanna head past the baker’s, take a left where the road splits.  
+	- You’ll see the old wash station — big stone basin with the rust streaks.  
+	- House you’re lookin’ for is tucked right behind it. Can’t miss it. Quiet little place.
+- ***Lakshmi** eventually arrives at the right house and knocks on the door*
+	- MAIL DELIVERY!
+	- *Walks away from the house*
+- ***Single Mother** opens the door and then closes it to come outside*
+	- YOU! 
+	- *She throws something at you, there is a quick-time event for the player to dodge, otherwise it hits Lakshmi in the head and she falls back on her butt*
+	- Why are you yelling like that. My babies JUST fell asleep. Are you trying to wake them up again?
+- **Lakshmi**: Euhhh I'm sorry
+	- *If the player failed to dodge the object, Lakshmi says this with tears in her eyes*
+- **Single Mother**: Eurgh, that Greg keeps sending out overly enthusiastic kids to give us our mail. Why can't he bother giving you all some training...
+- **Lakshmi**: I'm sorry miss, and you're right about my noise. It's my first day and I've been.... TOO EXCITED ABOUT THIS OK I'M SORRY BYE
+- **Single Mother**: HEY! Dammit she's gone and I can't even speak up. She got over it so fast...
+	- *She goes back into her house*
