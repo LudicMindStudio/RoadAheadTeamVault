@@ -1,6 +1,6 @@
 ---
 tags: 
-created: {{date}}
+created: 2025-05-28
 ---
 ## Progress
 - [ ] Not Assigned
