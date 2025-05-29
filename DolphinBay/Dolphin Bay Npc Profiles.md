@@ -50,3 +50,9 @@ These characters can be removed completely or we can extract parts of them to ma
 	Takes their education very seriously. Fact checker, deeper lore insights guy
 **Guild Receptionist**
 	Chatty and friendly. Laid back and knows how to make jokes of any situation.
+
+
+
+## Questions about NPC Relationships
+NPC factions?
+- Protest Faction
