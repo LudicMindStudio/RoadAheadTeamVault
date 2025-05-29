@@ -29,13 +29,15 @@ tags:
 - [ ] [[Create a proper toolset and plugin stack]]
 
 
-## Tutorial Test!
+## Team Members!
 
-- [x] [[Test Card!]]
 - [ ] [[Trent]]
 - [ ] [[Di Ah]]
 - [ ] [[Michael]]
-- [ ] Nina
+- [ ] [[Nina]]
+- [ ] [[Anaïs]]
+- [ ] [[Arkana]]
+- [ ] [[Corina]]
 
 
 
