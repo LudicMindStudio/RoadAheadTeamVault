@@ -14,6 +14,7 @@ Everyone should come up with a loose plot progression involving Lakshmis charact
 Ex.
 > Lakshmi graduates the postal guild
 > becomes more comfortable in the world and with her job
-> Notices something about her family/self that is realted to the fog.
+> Notices something about her family/self that is related to the fog.
 > (mid point climax!!) Encounters some mystery with her family
-> 
+
+
