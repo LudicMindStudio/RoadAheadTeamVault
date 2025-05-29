@@ -54,5 +54,18 @@ These characters can be removed completely or we can extract parts of them to ma
 
 
 ## Questions about NPC Relationships
+Each NPC has opinions on the town (and on the state of things).
+
 NPC factions?
 - Protest Faction
+	- Each npc can have an opinion on the protests
+NPC realtions with each other?
+- Family ties
+- Friends
+- Work peers
+
+### Connecting NPC personal storylines to the [[Dolphin Bay Story]]
+
+How a npc changes with time and the interactions of the player.
+- Should their positive disposition become negative?
+- Should they leave the town and go to another town? then the player can see them later and they have another story?
