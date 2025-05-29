@@ -15,7 +15,8 @@ tags:
 ## Writing Tasks
 
 - [ ] Review Intro Cutscene writing
-- [ ] Main Story Overview
+- [ ] [[Main Story Overview]]
+- [ ] [[Main Character Profiles]]
 
 
 ## Art Tasks

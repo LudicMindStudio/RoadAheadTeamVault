@@ -2,10 +2,10 @@
 tags: 
 created: {{date}}
 ---
-## Progress
+# Progress
 - [ ] Not Assigned
 - [ ] Started
 - [ ] Done :)
  **Assigned**: 
 
-## Content
+# Content

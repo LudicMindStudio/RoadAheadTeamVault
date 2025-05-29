@@ -3,13 +3,13 @@ tags:
 created: {{date}}
 ---
 
-## Context
+# Context
 
 
-## Characters
+# Characters
 
 
-## Content
+# Content
 
 **Character 1**
 	_Dialogue_

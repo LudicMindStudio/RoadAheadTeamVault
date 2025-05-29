@@ -2,9 +2,9 @@
 tags: 
 created: {{date}}
 ---
-## Type
+# Type
 - [ ] Ideas
 - [ ] Themes
 - [ ] Concepts
 
-## Content
+# Content
