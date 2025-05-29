@@ -20,6 +20,7 @@ tags:
 ## Art Tasks
 
 - [ ] [[Dolphin Bay NPC Art]]
+- [ ] [[draw the Stranded Visitor based of his description]]
 
 
 ## Development Tasks
