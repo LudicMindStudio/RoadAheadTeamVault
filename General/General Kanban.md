@@ -15,8 +15,9 @@ tags:
 ## Writing Tasks
 
 - [ ] Review Intro Cutscene writing
-- [ ] [[Main Story Overview]]
+- [ ] [[Lore Overview]]
 - [ ] [[Main Character Profiles]]
+- [ ] [[Main Story (Lakshmi's) Loose Brainstorming]]
 
 
 ## Art Tasks
