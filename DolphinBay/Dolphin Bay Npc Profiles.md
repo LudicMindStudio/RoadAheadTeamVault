@@ -43,4 +43,10 @@ These characters can be removed completely or we can extract parts of them to ma
 **Protester1**
 	Overrun by the warped truth of the protests. Their sense of truth has broken down leading to their protest involvment.
 **Protester2**
-	Fearmonger. Turns to fearing the most out of any 
+	Fearmonger. Turns to fearing the most out of any situation. Scaredy cat
+**Protester3**
+	Lost Activist. Wants to make a change and do something. Jumps on the protests boat to find something to do.
+**Meditative guild Member**
+	Takes their education very seriously. Fact checker, deeper lore insights guy
+**Guild Receptionist**
+	Chatty and friendly. Laid back and knows how to make jokes of any situation.
