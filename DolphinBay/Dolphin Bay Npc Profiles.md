@@ -21,7 +21,7 @@ These characters can be removed completely or we can extract parts of them to ma
 
 **Experienced Guild Member**
 	Tries to help Lakshmi. Energetic. Quick tips guy
-**Stranded Visitor**
+**[[Stranded Visitor]]**
 	 Came to visit a friend in dolphin bay. now has to return but is afraid of the fog.
 **Little Girl 1**
 	Loves animals and playing games. The leader amongst the dolphin bay kids
