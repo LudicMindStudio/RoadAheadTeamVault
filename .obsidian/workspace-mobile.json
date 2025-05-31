@@ -33,22 +33,14 @@
             "id": "5f822c6d2bd2e68b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "General/General Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "General/Main Character Profiles.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "General Kanban"
+              "icon": "lucide-file",
+              "title": "Main Character Profiles"
             }
           }
         ],
@@ -188,15 +180,16 @@
   },
   "active": "5f822c6d2bd2e68b",
   "lastOpenFiles": [
+    "General/Polish The Demo.md",
     "General/Main Story (Lakshmi's) Loose Brainstorming.md",
+    "General/Lore Overview.md",
+    "General/General Kanban.md",
     "General/Gameplay design.md",
     "General/Main Character Profiles.md",
     "Art Documents/Lakshmi + Dan.png",
     "Reference RPGMaker Sprites for the main characters.md",
-    "General/General Kanban.md",
     "Writing Documents/Writing meeting May 19th 2025.md",
     "Writing Documents/Writing meeting May 29th 2025.md",
-    "General/Lore Overview.md",
     "DolphinBay/Fillip's story notes.md",
     "DolphinBay/Stranded Visitor.md",
     "DolphinBay/Old Sailor.md",
@@ -215,7 +208,6 @@
     "Writing Documents",
     "DolphinBay/Dolphin Bay - Storyline1.md",
     "General/Main Story Overview.md",
-    "DolphinBay/Dolphin Bay - Elements to be reviewed.md",
     "Templates",
     "Art Documents",
     "/General",
