@@ -5,7 +5,6 @@ created:
 meeting date:
 ---
 # Agenda
-1. Team News
 
 ---
 
