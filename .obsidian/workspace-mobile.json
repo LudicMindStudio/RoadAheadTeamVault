@@ -33,22 +33,14 @@
             "id": "5f822c6d2bd2e68b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "General/General Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "General/Main Story (Lakshmi's) Loose Brainstorming.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "General Kanban"
+              "icon": "lucide-file",
+              "title": "Main Story (Lakshmi's) Loose Brainstorming"
             }
           }
         ],
@@ -188,8 +180,8 @@
   },
   "active": "5f822c6d2bd2e68b",
   "lastOpenFiles": [
-    "General/Main Story (Lakshmi's) Loose Brainstorming.md",
     "General/General Kanban.md",
+    "General/Main Story (Lakshmi's) Loose Brainstorming.md",
     "Writing Documents/Writing meeting May 19th 2025.md",
     "General/Gameplay design.md",
     "General/Lore Overview.md",
