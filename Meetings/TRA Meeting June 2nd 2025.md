@@ -28,7 +28,7 @@ meeting date: June 2nd 2025
 - Major art decisions will continue to be on hold while Corina is away
 - Gauge interest in an art tutorial workshop
 	- Corina still has a lot of content planned for art workshops!
-	- Trent has a bit of knowledge to share about tilemaps, animations, and pallettes
+	- Trent has a bit of knowledge to share about tilemaps, animations, and palettes
 		- Is it a good time to share this? Is the subteam ready for this right now?
 ---
 **Dev Team**
