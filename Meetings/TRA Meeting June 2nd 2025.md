@@ -38,9 +38,14 @@ meeting date: June 2nd 2025
 - An open call to level designers
 --- 
 **Other things of note**
+- Honorariums
 - General interest in learning skills. Commitment to learning skills specific to game development
 - Thoughts on the organisation of the team?
-	- - Do we prefer being given strict tasks? Or coming up with work by knowing the state of  
+	- Do we prefer being given strict tasks? Or coming up with work by knowing the content we are working on?  
 	- Are we interested in a more casual work ethic?
+---
+
+Thanks everyone :)
+
 ---
 # Live Notes
