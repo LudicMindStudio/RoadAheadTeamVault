@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Main Story (Lakshmi's) Loose Brainstorming.md",
+                "file": "General/Lore Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Story (Lakshmi's) Loose Brainstorming"
+              "title": "Lore Overview"
             }
           }
         ],
@@ -121,7 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "General/General Kanban.md",
+            "file": "General/Lore Overview.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,11 +181,11 @@
   "active": "5f822c6d2bd2e68b",
   "lastOpenFiles": [
     "General/General Kanban.md",
+    "General/Main Character Profiles.md",
     "General/Main Story (Lakshmi's) Loose Brainstorming.md",
     "Writing Documents/Writing meeting May 19th 2025.md",
     "General/Gameplay design.md",
     "General/Lore Overview.md",
-    "General/Main Character Profiles.md",
     "General/Polish The Demo.md",
     "Art Documents/Lakshmi + Dan.png",
     "Reference RPGMaker Sprites for the main characters.md",
