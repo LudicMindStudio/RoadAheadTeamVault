@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DolphinBay/Dolphin Bay Npc behaviours.md",
+                "file": "DolphinBay/Dolphin Bay Npc Profiles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dolphin Bay Npc behaviours"
+              "title": "Dolphin Bay Npc Profiles"
             }
           }
         ],
@@ -121,7 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DolphinBay/Dolphin Bay Npc behaviours.md",
+            "file": "DolphinBay/Dolphin Bay Npc Profiles.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -180,6 +180,7 @@
   },
   "active": "5f822c6d2bd2e68b",
   "lastOpenFiles": [
+    "DolphinBay/Dolphin Bay Npc behaviours.md",
     "DolphinBay/Dolphin Bay - Elements to be reviewed.md",
     "DolphinBay/Dolphin Bay NPC Art.md",
     "DolphinBay/Dolphin Bay Kanban.md",
@@ -207,7 +208,6 @@
     "Meetings",
     "Untitled.md",
     "/Templates/Meeting Template.md",
-    "Templates/Meeting Template.md",
     "/Templates",
     "/Meetings",
     "Art Documents/Lakshmi + Dan.png",
