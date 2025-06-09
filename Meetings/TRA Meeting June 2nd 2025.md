@@ -38,11 +38,13 @@ Weekly Meeting June 2nd 2025
 - Still a ways off from implementing levels and needing level designers
 	- But if we have interest we can start teaching level design!
 --- 
-**Support Team?**
-- Reimagining of how GAS supports TRA
+**Support/Research Team?**
+- Re-imagining of how GAS supports TRA
 - No huge changes on how GAS works, but a focus on the following:
 	- TRA members vote on what should be the focus of the review
 	- Less focus on general review; more focus on what the team needs
+	- Example:
+		- The team votes on the  
 
 ---
 **Other things of note**
