@@ -24,10 +24,12 @@ Weekly Meeting June 2nd 2025
 ---
 **Art Team**
 - Major art decisions will continue to be on hold while Corina is away
-- Art tutorial tdsd his week!
+- Art tutorial this week!
 	- Planned to be a knowledge share! We will see how much we get through
 	- If you are interested in learning or looking to share please join!
-	- Planned events:
+--- 
+  **Art Team**
+  - Planned events:
 	  - Nina sharing their gained insights from drawing Lakshmi!
 	  - Micheal sharing their experience in pixel art!
 	  - Trent sharing how to make tilesets and sprite animations!
@@ -43,19 +45,19 @@ Weekly Meeting June 2nd 2025
 - No huge changes on how GAS works, but a focus on the following:
 	- TRA members vote on what should be the focus of the review
 	- Less focus on general review; more focus on what the team needs
-	- Example:
-		- The team votes for map design, explaining how we need it for the game.
-		- The Support team members does research into how other games tackle the problem
-		- They prepare a presentation on their findings 
 - GAS presentations more focused on stigma are still welcome
-	- We have a lot of progress still to make on implementing mental health themes :)
-
+---
+**Support/Research Team?**
+- Example:
+	- The team votes for map design, explaining how we need it for the game.
+	- The Support team members does research into how other games tackle the problem
+	- They prepare a presentation on their findings 
 ---
 **Other things of note**
 - Please answer the team admin survey if you haven't already. (link in the discord)
 - Are default Discord notifications not sufficient?
 	- Do we still prefer getting email summaries of Discord messages?
-	- Who here is interested in joining the meetings but hasn't voted in the Discord poll?
+	- Who here is interested in joining the subteam meetings but hasn't voted in the Discord poll?
 ---
 
 Thanks everyone :)
