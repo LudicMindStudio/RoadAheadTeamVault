@@ -2,10 +2,10 @@
 tags: 
 created:
   "{ date }": 
-meeting date: June 2nd 2025
+meeting date: June 9th 2025
 ---
 # Agenda
-Weekly Meeting June 2nd 2025
+Weekly Meeting June 9th 2025
 1. Team News
 2. Subteam Updates
 ---
