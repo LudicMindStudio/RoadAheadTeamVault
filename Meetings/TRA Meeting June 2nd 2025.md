@@ -17,13 +17,11 @@ Weekly Meeting June 2nd 2025
 2. Subteam Updates
 --- 
 **Writing Team**
-- Writers meeting this week
-- Focuses of the writing team:
-	- NPC profiles
-	- NPC relations
-	- Storylines
-- Semi weekly meetings are happening for the writing team!
-	- Please feel free to join to listen in, or contribute if you are interested
+- Writing meeting this week!
+	- Try to get a concrete dolphin bay story!
+	- Have a few NPCs ready to be passed to the art team!
+- RPG Maker text extraction task
+	- If you are interested 
 ---
 **Art Team**
 - Major art decisions will continue to be on hold while Corina is away
