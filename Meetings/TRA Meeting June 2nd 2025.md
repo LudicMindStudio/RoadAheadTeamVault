@@ -5,9 +5,11 @@ created:
 meeting date: June 2nd 2025
 ---
 # Agenda
+Weekly Meeting June 2nd 2025
+
 ---
 1. **Team News**
-	- A big thank you to Stephanie
+	- FIlip, Trent, and Manuela 
 	- An open call for those looking for more work/involvement
 	- The future of TRA
 	- The future of GAS
