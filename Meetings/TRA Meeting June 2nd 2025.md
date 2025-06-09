@@ -6,19 +6,18 @@ meeting date: June 2nd 2025
 ---
 # Agenda
 Weekly Meeting June 2nd 2025
-
+1. Team News
+2. Subteam Updates
 ---
 1. **Team News**
-	- FIlip, Trent, and Manuela 
-	- An open call for those looking for more work/involvement
-	- The future of TRA
-	- The future of GAS
+	- FIlip, Trent, and Manuela presented the project at CGSA on Sunday
+	- TRA will be presented at another conference later this month
+
 ---
 2. Subteam Updates
 --- 
 **Writing Team**
-- The writing team is starting to use obsidian! 
-- Tasks are being made and content will soon come down stream for the art team
+- 
 - Focuses of the writing team:
 	- NPC profiles
 	- NPC relations
@@ -40,11 +39,7 @@ Weekly Meeting June 2nd 2025
 - An open call to level designers
 --- 
 **Other things of note**
-- Honorariums
-- General interest in learning skills. Commitment to learning skills specific to game development
-- Thoughts on the organisation of the team?
-	- Do we prefer being given strict tasks? Or coming up with work by knowing the content we are working on?  
-	- Are we interested in a more casual work ethic?
+-  Please answer the team admin survey if you haven't already. (link in the discord)
 ---
 
 Thanks everyone :)
