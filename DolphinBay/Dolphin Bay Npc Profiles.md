@@ -26,7 +26,12 @@ These characters can be removed completely or we can extract parts of them to ma
 **Little Girl 1**
 	Loves animals and playing games. The leader amongst the dolphin bay kids
 	To put on another page: 
-	- Cat (short for Caterina) Everyone calls her Cat because she can be soft and kind but when needed she can be fierce. That's why she's the leader. 
+	- Cat (short for Caterina) Everyone calls her Cat because she can be soft and kind but when needed she can be fierce. That's why she's the leader. Cat has grown up hearing stories about the ocean as her father is a sailor. She developed a love for animals and has been actively working to protect the wildlife around Dolphin Bay. 
+	- Description for art team:
+		- she has thick red hair
+		- brown eyes
+		- bandana in her hair
+		- tank top and shorts
 **Little Girl 2**
 	Loves animals. More aloof. Curious
 **Little Boy 1**
@@ -36,6 +41,10 @@ These characters can be removed completely or we can extract parts of them to ma
 	[[Grandma and Grandson|Story]] about comforting a boy who lost his parents
 **[[Old Sailor]]** 
 	Misses the prefog times when sailing was so much simpler. Is being forced away from his passion by the world. Can use some encouragement. Is looking to assemble a new crew to join him.
+	To put on another page:
+	- Cat's father. Remembers all the wildlife he would see prior to the fog. Says that it seems like it all wondered away. Says that he is proud of his daughter for the work that she does. He's happy he's able to share his passion with her. 
+	- Description for art team:
+		- 
 **Old Granny**
 	Always has wisdom for Lakshmi. Loves tea and will always invite the players in.
 **Mysterious Man**
