@@ -25,6 +25,7 @@ These characters can be removed completely or we can extract parts of them to ma
 	 Came to visit a friend in dolphin bay. now has to return but is afraid of the fog.
 **Little Girl 1**
 	Loves animals and playing games. The leader amongst the dolphin bay kids
+	[]()
 **Little Girl 2**
 	Loves animals. More aloof. Curious
 **Little Boy 1**
