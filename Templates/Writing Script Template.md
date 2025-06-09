@@ -19,4 +19,4 @@ created: {{date}}
 
 **Character 2**
 	`If variable is true`
-		_Dial_
+		_Dialogue_
