@@ -10,7 +10,7 @@ Weekly Meeting June 2nd 2025
 2. Subteam Updates
 ---
 1. **Team News**
-	- FIlip, Trent, and Manuela presented the project at CGSA on Sunday
+	- Filip, Trent, and Manuela presented the project at CGSA on Sunday
 	- TRA will be presented at another conference in NY later this month
 ---
 2. Subteam Updates
@@ -24,7 +24,7 @@ Weekly Meeting June 2nd 2025
 ---
 **Art Team**
 - Major art decisions will continue to be on hold while Corina is away
-- Art tutorial this week!
+- Art tutorial tdsd his week!
 	- Planned to be a knowledge share! We will see how much we get through
 	- If you are interested in learning or looking to share please join!
 	- Planned events:
@@ -44,7 +44,11 @@ Weekly Meeting June 2nd 2025
 	- TRA members vote on what should be the focus of the review
 	- Less focus on general review; more focus on what the team needs
 	- Example:
-		- The team votes on the  
+		- The team votes for map design, explaining how we need it for the game.
+		- The Support team members does research into how other games tackle the problem
+		- They prepare a presentation on their findings 
+- GAS presentations more focused on stigma are still welcome
+	- We have a lot of progress still to make on implementing mental health themes :)
 
 ---
 **Other things of note**
