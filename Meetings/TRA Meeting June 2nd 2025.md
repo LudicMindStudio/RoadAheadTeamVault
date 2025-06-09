@@ -11,8 +11,7 @@ Weekly Meeting June 2nd 2025
 ---
 1. **Team News**
 	- FIlip, Trent, and Manuela presented the project at CGSA on Sunday
-	- TRA will be presented at another conference later this month
-
+	- TRA will be presented at another conference in NY later this month
 ---
 2. Subteam Updates
 --- 
@@ -21,7 +20,7 @@ Weekly Meeting June 2nd 2025
 	- Try to get a concrete dolphin bay story!
 	- Have a few NPCs ready to be passed to the art team!
 - RPG Maker text extraction task
-	- If you are interested 
+	- If you are interested please let me know or show up to the meeting!
 ---
 **Art Team**
 - Major art decisions will continue to be on hold while Corina is away
@@ -29,8 +28,8 @@ Weekly Meeting June 2nd 2025
 	- Planned to be a knowledge share! We will see how much we get through
 	- If you are interested in learning or looking to share please join!
 	- Planned events:
-	  - Nina sharing her process of drawing Lakshmi!
-	  - Micheal sharing his experience in pixel art!
+	  - Nina sharing their gained insights from drawing Lakshmi!
+	  - Micheal sharing their experience in pixel art!
 	  - Trent sharing how to make tilesets and sprite animations!
 ---
 **Dev Team**
@@ -41,8 +40,9 @@ Weekly Meeting June 2nd 2025
 --- 
 **Support Team?**
 - Reimagining of how GAS supports TRA
-- No huge changes on how GAS works, but a focus on the following
-	- TRA members vote 
+- No huge changes on how GAS works, but a focus on the following:
+	- TRA members vote on what should be the focus of the review
+	- Less focus on general review; more focus on what the team needs
 
 ---
 **Other things of note**
