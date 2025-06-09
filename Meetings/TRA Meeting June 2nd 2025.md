@@ -17,7 +17,7 @@ Weekly Meeting June 2nd 2025
 2. Subteam Updates
 --- 
 **Writing Team**
-- 
+- Writers meeting this week
 - Focuses of the writing team:
 	- NPC profiles
 	- NPC relations
@@ -27,19 +27,22 @@ Weekly Meeting June 2nd 2025
 ---
 **Art Team**
 - Major art decisions will continue to be on hold while Corina is away
-- Gauge interest in an art tutorial workshop
-	- Corina still has a lot of content planned for art workshops!
-	- Trent has a bit of knowledge to share about tilemaps, animations, and palettes
-		- Is it a good time to share this? Is the subteam ready for this right now?
+- Art tutorial this week!
+	- Planned to be a knowledge share! We will see how much we get through
+	- If you are interested in learning or looking to share please join!
+	- 
 ---
 **Dev Team**
-- A basic Unity Build is live!
-	- Its very bare bones
-- A short demo if folks are interested
-- An open call to level designers
+- Path based NPC movement works
+	- Full on behaviours to come next
+- Still a ways off from implementing levels and needing level designers
+	- But if we have interest we can start teaching level design!
 --- 
 **Other things of note**
--  Please answer the team admin survey if you haven't already. (link in the discord)
+- Please answer the team admin survey if you haven't already. (link in the discord)
+- Are default Discord notifications not sufficient?
+	- Do we still prefer getting email summaries of Discord messages?
+	- Who here is interested in joining the meetings but hasn't voted in the Discord poll?
 ---
 
 Thanks everyone :)
