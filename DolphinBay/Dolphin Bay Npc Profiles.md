@@ -39,7 +39,7 @@ These characters can be removed completely or we can extract parts of them to ma
 **Little Boy 2**
 	Distant from the other kids. Seen staring off into the ocean. Quite
 	[[Grandma and Grandson|Story]] about comforting a boy who lost his parents
-**[[Old Sailor]]** 
+**[[Old Sailor]]** DESCRIPTION DONE
 	Misses the prefog times when sailing was so much simpler. Is being forced away from his passion by the world. Can use some encouragement. Is looking to assemble a new crew to join him.
 	
 **Old Granny**
