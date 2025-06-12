@@ -15,3 +15,5 @@ More Examples:
 [[Tilemap2.png]]
 [[House_n_basement.png]]
 
+**Animation**
+Remember for pixel art key frames are the most important! Onion skins can be a great tool for seeing the motion frame to frame!
