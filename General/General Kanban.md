@@ -24,6 +24,7 @@ tags:
 
 - [ ] High Resolution Images for Intro Cutscene
 - [ ] [[Reference RPGMaker Sprites for the main characters]]
+- [ ] [[Artist Resources]]
 
 
 ## Development Tasks
