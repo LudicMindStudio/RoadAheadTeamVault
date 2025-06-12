@@ -35,8 +35,11 @@ These characters can be removed completely or we can extract parts of them to ma
 **Little Girl 2**
 	Loves animals. More aloof. Curious
 	To put on another page:
-	Description for art team:
-	- Follows Cat around. Does not talk much to Lakshmi as she is rather shy but is curious as to what Lakshmi is up to. She is trying to get information but 
+	- Tullia (mean shy is romanian) Follows Cat around. Stays behind her during interactions with other characters. Does not talk much to Lakshmi as she is rather shy but is curious as to what Lakshmi is up to. 
+	- Description for art team:
+	- long braided hair
+	- dark eyes
+	- white t-shirt
 **Little Boy 1**
 	Loves animals. Aloof. A show off
 **Little Boy 2**
