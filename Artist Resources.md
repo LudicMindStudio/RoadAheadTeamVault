@@ -1,4 +1,0 @@
-![[Lolol.png]]
-
-
-[[Palette]]
