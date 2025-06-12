@@ -4,6 +4,10 @@ On this page we share our knowledge for Art! Everything and anything that the te
 
 # Pixel Art
 
+
+**Palette**
+
+
 **Tilemaps**
 In a art subteam meeting trent showed some basic examples of tilemaps.
 The main point is the 3x3 grid with the centre tile and walls as a basis for a top down tilemap. with it we can make rooms of any size!
