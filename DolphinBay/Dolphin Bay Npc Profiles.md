@@ -42,9 +42,17 @@ These characters can be removed completely or we can extract parts of them to ma
 	- white t-shirt
 **Little Boy 1**
 	Loves animals. Aloof. A show off
+	To put on another page:
+	- Elio
 **Little Boy 2**
-	Distant from the other kids. Seen staring off into the ocean. Quite
+	Distant from the other kids. Seen staring off into the ocean. Quiet
 	[[Grandma and Grandson|Story]] about comforting a boy who lost his parents
+	To put on another page:
+	- Oliver. 
+	-Description for art team:
+	- longish dark hair and dark eyes
+	- cap
+	- dark blue t-shirt
 **[[Old Sailor]]** DESCRIPTION DONE
 	Misses the prefog times when sailing was so much simpler. Is being forced away from his passion by the world. Can use some encouragement. Is looking to assemble a new crew to join him.
 	
