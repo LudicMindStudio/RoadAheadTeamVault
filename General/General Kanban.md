@@ -18,6 +18,7 @@ tags:
 - [ ] [[Lore Overview]]
 - [ ] [[Main Character Profiles]]
 - [ ] [[Main Story (Lakshmi's) Loose Brainstorming]]
+- [ ] [[Solidify our main story overview - Micheal, Nina]]
 
 
 ## Art Tasks
