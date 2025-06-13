@@ -9,6 +9,6 @@ meeting date: June 13th 2025
 - Block out a basic storyline for Lakshmi
 - Block out a basic storyline for Dolphin bay
 - Task by next week: think of ideas and themes that need to be hit at the start of these sotires
-- Then next week, we merge these ideas and work on the opening scene of the game.\ enough to hit both of these beats 
+- Then next week, we merge these ideas and work on the opening scene of the game. 
 
 # Live Notes
