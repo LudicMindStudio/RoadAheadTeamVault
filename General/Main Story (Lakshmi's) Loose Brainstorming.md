@@ -21,10 +21,12 @@ Ex.
 
 **Nina’s plot progression**
 
+**Chapter 1**
 Lakshmi graduates the postal guild and sets off delivering mail. She is able to enter the recipients memories and experience the memory through their eyes. (not sure if she’s simply seeing their memories or if she’s actually travelling into their psyche in a way? if it’s the second one, we can implement some adversaries she has to fight within memories. Like a symbol of the psyche’s defence mechanisms).
 
 After having done this a few times, she may recognize a pattern within the memories. Perhaps they all have to do with a sense of aloneness or some way connect to the fog. She now feels like her job isn’t just about postal service, but something deeper. She realizes she can truly help people with her abilities.
 
+**Chapter 2**
 some people’s memories show clues/information about Lakshmi’s parents and she learns that some of the people she helps were connected to them. She may feel eager to find more people like this and learn about her own origins, so Greg has to remind her that while she is curious about her past, it’s also important not to lose sight of her present mission/job. He tells her that digging into her past may not bring her the satisfaction she seeks, and sometimes helping others can alleviate one’s own challenges. so she continues her job.
 
 Later in the game she discovers the fog is a manifestation of the isolation people were ALREADY feeling. The patterns she was seeing in the past start connecting and making more sense. Everyone has had unique stories, but the feeling of isolation was always a shared experience. The more she helps individuals, the more the fog lifts. And although people’s problems don’t magically disappear, they can face them better in community and connection.
