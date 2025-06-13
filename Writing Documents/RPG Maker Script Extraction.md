@@ -4,7 +4,7 @@ created: 2025-06-13
 ---
 # Progress
 - [ ] Not Assigned
-- [ ] Assigned
+- [x] Assigned
 - [ ] Started
 - [ ] Done :)
  **Assigned**: Micheal or anyone else willing

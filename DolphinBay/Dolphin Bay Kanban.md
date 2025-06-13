@@ -15,6 +15,8 @@ tags:
 
 - [ ] [[Dolphin Bay Npc Profiles]]
 - [ ] [[Dolphin Bay Story]]
+- [ ] [[Solidify Dolphin Bay's Story]]
+- [ ] [[Flesh out the NPCs in Filips story]]
 
 
 ## Art Tasks
