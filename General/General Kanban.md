@@ -19,6 +19,7 @@ tags:
 - [ ] [[Main Character Profiles]]
 - [ ] [[Main Story (Lakshmi's) Loose Brainstorming]]
 - [ ] [[Solidify our main story overview - Micheal, Nina]]
+- [ ] [[RPG Maker Script Extraction]]
 
 
 ## Art Tasks
