@@ -62,6 +62,7 @@ These characters can be removed completely or we can extract parts of them to ma
 	A fully fledged jaded member of dolphin bay. Stuck reminiscing and pessimistic about the future compared to the past. Sounds wise but really is just using his age to reinforce his beliefs. 
 **Protest Leader**
 	Angry that the dolphins are no longer in dolphin bay. Was a large sponsor in the dolphin programs in the town. Always enjoyed watching them from afar. Now he feels betrayed and that his wealth was misused. Was never actually close to the dolphins, but loved them from a distance.
+	
 **Protester1**
 	Overrun by the warped truth of the protests. Their sense of truth has broken down leading to their protest involvment.
 **Protester2**
