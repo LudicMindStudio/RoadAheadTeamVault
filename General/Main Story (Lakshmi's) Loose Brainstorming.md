@@ -21,6 +21,7 @@ Ex.
 
 **Nina’s plot progression**
 
+
 Lakshmi graduates the postal guild and sets off delivering mail. She is able to enter the recipients memories and experience the memory through their eyes. (not sure if she’s simply seeing their memories or if she’s actually travelling into their psyche in a way? if it’s the second one, we can implement some adversaries she has to fight within memories. Like a symbol of the psyche’s defence mechanisms).
 
 After having done this a few times, she may recognize a pattern within the memories. Perhaps they all have to do with a sense of aloneness or some way connect to the fog. She now feels like her job isn’t just about postal service, but something deeper. She realizes she can truly help people with her abilities.
