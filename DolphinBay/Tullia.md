@@ -24,4 +24,5 @@ Loves animals. More aloof. Curious
 ## Portraits
 
 ## Concept Art
+[[Tullia_ConceptArt.jpeg]]
 ![[Tullia_ConceptArt.jpeg]]
