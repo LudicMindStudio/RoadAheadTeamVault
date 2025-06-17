@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Main Story (Lakshmi's) Loose Brainstorming.md",
+                "file": "Art Documents/Artist Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Story (Lakshmi's) Loose Brainstorming"
+              "title": "Artist Resources"
+            }
+          },
+          {
+            "id": "8f1cb993a811cbf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DolphinBay/Dolphin Bay NPC Art.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dolphin Bay NPC Art"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,56 +170,56 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3fa4822c1f573f6c",
+  "active": "8f1cb993a811cbf7",
   "lastOpenFiles": [
-    "Drawing 2025-06-13 10.10.09.excalidraw.md",
-    "/Drawing 2025-06-13 10.10.09.excalidraw.md",
-    "General/General Kanban.md",
-    "DolphinBay/Dolphin Bay Npc Profiles.md",
-    "Art Documents/Palette.md",
-    "Art Documents/Tilemap2.png",
-    "Art Documents/tilemap.png",
+    "DolphinBay/Untitled.md",
+    "DolphinBay/Dolphin Bay Story.md",
+    "Art Documents/2016-05-06.png",
     "Art Documents/Artist Resources.md",
+    "Art Documents/NPC Tullia design.md",
+    "DolphinBay/Dolphin Bay Npc Profiles.md",
+    "Vault Entry.md",
+    "Art Documents/Lolol.png",
+    "NPC.md",
+    "tullia.md",
+    "Grandma and Grandson.md",
+    "IMG_2101.jpeg",
+    "Art Documents/tilemap.png",
     "Meetings/Writing Meeting June 13th 2025.md",
-    "Art Documents/House_n_basement.png",
+    "Meetings/TRA Meeting June 2nd 2025.md",
+    "Meetings/TRA Meeting June 9th 2025.md",
+    "Writing Documents/Writing meeting May 19th 2025.md",
+    "Writing Documents/Solidify our main story overview.md",
+    "Writing Documents/RPG Maker Script Extraction.md",
+    "Writing Documents/Drawing 2025-06-13 10.10.09.excalidraw.md",
+    "General/Main Story (Lakshmi's) Loose Brainstorming.md",
+    "General/General Kanban.md",
+    "Flesh out the NPCs in Filips story.md",
+    "DolphinBay/Solidify Dolphin Bay's Story.md",
+    "/Templates/Task Template.md",
+    "/Writing Documents/RPG Maker Script Extraction.md",
     "/Meetings/Writing Meeting June 13th 2025.md",
-    "/Meetings/Art Subteam Meeting June 12th 2025.md",
-    "Meetings/Art Subteam Meeting June 12th 2025.md",
     "/Meetings",
+    "/General/Main Story (Lakshmi's) Loose Brainstorming.md",
+    "/General/General Kanban.md",
+    "/General",
+    "/Flesh out the NPCs in Filips story.md",
+    "/Writing Documents",
+    "/Templates",
+    "/DolphinBay",
+    "Art Documents/Tilemap2.png",
+    "Art Documents/House_n_basement.png",
     "/Art Documents/tilemap.png",
     "/Art Documents/Tilemap2.png",
-    "/Art Documents/Palette.md",
     "/Art Documents/House_n_basement.png",
-    "/Art Documents/Artist Resources.md",
     "/Art Documents/2016-05-06.png",
-    "Art Documents/2016-05-06.png",
     "/Art Documents",
-    "Artist Resources.md",
-    "/General/General Kanban.md",
-    "/Artist Resources.md",
-    "General/Gameplay design.md",
-    "Art Documents/Lolol.png",
-    "/Art Documents/Lolol.png",
-    "Meetings/TRA Meeting June 9th 2025.md",
-    "/Templates/Writing Script Template.md",
-    "/Templates/Meeting Template.md",
-    "/Templates",
-    "/Meetings/TRA Meeting June 9th 2025.md",
-    "/Meetings/TRA Meeting June 2nd 2025.md",
-    "/DolphinBay/Old Sailor.md",
-    "/DolphinBay/Dolphin Bay Npc Profiles.md",
-    "/General/Reference RPGMaker Sprites for the main characters.md",
-    "General/Reference RPGMaker Sprites for the main characters.md",
-    "/General",
-    "/DolphinBay/Grandma and Grandson.md",
-    "/DolphinBay",
     "DolphinBay/Dolphin Bay Graph.canvas",
     "Meetings",
     "Writing Documents",
     "Templates",
     "Art Documents",
     "/DolphinBay/Dolphin Bay Graph.canvas",
-    "/Writing Documents",
     "Memories/Memories Graph.canvas"
   ]
 }
