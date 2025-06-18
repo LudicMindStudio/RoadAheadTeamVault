@@ -43,7 +43,7 @@ These characters can be removed completely or we can extract parts of them to ma
 **Little Boy 1**
 	Loves animals. Aloof. A show off
 	To put on another page:
-	- Elio
+	- Elio. 
 **Little Boy 2**
 	Distant from the other kids. Seen staring off into the ocean. Quiet
 	[[Grandma and Grandson|Story]] about comforting a boy who lost his parents
