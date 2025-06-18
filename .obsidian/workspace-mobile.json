@@ -25,22 +25,14 @@
             "id": "8f1cb993a811cbf7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "General/General Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "DolphinBay/Solidify Dolphin Bay's Story.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "General Kanban"
+              "icon": "lucide-file",
+              "title": "Solidify Dolphin Bay's Story"
             }
           }
         ],
@@ -181,9 +173,9 @@
   "active": "8f1cb993a811cbf7",
   "lastOpenFiles": [
     "General/Main Story (Lakshmi's) Loose Brainstorming.md",
+    "General/General Kanban.md",
     "DolphinBay/Dolphin Bay Kanban.md",
     "Writing Documents/Solidify our main story overview.md",
-    "General/General Kanban.md",
     "DolphinBay/Dolphin Bay NPC Art.md",
     "DolphinBay/Untitled.md",
     "DolphinBay/Dolphin Bay Story.md",
