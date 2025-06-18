@@ -33,3 +33,29 @@ Later in the game she discovers the fog is a manifestation of the isolation peop
 Some people she helps end up helping her in return by pointing her in the direction of her parents (I’m thinking an NPC recognizes her because she looks like her parents, and gives her insights). As she gathers more info, she discovers her parents were doing research with Dr Lamborghini(Filip’s character) to stop the fog, during the beginning stages of it. But they didn’t approach it the right way, and the fog intensified, leading to their passing. (This could be why Dr Lamborghini was then trying to erase people’s memories. Thinking it could make amends.) 
 
 (the point here is to highlight how even good intentions don’t always lead to smart actions, and how Lakshmi being the one who can help lift the fog is like a karmic thing)
+
+---
+
+
+Lashkmi's Journey is sort of like a pilgrimage. It's a last rite of passage in order to truly have her become a postal worker. She goes to the postal guild at each village, collects parcels/letters. When she delivers a something she will sometimes enter the memories of the person who received the package. A short adventure will take place in the memory.  Once every memory is cleared, the fog will lift and Lakshmi will be able to go to the next willage.
+
+The story continues in this way. At some point Lakshmi will come across a memory that reminds her of her own tramautic past. She recalls how she lost her parents at a young age. This sets lakshmi on her own journey to learn to cope with her problems. She continues through her journey learning new skills and discovering how to apply them to herself. It ends with Lakshmi finding some kind of solace in the fact that while she feels pain over the early loss of her parents, she is equipped with the tools to manage that pain.
+
+--General ideas
+
+The fog will sometimes manifest into monsters that Lakshmi will do battle with. These monsters can represent bad thoughts or difficult emotions. Lakshmi can use skills she learns to fight these monster. Lakshmi will gain companions throughout her journey. These companions will be manifestations of Lakshmi's new found skills. They will help her in battle. 
+
+I imagine that the companions would not have wills of their own as they are supposed to be a part of lakshmi. I was thinking there could be 1 or 2 of them. I also thought they could look like lakshmi, but they would appear more ethereal or spirit like.
+
+There should be transitional spaces between villages. Those places should be especially dangerous. Fog monsters would spawn in these places. The fog monsters are the principle reason for the villages being isolated amd also the reason for the postal carriers being well versed in combat.
+
+
+--Basic gameplay loop
+
+-Start at guild
+-Pick up deliveries
+-Deliver Packages in village/commune
+--Enter memories
+-Fog Lifts
+-Path to next village opens
+-Go to next village 
