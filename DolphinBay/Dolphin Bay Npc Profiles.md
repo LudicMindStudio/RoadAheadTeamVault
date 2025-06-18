@@ -58,6 +58,7 @@ These characters can be removed completely or we can extract parts of them to ma
 	
 **Old Granny**
 	Always has wisdom for Lakshmi. Loves tea and will always invite the players in.
+	- 
 **Mysterious Man**
 	A fully fledged jaded member of dolphin bay. Stuck reminiscing and pessimistic about the future compared to the past. Sounds wise but really is just using his age to reinforce his beliefs. 
 **Protest Leader**
