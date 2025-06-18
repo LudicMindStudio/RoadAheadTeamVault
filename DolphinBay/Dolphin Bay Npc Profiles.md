@@ -26,7 +26,7 @@ These characters can be removed completely or we can extract parts of them to ma
 **Little Girl 1**
 	Loves animals and playing games. The leader amongst the dolphin bay kids
 	To put on another page: 
-	- Cat (short for Caterina) Everyone calls her Cat because she can be soft and kind but when needed she can be fierce. That's why she's the leader. Cat has grown up hearing stories about the ocean as her father is a sailor. She developed a love for animals and has been actively working to protect the wildlife around Dolphin Bay. 
+	- Cat (short for Caterina) Everyone calls her Cat because she can be soft and kind but when needed she can be fierce. That's why she's the leader. Cat has grown up hearing stories about the ocean as her father is a sailor. She developed a love for animals and has been actively working to protect the wildlife around Dolphin Bay. She appreciates the beauty and complexity of all creatures (big or small)
 	- Description for art team:
 		- she has thick red hair
 		- brown eyes
@@ -58,7 +58,8 @@ These characters can be removed completely or we can extract parts of them to ma
 	
 **Old Granny**
 	Always has wisdom for Lakshmi. Loves tea and will always invite the players in.
-	- 
+	To put on another page:
+	- Lisa. Gardens in the front of house. When Lakshmi approches, Lisa is happy to talk to her. She will offer her some tea to enjoy in her backyard where there is a beautif
 **Mysterious Man**
 	A fully fledged jaded member of dolphin bay. Stuck reminiscing and pessimistic about the future compared to the past. Sounds wise but really is just using his age to reinforce his beliefs. 
 **Protest Leader**
