@@ -53,7 +53,7 @@ These characters can be removed completely or we can extract parts of them to ma
 	- longish dark hair and dark eyes
 	- cap
 	- dark blue t-shirt
-**[[Old Sailor]]** DESCRIPTION DONE
+**[[Old Sailor Garp]]** DESCRIPTION DONE
 	Misses the prefog times when sailing was so much simpler. Is being forced away from his passion by the world. Can use some encouragement. Is looking to assemble a new crew to join him.
 	
 **Old Granny**
@@ -66,14 +66,14 @@ These characters can be removed completely or we can extract parts of them to ma
 		- faint reassuring smile 
 **Mysterious Man**
 	A fully fledged jaded member of dolphin bay. Stuck reminiscing and pessimistic about the future compared to the past. Sounds wise but really is just using his age to reinforce his beliefs. 
-**Protest Leader**
-	Angry that the dolphins are no longer in dolphin bay. Was a large sponsor in the dolphin programs in the town. Always enjoyed watching them from afar. Now he feels betrayed and that his wealth was misused. Was never actually close to the dolphins, but loved them from a distance.
+**Francois Hustle**
+	Protest Leader. Angry that the dolphins are no longer in dolphin bay. Was a large sponsor in the dolphin programs in the town. Always enjoyed watching them from afar. Now he feels betrayed and that his wealth was misused. Was never actually close to the dolphins, but loved them from a distance.
 	
-**Protester1**
+**Camie**
 	Overrun by the warped truth of the protests. Their sense of truth has broken down leading to their protest involvment.
-**Protester2**
+**Doran**
 	Fearmonger. Turns to fearing the most out of any situation. Scaredy cat
-**Protester3**
+**Gatz**
 	Lost Activist. Wants to make a change and do something. Jumps on the protests boat to find something to do.
 **Meditative guild Member**
 	Takes their education very seriously. Fact checker, deeper lore insights guy
