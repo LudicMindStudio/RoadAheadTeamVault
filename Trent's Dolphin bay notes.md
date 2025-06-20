@@ -1,5 +1,5 @@
 # Theme
-Psychosis Experiences, Assertive communication, Active listening skills, Reality grounding, and Community ties
+Psychosis Experiences, Assertive communication, Active listening skills, Reality grounding, and Community ties, Acceptance
 
 # Synopsis
 
