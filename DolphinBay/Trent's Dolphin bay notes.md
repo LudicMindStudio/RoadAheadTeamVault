@@ -17,7 +17,7 @@ A key part to this story is the real escalation in Francois' actions. Due to the
 
 This bleak state is where Lakshmi enters. Flipping the script and inverting the snowball is the ultimate resolution of the story and what Lakshmi needs to discover. At first, this isn't really Lakshmi's business and the dots wont connect on what to do. She has to discover the reality of things, form a plan of recovery, then convince the town to follow her lead and start the healing process.
 
-Some key features on Lakshmi's involvement will be kids. The kids of dolphin bay are completely unaffected by Francois' movement and are able to help teach Lakshmi the connection between the fog, emotions, and animals. Lakshmi also can learn about Francois' backstory and origins for his actions. To de-vilianify everyone in the situation is a requirement for progress. Finally Lakshmi should also need to bolster her own confidence and find the courage to make a change at the level of effecting the whole city. Other events and characters around the city help her do this.
+Some key features on Lakshmi's involvement will be kids. The kids of dolphin bay are completely unaffected by Francois' movement and are able to help teach Lakshmi the connection between the fog, emotions, and animals. Lakshmi also can learn about Francois' backstory and origins for his actions. To de-vilify everyone in the situation is a requirement for progress. Finally Lakshmi should also need to bolster her own confidence and find the courage to make a change at the level of effecting the whole city. Other events and characters around the city help her do this.
 
 By the end of the story, everyone makes peace and is on a road ahead to reverting the damages done and making dolphin bay the best it can be. Dolphins begin to return and progress can be seen with more dolphins and other positive activist actions. The activists and the dolphin sanctuary work together, each using their skills in their own ways to help the dolphins.
 
@@ -28,3 +28,4 @@ Francois hustle really loves dolphins. why would he start such a fuss if he didn
 
 # Events
 
+**Event 0**
