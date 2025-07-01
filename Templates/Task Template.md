@@ -1,6 +1,7 @@
 ---
 tags: 
-created: {{date}}
+created:
+  "{ date }":
 ---
 # Progress
 - [ ] Not Assigned
