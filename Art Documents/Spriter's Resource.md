@@ -54,6 +54,7 @@ While we don't have to deal with these constraints, we should still keep the spi
 
 Speaking of skin colors, we should create some presets for different skin tones and share them amongst each other. This helps to keep some consistency between sprites.
 
+(Under Construction)
 
 # Small and Large Sprites
 ---
@@ -106,4 +107,8 @@ Zoomed in:
 
 Here you can see non anti-aliased graphics on the left and anti-aliased on the right. 
 
-To-Do
+To be added
+- Transparency
+- Saving format
+- Big sprites
+- Using a blank base
