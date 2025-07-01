@@ -1,26 +1,28 @@
+*Author: Michael Serravalle
 
 Here, I will outline some tips, tricks and tools for pixel art. In some circles, the act of creating pixel art is called spriting. I will be using that term going forward.
 
-This is the first draft. I will be adding some more stuff as I got 
-Websites
+This is the first draft. I will be adding some more stuff in the future. I would like to get some input on what could be added, made clearer or whatever. So let me know what you guys think.
+
+# Websites
 ---
 
 [[https://pixeljoint.com/|Pixel Joint]] : An Online spriting community
 
-Brief Explanation of how I learned
+# Brief Explanation of how I learned
 ---
 
 Most people learn to sprite by copying sprites from other games and I'm no exception. I learned to sprite by studying the character portraits from the Fire Emblem games that were on the gameboy advance.
 
 Here are some examples of sprites from the Fire Emblem games:
 
-![[FESample 1.png]]
+![[FESample.png]]
 
 Here are some examples of sprites made by me:
 
 ![[CustomSamples.png]]
 
-Tools
+# Tools
 ---
 
 Spriting can be done with virtually any graphics editing program. The specifications aren't really high. Mainly you just need a paintbrush that can dry one pixel at a time. It's best to use whichever you are most comfortable with, but I will list some well-known programs.
@@ -39,7 +41,7 @@ If you don't know which to pick, I would recommend Aseprite as it is the most fe
 
 As mentioned above, you can do pixel art with pretty much any image editor so use which is most comfortable for you.
 
-Palettes
+# Palettes
 ---
 
 Originally, spriting was used in older gaming consoles. Due to hardware limitations, the number of unique colors that a sprite could have was quite low. For example, on the gameboy advance sprites only had 16 colors to work with and usually one of those colors has to be used as a transparent channel. As such, this sort of minimalism informs many of the design choices for spriting.
@@ -53,7 +55,7 @@ While we don't have to deal with these constraints, we should still keep the spi
 Speaking of skin colors, we should create some presets for different skin tones and share them amongst each other. This helps to keep some consistency between sprites.
 
 
-Small and Large Sprites
+# Small and Large Sprites
 ---
 
 Depending on the scale of the sprite, there are different approaches.
@@ -77,8 +79,9 @@ Zoomed in:
 
 Bigger sprites usually refer to character portraits.
 
+(Under construction)
 
-Anti-Aliasing
+# Anti-Aliasing
 ---
 
 Naturally, pixel art tends to be jagged looking on it's own. Anti-aliasing is a technique that softens those jagged edges. This involves making color gradients between different colors along the edges of places where two colors meet.
@@ -102,3 +105,5 @@ Zoomed in:
 ![[antialiaslinebig.png]]
 
 Here you can see non anti-aliased graphics on the left and anti-aliased on the right. 
+
+To-Do
