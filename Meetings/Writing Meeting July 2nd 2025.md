@@ -17,5 +17,7 @@ meeting date: July 2nd 2025
 |Intro--------------|Act1----------------|Act2------------------|Act3-----------------|Climax/Twist/Change/(whatever we want!)------------------|Act4----------------|End---------------|
 
 # Recording
-
+https://www.youtube.com/watch?v=31KCv7-uJXQ
 # Live Notes
+- Fog meeting and worldbuilding
+- Next meeting we get into the leaves!
