@@ -7,7 +7,6 @@ kanban-plugin: board
 ## To do
 
 - [ ] Test Card Artist #Fast @{2025-07-06}
-- [ ] Test Card Artist #Fast @{2025-07-06}
 
 
 ## In Progress
@@ -18,6 +17,7 @@ kanban-plugin: board
 ## Complete
 
 - [ ] Dummy Card #Fast #ASAP @{2025-06-25} : Corina
+- [ ] Test Card Artist #Fast @{2025-07-02} : Connie
 
 
 ## misc
