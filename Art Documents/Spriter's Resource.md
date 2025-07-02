@@ -1,3 +1,5 @@
+
+
 *Author: Michael Serravalle
 
 Here, I will outline some tips, tricks and tools for pixel art. In some circles, the act of creating pixel art is called spriting. I will be using that term going forward.
