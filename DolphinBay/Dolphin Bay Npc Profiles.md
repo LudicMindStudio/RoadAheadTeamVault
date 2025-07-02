@@ -48,7 +48,7 @@ These characters can be removed completely or we can extract parts of them to ma
 	Distant from the other kids. Seen staring off into the ocean. Quiet
 	[[Grandma and Grandson|Story]] about comforting a boy who lost his parents
 	To put on another page:
-	- Oliver. prefers being alone. spends a lot a of time sitting on bench staring off into the ocean. Will change spot but will be doing the same. Open to talking but will keep his answers short. 
+	- Oliver. prefers being alone. spends a lot a of time sitting on a bench staring off into the ocean. Will change spot but will be doing the same. Open to talking but will keep his answers short. 
 	-Description for art team:
 	- longish dark hair and dark eyes
 	- cap
