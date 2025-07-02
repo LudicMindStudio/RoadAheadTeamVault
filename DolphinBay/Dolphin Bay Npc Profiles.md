@@ -53,6 +53,7 @@ These characters can be removed completely or we can extract parts of them to ma
 	- longish dark hair and dark eyes
 	- cap
 	- dark blue t-shirt
+	
 **[[Old Sailor Garp]]** DESCRIPTION DONE
 	Misses the prefog times when sailing was so much simpler. Is being forced away from his passion by the world. Can use some encouragement. Is looking to assemble a new crew to join him.
 	
@@ -64,6 +65,7 @@ These characters can be removed completely or we can extract parts of them to ma
 		- Luscious white hair
 		- Colorful clothing
 		- faint reassuring smile 
+		
 **Mysterious Man**
 	A fully fledged jaded member of dolphin bay. Stuck reminiscing and pessimistic about the future compared to the past. Sounds wise but really is just using his age to reinforce his beliefs. 
 **Francois Hustle**
@@ -73,6 +75,7 @@ These characters can be removed completely or we can extract parts of them to ma
 	Overrun by the warped truth of the protests. Their sense of truth has broken down leading to their protest involvment.
 **Doran**
 	Fearmonger. Turns to fearing the most out of any situation. Scaredy cat
+	
 **Gatz**
 	Lost Activist. Wants to make a change and do something. Jumps on the protests boat to find something to do.
 **Meditative guild Member**
