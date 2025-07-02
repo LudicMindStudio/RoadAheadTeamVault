@@ -7,11 +7,11 @@ kanban-plugin: board
 ## To do
 
 - [ ] Test Card Artist #Fast @{2025-07-06}
-- [ ] Concept art Different houses Dolphin Bay #Medium @{2025-07-11}
+- [ ] Concept art Different houses Dolphin Bay (at least 3 choices) #Medium @{2025-07-11}
 - [ ] Concept Art Mailmen Uniform (at least 4 choices) #Medium @{2025-07-11}
 - [ ] Concept art different attires villagers Dolphin Bay #Medium @{2025-07-11}
-- [ ] NPC Character Concept Art **[[Old Sailor Garp]]** #Medium
-- [ ] NPC Character Concept Art **[[Stranded Visitor]]** #Medium
+- [ ] NPC Character Concept Art **[[Old Sailor Garp]]** #Medium @{2025-07-18}
+- [ ] NPC Character Concept Art **[[Stranded Visitor]]** #Medium @{2025-07-18}
 
 
 ## In Progress
@@ -30,8 +30,8 @@ kanban-plugin: board
 - [ ] Meeting: Settle on a uniform character asset design
 - [ ] Meeting: Settle on a uniform character head design
 - [ ] NPC Character Sprite **[[Tullia]]** #Challenging
-- [ ] Check out how animations work @{2025-06-30} : Corina
 - [ ] Learn to use Excalidraw
+- [ ] Check out how animations work @{2025-06-30} : Corina
 
 
 
