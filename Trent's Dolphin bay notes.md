@@ -28,3 +28,33 @@ Francois hustle really loves dolphins. why would he start such a fuss if he didn
 
 # Events
 
+- Initial interaction with the protesters
+	- the player knows nothing about them and neither does lakshmi
+	- the interaction should leave the players with the following impresions:
+		- They are loud
+		- They are angry
+		- The townsfolk are still unsure about the cause
+		- Its unclear how true the claims 
+		- The dolphin sanctuary is worth investigating
+
+- Interactions with The sanctuary
+	- They are confused and generally not great at defending themselves
+	- Overwhelmed and overworked with their job; actually worrying and trying to help the dolphins
+- Interactions with other npcs
+	- They have their two sense to give
+
+
+ACT 2
+
+- Starts when lakshmi finds a piece of information
+	- This can be info about francois or insight from the kids
+- The protesters are building momentum and about to cause an irreversible disaster on the town. they are bulding pressure to put the time on lakshmi
+
+ACT 3
+- Once lakshmi has gained enough info, she needs to gather confidence.
+	- Not sure how to implement this yet TODO
+	- maybe techniques from the memories?
+- Before the disaster strikes she does a speech and changes the minds of the towns folks
+
+Epilogue
+ - Establish the relationship between the protests gained power and the dolphin sanctuary employees
