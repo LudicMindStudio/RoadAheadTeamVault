@@ -6,8 +6,8 @@ kanban-plugin: board
 
 ## To do
 
-- [ ] Test Card Artist #Fast @{2025-07-04}
-- [ ] Test Card Artist #Fast @{2025-07-04}
+- [ ] Test Card Artist #Fast @{2025-07-06}
+- [ ] Test Card Artist #Fast @{2025-07-06}
 
 
 ## In Progress
