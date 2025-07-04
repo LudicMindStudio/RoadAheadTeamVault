@@ -187,17 +187,17 @@
       }
     },
     {
-      "type": "finetip",
+      "type": "default",
       "freedrawOnly": false,
-      "strokeColor": "#3E6F8D",
+      "strokeColor": "#a79d2f",
       "backgroundColor": "transparent",
       "fillStyle": "hachure",
-      "strokeWidth": 0.5,
-      "roughness": 0,
+      "strokeWidth": 3.5,
+      "roughness": null,
       "penOptions": {
         "highlighter": false,
         "hasOutline": false,
-        "outlineWidth": 1,
+        "outlineWidth": 0,
         "constantPressure": true,
         "options": {
           "smoothing": 0.4,
@@ -435,7 +435,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 0,
+  "numberOfCustomPens": 3,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfFrame": false,
