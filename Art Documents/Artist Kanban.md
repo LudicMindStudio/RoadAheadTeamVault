@@ -18,7 +18,7 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Example of Feedback for art @{2025-07-04} : Corina
+- [ ] [[Example of Feedback]] for art @{2025-07-04} : Corina
 - [ ] #Exercise Copy [[this]] character design in pixel art using [[Spriter's Resource]] : Corina #Challenging @{2025-07-11}
 
 
