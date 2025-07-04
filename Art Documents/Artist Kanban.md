@@ -19,13 +19,13 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] [[Example of Feedback]] for art @{2025-07-04} : Corina
-- [ ] #Exercise Copy [[this]] character design in pixel art using [[Spriter's Resource]] : Corina #Challenging @{2025-07-11}
 
 
 ## Complete
 
-- [ ] Dummy Card #Fast #ASAP @{2025-06-25} : Corina
+- [x] Dummy Card #Fast #ASAP @{2025-06-25} : Corina
 - [x] Test Card Artist #Fast @{2025-07-02} : Connie
+- [x] #Exercise Copy [[this]] character design in pixel art using [[Spriter's Resource]] : Corina #Challenging @{2025-07-11}
 
 
 ## misc
