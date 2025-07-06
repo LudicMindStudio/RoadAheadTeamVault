@@ -3,3 +3,8 @@
 		- Wears a hat (unsure if he has hair under there or not)
 		- brown eyes
 		- Wears overalls
+
+
+![[garpsketches.jpg]]
+
+I did some rough sketches -Michael

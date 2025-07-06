@@ -12,13 +12,13 @@ kanban-plugin: board
 - [ ] Concept art Different houses Dolphin Bay (at least 3 choices) #Medium @{2025-07-11}
 - [ ] Concept Art Mailmen Uniform (at least 4 choices) #Medium @{2025-07-11}
 - [ ] Concept art different attires villagers Dolphin Bay #Medium @{2025-07-11}
-- [ ] NPC Character Concept Art **[[Old Sailor Garp]]** #Medium @{2025-07-18}
 - [ ] NPC Character Concept Art **[[Stranded Visitor]]** #Medium @{2025-07-18}
 
 
 ## In Progress
 
 - [ ] [[Example of Feedback]] for art @{2025-07-04} : Corina
+- [ ] NPC Character Concept Art **[[Old Sailor Garp]]** #Medium @{2025-07-18} : Michael
 
 
 ## Complete
