@@ -17,11 +17,18 @@ These characters can be removed completely or we can extract parts of them to ma
 
 *Todo: Make a page for each of these NPCs*
 
-**Experienced Guild Member**
-	Tries to help Lakshmi. Energetic. Quick tips guy
-**[[Stranded Visitor]]**
-	 Came to visit a friend in dolphin bay. now has to return but is afraid of the fog.
-	 
+**[[Experienced Guild Member]]**
+Tries to help Lakshmi. Energetic. Quick tips guy
+- [ ] Description
+- [ ] Drawing
+- [ ] Dialogue
+
+**[[Stranded Visitor (Felix)]]**
+Came to visit a friend in dolphin bay. now has to return but is afraid of the fog.
+- [ ] Description
+- [ ] Drawing
+- [ ] Dialogue
+
 **[[Little Girl 1 (Cat)]]**
 - [x] Description
 - [x] Drawing
@@ -37,7 +44,7 @@ These characters can be removed completely or we can extract parts of them to ma
 - [ ] Drawing
 - [ ] Dialogue
 
-**Little Boy 2**
+**Little Boy 2 (Leo)**
 	Distant from the other kids. Seen staring off into the ocean. Quiet
 	[[Grandma and Grandson|Story]] about comforting a boy who lost his parents
 	To put on another page:
@@ -47,6 +54,9 @@ These characters can be removed completely or we can extract parts of them to ma
 	- cap
 	- dark blue t-shirt
 	
+**[[Little Boy 3 (Elio)]]**
+
+
 **[[Old Sailor Garp]]** DESCRIPTION DONE
 	Misses the prefog times when sailing was so much simpler. Is being forced away from his passion by the world. Can use some encouragement. Is looking to assemble a new crew to join him.
 	
