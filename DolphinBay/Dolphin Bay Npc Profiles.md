@@ -55,7 +55,9 @@ Came to visit a friend in dolphin bay. now has to return but is afraid of the fo
 	- dark blue t-shirt
 	
 **[[Little Boy 3 (Elio)]]**
-
+- [ ] Description
+- [ ] Drawing
+- [ ] Dialogue
 
 **[[Old Sailor Garp]]** DESCRIPTION DONE
 	Misses the prefog times when sailing was so much simpler. Is being forced away from his passion by the world. Can use some encouragement. Is looking to assemble a new crew to join him.
