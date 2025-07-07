@@ -27,12 +27,12 @@ These characters can be removed completely or we can extract parts of them to ma
 - [x] Drawing
 - [ ] Dialogue
 
-**[[Tullia]]**
+**[[Little Girl 2 (Tullia)]]**
 - [x] Description
 - [x] Drawing
 - [ ] Dialogue
 
-**[[Little Boy 1 (Elio)]]**
+**[[Little Boy 1 (Sammy)]]**
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue

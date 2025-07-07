@@ -32,7 +32,7 @@ kanban-plugin: board
 
 - [ ] Meeting: Settle on a uniform character asset design
 - [ ] Meeting: Settle on a uniform character head design
-- [ ] NPC Character Sprite **[[Tullia]]** #Challenging
+- [ ] NPC Character Sprite **[[Little Girl 2 (Tullia)]]** #Challenging
 - [ ] Learn to use Excalidraw
 - [ ] Check out how animations work @{2025-06-30} : Corina
 
