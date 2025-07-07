@@ -23,7 +23,7 @@ These characters can be removed completely or we can extract parts of them to ma
 	Tries to help Lakshmi. Energetic. Quick tips guy
 **[[Stranded Visitor]]**
 	 Came to visit a friend in dolphin bay. now has to return but is afraid of the fog.
-**Little Girl 1**
+**[[Little Girl 1]]**
 	Loves animals and playing games. The leader amongst the dolphin bay kids
 	To put on another page: 
 	- Cat (short for Caterina) Everyone calls her Cat because she can be soft and kind but when needed she can be fierce. That's why she's the leader. Cat has grown up hearing stories about the ocean as her father is a sailor. She developed a love for animals and has been actively working to protect the wildlife around Dolphin Bay. She appreciates the beauty and complexity of all creatures (big or small)
