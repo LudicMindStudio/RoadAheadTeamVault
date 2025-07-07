@@ -18,13 +18,11 @@ These characters can be removed completely or we can extract parts of them to ma
 *Todo: Make a page for each of these NPCs*
 
 **[[Experienced Guild Member]]**
-Tries to help Lakshmi. Energetic. Quick tips guy
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue
 
 **[[Stranded Visitor (Felix)]]**
-Came to visit a friend in dolphin bay. now has to return but is afraid of the fog.
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue
@@ -83,27 +81,21 @@ Came to visit a friend in dolphin bay. now has to return but is afraid of the fo
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue 
-	Fearmonger. Turns to fearing the most out of any situation. Scaredy cat
+
 **[[Gatz]]**
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue 
-	Lost Activist. Wants to make a change and do something. Jumps on the protests boat to find something to do.
 	
 **[[Meditative guild Member]]**
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue 
-	Takes their education very seriously. Fact checker, deeper lore insights guy
 	
-**[[Guild Receptionist]]**
+**[[Guild Receptionist (Robert)]]**
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue 
-	Chatty and friendly. Laid back and knows how to make jokes of any situation.
-	- Robert. 
-
-
 ## Questions about NPC Relationships
 Each NPC has opinions on the town (and on the state of things).
 
