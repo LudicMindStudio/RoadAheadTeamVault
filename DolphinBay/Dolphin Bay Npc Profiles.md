@@ -15,35 +15,28 @@ The demo version of the game has a bunch of npcs with very basic one liners. The
 
 These characters can be removed completely or we can extract parts of them to make something new.
 
-
 *Todo: Make a page for each of these NPCs*
-
 
 **Experienced Guild Member**
 	Tries to help Lakshmi. Energetic. Quick tips guy
 **[[Stranded Visitor]]**
 	 Came to visit a friend in dolphin bay. now has to return but is afraid of the fog.
-**[[Little Girl 1]]**
-	Loves animals and playing games. The leader amongst the dolphin bay kids
-	To put on another page: 
-	- Cat (short for Caterina) Everyone calls her Cat because she can be soft and kind but when needed she can be fierce. That's why she's the leader. Cat has grown up hearing stories about the ocean as her father is a sailor. She developed a love for animals and has been actively working to protect the wildlife around Dolphin Bay. She appreciates the beauty and complexity of all creatures (big or small)
-	- Description for art team:
-		- she has thick red hair
-		- brown eyes
-		- bandana in her hair
-		- tank top and shorts
+	 
+**[[Little Girl 1 (Cat)]]**
+- [x] Description
+- [x] Drawing
+- [ ] Dialogue
+
 **[[Tullia]]**
-	Loves animals. More aloof. Curious
-	To put on another page:
-	- Tullia (mean shy is romanian) Follows Cat around. Stays behind her during interactions with other characters. Does not talk much to Lakshmi as she is rather shy but is curious as to what Lakshmi is up to. 
-	- Description for art team:
-	- long braided hair
-	- dark eyes
-	- white t-shirt
-**Little Boy 1**
-	Loves animals. Aloof. A show off
-	To put on another page:
-	- Elio. 
+- [x] Description
+- [x] Drawing
+- [ ] Dialogue
+
+**[[Little Boy 1 (Elio)]]**
+- [ ] Description
+- [ ] Drawing
+- [ ] Dialogue
+
 **Little Boy 2**
 	Distant from the other kids. Seen staring off into the ocean. Quiet
 	[[Grandma and Grandson|Story]] about comforting a boy who lost his parents
