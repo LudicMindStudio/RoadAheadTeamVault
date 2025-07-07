@@ -44,16 +44,11 @@ Came to visit a friend in dolphin bay. now has to return but is afraid of the fo
 - [ ] Drawing
 - [ ] Dialogue
 
-**[[Little Boy 2 (Leo)]]**
-	Distant from the other kids. Seen staring off into the ocean. Quiet
-	[[Grandma and Grandson|Story]] about comforting a boy who lost his parents
-	To put on another page:
-	- Oliver. prefers being alone. spends a lot a of time sitting on a bench staring off into the ocean. Will change spot but will be doing the same. Open to talking but will keep his answers short. 
-	-Description for art team:
-	- longish dark hair and dark eyes
-	- cap
-	- dark blue t-shirt
-	
+**[[Little Boy 2 (Oliver)]]**
+- [x] Description
+- [ ] Drawing
+- [ ] Dialogue
+
 **[[Little Boy 3 (Elio)]]**
 - [x] Description
 - [ ] Drawing
@@ -69,22 +64,42 @@ Came to visit a friend in dolphin bay. now has to return but is afraid of the fo
 - [ ] Drawing
 - [ ] Dialogue 
 		
-**Mysterious Man**
-	A fully fledged jaded member of dolphin bay. Stuck reminiscing and pessimistic about the future compared to the past. Sounds wise but really is just using his age to reinforce his beliefs. 
-**Francois Hustle**
-	Protest Leader. Angry that the dolphins are no longer in dolphin bay. Was a large sponsor in the dolphin programs in the town. Always enjoyed watching them from afar. Now he feels betrayed and that his wealth was misused. Was never actually close to the dolphins, but loved them from a distance.
+**[[Mysterious Man]]**
+- [ ] Description
+- [ ] Drawing
+- [ ] Dialogue 
+
+**[[Francois Hustle]]**
+- [ ] Description
+- [ ] Drawing
+- [ ] Dialogue 	
 	
-**Camie**
-	Overrun by the warped truth of the protests. Their sense of truth has broken down leading to their protest involvment.
-**Doran**
+**[[Camie]]**
+- [ ] Description
+- [ ] Drawing
+- [ ] Dialogue 	
+
+**[[Doran]]**
+- [ ] Description
+- [ ] Drawing
+- [ ] Dialogue 
 	Fearmonger. Turns to fearing the most out of any situation. Scaredy cat
-**Gatz**
+**[[Gatz]]**
+- [ ] Description
+- [ ] Drawing
+- [ ] Dialogue 
 	Lost Activist. Wants to make a change and do something. Jumps on the protests boat to find something to do.
 	
-**Meditative guild Member**
+**[[Meditative guild Member]]**
+- [ ] Description
+- [ ] Drawing
+- [ ] Dialogue 
 	Takes their education very seriously. Fact checker, deeper lore insights guy
 	
-**Guild Receptionist**
+**[[Guild Receptionist]]**
+- [ ] Description
+- [ ] Drawing
+- [ ] Dialogue 
 	Chatty and friendly. Laid back and knows how to make jokes of any situation.
 	- Robert. 
 
