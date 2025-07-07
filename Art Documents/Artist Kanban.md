@@ -12,27 +12,27 @@ kanban-plugin: board
 - [ ] Concept art Different houses Dolphin Bay (at least 3 choices) #Medium @{2025-07-11}
 - [ ] Concept Art Mailmen Uniform (at least 4 choices) #Medium @{2025-07-11}
 - [ ] Concept art different attires villagers Dolphin Bay #Medium @{2025-07-11}
-- [ ] NPC Character Concept Art **[[Old Sailor Garp]]** #Medium @{2025-07-18}
-- [ ] NPC Character Concept Art **[[Stranded Visitor]]** #Medium @{2025-07-18}
+- [ ] NPC Character Concept Art **[[Stranded Visitor (Felix)]]** #Medium @{2025-07-18}
 
 
 ## In Progress
 
-- [ ] Example of Feedback for art @{2025-07-04} : Corina
-- [ ] #Exercise Copy [[this]] character design in pixel art using [[Spriter's Resource]] : Corina #Challenging @{2025-07-11}
+- [ ] [[Example of Feedback]] for art @{2025-07-04} : Corina
+- [ ] NPC Character Concept Art **[[Old Sailor Garp]]** #Medium @{2025-07-18} : Michael
 
 
 ## Complete
 
-- [ ] Dummy Card #Fast #ASAP @{2025-06-25} : Corina
-- [ ] Test Card Artist #Fast @{2025-07-02} : Connie
+- [x] Dummy Card #Fast #ASAP @{2025-06-25} : Corina
+- [x] Test Card Artist #Fast @{2025-07-02} : Connie
+- [x] #Exercise Copy [[this]] character design in pixel art using [[Spriter's Resource]] : Corina #Challenging @{2025-07-11}
 
 
 ## misc
 
 - [ ] Meeting: Settle on a uniform character asset design
 - [ ] Meeting: Settle on a uniform character head design
-- [ ] NPC Character Sprite **[[Tullia]]** #Challenging
+- [ ] NPC Character Sprite **[[Little Girl 2 (Tullia)]]** #Challenging
 - [ ] Learn to use Excalidraw
 - [ ] Check out how animations work @{2025-06-30} : Corina
 
