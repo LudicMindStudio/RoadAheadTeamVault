@@ -18,7 +18,7 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] [[Example of Feedback]] for art @{2025-07-04} : Corina
-- [ ] NPC Character Concept Art **[[Old Sailor Garp]]** #Medium @{2025-07-18} : Michael
+- [ ] NPC Character Concept Art **[[Old Sailor Garp 1]]** #Medium @{2025-07-18} : Michael
 
 
 ## Complete
