@@ -16,6 +16,8 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] NPC Character Concept Art **[[Old Sailor Garp 1]]** #Medium @{2025-07-18} : Michael
+- [ ] 
+- [ ] Basic indoor tileset: grass #Medium @{2025-07-14} : Corina
 
 
 ## Complete
