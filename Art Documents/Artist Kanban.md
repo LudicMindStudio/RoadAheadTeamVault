@@ -9,7 +9,7 @@ kanban-plugin: board
 - [ ] Test Card Artist #Fast @{2025-07-06}
 - [ ] Lakshmi Sprite 32x64 (walking cycle, facing up, down and sides) (example but can change it) [[Art Documents/Lakshmi sprite.png]] please refer to the original concept art by Michael  #Challenging @{2025-07-16}
 - [ ] Grandpa Dan sprite 32x64 (walking cycle, facing up, down and sides) please refer to the concept art by Michael #Challenging  @{2025-07-16}
-- [ ] Basic outdoor tileset #Medium @{2025-07-14}
+- [ ] Basic outdoor tileset : house tileset #Medium @{2025-07-14}
 - [ ] Basic indoor tileset #Medium @{2025-07-14}
 
 
