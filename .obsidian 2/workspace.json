@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "94b077371e2bb5f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3b9b4052d4d55c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c603629d9d193065",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DolphinBay/Dolphin Bay Npc Profiles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dolphin Bay Npc Profiles"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1286a7aff88bd77e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d9675fd57801d2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bba36156e21a7615",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "312e0237b155d1cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Apperance",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f2fa42ab38762b42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "349b10f99f11be1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "18985e9770bd7d1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a3e5fa82f5f09e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "General/Main Story (Lakshmi's) Loose Brainstorming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Main Story (Lakshmi's) Loose Brainstorming"
+            }
+          },
+          {
+            "id": "9075f4f3362650a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "General/Main Story (Lakshmi's) Loose Brainstorming.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Main Story (Lakshmi's) Loose Brainstorming"
+            }
+          },
+          {
+            "id": "17511305581fbd28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cf8796710c83c242",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "General/Main Story (Lakshmi's) Loose Brainstorming.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Main Story (Lakshmi's) Loose Brainstorming"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "c603629d9d193065",
+  "lastOpenFiles": [
+    "Old Sailor Garp.md",
+    "DolphinBay/Dolphin Bay Npc Profiles.md",
+    "Little Boy 1 (Sammy).md",
+    "Meditative guild Member.md",
+    "Experienced Guild Member.md",
+    "DolphinBay/Stranded Visitor (Felix).md",
+    "Guild Receptionist (Robert).md",
+    "General/Lore Overview.md",
+    "General/Corina.md",
+    "General/Arkana.md",
+    "General/Anaïs.md",
+    "DolphinBay/Fillip's story notes.md",
+    "DolphinBay/Dolphin Bay Story.md",
+    "DolphinBay/Old Sailor Garp.md",
+    "DolphinBay/StradedVisitorInitialDialogue.md",
+    "DolphinBay/What is Dolphin Bay_.md",
+    "Art Documents/Artist Kanban.md",
+    "this.md",
+    "Gatz.md",
+    "Doran.md",
+    "Camie.md",
+    "Francois Hustle.md",
+    "DolphinBay/Dolphin Bay Npc behaviours.md",
+    "Mysterious Man.md",
+    "Old Granny (Lisa).md",
+    "Little Boy 2 (Oliver).md",
+    "Art Documents/Tullia_ConceptArt.jpeg",
+    "Art Documents/Tilemap2.png",
+    "Art Documents/Lakshmi + Dan.png",
+    "Memories/Memories Graph.canvas",
+    "Meetings/desktop.ini",
+    "Meetings",
+    "DolphinBay/Dolphin Bay Graph.canvas",
+    "Art Documents/Images/2024-11-22 Zero Dark matter.png",
+    "Art Documents/Images/antialiasingcircles.png",
+    "Art Documents/Images/antialiasingcirclesbig.png",
+    "Art Documents/Images/antialiasline.png",
+    "Art Documents/Images/antialiaslinebig.png",
+    "Art Documents/Images/CustomSamples.png",
+    "Art Documents/Images/FESample.png",
+    "General/desktop.ini",
+    "General",
+    "Writing Documents/desktop.ini",
+    "Writing Documents"
+  ]
+}
