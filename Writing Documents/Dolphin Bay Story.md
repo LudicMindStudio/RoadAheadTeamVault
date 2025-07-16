@@ -82,10 +82,13 @@ This is the first time the player will see Dolphin bay but it will be notably em
 
 ### Dialogue
 - [[Mysterious Man#Dialogue1]]
+- 
 
 ---
 **Scene 2 - The pop quiz**
 ### Synopsis
+
+- 
 
 ### Dialogue
 
