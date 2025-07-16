@@ -87,9 +87,10 @@ This is the first time the player will see Dolphin bay but it will be notably em
 ---
 **Scene 2 - The pop quiz**
 ### Synopsis
-
+- Laksihmi is anxious and scrammbleing due to oversleeping and the comment that grandpa dan made. despite this shes still confident and the pressure gives her more excitement to do her best and prove herself.
+- She makes small talk with the other members but because of the atmosphere the conversations are short and generally ominously enocouraging towards Lakshmi. Lakshmi stays focused on finding greg
+- Once Lakshmi finds Greg shes tries to play off that she wasnt that late and hopes that Greg doesnt find anything to scold.
 - 
-
 ### Dialogue
 
 
