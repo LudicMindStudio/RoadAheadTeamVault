@@ -107,7 +107,7 @@ NPC realtions with each other?
 - Friends
 - Work peers
 
-### Connecting NPC personal storylines to the [[Dolphin Bay Story]]
+### Connecting NPC personal storylines to the [[DolphinBay/Dolphin Bay Story]]
 
 How a npc changes with time and the interactions of the player.
 - Should their positive disposition become negative?

@@ -14,7 +14,7 @@ tags:
 ## Writing Tasks
 
 - [ ] [[Dolphin Bay Npc Profiles]]
-- [ ] [[Dolphin Bay Story]]
+- [ ] [[DolphinBay/Dolphin Bay Story]]
 - [ ] [[Solidify Dolphin Bay's Story]]
 - [ ] [[Flesh out the NPCs in Filips story]]
 
