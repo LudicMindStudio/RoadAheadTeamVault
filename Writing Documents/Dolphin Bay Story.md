@@ -13,15 +13,15 @@ Other then in the prologue, the player has no idea about anything. Lakshmi shoul
 Her tone is optimistic but experience-less. She asks a lot of questions but when she thinks she knows something, shes confident about it. She's empathetic but unable to correctly express herself. Lakshmi doesn't innately seem to have any drive other then to graduate and become a postal worker. As a youth, she is a blank slate.
 
 
-**Grandpa Dan**
+**[[Grandpa Dan]]**
 Grandpa Dan is introduced as comedic more then anything. his bumbling in his role as Lakshmi's model should be obvious. As a former guild member and self serious person, he has a strong ego that seeps into all of his dialogue. He deeply cares about Lakshmi though and uses his free time as a retiree often for her. Grandpa Dan can be seen supporting Lakshmi in semi circuitous ways to reflect these conflicting feeling at this point
 
 With the graduation of Lakshmi approaching, Grandpa Dan knows that soon he will have less time with her. His dwindling time to be sincere with Lakshmi is boiling into his character and usual actions until the moment she leaves.
 
-**Greg**
+**[[Greg]]**
 Greg is the more obvious model for Lakshmi in this moment. As the leader of the postal guild, he acts as the goal Lakshmi is chasing. Also in contrast to Grandpa, Greg is much more prepared for Lakshmi's graduation. His high hopes for Lakshmi stray close to expectations as he continues to guide Lakshmi in her early steps as a guild member. At this point in the story Greg is perfect, a guide who has all the answers.
 
-**Francois Hustle**
+**[[Francois Hustle]]**
 Francois is at his worst. He is fully being pulled around by his psychosis in a destructive way. He has seen the "success" in raising the numbers of his movement and sees the decline of the dolphins as more fuel for his cause. He's internalised the dogmatic thinking that the sanctuary is the villain. He's actively trying to spread his negative and destructive mindset and can openly be seen doing so.
 
 ## Scenes
