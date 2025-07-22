@@ -9,15 +9,15 @@ kanban-plugin: board
 - [ ] Test Card Artist #Fast @{2025-07-06}
 - [ ] Lakshmi Sprite 32x64 (walking cycle, facing up, down and sides) (example but can change it) [[Art Documents/Lakshmi sprite.png]] please refer to the original concept art by Michael  #Challenging @{2025-07-16}
 - [ ] Grandpa Dan sprite 32x64 (walking cycle, facing up, down and sides) please refer to the concept art by Michael #Challenging  @{2025-07-16}
-- [ ] Basic outdoor tileset : house tileset #Medium @{2025-07-14}
-- [ ] Basic indoor tileset #Medium @{2025-07-14}
+- [ ] Basic indoor tileset: grass #Medium @{2025-07-18}
+- [ ] Basic indoor tileset #Medium @{2025-07-18}
 
 
 ## In Progress
 
 - [ ] NPC Character Concept Art **[[Old Sailor Garp 1]]** #Medium @{2025-07-18} : Michael
 - [ ] 
-- [ ] Basic indoor tileset: grass #Medium @{2025-07-14} : Corina
+- [ ] Basic outdoor tileset : house tileset #Medium @{2025-07-18}: Corina
 
 
 ## Complete
@@ -45,6 +45,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false],"tag-colors":[{"tagKey":"#Fast","color":"rgba(255, 255, 255, 1)","backgroundColor":"rgba(17, 171, 42, 1)"},{"tagKey":"#Medium","color":"rgba(255, 255, 255, 1)","backgroundColor":"rgba(200, 155, 21, 1)"},{"tagKey":"#Challenging","color":"rgba(255, 255, 255, 1)","backgroundColor":"rgba(175, 22, 155, 1)"},{"tagKey":"#ASAP","color":"rgba(0, 0, 0, 1)","backgroundColor":"rgba(221, 22, 22, 1)"},{"tagKey":"#Exercise","color":"","backgroundColor":"rgba(255, 245, 0, 1)"}],"new-note-template":"Templates/ArtistKanban card Template.md"}
+{"kanban-plugin":"board","list-collapse":[false,false,false,true],"tag-colors":[{"tagKey":"#Fast","color":"rgba(255, 255, 255, 1)","backgroundColor":"rgba(17, 171, 42, 1)"},{"tagKey":"#Medium","color":"rgba(255, 255, 255, 1)","backgroundColor":"rgba(200, 155, 21, 1)"},{"tagKey":"#Challenging","color":"rgba(255, 255, 255, 1)","backgroundColor":"rgba(175, 22, 155, 1)"},{"tagKey":"#ASAP","color":"rgba(0, 0, 0, 1)","backgroundColor":"rgba(221, 22, 22, 1)"},{"tagKey":"#Exercise","color":"","backgroundColor":"rgba(255, 245, 0, 1)"}],"new-note-template":"Templates/ArtistKanban card Template.md"}
 ```
 %%
