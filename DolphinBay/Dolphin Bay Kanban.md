@@ -14,9 +14,8 @@ tags:
 ## Writing Tasks
 
 - [ ] [[Dolphin Bay Npc Profiles]]
-- [ ] [[DolphinBay/Dolphin Bay Story]]
-- [ ] [[Solidify Dolphin Bay's Story]]
-- [ ] [[Flesh out the NPCs in Filips story]]
+- [ ] [[Dolphin Bay Story]]
+- [ ] [[Dolphin Bay Locations]]
 
 
 ## Art Tasks
@@ -29,10 +28,15 @@ tags:
 - [ ] [[Dolphin Bay Npc behaviours]]
 
 
+## Done
+
+- [x] [[Solidify Dolphin Bay's Story]]
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false],"move-tags":true}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"move-tags":true}
 ```
 %%
