@@ -1,4 +1,4 @@
-When designing maps heres some inspiration for games:
+When designing maps heres some inspiration for games: [[Map Inspiration]]
 
 Dolphin bay is a small coastal town inhabiting a small semi tropical bay that's shaped like a dolphin. 
 
@@ -14,13 +14,17 @@ Dolphin bay is a small coastal town inhabiting a small semi tropical bay that's 
 	- wildlife can be seen often
 - a hardy hilly forest is present beyond the beach layer of the bay
 	- Its sparse enough to run through but clearings are made to form paths within the forest.
-	- Most dwellings are located in the forest itself and not along the beach.
+	- Most dwellings are located in the forest itself and not along the beach.!
+
+![[dolphinbay_map.png]]
 ## Dolphin bay town square
 The city square is located around the tail-end of the dolphin, where the bay connects to the larger ocean. The town is cut into two halves split by the water leaving the bay. A small island with bridges connect the two halves.
 
 The town square is most recognisable by its fish market on the eastern side. On the western side, a few residences and an Inn can be found. Otherwise a few other shops and services can be found around the town. Most notably is the guild hall which is in the centre of the town on the bisecting island.
 
 The town square is well defined by the sea wall entrenched along the coast. The sea wall is made out of stone bricks and can be ascended by stairs at multiple points. Its a common spot for the locals to spend time and relax.  
+
+![[dolphinbay_town.png]]
 #### Buildings
 The decor of the town is bright and colourful. the buildings have thin walls and plenty of windows. most of the town has been paved with stones but plenty of space has been left for greenery. 
 
@@ -39,6 +43,7 @@ Along the shoreline of the centre island, the circumference of the island is sur
 
 ## Dolphin Sanctuary
 The Sanctuary is a bit outside the town but a small path goes right to it. The main sanctuary building is a large barn house like structure with half of it opening onto the water. There is a large line of buoys out in the water near the structure that signifies the boundaries of the sanctuary. On the land side of the sanctuary a similar boundary is made out of fences to keep some land animals safe.
-
+![[sancturary.png]]
 ## Greg's Chalet
 This is where Lakshmi lives and its a bit out of town. Its supposed to be a peaceful spot for Greg to spend his time outside of work (Greg is rarely there due to being a workaholic). The chalet is modestly sized and made of stacked logs. There is a small rocky step slope down to the waterfront with a small beach. otherwise the house has a view of the waterfront and is on a forested cliff side.
+![[greg's chalet.png]]
