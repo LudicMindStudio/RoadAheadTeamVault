@@ -7,7 +7,7 @@ created: 2025-06-13
 - [x] Assigned
 - [ ] Started
 - [ ] Done :)
- **Assigned**: Micheal, Nina
+ **Assigned**: Michael, Nina
 
 # Content
 

@@ -7,7 +7,7 @@ created: 2025-06-13
 - [x] Assigned
 - [ ] Started
 - [ ] Done :)
- **Assigned**: Micheal or anyone else willing
+ **Assigned**: Michael or anyone else willing
 
 # Content
 
