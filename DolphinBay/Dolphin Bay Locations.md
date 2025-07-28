@@ -41,6 +41,7 @@ Along the shoreline of the centre island, the circumference of the island is sur
 
 **Library**
 
+
 ## Dolphin Sanctuary
 The Sanctuary is a bit outside the town but a small path goes right to it. The main sanctuary building is a large barn house like structure with half of it opening onto the water. There is a large line of buoys out in the water near the structure that signifies the boundaries of the sanctuary. On the land side of the sanctuary a similar boundary is made out of fences to keep some land animals safe.
 ![[sancturary.png]]
