@@ -11,4 +11,6 @@ A fully fledged jaded member of dolphin bay. Stuck reminiscing and pessimistic a
 
 
 
-# Dialogue
+# Dialogues
+
+Dialogue 1
