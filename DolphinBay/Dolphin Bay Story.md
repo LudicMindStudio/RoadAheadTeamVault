@@ -54,7 +54,7 @@ Location: Lakshmi's house
 	"Grandpa Dan is that you?"
 *Grandpa Dan jumps, surprised*
 **Grandpa Dan**
-	"Ahhh! Lakshmi don't scare me like that! Why are you sneaking around like that?"
+	"Ahhh! Lakshmi don't scare me! Why are you sneaking around like that?"
 **Lakshmi**
 	"But you're the one who was sneaking in"
 **Grandpa Dan**
