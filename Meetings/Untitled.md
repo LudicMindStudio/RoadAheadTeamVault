@@ -51,6 +51,8 @@ Lets look at how out pipeline works. We just started so there's still a lot of m
 - RPGMaker demo focus groups
 - TRA/GAS gamer guidance
 - Game design meetings
+
+---
 # Recording
 
 # Live Notes
