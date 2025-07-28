@@ -16,6 +16,13 @@ Anything new?
 Any new thoughts on the project?
 
 ---
+**Conference**
+- Our project was loved! We had plenty of audience engagement!
+- Our vision and ambition was appreciated. Plenty of interest in our future.
+	- Fans who want to follow our progress!
+- Potential opportunity to get some studio experience
+- Anything I'm missing?
+---
 **Team Updates**
 - Our "pipeline" is finally starting to take shape!
 - A lot of education and role discovery has been taking place
@@ -37,11 +44,13 @@ Any new thoughts on the project?
 - Thoughts on the Development? Want me to work faster?
 ---
 **Short Demo**
-Lets look at how out pipeline works. We just started so theres still alot of missing pieces and kinks to fix@
+Lets look at how out pipeline works. We just started so there's still a lot of missing pieces and kinks to fix!
 
 ---
-
-
+**Other News**
+- RPGMaker demo focus groups
+- TRA/GAS gamer guidance
+- Game design meetings
 # Recording
 
 # Live Notes
