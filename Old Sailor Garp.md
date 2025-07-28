@@ -13,6 +13,8 @@ Cat's father. Remembers all the wildlife he would see prior to the fog. Says tha
   
 ![[garpsketches.jpg]]
   
-I did some rough sketches -Michael
+I did some rough sketches 
+Check the rough sketches in the arts documents for more concepts
+-Michael
 # Dialogue
 
