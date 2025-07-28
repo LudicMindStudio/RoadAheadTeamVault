@@ -1,8 +1,38 @@
+---
+created: 2025-07-27
+tags:
+  - Memories
+---
+
 **Premise: Liam faces the challenge of being himself and being accepted by his family.
 
-Context within the game:  Lakshmi meets Liam’s sister. Lakshmi notices that Liam’s sister lives alone and tells her that she likes it that way and that her brother lives as a single man. She then tells Liam’s story to Lakshmi.
+# Context
+Lakshmi meets Liam’s sister. Lakshmi notices that Liam’s sister lives alone and tells her that she likes it that way and that her brother lives as a single man. His sister is housetting and taking care of the cat while Liam is awar. She invites Lakshmi in for tea and if she would like to know how Liam became at peace being by himself. 
+# Characters
+Liam
+Liam #2
+Liam's father (Dad)
+Liam's mother (Mom)
+Liam's sister (young Liana)
+Liam's sister (older Liana)
+Grandma
+Cat (Poki)
+Old lady on the beach
+NPCs
+# Content
 
-ADD PHONE BEGINNING!!
+**Character 1**
+	_Dialogue_
+
+**Event**
+	Description
+
+**Character 2**
+	`If variable is true`
+		_Dialogue_
+
+
+Phone rings
 
 Grandmother (on the phone): Hey Liam! Did you pass your licensing exam?
 
