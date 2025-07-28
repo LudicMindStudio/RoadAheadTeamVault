@@ -48,3 +48,6 @@ The Sanctuary is a bit outside the town but a small path goes right to it. The m
 ## Greg's Chalet
 This is where Lakshmi lives and its a bit out of town. Its supposed to be a peaceful spot for Greg to spend his time outside of work (Greg is rarely there due to being a workaholic). The chalet is modestly sized and made of stacked logs. There is a small rocky step slope down to the waterfront with a small beach. otherwise the house has a view of the waterfront and is on a forested cliff side.
 ![[greg's chalet.png]]
+
+## Other Ideas
+- Could there a be location which used to be super popular to surf and that people used to see dolphins who would 

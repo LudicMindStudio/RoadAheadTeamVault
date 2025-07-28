@@ -91,7 +91,7 @@
   "experimentalFileTag": "✏️",
   "experimentalLivePreview": true,
   "fadeOutExcalidrawMarkup": false,
-  "loadPropertySuggestions": true,
+  "loadPropertySuggestions": false,
   "experimentalEnableFourthFont": false,
   "experimantalFourthFont": "Virgil",
   "addDummyTextElement": false,
@@ -187,17 +187,17 @@
       }
     },
     {
-      "type": "default",
+      "type": "finetip",
       "freedrawOnly": false,
-      "strokeColor": "#a79d2f",
+      "strokeColor": "#3E6F8D",
       "backgroundColor": "transparent",
       "fillStyle": "hachure",
-      "strokeWidth": 3.5,
-      "roughness": null,
+      "strokeWidth": 0.5,
+      "roughness": 0,
       "penOptions": {
         "highlighter": false,
         "hasOutline": false,
-        "outlineWidth": 0,
+        "outlineWidth": 1,
         "constantPressure": true,
         "options": {
           "smoothing": 0.4,
@@ -435,7 +435,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 3,
+  "numberOfCustomPens": 0,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfFrame": false,
