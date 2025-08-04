@@ -6,30 +6,27 @@ meeting date:
 # Agenda
 
 ---
-1. 
+1. Define vertical slice scope
+2. Sub team requirements
 
 ---
-**Conference**
-- Our project was loved! We had plenty of audience engagement!
-- Our vision and ambition was appreciated. Plenty of interest in our future.
-	- Fans who want to follow our progress!
-- Potential opportunity to get some studio experience
-- Anything I'm missing?
+**Vertical Slice**
+A vertical slice is a small section of a game that is pretty much "finished"
+- Many topics can be left unexplored. Main concepts for that section should be done, and importantly polished
+- What does a vertical slice of TRA look like?
 ---
-**Team Updates**
-- Our "pipeline" is finally starting to take shape!
-- A lot of education and role discovery has been taking place
-- Through note taking and obsidian, the project is getting an accessible foundation
----
+**Vertical Slice**
+- Main Story Act 1, Bubble Town Act 1
+- Dolphin Bay
+- Mail delivery
+- ---
 **Writing Team**
-- So many ideas have been written down (and linked to each other!)
-- Exploring Plot Writing vs Dialogue Writing vs Scene Writing vs Character Writing and more!
-- Thoughts on the growth of the games writing? new branches or things you want to get into?
+- Main story up till end of exam written out.
+- Appropriate dialogue lines for the NPCs of dolphin bay
+- Small bits of story and lore to be scattered about
 ---
 **Art Team**
-- Learning pixel art!
-- Learning various artistic techniques for games (tilemaps, palettes, animations)
-- Thoughts on the progress of the games Art? Are artists ok with all this learning (only more to come!)? 
+- Art assets for dolphin bay 
 ---
 **Dev Team**
 - A lot of code written and development accessibility created
