@@ -22,27 +22,36 @@ A vertical slice is a small section of a game that is pretty much "finished"
 - ---
 **Writing Team**
 - Main story up till end of exam written out.
-- Appropriate dialogue lines for the NPCs of dolphin bay
-- Small bits of story and lore to be scattered about
+- Appropriate dialogue lines for t he NPCs of dolphin bay
+- Detailed location descriptions
 ---
 **Art Team**
-- Art assets for dolphin bay 
+- Art assets for dolphin bay
+	- Town tileset, beach tileset, forested tileset, indoor tileset
+	- Buildings of dolphin bay
+	- Exterior decor
+	- Interior decor
+	- Npcs of dolphin bay
 ---
 **Dev Team**
-- A lot of code written and development accessibility created
-- Different options are being explored to better integrate the other teams work into the game/gameplay
-- Thoughts on the Development? Want me to work faster?
+- Mapping system
+- Eventing system
+- Behaviour system
+- Mail delivery system
+- Inventory system
+- Lakshmi's journal
+- Asset implementation
+- Game feel
 ---
-**Short Demo**
-Lets look at how out pipeline works. We just started so there's still a lot of missing pieces and kinks to fix!
+**Thoughts?**
+- Things you see here you want to do?
+- Things no one wants to do?
+- Workload concerns?
 
 ---
-**Other News**
-- RPGMaker demo focus groups
-- TRA/GAS gamer guidance
-- Game design meetings
-
+**Thanks**
 ---
+
 # Recording
 
 # Live Notes
