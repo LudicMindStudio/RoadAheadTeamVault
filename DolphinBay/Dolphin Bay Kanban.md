@@ -21,6 +21,7 @@ tags:
 ## Art Tasks
 
 - [ ] [[Dolphin Bay NPC Art]]
+- [ ] [[Slice Art]]
 
 
 ## Development Tasks
