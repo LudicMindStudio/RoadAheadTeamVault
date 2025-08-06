@@ -4,9 +4,10 @@ Tilesets
 ---
 
 - Interior
-- [ ] 
+
 
 - Exterior
+- [ ] Add walls to 
 - [ ] 
 
 Map Sprites
