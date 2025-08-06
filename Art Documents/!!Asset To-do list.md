@@ -1,5 +1,3 @@
-*under construction*
-
 
 Couple of notes:
 
@@ -15,7 +13,7 @@ Check the image below for reference:
 
 ![[The Legend of Zelda - The Minish Cap3.png]]
 
-- 
+- Let me know if you have any questions or need clarification.
 
 
 Interior
