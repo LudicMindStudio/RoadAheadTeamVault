@@ -1,4 +1,4 @@
-
+*under construction*
 
 Tilesets
 ---
@@ -12,16 +12,31 @@ Tilesets
 Map Sprites
 ---
 
-Exterior
+- Exterior
+ - [ ] 
 
-Interior
+
+- Interior
+ - [ ] 
+
 
 Character Art
 ---
 
+
+
+
 Map Sprites
 
+
+
+
+
 Portraits
+
+
+
+
 
 Ui
 ---
