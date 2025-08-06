@@ -3,17 +3,13 @@
 Tilesets
 ---
 
-interior
+- Interior
 
 | Name          | Assigned to | Status |
 | ------------- | ----------- | ------ |
 | Wooden floors |             |        |
 | Wooden stairs |             |        |
 
-
-- Interior
-- [ ] Wooden Floors
-- [ ] Wooden stairs
 
 - Exterior
 
@@ -29,10 +25,15 @@ interior
 Map Sprites
 ---
 
+- Interior
+
+
+
+
 - Exterior
 
 
-- Interior
+
 
 
 Character Art
