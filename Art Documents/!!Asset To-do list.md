@@ -1,8 +1,12 @@
 *under construction*
 
-Tilesets
----
+
+Couple of notes:
+
+Tile sets now need to have vertical walls with them
+
 Interior
+---
 
 | Name             | Category | Type | Assigned to | Status |
 | ---------------- | -------- | ---- | ----------- | ------ |
@@ -23,110 +27,50 @@ Interior
 |                  |          |      |             |        |
 |                  |          |      |             |        |
 
-
-- Exterior
-
-| Name         | Category | Type | Assigned to | Status |
-| ------------ | -------- | ---- | ----------- | ------ |
-| Dirt road    |          |      |             |        |
-| Stone floor  |          |      |             |        |
-| Stone stairs |          |      |             |        |
-| Bigger Trees |          |      |             |        |
-| Fences       |          |      |             |        |
-|              |          |      |             |        |
-|              |          |      |             |        |
-|              |          |      |             |        |
-|              |          |      |             |        |
-|              |          |      |             |        |
-|              |          |      |             |        |
-|              |          |      |             |        |
-|              |          |      |             |        |
-
---Bigger trees
---Fences
---Crates
---Barrels
---Rocks
---Flowers
---Pots
---Hay
---Mailboxes
---Dolphin statues
-
-| Name         | Assigned to | Status |
-| ------------ | ----------- | ------ |
-
-
 --Dirt(grass)
 --Rock(sand)
 
 
-Map Sprites
+
+Exterior
 ---
 
-**Interior**
-
-| Name             | Assigned to | Status |
-| ---------------- | ----------- | ------ |
-
-
-
-**Exterior
-
-
-| Name |     |     |
-| ---- | --- | --- |
-|      |     |     |
-|      |     |     |
-|      |     |     |
-|      |     |     |
-|      |     |     |
-|      |     |     |
-|      |     |     |
-|      |     |     |
-|      |     |     |
-|      |     |     |
-
-
-
+| Name           | Category | Type | Assigned to | Status |
+| -------------- | -------- | ---- | ----------- | ------ |
+| Dirt road      |          |      |             |        |
+| Stone floor    |          |      |             |        |
+| Stone stairs   |          |      |             |        |
+| Bigger Trees   |          |      |             |        |
+| Fences         |          |      |             |        |
+| Crates         |          |      |             |        |
+| Barrels        |          |      |             |        |
+| Rocks/Boulders |          |      |             |        |
+| Flowers        |          |      |             |        |
+| Pots           |          |      |             |        |
+| Hay            |          |      |             |        |
+| Mailbox        |          |      |             |        |
+| Dolphin statue |          |      |             |        |
 
 Character Art
 ---
 
 
+| Name                |             |     |     |
+| ------------------- | ----------- | --- | --- |
+| Reformat sprites    |             |     |     |
+| Adult male          |             |     |     |
+| Adult female        |             |     |     |
+| Child male          |             |     |     |
+| Child female        |             |     |     |
+| Dolphin             |             |     |     |
+| Pets                | map sprites |     |     |
+| Lakshmi             | Portraits   |     |     |
+| Grandpa Dan         |             |     |     |
+| Greg                |             |     |     |
+| Deputy              |             |     |     |
+| Falling and jumping |             |     |     |
 
 
-**Map Sprites**
-
--Map sprites
---Reformat sprites
---Adult male
---Adult female
---Young male
---Young female
---Dolphin
---Pets
-
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-
-
-
-
-Portraits
-
-
-|     |     |
-| --- | --- |
-|     |     |
-
--Portraits
---Lakshmi
---Grandpa dan
---Greg
---Deputy
---Falling and jumping
 
 
 Ui
