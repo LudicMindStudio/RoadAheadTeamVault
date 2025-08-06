@@ -3,21 +3,36 @@
 Tilesets
 ---
 
-- Interior
-
-| Name          | Assigned to | Status |
-| ------------- | ----------- | ------ |
-| Wooden floors |             |        |
-| Wooden stairs |             |        |
+| Name             | Category | Type | Assigned to | Status |
+| ---------------- | -------- | ---- | ----------- | ------ |
+| Wooden floors    | Tileset  |      |             |        |
+| Wooden stairs    | Tileset  |      |             |        |
+| Spiral Staircase | Sprite   |      |             |        |
+| Chairs           | Sprite   |      |             |        |
+| Armoire          | Sprite   |      |             |        |
+| Dresser          | Sprite   |      |             |        |
+| Windows          | Sprite   |      |             |        |
+| Counter          | Sprite   |      |             |        |
+| Stove            | Sprite   |      |             |        |
+| Toilets          | Sprite   |      |             |        |
+| Carpet           | Sprite   |      |             |        |
+| Lights           | Sprite   |      |             |        |
+| Tables           | Sprite   |      |             |        |
 
 
 - Exterior
 
+| Name         | Category | Type | Assigned to | Status |
+| ------------ | -------- | ---- | ----------- | ------ |
+| Dirt road    |          |      |             |        |
+| Stone floor  |          |      |             |        |
+| Stone stairs |          |      |             |        |
+
+
+
 | Name         | Assigned to | Status |
 | ------------ | ----------- | ------ |
-| Dirt road    |             |        |
-| Stone floor  |             |        |
-| Stone stairs |             |        |
+
 
 --Dirt(grass)
 --Rock(sand)
@@ -26,32 +41,28 @@ Tilesets
 Map Sprites
 ---
 
-- Interior
+**Interior**
+
+| Name             | Assigned to | Status |
+| ---------------- | ----------- | ------ |
 
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-Interior
--Spiral staircase
--Tables
--Chairs
--Armoir
--Dresser
--Windows
--Counter
--stove
--toilets
--carpet
--lights
+
+**Exterior
 
 
-- Exterior
-
-
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
+| Name |     |     |
+| ---- | --- | --- |
+|      |     |     |
+|      |     |     |
+|      |     |     |
+|      |     |     |
+|      |     |     |
+|      |     |     |
+|      |     |     |
+|      |     |     |
+|      |     |     |
+|      |     |     |
 
 --Bigger trees
 --Fences
