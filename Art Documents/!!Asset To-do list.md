@@ -2,6 +2,7 @@
 
 Tilesets
 ---
+Interior
 
 | Name             | Category | Type | Assigned to | Status |
 | ---------------- | -------- | ---- | ----------- | ------ |
@@ -18,6 +19,9 @@ Tilesets
 | Carpet           | Sprite   |      |             |        |
 | Lights           | Sprite   |      |             |        |
 | Tables           | Sprite   |      |             |        |
+|                  |          |      |             |        |
+|                  |          |      |             |        |
+|                  |          |      |             |        |
 
 
 - Exterior
@@ -27,8 +31,27 @@ Tilesets
 | Dirt road    |          |      |             |        |
 | Stone floor  |          |      |             |        |
 | Stone stairs |          |      |             |        |
+| Bigger Trees |          |      |             |        |
+| Fences       |          |      |             |        |
+|              |          |      |             |        |
+|              |          |      |             |        |
+|              |          |      |             |        |
+|              |          |      |             |        |
+|              |          |      |             |        |
+|              |          |      |             |        |
+|              |          |      |             |        |
+|              |          |      |             |        |
 
-
+--Bigger trees
+--Fences
+--Crates
+--Barrels
+--Rocks
+--Flowers
+--Pots
+--Hay
+--Mailboxes
+--Dolphin statues
 
 | Name         | Assigned to | Status |
 | ------------ | ----------- | ------ |
@@ -64,16 +87,7 @@ Map Sprites
 |      |     |     |
 |      |     |     |
 
---Bigger trees
---Fences
---Crates
---Barrels
---Rocks
---Flowers
---Pots
---Hay
---Mailboxes
---Dolphin statues
+
 
 
 Character Art
