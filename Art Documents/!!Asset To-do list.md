@@ -7,7 +7,7 @@ Couple of notes:
 
 - Keep in mind that our characters are 2 tiles tall. We don't have to be too picky with the scale of our sprites, but we should try to make that the sizes make some sense. For example, some of the tree sprites are just as tall as the character sprites so it makes them look oddly small. They should be at least 3 tiles tall. It can also be made wider.
 
-
+- For now, I broke the list into three and assigned them to one person each. Check which one you are assigned to. You can approach them in which ever order, but I did put priorities for them.
 
 - Tile sets now need to have vertical walls with them. We need to be able to make elevated platforms.
 
@@ -21,64 +21,67 @@ Check the image below for reference:
 Interior
 ---
 
+Assigned to Corina
+
 | Name             | Category | Assigned to | Priority | Status |
 | ---------------- | -------- | ----------- | -------- | ------ |
 | Wooden floors    | Tileset  |             | High     |        |
-| Wooden stairs    | Tileset  |             |          |        |
-| Spiral Staircase | Sprite   |             |          |        |
-| Chairs           | Sprite   |             |          |        |
-| Armoire          | Sprite   |             |          |        |
-| Dresser          | Sprite   |             |          |        |
-| Windows          | Sprite   |             |          |        |
-| Counter          | Sprite   |             |          |        |
-| Stove            | Sprite   |             |          |        |
-| Toilets          | Sprite   |             |          |        |
-| Carpet           | Sprite   |             |          |        |
-| Lights           | Sprite   |             |          |        |
-| Tables           | Sprite   |             |          |        |
+| Wooden stairs    | Tileset  |             | High     |        |
+| Spiral Staircase | Sprite   |             | Low      |        |
+| Chairs           | Sprite   |             | Mid      |        |
+| Armoire          | Sprite   |             | Mid      |        |
+| Dresser          | Sprite   |             | Mid      |        |
+| Windows          | Sprite   |             | Mid      |        |
+| Counter          | Sprite   |             | Mid      |        |
+| Stove            | Sprite   |             | Mid      |        |
+| Toilets          | Sprite   |             | Mid      |        |
+| Carpet           | Sprite   |             | Low      |        |
+| Lights           | Sprite   |             | Low      |        |
+| Tables           | Sprite   |             | Mid      |        |
 
 
 Exterior
 ---
 
+Assigned to Nina
+
 | Name                       | Category | Assigned to | Priority | Status |
 | -------------------------- | -------- | ----------- | -------- | ------ |
-| Dirt road                  | Tile set |             |          |        |
-| Stone floor                | Tile set |             |          |        |
-| Stone stairs               | Tile set |             |          |        |
-| Bigger Tree                | Sprite   |             |          |        |
-| Fences                     | Sprite   |             |          |        |
-| Crates                     | Sprite   |             |          |        |
-| Barrels                    | Sprite   |             |          |        |
-| Rocks/Boulders             | Sprite   |             |          |        |
-| Flowers                    | Sprite   |             |          |        |
-| Pots                       | Sprite   |             |          |        |
-| Hay                        | Sprite   |             |          |        |
-| Mailbox                    | Sprite   |             |          |        |
-| Dolphin statue             | Sprite   |             |          |        |
+| Dirt road                  | Tile set |             | High     |        |
+| Stone path                 | Tile set |             | High     |        |
+| Stone stairs               | Tile set |             | High     |        |
+| Bigger Tree                | Sprite   |             | Low      |        |
+| Fences                     | Sprite   |             | Low      |        |
+| Crates                     | Sprite   |             | Low      |        |
+| Barrels                    | Sprite   |             | Low      |        |
+| Rocks/Boulders             | Sprite   |             | Low      |        |
+| Flowers                    | Sprite   |             | Low      |        |
+| Pots                       | Sprite   |             | Low      |        |
+| Hay                        | Sprite   |             | Low      |        |
+| Mailbox                    | Sprite   |             | High     |        |
+| Dolphin statue             | Sprite   |             | High     |        |
 | Dirt wall (Grass tile set) | Tileset  |             | High     |        |
-| Rock wall (sand tile set)  | Tileset  |             |          |        |
+| Rock wall (sand tile set)  | Tileset  |             | High     |        |
 
 Character Art
 ---
+
+Assigned to Michael
 
 | Name                | Category    | Assigned to | Priority | Status |
 | ------------------- | ----------- | ----------- | -------- | ------ |
 | Reformat sprites    | Map sprites |             | High     |        |
 | Adult male          | Map sprites |             | High     |        |
 | Adult female        | Map sprites |             | High     |        |
-| Child male          | Map sprites |             | Hi       |        |
-| Child female        | Map Sprites |             |          |        |
-| Dolphin             | Map sprites |             |          |        |
-| Pets                | Map sprites |             |          |        |
-| Lakshmi             | Portraits   |             |          |        |
-| Grandpa Dan         | Portraits   |             |          |        |
-| Greg                | Portraits   |             |          |        |
-| Deputy              | Portraits   |             |          |        |
-| Falling and jumping | Map sprites |             |          |        |
-
-
-
+| Child male          | Map sprites |             | High     |        |
+| Child female        | Map Sprites |             | High     |        |
+| Dolphin             | Map sprites |             | High     |        |
+| Pets                | Map sprites |             | Low      |        |
+| Lakshmi             | Portraits   |             | Mid      |        |
+| Grandpa Dan         | Portraits   |             | Mid      |        |
+| Greg                | Portraits   |             | Mid      |        |
+| Deputy              | Portraits   |             | Mid      |        |
+| Falling and jumping | Map sprites |             | High     |        |
 
 Ui
 ---
