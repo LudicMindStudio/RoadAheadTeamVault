@@ -18,3 +18,6 @@ Loves animals and playing games. The leader amongst the dolphin bay kids
 - brown eyes
 - bandana in her hair
 - tank top and shorts
+
+## Concept Art
+[[Cat]]
