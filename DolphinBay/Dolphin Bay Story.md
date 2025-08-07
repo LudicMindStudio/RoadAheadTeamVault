@@ -21,7 +21,7 @@ With the graduation of Lakshmi approaching, Grandpa Dan knows that soon he will 
 **[[Greg]]**
 Greg is the more obvious model for Lakshmi in this moment. As the leader of the postal guild, he acts as the goal Lakshmi is chasing. Also in contrast to Grandpa, Greg is much more prepared for Lakshmi's graduation. His high hopes for Lakshmi stray close to expectations as he continues to guide Lakshmi in her early steps as a guild member. At this point in the story Greg is perfect, a guide who has all the answers.
 
-**[[Francois Hustle]]**
+**[[Francois Hustle 1]]**
 Francois is at his worst. He is fully being pulled around by his psychosis in a destructive way. He has seen the "success" in raising the numbers of his movement and sees the decline of the dolphins as more fuel for his cause. He's internalised the dogmatic thinking that the sanctuary is the villain. He's actively trying to spread his negative and destructive mindset and can openly be seen doing so.
 
 ## Scenes
@@ -81,7 +81,7 @@ Location: Lakshmi's house
 This is the first time the player will see Dolphin bay but it will be notably empty due to a scuffle going on at the dolphin sanctuary. Some npcs will have minute dialogue but nothing overwhelming; the player should be focused on Lakshmi's goal, getting to the guild hall. 
 
 ### Dialogue
-- [[Mysterious Man#Dialogue1]]
+- [[Mysterious Man 1#Dialogue1]]
 - 
 
 ---

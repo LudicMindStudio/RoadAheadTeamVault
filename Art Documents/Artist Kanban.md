@@ -29,7 +29,7 @@ kanban-plugin: board
 
 - [ ] Meeting: Settle on a uniform character asset design
 - [ ] Meeting: Settle on a uniform character head design
-- [ ] NPC Character Sprite **[[Little Girl 2 (Tullia)]]** #Challenging
+- [ ] NPC Character Sprite **[[Little Girl 2 (Tullia) 1]]** #Challenging
 - [ ] Learn to use Excalidraw
 - [ ] Check out how animations work @{2025-06-30} : Corina
 - [ ] Concept art Different houses Dolphin Bay (at least 3 choices) #Medium @{2025-07-11}

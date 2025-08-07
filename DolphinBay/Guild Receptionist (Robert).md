@@ -10,5 +10,8 @@ Chatty and friendly. Laid back and knows how to make jokes of any situation.
 - kind eyes 
 - wears glasses
 - in his 50s
+![[RobertFaceConcpets.jpg]]
+
+Some ideas for Robert's face
 
 # Dialogue

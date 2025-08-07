@@ -17,7 +17,7 @@ These characters can be removed completely or we can extract parts of them to ma
 
 *Todo: Make a page for each of these NPCs*
 
-**[[Experienced Guild Member]]**
+**[[Experienced Guild Member 1]]**
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue
@@ -27,27 +27,27 @@ These characters can be removed completely or we can extract parts of them to ma
 - [ ] Drawing
 - [ ] Dialogue
 
-**[[Little Girl 1 (Cat)]]**
+**[[Little Girl 1 (Cat) 1]]**
 - [x] Description
 - [x] Drawing
 - [ ] Dialogue
 
-**[[Little Girl 2 (Tullia)]]**
+**[[Little Girl 2 (Tullia) 1]]**
 - [x] Description
 - [x] Drawing
 - [ ] Dialogue
 
-**[[Little Boy 1 (Sammy)]]**
+**[[Little Boy 1 (Sammy) 1]]**
 - [x] Description
 - [ ] Drawing
 - [ ] Dialogue
 
-**[[Little Boy 2 (Oliver)]]**
+**[[Little Boy 2 (Oliver) 1]]**
 - [x] Description
 - [ ] Drawing
 - [ ] Dialogue
 
-**[[Little Boy 3 (Elio)]]**
+**[[Little Boy 3 (Elio) 1]]**
 - [x] Description
 - [ ] Drawing
 - [ ] Dialogue
@@ -57,37 +57,37 @@ These characters can be removed completely or we can extract parts of them to ma
 - [ ] Drawing
 - [ ] Dialogue
 	
-**[[Old Granny (Lisa)]]**
+**[[Old Granny (Lisa) 1]]**
 - [x] Description
 - [ ] Drawing
 - [ ] Dialogue 
 		
-**[[Mysterious Man]]**
+**[[Mysterious Man 1]]**
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue 
 
-**[[Francois Hustle]]**
+**[[Francois Hustle 1]]**
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue 	
 	
-**[[Camie]]**
+**[[Camie 1]]**
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue 	
 
-**[[Doran]]**
+**[[Doran 1]]**
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue 
 
-**[[Gatz]]**
+**[[Gatz 1]]**
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue 
 	
-**[[Meditative guild Member]]**
+**[[Meditative guild Member 1]]**
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue 
