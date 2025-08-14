@@ -21,21 +21,21 @@ Interior
 
 Assigned to Corina
 
-| Name             | Category | Assigned to | Priority | Status |
-| ---------------- | -------- | ----------- | -------- | ------ |
-| Wooden floors    | Tileset  |             | High     |        |
-| Wooden stairs    | Tileset  |             | High     |        |
-| Spiral Staircase | Sprite   |             | Low      |        |
-| Chairs           | Sprite   |             | Mid      |        |
-| Armoire          | Sprite   |             | Mid      |        |
-| Dresser          | Sprite   |             | Mid      |        |
-| Windows          | Sprite   |             | Mid      |        |
-| Counter          | Sprite   |             | Mid      |        |
-| Stove            | Sprite   |             | Mid      |        |
-| Toilets          | Sprite   |             | Mid      |        |
-| Carpet           | Sprite   |             | Low      |        |
-| Lights           | Sprite   |             | Low      |        |
-| Tables           | Sprite   |             | Mid      |        |
+| Name             | Category | Assigned to | Priority | Status      |
+| ---------------- | -------- | ----------- | -------- | ----------- |
+| Wooden floors    | Tileset  |             | High     | In progress |
+| Wooden stairs    | Tileset  |             | High     |             |
+| Spiral Staircase | Sprite   |             | Low      |             |
+| Chairs           | Sprite   |             | Mid      |             |
+| Armoire          | Sprite   |             | Mid      |             |
+| Dresser          | Sprite   |             | Mid      |             |
+| Windows          | Sprite   |             | Mid      |             |
+| Counter          | Sprite   |             | Mid      |             |
+| Stove            | Sprite   |             | Mid      |             |
+| Toilets          | Sprite   |             | Mid      |             |
+| Carpet           | Sprite   |             | Low      |             |
+| Lights           | Sprite   |             | Low      |             |
+| Tables           | Sprite   |             | Mid      |             |
 
 
 Exterior
