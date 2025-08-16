@@ -37,6 +37,7 @@ Spriting can be done with virtually any graphics editing program. The specificat
 | Pixen        | Mac           | Free                 |
 | Krita        | Win/Mac/Linux | Free (Paid on steam) |
 | PikoPixel    | Mac/Linux     | Free                 |
+| Pixelorama   | Win/Mac/Linux |                      |
 
 
 If you don't know which to pick, I would recommend Aseprite as it is the most feature filled. If you don't want to spend money then I would recommend Graphicsgale.
