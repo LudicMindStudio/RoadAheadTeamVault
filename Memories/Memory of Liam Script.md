@@ -57,55 +57,77 @@ NPCs
 **Event**
 	Liam gets out of bed. Leaves his bedroom. Goes to meet his family who is having breakfast
 
-Mother: How are you today, son?
+**Mother:**
+	_How are you today, son ?_
 
-Liam: I’m ok. Grandma called me last night and asked if I had a girlfriend yet or if I was looking for one.
+**Liam:**
+	_I’m ok. Grandma called me last night and asked if I had a girlfriend yet or if I was looking for one._
 
-Father: Are you? You know son, having a girlfriend and a family of my own was my dream when I was your age. Your mom was pregnant with you when we were in our early twenies. Why would you not want a girlfriend? Your sister is younger than you and has had a boyfriend for 4 years.
+**Father:**
+	_Are you? You know son, having a girlfriend and a family of my own was my dream when I was your age. Your mom was pregnant with you when we were in our early twenies. Why would you not want a girlfriend? Your sister is younger than you and has had a boyfriend for 4 years._
 
-Liam: Yes, I know Dad. I just don’t feel like it’s not my priority to find a partner right now.
+**Liam:**
+	_Yes, I know Dad. I just don’t feel like it’s not my priority to find a partner right now._
 
-Father: What’s your priority? 
+**Father:**
+	_What’s your priority?_
 
-Liam: Finding a job and starting my independent life. 
+**Liam:**
+	_Finding a job and starting my independent life._
 
-Father: “sigh”
+**Father:**
+	_“sigh”_
 
-Liam (Annoyed): Are you trying to understand me, Dad?  I’m happy that Liana has found someone she likes. It’s not that I don’t want a girlfriend and it’s not that I want one either. I just want to do what I want to do. Having a girlfriend is not a priority for me right now and might never be. I don’t know. Why do I have to know and want one now? Why is it any of your business if I find someone or not? (Goes for the door)
+**Liam (Annoyed):**
+	_Are you trying to understand me, Dad?  I’m happy that Liana has found someone she likes. It’s not that I don’t want a girlfriend and it’s not that I want one either. I just want to do what I want to do. Having a girlfriend is not a priority for me right now and might never be. I don’t know. Why do I have to know and want one now? Why is it any of your business if I find someone or not? (Goes for the door)
 
-Mother: We just want you to be happy, Liam. 
+**Mother:**
+	_We just want you to be happy, Liam. 
 
-Liam (before closing the door): Then, why can’t you let me be. Why can’t I just go at my own rhythm? I will let people know in time. It’s just annoying to always be asked: “Do you have a girlfriend, yet? Or “Any girls in mind”.. I just want to focus on what is relevant for me right now and that is finding a job. I’m going to the beach.
+**Liam (before closing the door):**
+	_Then, why can’t you let me be. Why can’t I just go at my own rhythm? I will let people know in time. It’s just annoying to always be asked: “Do you have a girlfriend, yet? Or “Any girls in mind”.. I just want to focus on what is relevant for me right now and that is finding a job. I’m going to the beach.
 
-Liam (walking towards the beach): I wish people would just listen to me. I understand they want what is best for me and that would be for them to simply listen. 
+**Liam (walking towards the beach):**
+	_I wish people would just listen to me. I understand they want what is best for me and that would be for them to simply listen. 
 
-Liam (sees a couple his age laughing): They look happy. Maybe having a person would be nice. I’m not sure (as a tear starts falling down). Why can’t I just fit in with everyone? (sits on a bench).
+**Liam (sees a couple his age laughing):**
+	_They look happy. Maybe having a person would be nice. I’m not sure (as a tear starts falling down). Why can’t I just fit in with everyone? (sits on a bench).
 
-Marina (old lady) with a dog: Oh! Young man? Are you okay? I saw you tearing up and couldn't help myself not to check on you.
+**Marina (old lady) with a dog:**
+	_Oh! Young man? Are you okay? I saw you tearing up and couldn't help myself not to check on you.
 
-Liam (awkardely laughing): Umm, yes yes I’m fine. I just need some time alone to think. Kind of you checking on me. 
+**Liam (awkardely laughing):**
+	_Umm, yes yes I’m fine. I just need some time alone to think. Kind of you checking on me. 
 
-Marina: Ah! You know, we all need to take time to think sometimes. I wish I did not rush the next steps all my life. I should have taken more time by myself and learned who I truly was before following the herd. Haha, enough of me rambling. I will let you be dear. Here is a tissue just in case. Good bye. 
+**Marina:**
+	_Ah! You know, we all need to take time to think sometimes. I wish I did not rush the next steps all my life. I should have taken more time by myself and learned who I truly was before following the herd. Haha, enough of me rambling. I will let you be dear. Here is a tissue just in case. Good bye. 
 
 (pick up “treasure”)
 
-Liam: Thank you. Good bye. (Looks at Marina walking away). (Looks at the water for a moment). I should go back home. 
+**Liam:**
+	_Thank you. Good bye. (Looks at Marina walking away). (Looks at the water for a moment). I should go back home. 
 
 On his way back, he notices someone who appears lost. 
 
-Liam: He looks lost…I know what that feels like. Let me go have a closer look.
+**Liam:**
+	_He looks lost…I know what that feels like. Let me go have a closer look.
 
 (Liam approaches the young man)
 
-Liam: Are you okay? 
+**Liam:**
+	_Are you okay? 
 
-Man:  Yes, I was waiting for you. 
+**Man:**
+	_Yes, I was waiting for you. 
 
-Liam (surprised): Waiting for me? 
+**Liam (surprised):**
+	_Waiting for me? 
 
-Man: Yes, Liam. Don’t you recognize me? 
+**Man:** 
+	_Yes, Liam. Don’t you recognize me? 
 
-Liam: (puzzled). You sort of look like me?![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeOTHoxf80s80Wjqw9C5LeRqAaxbsWDWfHjj5Dz1OaNmQ6Tr6UAlrsN5dKVat8WT4kfSf5JTJwPw-khTFuKZndEKK4Ijxw3iG0et0j18TrhGdQdK2teea5jTKpUkUhRgDyGxe3zjb1DhKRW5l4s9HRCmHyVRsQuDu-1rScxqw?key=r8DbU-nyKaMbNG7HjyHqKA)
+**Liam: (puzzled):** 
+	_You sort of look like me?![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeOTHoxf80s80Wjqw9C5LeRqAaxbsWDWfHjj5Dz1OaNmQ6Tr6UAlrsN5dKVat8WT4kfSf5JTJwPw-khTFuKZndEKK4Ijxw3iG0et0j18TrhGdQdK2teea5jTKpUkUhRgDyGxe3zjb1DhKRW5l4s9HRCmHyVRsQuDu-1rScxqw?key=r8DbU-nyKaMbNG7HjyHqKA)
 
 Man: Exactly. I’m you. Think of me as your inner voice. How about we try to have your old man understand you a little better. 
 
