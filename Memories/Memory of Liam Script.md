@@ -141,7 +141,7 @@ NPCs
 	
 QUESTION 1: Why don’t you have a girlfriend?
 
-1. ==I have just graduated from university and I want to focus on myself for now.== 
+1. I have just graduated from university and I want to focus on myself for now. 
     
 2. I don’t want to talk about it. 
     
@@ -160,10 +160,7 @@ Man: Perfect! The next step is to use “I” statements to express your emotion
     
 3. I feel pressured into something I don’t want. 
     
-
-*All are good*
-
-Man: That’s great. All these choices were appropriate to your situation. Now, you need to learn to clearly state what you want and be specific when giving requests. Let’s see what you got.
+**Liam 2**: That’s great. All these choices were appropriate to your situation. Now, you need to learn to clearly state what you want and be specific when giving requests. Let’s see what you've got.
 
 1. I need to be supported in what I want for myself.
     
