@@ -9,7 +9,7 @@ tags:
 # Context
 Lakshmi meets Liam’s sister. Lakshmi notices that Liam’s sister lives alone and tells her that she likes it that way and that her brother lives as a single man. His sister is housetting and taking care of the cat while Liam is awar. She invites Lakshmi in for tea and if she would like to know how Liam became at peace being by himself. 
 # Characters
-Liam
+Liam : Early twenties man, curly/wavy brown hair up to his chin. Green eyes. Blue shirt. 
 Liam #2
 Liam's father (Dad)
 Liam's mother (Mom)
@@ -45,9 +45,8 @@ NPCs
 	_It is not in my cards right now, Grandma. I’m sorry I’m really tired. I’ll go to bed now, but I’ll call you soon. Bye!_
 **Grandmother:**
 	_Okay Liam. Good night!_
-
 **Liam (in his bedroom):**
-	_Why does she always have to bring up a girlfriend? (Sighs). I need to rest now._
+	_Why does she always have to bring up getting girlfriend? (Sighs). I need sleep.
 
 ==The next day==
 
@@ -129,23 +128,28 @@ On his way back, he notices someone who appears lost. 
 **Liam: (puzzled):** 
 	_You sort of look like me?![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeOTHoxf80s80Wjqw9C5LeRqAaxbsWDWfHjj5Dz1OaNmQ6Tr6UAlrsN5dKVat8WT4kfSf5JTJwPw-khTFuKZndEKK4Ijxw3iG0et0j18TrhGdQdK2teea5jTKpUkUhRgDyGxe3zjb1DhKRW5l4s9HRCmHyVRsQuDu-1rScxqw?key=r8DbU-nyKaMbNG7HjyHqKA)
 
-Man: Exactly. I’m you. Think of me as your inner voice. How about we try to have your old man understand you a little better. 
+**Man:**
+	_Exactly. I’m you. Think of me as your inner voice. How about we try to have your old man understand you a little better. 
 
-Liam: Ok…I’m not sure if I should follow a random stranger and I doubt he’ll ever understand.
+**Liam:** 
+	_Ok…I’m not sure if I should follow a random stranger and I doubt he’ll ever understand.
 
-Man: Liam. I am you. Let’s just have a chat.
+**Man:**
+	_Liam. I am you. Let’s just have a chat.
 
-Liam: Alright…I guess. 
+**Liam:**
+	_Alright…I guess. 
 
-Man: First step is to try and to communicate effectively. You need to describe clearly and concisely the facts of the situation without being condescending towards your interlocutor. For instance, I have done all the work that was assigned to me. To practice this skill, let me ask you a question and pick the statement that you think is best.
-
+**Man:**
+	_First step is to try and to communicate effectively. You need to describe clearly and concisely the facts of the situation without being condescending towards your interlocutor. For instance, I have done all the work that was assigned to me. To practice this skill, let me ask you a question and pick the statement that you think is best.
+	
 QUESTION: Why don’t you have a girlfriend?
 
-1. I have just graduated from university and I want to focus on myself at the moment.
+1. I have just graduated from university and I want to focus on myself for now. 
     
 2. I don’t want to talk about it. 
     
-3. Why do you care? You never listen anyways.
+3. Why do you care? You never listen anyway.
     
 4. I don’t know…maybe because I haven’t had the time to look for someone…maybe I’m not looking for anyone.
     
