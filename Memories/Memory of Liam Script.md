@@ -31,12 +31,15 @@ NPCs
 	`If variable is true`
 		_Dialogue_
 
-TO ORGANIZE IN PARTS
-Phone rings
 
-Grandmother (on the phone): Hey Liam! Did you pass your licensing exam?
+**Event**
+	Phone rings
 
-Liam: Hi Grandma. I did! I’m glad that I am onto a new chapter in my life. 
+**Grandmother (on the phone):**
+	_Hey Liam! Did you pass your licensing exam?_
+**Liam:**
+_Hey Liam! Did you pass your licensing exam?_
+	Hi Grandma. I did! I’m glad that I am onto a new chapter in my life. 
 
 Grandmother: I’m happy for you. I hope you find a job you like. Do you think a girlfriend will be included in that new chapter of your life, Liam?
 
