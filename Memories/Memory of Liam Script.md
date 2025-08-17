@@ -50,35 +50,29 @@ NPCs
 
 ==The next day==
 
-**Liam (Waking up):** 
-	_Whoa. It’s already 10am. I should get started with my day._
+**Event**
+	Liam wakes up and checks his phone. 
+**Liam (Waking up; ):** 
+	_Oh!. It’s already 10am. Let's go grab some food.
 
 **Event**
 	Liam gets out of bed. Leaves his bedroom. Goes to meet his family who is having breakfast
-
 **Mother:**
 	_How are you today, son ?_
-
 **Liam:**
 	_I’m ok. Grandma called me last night and asked if I had a girlfriend yet or if I was looking for one._
-
 **Father:**
-	_Are you? You know son, having a girlfriend and a family of my own was my dream when I was your age. Your mom was pregnant with you when we were in our early twenies. Why would you not want a girlfriend? Your sister is younger than you and has had a boyfriend for 4 years._
-
+	_Are you? You know son, having a girlfriend and a family of my own was my dream when I was your age. Your mom was pregnant with you when we were in our early twenties. Why would you not want a girlfriend? Your sister is younger than you and has had a boyfriend for 4 years._
 **Liam:**
 	_Yes, I know Dad. I just don’t feel like it’s not my priority to find a partner right now._
-
 **Father:**
 	_What’s your priority?_
-
 **Liam:**
-	_Finding a job and starting my independent life._
-
-**Father:**
-	_“sigh”_
-
+	_Moving out and finding a job.
+**Father (Sighing):**
+	..._
 **Liam (Annoyed):**
-	_Are you trying to understand me, Dad?  I’m happy that Liana has found someone she likes. It’s not that I don’t want a girlfriend and it’s not that I want one either. I just want to do what I want to do. Having a girlfriend is not a priority for me right now and might never be. I don’t know. Why do I have to know and want one now? Why is it any of your business if I find someone or not? (Goes for the door)
+	_Are you trying to understand me, Dad?  I’m happy that Liana has found someone she likes. It’s not that I don’t want a partner and it’s not that I want one either. I just want to do what I want to do. Having a girlfriend is not a priority for me right now and might never be. I don’t know. Why do I have to know and want one now? Why is it any of your business if I find someone or not? (Goes for the door)
 
 **Mother:**
 	_We just want you to be happy, Liam. 
