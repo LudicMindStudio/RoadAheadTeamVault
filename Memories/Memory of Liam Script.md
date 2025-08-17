@@ -89,8 +89,8 @@ NPCs
 ==**Event**==
 	Once at the beach, Liam sees a couple his age laughing together. 
 	
-**Liam (sad):**
-	_They look happy. Maybe having a person would be nice. I’m not sure (as a tear starts falling down). Why can’t I just fit in with everyone? (sits on a bench).
+**Liam (Sad):**
+	_They look happy. Maybe having a person would be nice. I’m not sure. Why can’t I just fit in with everyone? I need to sit. 
 
 **Old lady with a dog:**
 	_Oh! Young man? Are you okay? I saw you tearing up and couldn't help myself not to check on you.
@@ -105,50 +105,43 @@ NPCs
 
 **Liam:**
 	_Thank you. Good bye. 
-		**Event**
+		==**Event**==
 			Looks at Marina walking away. Looks at the water for a moment. 
-				Liam**éI should go back home. 
+				**Liam**: I should go back home. 
 
-On his way back, he notices someone who appears lost. 
-
+**Event:**
+	On his way back, he notices someone who appears lost. He goes to check on him. 
 **Liam:**
-	_He looks lost…I know what that feels like. Let me go have a closer look.
+	_He looks lost…I know what that feels like. I should check on him. 
 
-(Liam approaches the young man)
-
+**Event**
+	Liam approaches the young man
 **Liam:**
 	_Are you okay? 
-
-**Man:**
-	_Yes, I was waiting for you. 
-
+**Lost Man:**
+	Yes, I was waiting for you. 
 **Liam (surprised):**
-	_Waiting for me? 
-
-**Man:** 
-	_Yes, Liam. Don’t you recognize me? 
-
+	Waiting for me? 
+**Lost Man:** 
+	Yes, Liam. Don’t you recognize me? 
 **Liam: (puzzled):** 
 	_You sort of look like me?![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeOTHoxf80s80Wjqw9C5LeRqAaxbsWDWfHjj5Dz1OaNmQ6Tr6UAlrsN5dKVat8WT4kfSf5JTJwPw-khTFuKZndEKK4Ijxw3iG0et0j18TrhGdQdK2teea5jTKpUkUhRgDyGxe3zjb1DhKRW5l4s9HRCmHyVRsQuDu-1rScxqw?key=r8DbU-nyKaMbNG7HjyHqKA)
-
-**Man:**
-	_Exactly. I’m you. Think of me as your inner voice. How about we try to have your old man understand you a little better. 
-
+**Lost Man:**
+	Exactly. I’m you. Think of me as your inner voice. How about we try to have your old man understand you a little better. 
 **Liam:** 
-	_Ok…I’m not sure if I should follow a random stranger and I doubt he’ll ever understand.
-
-**Man:**
-	_Liam. I am you. Let’s just have a chat.
-
+	Ok…I’m not sure if I should follow a random stranger and I doubt he’ll ever understand.
+**Liam 2:**
+	Liam. I am you. Let’s just have a chat.
 **Liam:**
-	_Alright…I guess. 
-
-**Man:**
-	_First step is to try and to communicate effectively. You need to describe clearly and concisely the facts of the situation without being condescending towards your interlocutor. For instance, I have done all the work that was assigned to me. To practice this skill, let me ask you a question and pick the statement that you think is best.
+	Alright…I guess. 
+**Liam 2:**
+	The first step is to try to communicate more effectively. You need to describe clearly and concisely the facts of the situation without being condescending towards your interlocutor. 
+		For instance, I have done all the work that was assigned to me. I will go home now. 
+			To practice this skill, let me ask you a question and pick the statement that you think is best.
 	
-QUESTION: Why don’t you have a girlfriend?
+QUESTION 1: Why don’t you have a girlfriend?
 
-1. I have just graduated from university and I want to focus on myself for now. 
+1. ==I have just graduated from university and I want to focus on myself for now.== 
     
 2. I don’t want to talk about it. 
     
