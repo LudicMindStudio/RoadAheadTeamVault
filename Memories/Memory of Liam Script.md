@@ -33,27 +33,29 @@ NPCs
 
 
 **Event**
-	Phone rings
+	Phone rings.
 
 **Grandmother (on the phone):**
 	_Hey Liam! Did you pass your licensing exam?_
 **Liam:**
-_Hey Liam! Did you pass your licensing exam?_
-	Hi Grandma. I did! I’m glad that I am onto a new chapter in my life. 
+	_Hi Grandma. I did! I’m glad that I am onto a new chapter in my life._
+**Grandmother:**
+	_I’m happy for you. I hope you find a job you like. Do you think a girlfriend will be included in that new chapter of your life, Liam?_
+**Liam (Laughing uncomfortably):**
+	_It is not in my cards right now, Grandma. I’m sorry I’m really tired. I’ll go to bed now, but I’ll call you soon. Bye!_
+**Grandmother:**
+	_Okay Liam. Good night!_
 
-Grandmother: I’m happy for you. I hope you find a job you like. Do you think a girlfriend will be included in that new chapter of your life, Liam?
+**Liam (in his bedroom):**
+	_Why does she always have to bring up a girlfriend? (Sighs). I need to rest now._
 
-Liam: (Laugh uncomfortably). It is not in my cards right now, grandma. I’m sorry I’m really tired. I’ll go to bed now, but I’ll call you soon. Bye!
+==The next day==
 
-Grandmother: Okay Liam. Good night!
+**Liam (Waking up):** 
+	_Whoa. It’s already 10am. I should get started with my day._
 
-Liam (in his bedroom): Why does she always have to bring up a girlfriend? (Sighs). I need to rest now.
-
-The next day
-
-Liam: (Waking up) Whoa. It’s already 10am. I should get started with my day. 
-
-Sees his family having breakfast
+**Event**
+	Liam gets out of bed. Leaves his bedroom. Goes to meet his family who is having breakfast
 
 Mother: How are you today, son?
 
