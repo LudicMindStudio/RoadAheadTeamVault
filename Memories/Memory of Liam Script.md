@@ -32,7 +32,7 @@ NPCs
 		_Dialogue_
 
 
-**Event**
+==**Event**==
 	Phone rings.
 
 **Grandmother (on the phone):**
@@ -50,12 +50,12 @@ NPCs
 
 ==The next day==
 
-**Event**
+==**Event**==
 	Liam wakes up and checks his phone. 
 **Liam (Waking up; ):** 
 	_Oh!. It’s already 10am. Let's go grab some food.
 
-**Event**
+==**Event**==
 	Liam gets out of bed. Leaves his bedroom. Goes to meet his family who is having breakfast
 **Mother:**
 	_How are you today, son ?_
@@ -72,33 +72,42 @@ NPCs
 **Father (Sighing):**
 	..._
 **Liam (Annoyed):**
-	_Are you trying to understand me, Dad?  I’m happy that Liana has found someone she likes. It’s not that I don’t want a partner and it’s not that I want one either. I just want to do what I want to do. Having a girlfriend is not a priority for me right now and might never be. I don’t know. Why do I have to know and want one now? Why is it any of your business if I find someone or not? (Goes for the door)
-
+	_Are you trying to understand me, Dad?  I’m happy that Liana has found someone she likes. It’s not that I don’t want a partner and it’s not that I want one either. I just want to do what I want to do. Having a girlfriend is not a priority for me right now and might never be. I don’t know. Why do I have to know and want one now? Why is it any of your business if I find someone or not? 
+		**Event**
+			Goes in the direction of the main door. 
 **Mother:**
-	_We just want you to be happy, Liam. 
-
+	We just want you to be happy, Liam. 
 **Liam (before closing the door):**
-	_Then, why can’t you let me be. Why can’t I just go at my own rhythm? I will let people know in time. It’s just annoying to always be asked: “Do you have a girlfriend, yet? Or “Any girls in mind”.. I just want to focus on what is relevant for me right now and that is finding a job. I’m going to the beach.
+	Then, why can’t you let me be. Why can’t I just go at my own pace? I will let people know in time. It’s just annoying to always be asked: “Do you have a girlfriend, yet? Or “Any girls in mind”.. I just want to focus on what is relevant for me right now and that is finding a job. I’m going to the beach.
+
+==**Event**==
+	Liam walks out of his house. He walks in the direction of the beach and ponders about what he wants. 
 
 **Liam (walking towards the beach):**
-	_I wish people would just listen to me. I understand they want what is best for me and that would be for them to simply listen. 
+	_I wish people would just listen to me. I understand they want what is best for me, but that would be for them to simply listen. 
 
-**Liam (sees a couple his age laughing):**
+==**Event**==
+	Once at the beach, Liam sees a couple his age laughing together. 
+	
+**Liam (sad):**
 	_They look happy. Maybe having a person would be nice. I’m not sure (as a tear starts falling down). Why can’t I just fit in with everyone? (sits on a bench).
 
-**Marina (old lady) with a dog:**
+**Old lady with a dog:**
 	_Oh! Young man? Are you okay? I saw you tearing up and couldn't help myself not to check on you.
-
+	
 **Liam (awkardely laughing):**
-	_Umm, yes yes I’m fine. I just need some time alone to think. Kind of you checking on me. 
+	_Umm, yes yes I’m fine. I just need some time alone to think. Kind of you for checking on me. 
+**Old lady with a dog:**
+	Ah! You know, we all need to take time to think sometimes. I wish I did not rush the next steps all my life. I should have taken more time by myself and learned who I truly was before following the herd. Haha, enough of me rambling. I will let you be dear. Here is a tissue just in case. Good bye. 
 
-**Marina:**
-	_Ah! You know, we all need to take time to think sometimes. I wish I did not rush the next steps all my life. I should have taken more time by myself and learned who I truly was before following the herd. Haha, enough of me rambling. I will let you be dear. Here is a tissue just in case. Good bye. 
-
-(pick up “treasure”)
+==**Event**==
+	Liam picks up the tissue.
 
 **Liam:**
-	_Thank you. Good bye. (Looks at Marina walking away). (Looks at the water for a moment). I should go back home. 
+	_Thank you. Good bye. 
+		**Event**
+			Looks at Marina walking away. Looks at the water for a moment. 
+				Liam**éI should go back home. 
 
 On his way back, he notices someone who appears lost. 
 
