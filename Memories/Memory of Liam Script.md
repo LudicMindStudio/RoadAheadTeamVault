@@ -189,7 +189,7 @@ NPCs
 	_That’s great. All these choices were appropriate to your situation. 
 		==(Question 3)== Now, you need to learn to clearly state what you want and be specific when giving requests. Let’s see what you've got._
 		
-. 1. I would like you to support me. 
+. 1. I would like if you could support me. 
 	`If variable is true`
 		Player moves on to the next question
 		
@@ -198,22 +198,43 @@ NPCs
 		**Liam 2**
 			_... ( I need help with finding an answer to this -Arkana)_
 			==Choices:==
-				1. I have just graduated from university and I want to focus on myself for now. 
+				1. I would like you to support me. 
 					`If variable is true`
 						Player moves on to the next question
 				2. You never listen.
-					
-			
-						
+					`If variable is true`
+						**Liam 2**
+							_Tell them what you need and not what they don't do._
+						==Choices:== 
+							1. I would like if you could support me.  
+								`If variable is true`
+									Player moves on to the next question
 .3. You never listen. 
+	`If variable is true`
+		**Liam 2**
+			_Tell them what you need and not what they don't do._
+			==Choices:==
+				.1. I would like if you could support me. 
+					`If variable is true`
+						Player moves on to the next question
+				.2. Stay out of my life!
+					`If variable is true`
+					**Liam 2**
+						_... ( I need help with finding an answer to this -Arkana)_
+					==Choices:==
+						.1. I would like if you could support me. 
+							`If variable is true`
+								Player moves on to the next question
     
 **Liam 2** ==(Question 4)==: 
 	_Makes sense to me!
-		Now, let’s try something new. Can you see these sculptures?_
+		Now, let’s try something new. You see these sculptures? Get close to them._
 
-Liam: Yes.
+**Event**
+	Liam moves in direction of the sculptures. 
 
-Man: Which one to you looks the most confident? Go touch it.
+ **Liam 2
+ Which one to you looks the most confident? Go touch it.
 
 1. sculpture with the power pose 
     
