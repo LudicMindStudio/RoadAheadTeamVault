@@ -298,3 +298,5 @@ B) Can we move past this and focus on what I want to prioritize right now?
 Father: Ok Liam. I still don’t agree with your decision and it’s not the path I chose or would have chosen but I will let you be. 
 
  Liam (smile): Thanks Dad. I’ll take that.**
+
+
