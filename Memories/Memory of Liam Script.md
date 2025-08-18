@@ -196,8 +196,15 @@ NPCs
 .2. Stay out of my life!
 	`If variable is true`
 		**Liam 2**
-			_... _ ( I need)
+			_... ( I need help with finding an answer to this -Arkana)_
+			==Choices:==
+				1. I have just graduated from university and I want to focus on myself for now. 
+					`If variable is true`
+						Player moves on to the next question
+				2. You never listen.
+					
 			
+						
 .3. You never listen. 
     
 **Liam 2** ==(Question 4)==: 
@@ -217,17 +224,25 @@ Man: Which one to you looks the most confident? Go touch it.
 
 *character must go next to the sculpture (ideally would imitate the pose)*
 
-Man: Great! That pose is an exaggeration but you need to appear confident when you want to be clear. 
+**Liam 2**:
+	_Great! That pose is a hyperbole, but you want to appear confident when you're trying to express yourself._
 
-Liam: Is there more?
+**Liam:**
+	_Is there more?_
 
-Man: Yes, I will tell you one more skill. First, let’s keep walking. You need to learn to negotiate. You must know your limits but be willing to compromise within them. Just keep that in mind. We’re here. Get in there. Opening up to your Dad won’t be easy but it will be good for both of you. 
+**Liam 2:**
+	_Yes, I will tell you one more skill. First, let’s keep walking._
+		_You need to learn to negotiate. It means that you must know your limits but be willing to compromise within them. Just keep that in mind. We’re here. 
+			Get in there. Opening up to your Dad won’t be easy but it will be good for both of you._ 
+				_Also, you probably should not follow random strangers. Good luck!_
 
-Also, you probably should not follow random strangers. Good luck!
+**Liam:**
+	_Thank you… me?_
 
-Liam: Thank you… me?
+==**Event**==
+	Liam goes in the house*
 
-*Liam goes in the house*
+Continue here!!!!
 
 Father (runs towards him). You are blowing this out of proportion, son.
 
