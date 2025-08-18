@@ -27,27 +27,27 @@ These characters can be removed completely or we can extract parts of them to ma
 - [ ] Drawing
 - [ ] Dialogue
 
-**[[Little Girl 1 (Cat) 1]]**
+**[[Little Girl 1 (Cat)]]**
 - [x] Description
 - [x] Drawing
 - [ ] Dialogue
 
-**[[Little Girl 2 (Tullia) 1]]**
+**[[Little Girl 2 (Tullia)]]**
 - [x] Description
 - [x] Drawing
 - [ ] Dialogue
 
-**[[Little Boy 1 (Sammy) 1]]**
+**[[Little Boy 1 (Sammy)]]**
 - [x] Description
 - [ ] Drawing
 - [ ] Dialogue
 
-**[[Little Boy 2 (Oliver) 1]]**
+**[[Little Boy 2 (Oliver)]]**
 - [x] Description
 - [ ] Drawing
 - [ ] Dialogue
 
-**[[Little Boy 3 (Elio) 1]]**
+**[[Little Boy 3 (Elio)]]**
 - [x] Description
 - [ ] Drawing
 - [ ] Dialogue
@@ -57,37 +57,37 @@ These characters can be removed completely or we can extract parts of them to ma
 - [ ] Drawing
 - [ ] Dialogue
 	
-**[[Old Granny (Lisa) 1]]**
+**[[Old Granny (Lisa)]]**
 - [x] Description
 - [ ] Drawing
 - [ ] Dialogue 
 		
-**[[Mysterious Man 1]]**
+**[[Mysterious Man]]**
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue 
 
-**[[Francois Hustle 1]]**
+**[[Francois Hustle]]**
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue 	
 	
-**[[Camie 1]]**
+**[[Camie]]**
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue 	
 
-**[[Doran 1]]**
+**[[Doran]]**
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue 
 
-**[[Gatz 1]]**
+**[[Gatz]]**
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue 
 	
-**[[Meditative guild Member 1]]**
+**[[Meditative guild Member]]**
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue 

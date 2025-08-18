@@ -1,5 +1,0 @@
-- Cat's father. Remembers all the wildlife he would see prior to the fog. Says that it seems like it all wondered away. Says that he is proud of his daughter for the work that she does. He's happy he's able to share his passion with her. 
-	- Description for art team:
-		- Wears a hat (unsure if he has hair under there or not)
-		- brown eyes
-		- Wears overalls
