@@ -14,7 +14,8 @@ Tries to help Lakshmi. Energetic. Quick tips guy
 - older man
 - grey hair
 - mustache 
-- large nos
+- bigger nose 
+- big bushy eyebrows
 
 # Dialogue
 

@@ -18,12 +18,12 @@ These characters can be removed completely or we can extract parts of them to ma
 *Todo: Make a page for each of these NPCs*
 
 **[[Experienced Guild Member 1]]**
-- [ ] Description
+- [x] Description
 - [ ] Drawing
 - [ ] Dialogue
 
 **[[Stranded Visitor (Felix)]]**
-- [ ] Description
+- [x] Description
 - [ ] Drawing
 - [ ] Dialogue
 
@@ -93,7 +93,7 @@ These characters can be removed completely or we can extract parts of them to ma
 - [ ] Dialogue 
 	
 **[[Guild Receptionist (Robert)]]**
-- [ ] Description
+- [x] Description
 - [ ] Drawing
 - [ ] Dialogue 
 ## Questions about NPC Relationships
