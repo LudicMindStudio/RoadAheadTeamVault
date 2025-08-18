@@ -345,10 +345,11 @@ NPCs
 	_All this must have been hard for your brother_
 **Liana**:
 	_It was hard for everyone. Eventually they talked less and less. 
-		I think it's worth t_. 
+		I think it's worth it to try and communicate more effectively. That's what I take from all this_.
 			_Now now, I don't want to keep you too long_
+**Lakshmi:**
+	_Thank you for sharing this story. Maybe I can use a few tools from it myself. Good bye!_
 	
-
 
 
 ==RPG MAKER Coding Reference for final fight with Dad==
