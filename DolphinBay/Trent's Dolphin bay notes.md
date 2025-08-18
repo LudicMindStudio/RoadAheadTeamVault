@@ -17,7 +17,7 @@ A key part to this story is the real escalation in Francois' actions. Due to the
 
 This bleak state is where Lakshmi enters. Flipping the script and inverting the snowball is the ultimate resolution of the story and what Lakshmi needs to discover. At first, this isn't really Lakshmi's business and the dots wont connect on what to do. She has to discover the reality of things, form a plan of recovery, then convince the town to follow her lead and start the healing process.
 
-Some key features on Lakshmi's involvement will be kids. The kids of dolphin bay are completely unaffected by Francois' movement and are able to help teach Lakshmi the connection between the fog, emotions, and animals. Lakshmi also can learn about Francois' backstory and origins for his actions. To de-vilify everyone in the situation is a requirement for progress. Finally Lakshmi should also need to bolster her own confidence and find the courage to make a change at the level of effecting the whole city. Other events and characters around the city help her do this.
+Some key features on Lakshmi's involvement will be kids. The kids of dolphin bay are completely unaffected by Francois' movement and are able to help teach Lakshmi the connection between the fog, emotions, and animals. Lakshmi also can learn about Francois' backstory and origins for his actions. To de-vilianify everyone in the situation is a requirement for progress. Finally Lakshmi should also need to bolster her own confidence and find the courage to make a change at the level of effecting the whole city. Other events and characters around the city help her do this.
 
 By the end of the story, everyone makes peace and is on a road ahead to reverting the damages done and making dolphin bay the best it can be. Dolphins begin to return and progress can be seen with more dolphins and other positive activist actions. The activists and the dolphin sanctuary work together, each using their skills in their own ways to help the dolphins.
 
@@ -28,4 +28,33 @@ Francois hustle really loves dolphins. why would he start such a fuss if he didn
 
 # Events
 
-**Event 0**
+- Initial interaction with the protesters
+	- the player knows nothing about them and neither does lakshmi
+	- the interaction should leave the players with the following impresions:
+		- They are loud
+		- They are angry
+		- The townsfolk are still unsure about the cause
+		- Its unclear how true the claims 
+		- The dolphin sanctuary is worth investigating
+
+- Interactions with The sanctuary
+	- They are confused and generally not great at defending themselves
+	- Overwhelmed and overworked with their job; actually worrying and trying to help the dolphins
+- Interactions with other npcs
+	- They have their two sense to give
+
+
+ACT 2
+
+- Starts when lakshmi finds a piece of information
+	- This can be info about francois or insight from the kids
+- The protesters are building momentum and about to cause an irreversible disaster on the town. they are bulding pressure to put the time on lakshmi
+
+ACT 3
+- Once lakshmi has gained enough info, she needs to gather confidence.
+	- Not sure how to implement this yet TODO
+	- maybe techniques from the memories?
+- Before the disaster strikes she does a speech and changes the minds of the towns folks
+
+Epilogue
+ - Establish the relationship between the protests gained power and the dolphin sanctuary employees
