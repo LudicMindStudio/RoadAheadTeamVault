@@ -52,7 +52,7 @@ These characters can be removed completely or we can extract parts of them to ma
 - [ ] Drawing
 - [ ] Dialogue
 
-**[[Old Sailor Garp 1]]**
+**[[Old Sailor Garp]]**
 - [x] Description
 - [ ] Drawing
 - [ ] Dialogue
