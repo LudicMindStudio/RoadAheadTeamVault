@@ -299,6 +299,13 @@ NPCs
 				`If variable is true`
 					**Less Angry Father**
 						_I know._
+							**Liam**:
+								_I want us to move past this, so you can help me with what matters to me right now._
+									**Calmer Father**
+										_Ok, Liam. I still don’t agree with your decision and it’s not the path I chose or would have chosen but I will let you be_.
+											**Liam**:
+												_Thanks, Dad. I'll take that._
+													Game goes back to Liana speaking to Lakshmi (good ending)
 				2. **Liam**: You make me feel bad all the time.
 					`If variable is true`
 					**Medium Angry Father**
@@ -307,24 +314,25 @@ NPCs
 							1. **Liam**: That’s not what I mean. I feel misunderstood. I wish we could better listen and understand each other.
 								`If variable is true`
 								**Less Angry Father**:
-									_I know._
+									_Yea._
+										**Liam**:
+											_Can we move past this and focus on what I want to prioritize right now?_
+												**Calmer Father**
+													_Ok, Liam. I still don’t agree with your decision and it’s not the path I chose or would have chosen but I will let you be_.
+														**Liam (Smiling):**
+														_Thanks, Dad. I'll take that._
+															Game goes back to Liana speaking to Lakshmi (good ending)
 							2. **Liam**: Exactly, so why bother trying to fix things.
 									`If variable is true`
-										Game goes back to Liana telling the story to Lakshmi. 
+										Game goes back to Liana telling the story to Lakshmi. (Bad ending)
 2. **Liam**: To not see you ever anymore
 	`If variable is true`
-		Game goes back to Liana telling the story to Lakshmi. 
+		Game goes back to Liana telling the story to Lakshmi. (Bad ending)
 
+Script for Good Ending:
+**Liana**:
+	So
 
-
-
-Liam: A) I want us to move past this, so you can help me with what matters to me right now. 
-
-B) Can we move past this and focus on what I want to prioritize right now?
-
-Father: Ok Liam. I still don’t agree with your decision and it’s not the path I chose or would have chosen but I will let you be. 
-
- Liam (smile): Thanks Dad. I’ll take that.**
 
 
 ==RPG MAKER Coding Reference for final fight with Dad==
