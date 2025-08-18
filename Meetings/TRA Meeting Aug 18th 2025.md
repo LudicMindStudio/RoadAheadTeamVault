@@ -26,8 +26,12 @@ meeting date:
 Please let us know if you are overstressed!
 
 ---
-Other news
+**Other news**
 
+- Ludic Mind pizza!
+- Ludic Mind member youth mental health advocacy workshops!
+- Discord Wellbeing manager potential connection!
+---
 
 # Recording
 
