@@ -12,5 +12,6 @@ Sammy. 9 years old. Loves sea animal especially turtles. He has one at home and 
 # Apperance
 - Brown hair
 - blue shirt
-
+- bucket hat
 # Dialogue
+
