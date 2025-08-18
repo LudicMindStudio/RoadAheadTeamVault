@@ -286,19 +286,37 @@ NPCs
 					_Can you hear me out first?_
 2.  **Liam**: I don’t want to go about this that way, Dad. 
 
-Father: What do you want?
+**Father:** 
+	_What do you want?_
 
-Liam: A) I’ve just graduated from university and I want to focus on myself at the moment. 
+==Choices:==
+1. **Liam**: I’ve just graduated from university and I want to focus on myself for now. 
+	`If variable is true`
+		**Medium Angry Father**
+			_Ok._
+			==Choices:==
+				1. **Liam**: I feel misunderstood and I need to be supported in what I want.
+				`If variable is true`
+					**Less Angry Father**
+						_I know._
+				2. **Liam**: You make me feel bad all the time.
+					`If variable is true`
+					**Medium Angry Father**
+						_It's always my fault_
+						==Choices:==
+							1. **Liam**: That’s not what I mean. I feel misunderstood. I wish we could better listen and understand each other.
+								`If variable is true`
+								**Less Angry Father**:
+									_I know._
+							2. **Liam**: Exactly, so why bother trying to fix things.
+									`If variable is true`
+										Game goes back to Liana telling the story to Lakshmi. 
+2. **Liam**: To not see you ever anymore
+	`If variable is true`
+		Game goes back to Liana telling the story to Lakshmi. 
 
-B) To not see you ever anymore. -> End game (fail)
 
-If chose option A: Father: Ok.
 
-Liam: A)I feel misunderstood and I need to be supported in what I want for myself.
-
-B) You make me feel bad all the time. -> Father: it’s always my fault. -> Liam: a) that’s not what I mean. I feel misunderstood. I wish we could better understand each other (continues) b) Exactly, so why bother trying to fix things. -> End game (fail)
-
-Father: I know.
 
 Liam: A) I want us to move past this, so you can help me with what matters to me right now. 
 
