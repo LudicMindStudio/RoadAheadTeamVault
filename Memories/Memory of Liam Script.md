@@ -138,21 +138,25 @@ NPCs
 	The first step is to try to communicate more effectively. You need to describe clearly and concisely the facts of the situation without being condescending towards your interlocutor. 
 		For instance, I have done all the work that was assigned to me. I will go home now. 
 			To practice this skill, let me ask you a question and pick the statement that you think is best.
-	
-QUESTION 1: Why don’t you have a girlfriend?
+				QUESTION 1: Why aren't you looking for a partner?
 
 1. I have just graduated from university and I want to focus on myself for now. 
-    
+    `If variable is true`
+	    Player moves on to next question.
 2. I don’t want to talk about it. 
-    
+    `If variable is true`
+	    **Liam 2** 
+		    _You're allowed to not want to talk about it, but how about you try to open up by stating what you want._
+		    Choices:
+		    1. I have just graduated from university and I want to focus on myself for now. 
+		
+			2. Why do you care? You never listen anyway.    
 3. Why do you care? You never listen anyway.
-    
-4. I don’t know…maybe because I haven’t had the time to look for someone…maybe I’m not looking for anyone.
     
 
 *have the player try again and again if they do not get it right*
-
-Man: Perfect! The next step is to use “I” statements to express your emotions. Try it!
+**Liam 2** (Question 2)
+	_Man: Perfect! The next step is to use “I” statements to express your emotions. Try it!_
 
 1. I feel misunderstood.
     
