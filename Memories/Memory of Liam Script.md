@@ -329,9 +329,25 @@ NPCs
 	`If variable is true`
 		Game goes back to Liana telling the story to Lakshmi. (Bad ending)
 
-Script for Good Ending:
+==Script for Good Ending:==
 **Liana**:
-	So
+	_So that's how my brother learned to better communicate with our dad. It wasn't always perfect, but it was better than before._
+**Lakshmi**:
+	_Wow, your brother is brave. Thank you for sharing that story. Maybe I can learn a few things from it. 
+		I will get going now.
+			Bye and take care.
+				Oh! and here is your mail!_
+**Liana**:
+	_Bye! Thank you._
+
+==Script for Bad Ending:==
+**Lakshmi**:
+	_All this must have been hard for your brother_
+**Liana**:
+	_It was hard for everyone. Eventually they talked less and less. 
+		I think it's worth t_. 
+			_Now now, I don't want to keep you too long_
+	
 
 
 
