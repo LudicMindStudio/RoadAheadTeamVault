@@ -138,7 +138,7 @@ NPCs
 	The first step is to try to communicate more effectively. You need to describe clearly and concisely the facts of the situation without being condescending towards your interlocutor. 
 		For instance, I have done all the work that was assigned to me. I will go home now. 
 			To practice this skill, let me ask you a question and pick the statement that you think is best.
-				QUESTION 1: Why aren't you looking for a partner?
+				==QUESTION 1:== Why aren't you looking for a partner?
 
 1. I have just graduated from university and I want to focus on myself for now. 
     `If variable is true`
@@ -147,16 +147,37 @@ NPCs
     `If variable is true`
 	    **Liam 2** 
 		    _You're allowed to not want to talk about it, but how about you try to open up by stating what you want._
-		    Choices:
+		    ==Choices:==
 		    1. I have just graduated from university and I want to focus on myself for now. 
-		
+		    `If variable is true`
+			    Player moves on to the next question
 			2. Why do you care? You never listen anyway.    
+			`If variable is true`
+				**Liam 2**
+					_Let's try to be less condescending and focus on the facts_
+					==Choices:==
+					1. I have just graduated from university and I want to focus on myself for now. 
+						`If variable is true`
+						    Player moves on to the next question
 3. Why do you care? You never listen anyway.
-    
+    `If variable is true`
+		**Liam 2**
+			_Let's try to be less condescending and focus on the facts_
+			==Choices:==
+			1. I have just graduated from university and I want to focus on myself for now. 
+		    `If variable is true`
+			    Player moves on to the next question
+			2. I don’t want to talk about it. 
+			`If variable is true`
+			    **Liam 2** 
+				    _You're allowed to not want to talk about it, but how about you try to open up by stating what you want._
+				    ==Choices:==
+					1. I have just graduated from university and I want to focus on myself for now. 
+						`If variable is true`
+						    Player moves on to the next question
 
-*have the player try again and again if they do not get it right*
-**Liam 2** (Question 2)
-	_Man: Perfect! The next step is to use “I” statements to express your emotions. Try it!_
+**Liam 2** ==(Question 2)==
+	_Man: Nice! The next step is to use “I” statements to express yourself. Try it!_
 
 1. I feel misunderstood.
     
@@ -164,7 +185,9 @@ NPCs
     
 3. I feel pressured into something I don’t want. 
     
-**Liam 2**: That’s great. All these choices were appropriate to your situation. Now, you need to learn to clearly state what you want and be specific when giving requests. Let’s see what you've got.
+**Liam 2:**
+	_That’s great. All these choices were appropriate to your situation. 
+		Now, you need to learn to clearly state what you want and be specific when giving requests. Let’s see what you've got._
 
 1. I need to be supported in what I want for myself.
     
