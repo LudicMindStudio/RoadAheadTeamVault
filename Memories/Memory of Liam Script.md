@@ -242,17 +242,21 @@ NPCs
 1. sculpture with the power pose 
     `If variable is true`
 	    **sculpture**:
-			_Hehe! I've got this._
+			_Hehe! I've got this and so do you._
+			**Liam 2**:
+				_Great! That pose is a hyperbole, but you want to appear confident when you're trying to express yourself._
 2. sculpture of The Thinker
 	 `If variable is true`
 		**Sculpture**:
 			_Umm_.
+			**Liam 2**:
+				_Try again!_
 3. sculpture of a dolphin
 	`If variable is true`
 		**Sculpture**:
 			_(dolphin noise)_
-**Liam 2**:
-	_Great! That pose is a hyperbole, but you want to appear confident when you're trying to express yourself._
+			**Liam 2**:
+				_Try again!_
 
 **Liam:**
 	_Is there more?_
@@ -270,14 +274,19 @@ NPCs
 	Liam goes in the house.
 		His dad walks furiously towards him. 
 
-**Father** 
-You are blowing this out of proportion, son.
+**Angry Father**:
+	_You are blowing this out of proportion, son._
 
-Liam: A) Leave me alone Dad. -> Father (angrily) Listen to your father -> can you hear me out first?
+==Choices:==
+1. **Liam**: Leave me alone, Dad.
+	`If variable is true`
+		**Angry Father**:
+			_Listen to your father._
+				**Liam**
+					_Can you hear me out first?_
+2.  **Liam**: I don’t want to go about this that way, Dad. 
 
-B) I don’t want to go about this that way Dad. 
-
-Father: What do you want then?
+Father: What do you want?
 
 Liam: A) I’ve just graduated from university and I want to focus on myself at the moment. 
 
@@ -300,3 +309,12 @@ Father: Ok Liam. I still don’t agree with your decision and it’s not the pat
  Liam (smile): Thanks Dad. I’ll take that.**
 
 
+==RPG MAKER Coding Reference for final fight with Dad==
+ Image 1:
+![[Pasted image 20250818100306.png]]
+
+Image 2:
+![[Pasted image 20250818100338.png]]
+
+Image 3:
+![[Pasted image 20250818100416.png]]
