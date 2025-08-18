@@ -178,7 +178,7 @@ NPCs
 
 **Liam 2** ==(Question 2)==
 	_Man: Nice! The next step is to use “I” statements to express yourself. Try it!_
-
+	
 1. I feel misunderstood.
     
 2. I feel like I’m not allowed to be myself
@@ -187,16 +187,22 @@ NPCs
     
 **Liam 2:**
 	_That’s great. All these choices were appropriate to your situation. 
-		Now, you need to learn to clearly state what you want and be specific when giving requests. Let’s see what you've got._
-
-1. I need to be supported in what I want for myself.
+		==(Question 3)== Now, you need to learn to clearly state what you want and be specific when giving requests. Let’s see what you've got._
+		
+. 1. I would like you to support me. 
+	`If variable is true`
+		Player moves on to the next question
+		
+.2. Stay out of my life!
+	`If variable is true`
+		**Liam 2**
+			_... _ ( I need)
+			
+.3. You never listen. 
     
-2. Stay out of my life!
-    
-3. You never listen. 
-    
-
-Man: All right. Let’s try something new. Can you see these sculptures?
+**Liam 2** ==(Question 4)==: 
+	_Makes sense to me!
+		Now, let’s try something new. Can you see these sculptures?_
 
 Liam: Yes.
 
