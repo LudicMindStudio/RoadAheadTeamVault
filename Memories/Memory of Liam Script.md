@@ -233,18 +233,24 @@ NPCs
 **Event**
 	Liam moves in direction of the sculptures. 
 
- **Liam 2
- Which one to you looks the most confident? Go touch it.
+ **Liam 2** ==(Question 5):==
+	 _Which one to you looks the most confident? Go close to it. 
+
+**Event**
+	Liam goes to interact with the sculptures. Depending which it is the sculpture comments something different. 
 
 1. sculpture with the power pose 
-    
+    `If variable is true`
+	    **sculpture**:
+			_Hehe! I've got this._
 2. sculpture of The Thinker
-    
+	 `If variable is true`
+		**Sculpture**:
+			_Umm_.
 3. sculpture of a dolphin
-    
-
-*character must go next to the sculpture (ideally would imitate the pose)*
-
+	`If variable is true`
+		**Sculpture**:
+			_(dolphin noise)_
 **Liam 2**:
 	_Great! That pose is a hyperbole, but you want to appear confident when you're trying to express yourself._
 
@@ -260,12 +266,12 @@ NPCs
 **Liam:**
 	_Thank you… me?_
 
-==**Event**==
-	Liam goes in the house*
+**Event**
+	Liam goes in the house.
+		His dad walks furiously towards him. 
 
-Continue here!!!!
-
-Father (runs towards him). You are blowing this out of proportion, son.
+**Father** 
+You are blowing this out of proportion, son.
 
 Liam: A) Leave me alone Dad. -> Father (angrily) Listen to your father -> can you hear me out first?
 
