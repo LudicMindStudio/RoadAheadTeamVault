@@ -69,7 +69,7 @@ Assigned to Michael
 | Name                | Category    | Assigned to | Priority | Status   |
 | ------------------- | ----------- | ----------- | -------- | -------- |
 | Reformat sprites    | Map sprites |             | High     |          |
-| Adult male          | Map sprites |             | High     |          |
+| Adult male          | Map sprites |             | High     | Complete |
 | Adult female        | Map sprites |             | High     | Complete |
 | Child male          | Map sprites |             | High     |          |
 | Child female        | Map Sprites |             | High     |          |
