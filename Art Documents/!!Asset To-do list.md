@@ -43,23 +43,23 @@ Exterior
 
 Assigned to Nina
 
-| Name                       | Category | Assigned to | Priority | Status |
-| -------------------------- | -------- | ----------- | -------- | ------ |
-| Dirt road                  | Tile set |             | High     |        |
-| Stone path                 | Tile set |             | High     |        |
-| Stone stairs               | Tile set |             | High     |        |
-| Bigger Tree                | Sprite   |             | Low      |        |
-| Fences                     | Sprite   |             | Low      |        |
-| Crates                     | Sprite   |             | Low      |        |
-| Barrels                    | Sprite   |             | Low      |        |
-| Rocks/Boulders             | Sprite   |             | Low      |        |
-| Flowers                    | Sprite   |             | Low      |        |
-| Pots                       | Sprite   |             | Low      |        |
-| Hay                        | Sprite   |             | Low      |        |
-| Mailbox                    | Sprite   |             | High     |        |
-| Dolphin statue             | Sprite   |             | High     |        |
-| Dirt wall (Grass tile set) | Tileset  |             | High     |        |
-| Rock wall (sand tile set)  | Tileset  |             | High     |        |
+| Name                       | Category | Assigned to | Priority | Status   |
+| -------------------------- | -------- | ----------- | -------- | -------- |
+| Dirt road                  | Tile set |             | High     | complete |
+| Stone path                 | Tile set |             | High     | complete |
+| Stone stairs               | Tile set |             | High     | complete |
+| Bigger Tree                | Sprite   |             | Low      | complete |
+| Fences                     | Sprite   |             | Low      |          |
+| Crates                     | Sprite   |             | Low      |          |
+| Barrels                    | Sprite   |             | Low      |          |
+| Rocks/Boulders             | Sprite   |             | Low      |          |
+| Flowers                    | Sprite   |             | Low      |          |
+| Pots                       | Sprite   |             | Low      |          |
+| Hay                        | Sprite   |             | Low      |          |
+| Mailbox                    | Sprite   |             | High     | complete |
+| Dolphin statue             | Sprite   |             | High     | complete |
+| Dirt wall (Grass tile set) | Tileset  |             | High     | complete |
+| Rock wall (sand tile set)  | Tileset  |             | High     |          |
 
 Character Art
 ---
