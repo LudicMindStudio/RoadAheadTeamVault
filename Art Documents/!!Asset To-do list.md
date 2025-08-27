@@ -66,20 +66,19 @@ Character Art
 
 Assigned to Michael
 
-| Name                | Category    | Assigned to | Priority | Status      |
-| ------------------- | ----------- | ----------- | -------- | ----------- |
-| Reformat sprites    | Map sprites |             | High     |             |
-| Adult male          | Map sprites |             | High     | Complete    |
-| Adult female        | Map sprites |             | High     | Complete    |
-| Child male          | Map sprites |             | High     |             |
-| Child female        | Map Sprites |             | High     | In progress |
-| Dolphin             | Map sprites |             | High     |             |
-| Pets                | Map sprites |             | Low      |             |
-| Lakshmi             | Portraits   |             | Mid      |             |
-| Grandpa Dan         | Portraits   |             | Mid      |             |
-| Greg                | Portraits   |             | Mid      |             |
-| Deputy              | Portraits   |             | Mid      |             |
-| Falling and jumping | Map sprites |             | High     |             |
+| Name                | Category    | Assigned to | Priority | Status   |
+| ------------------- | ----------- | ----------- | -------- | -------- |
+| Adult male          | Map sprites |             | High     | Complete |
+| Adult female        | Map sprites |             | High     | Complete |
+| Child male          | Map sprites |             | High     |          |
+| Child female        | Map Sprites |             | High     | Complete |
+| Dolphin             | Map sprites |             | High     |          |
+| Pets                | Map sprites |             | Low      |          |
+| Lakshmi             | Portraits   |             | Mid      |          |
+| Grandpa Dan         | Portraits   |             | Mid      |          |
+| Greg                | Portraits   |             | Mid      |          |
+| Deputy              | Portraits   |             | Mid      |          |
+| Falling and jumping | Map sprites |             | High     |          |
 
 Ui
 ---
