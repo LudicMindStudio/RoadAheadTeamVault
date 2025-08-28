@@ -49,17 +49,17 @@ Assigned to Nina
 | Stone path                 | Tile set |             | High     | complete |
 | Stone stairs               | Tile set |             | High     | complete |
 | Bigger Tree                | Sprite   |             | Low      | complete |
-| Fences                     | Sprite   |             | Low      |          |
-| Crates                     | Sprite   |             | Low      |          |
-| Barrels                    | Sprite   |             | Low      |          |
-| Rocks/Boulders             | Sprite   |             | Low      |          |
-| Flowers                    | Sprite   |             | Low      |          |
-| Pots                       | Sprite   |             | Low      |          |
-| Hay                        | Sprite   |             | Low      |          |
+| Fences                     | Sprite   |             | Low      | complete |
+| Crates                     | Sprite   |             | Low      | complete |
+| Barrels                    | Sprite   |             | Low      | complete |
+| Rocks/Boulders             | Sprite   |             | Low      | complete |
+| Flowers                    | Sprite   |             | Low      | complete |
+| Pots                       | Sprite   |             | Low      | complete |
+| Hay                        | Sprite   |             | Low      | complete |
 | Mailbox                    | Sprite   |             | High     | complete |
 | Dolphin statue             | Sprite   |             | High     | complete |
 | Dirt wall (Grass tile set) | Tileset  |             | High     | complete |
-| Rock wall (sand tile set)  | Tileset  |             | High     |          |
+| Rock wall (sand tile set)  | Tileset  |             | High     | complete |
 
 Character Art
 ---
