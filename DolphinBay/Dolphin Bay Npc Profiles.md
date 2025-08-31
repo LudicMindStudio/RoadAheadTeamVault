@@ -30,17 +30,17 @@ These characters can be removed completely or we can extract parts of them to ma
 **[[Little Girl 1 (Cat)]]**
 - [x] Description
 - [x] Drawing
-- [ ] Dialogue
+- [x] Dialogue
 
 **[[Little Girl 2 (Tullia)]]**
 - [x] Description
 - [x] Drawing
-- [ ] Dialogue
+- [x] Dialogue
 
 **[[Little Boy 1 (Sammy)]]**
 - [x] Description
 - [ ] Drawing
-- [ ] Dialogue
+- [x] Dialogue
 
 **[[Little Boy 2 (Oliver)]]**
 - [x] Description
@@ -50,7 +50,7 @@ These characters can be removed completely or we can extract parts of them to ma
 **[[Little Boy 3 (Elio)]]**
 - [x] Description
 - [ ] Drawing
-- [ ] Dialogue
+- [x] Dialogue
 
 **[[Old Sailor Garp]]**
 - [x] Description
