@@ -25,4 +25,21 @@ Distant from the other kids. Seen staring off into the ocean. Quiet
 	Lakshmi sees Oliver staring in the horizon. Lakshmi comes up to him and sits down. 
 
 *Lakshmi*
-	Hi
+	_Hey, I've been seeing you alone staring into the horizon around the village._
+
+*Oliver*
+	_Hey. I enjoy solitude plus I enjoy watching the nature around us. It's nice to admire what is right in front of you. 
+
+*Lakshmi*
+	_Okay, I just wanted to check on you. I have mail to deliver close by. Do you happen to know where 92 Peak street is?
+
+*Oliver*
+	_Yes, that's where I live. I can bring you there. Follow me. 
+
+Choices:
+	1. Follow Oliver.
+		*Lakshmi*
+			_Oh! Thank you._
+	2. Take your own way.
+		*Lakshmi*
+			_It's okay, I will figure it o_
