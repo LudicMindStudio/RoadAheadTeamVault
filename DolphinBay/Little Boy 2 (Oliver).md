@@ -20,3 +20,4 @@ Distant from the other kids. Seen staring off into the ocean. Quiet
 - dark blue t-shirt
 
 # Dialogue
+

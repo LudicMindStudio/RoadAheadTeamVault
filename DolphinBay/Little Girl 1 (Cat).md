@@ -27,10 +27,10 @@ Loves animals and playing games. The leader amongst the dolphin bay kids
 	Cat is sitting near the docks with Tullia and Sammy. They are talking among themselves. Lakshmi comes near and Cat calls her out. 
 
 *Cat* (Standing up; looking in Lakshmi's direction)
-	_Hey you! I haven't seen you around before. What are you doing here?
+	_Hey you! Why are you just standing there?. What are you doing here?
 	
 *Lakshmi*
-	_Hi sorry to disturb. I'm a new postal worker. I've never been here before, but I'm enjoying the sea breeze._
+	_Hi sorry to disturb. I'm a new postal worker. I've been so focused on my studies that it's like I've been in my own world. I was taking a little break to enjoy the sea breeze._
 
 *Sammy*
 	_It used to be a lot nicer around here. Along with the sea breeze, you would hear dolphins clicking and whistling. Now, we can mostly hear villagers shouting._
