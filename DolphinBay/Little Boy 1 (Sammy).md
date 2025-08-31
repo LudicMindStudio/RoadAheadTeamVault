@@ -45,4 +45,7 @@ Sammy. 9 years old. Loves sea animal especially turtles. He has one at home and 
 	_There she is. We've been taking good care of her. Just like those workers at the dolphin sanctuary. Too bad no one believes them._
 
 *Lakshmi*
-	_She is adorable. Thank you for showing _
+	_She is adorable. Thank you for showing her to me. I have to get going kid. Bye!_
+
+**Event**
+	Lakshmi leaves as Sammy stays silently behind looking proudly at Abby. 
