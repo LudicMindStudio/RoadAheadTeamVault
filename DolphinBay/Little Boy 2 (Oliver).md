@@ -21,3 +21,8 @@ Distant from the other kids. Seen staring off into the ocean. Quiet
 
 # Dialogue
 
+**Event**
+	Lakshmi sees Oliver staring in the horizon. Lakshmi comes up to him and sits down. 
+
+*Lakshmi*
+	Hi
