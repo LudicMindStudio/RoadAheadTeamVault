@@ -22,4 +22,27 @@ Sammy. 9 years old. Loves sea animal especially turtles. He has one at home and 
 	_Hello! I'm here to deliver mail for Libby?_
 
 *Sammy*
-	_Hi, that's my mom. You can leave it on the ground_
+	_Hi, that's my mom. You can leave it on the ground. I'll bring it inside once I'm done here._
+
+*Lakshmi*
+	_Okay!_
+	Choices:
+		1. _What are you doing exactly?_
+			*Sammy*
+				_I'm just picking worms and bugs for my turtle. My parents built a little sanctuary for Abby in the back._
+			*Lakshmi*
+				_Abby?_
+			*Sammy*
+				_Abby is the turtle we rescued. We found her on the shore badly hurt and we've been taking care of her. Luckily, she's not one of those big turtles. Do you want to see her?_ 
+			*Lakshmi* 
+				_Maybe another time. Have fun kid._
+		2. _Have a good day, kid!_
+
+**Event**
+	As Lakshmi is about to leave the premises, Sammy takes her hand and brings her to see Abby. 
+
+*Sammy*
+	_There she is. We've been taking good care of her. Just like those workers at the dolphin sanctuary. Too bad no one believes them._
+
+*Lakshmi*
+	_She is adorable. Thank you for showing _
