@@ -44,4 +44,13 @@ Loves animals and playing games. The leader amongst the dolphin bay kids
 			*Cat*
 				_Yes, they are led by François. They all seem angry, but don't actually do anything other than shout. They usually hang around the dolphin statue. Just be mindful if there are any houses you need to get to in that area._
 			*Lakshmi*
-				_Oh! Okay. Thank you. See you arounf_
+				_Oh! Okay. Thank you. See you around kids!_
+		2. _I don't hear any shouting?_
+			*Cat*
+				_François and his gang usually hang around the dolphin statue. Just be mindful of them if there are any houses you need to get to in that area._
+			*Lakshmi*
+				_Oh! Okay. Thank you. See you around kids!_
+
+*Lakshmi* (in her head)
+	_Alright, now I need to get to 26 Statue Corner. Oh, I guess I'll keep an eye out for the protesters._
+

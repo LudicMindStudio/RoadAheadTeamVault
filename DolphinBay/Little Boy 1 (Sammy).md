@@ -15,3 +15,11 @@ Sammy. 9 years old. Loves sea animal especially turtles. He has one at home and 
 - bucket hat
 # Dialogue
 
+**Event**
+	Sammy is in front of his house looking for worms and bugs while Lakshmi arrives at his front door.
+
+*Lakshmi*
+	_Hello! I'm here to deliver mail for Libby?_
+
+*Sammy*
+	_Hi, that's my mom. You can leave it on the ground_

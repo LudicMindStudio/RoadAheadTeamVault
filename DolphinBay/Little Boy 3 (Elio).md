@@ -14,3 +14,4 @@ Elio. 12 years old. Elio is the dominant one in a a conversation. He has a hard 
 - blond hair
 
 # Dialogue
+
