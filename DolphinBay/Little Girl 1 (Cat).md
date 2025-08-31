@@ -24,7 +24,7 @@ Loves animals and playing games. The leader amongst the dolphin bay kids
 # Dialogue
 
 **Event**
-	Cat is sitting near the dolphin statue with Tullia and Sammy.They are talking among themselves. Lakshmi comes near and Cat calls her out. 
+	Cat is sitting near the docks with Tullia and Sammy. They are talking among themselves. Lakshmi comes near and Cat calls her out. 
 
 *Cat* (Standing up; looking in Lakshmi's direction)
 	_Hey you! I haven't seen you around before. What are you doing here?
@@ -40,4 +40,8 @@ Loves animals and playing games. The leader amongst the dolphin bay kids
 
 *Lakshmi*
 	Choices:
-		1. _Protesters_
+		1. _Protesters?_
+			*Cat*
+				_Yes, they are led by François. They all seem angry, but don't actually do anything other than shout. They usually hang around the dolphin statue. Just be mindful if there are any houses you need to get to in that area._
+			*Lakshmi*
+				_Oh! Okay. Thank you. See you arounf_
