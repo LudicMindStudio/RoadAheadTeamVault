@@ -20,3 +20,12 @@ Loves animals. More aloof. Curious
 	- long braided hair
 	- dark eyes
 	- white t-shirt
+
+
+# Dialogue
+
+**Event**
+	Lakshmi goes up to Tullia (who is alone) to begin a conversation
+
+**Tullia**
+	_Hi, sorry. I have to find Cat._

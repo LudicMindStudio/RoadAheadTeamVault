@@ -15,3 +15,6 @@ Chatty and friendly. Laid back and knows how to make jokes of any situation.
 Some ideas for Robert's face
 
 # Dialogue
+
+**Event** 
+	Lakshmi enters 
