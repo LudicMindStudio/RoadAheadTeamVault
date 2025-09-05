@@ -25,7 +25,7 @@ These characters can be removed completely or we can extract parts of them to ma
 **[[Stranded Visitor (Felix)]]**
 - [x] Description
 - [ ] Drawing
-- [ ] Dialogue
+- [x] Dialogue
 
 **[[Little Girl 1 (Cat)]]**
 - [x] Description
@@ -45,7 +45,7 @@ These characters can be removed completely or we can extract parts of them to ma
 **[[Little Boy 2 (Oliver)]]**
 - [x] Description
 - [ ] Drawing
-- [ ] Dialogue
+- [x] Dialogue
 
 **[[Little Boy 3 (Elio)]]**
 - [x] Description
@@ -94,7 +94,7 @@ These characters can be removed completely or we can extract parts of them to ma
 	
 **[[Guild Receptionist (Robert)]]**
 - [x] Description
-- [ ] Drawing
+- [x] Drawing
 - [ ] Dialogue 
 ## Questions about NPC Relationships
 Each NPC has opinions on the town (and on the state of things).

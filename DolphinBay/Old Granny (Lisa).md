@@ -15,3 +15,7 @@ Lisa. Gardens in the front of house. When Lakshmi approches, Lisa is happy to ta
 - faint reassuring smile
 
 # Dialogue
+
+**Event**
+Lakshmi arrives to Lisa's house. She rings the doorbell. Door opens. 
+

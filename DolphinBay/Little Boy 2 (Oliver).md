@@ -42,4 +42,6 @@ Choices:
 			_Oh! Thank you._
 	2. Take your own way.
 		*Lakshmi*
-			_It's okay, I will figure it o_
+			_It's okay, I will figure it out. Thank you._
+		*Oliver*
+			_As you wish _
