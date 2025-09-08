@@ -10,4 +10,4 @@ Messy dark hair, white t-shirt,
 
 # Dialogue
 Could meet while he's admiring the dolphin statue.
-Tells Lakshmi that he cares about the dolphins joined the protesters because he wants to make a change. He doesn't resonate with how they are sharing their opinions and way of doing things. He explains how he's always been fascinated by art. He's got 
+Tells Lakshmi that he cares about the dolphins joined the protesters because he wants to make a change. He doesn't resonate with how they are sharing their opinions and way of doing things. He explains how he's always been fascinated by art. He lost himself in the protests. Lakshmi encourages him to try a different medium to lead change.  
