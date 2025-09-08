@@ -86,7 +86,12 @@ These characters can be removed completely or we can extract parts of them to ma
 - [ ] Description
 - [ ] Drawing
 - [ ] Dialogue 
-	
+
+**[[Basic protester 1]]**
+- [ ] Description
+- [ ] Drawing
+- [ ] Dialogue 
+
 **[[Meditative guild Member]]**
 - [ ] Description
 - [ ] Drawing
