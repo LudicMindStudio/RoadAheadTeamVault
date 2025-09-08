@@ -1,6 +1,7 @@
 ---
 tags:
   - DolphinBay
+created: 2025-09-08
 ---
 
 # Type
@@ -8,14 +9,11 @@ tags:
 - [ ] Themes
 - [ ] Concepts
 # Content
-Distant from the other kids. Seen staring off into the ocean. Quiet
-
-[[Grandma and Grandson|Story]] about comforting a boy who lost his parents
-	
- Oliver. prefers being alone. spends a lot a of time sitting on a bench staring off into the ocean. Will change spot but will be doing the same. Open to talking but will keep his answers short. 
+A villager who follows whatever is happening in the city. Has no opinion of his own. Seems to be simply a leaf who's being blown in the wind. 
 # Apperance
-- longish dark hair and dark eyes
-- cap
-- dark blue t-shirt
+
 
 # Dialogue
+
+Lakshmi can interact with him while he's in one of the protest or is around when it's happening. He will tell Lakshmi that this big movement happened and he thought he should join. He's not personnaly attached to it though.  
+

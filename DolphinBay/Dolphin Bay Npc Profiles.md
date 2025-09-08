@@ -63,37 +63,37 @@ These characters can be removed completely or we can extract parts of them to ma
 - [ ] Dialogue 
 		
 **[[Mysterious Man]]**
-- [ ] Description
+- [x] Description
 - [ ] Drawing
 - [ ] Dialogue 
 
 **[[Francois Hustle]]**
-- [ ] Description
+- [x] Description
 - [ ] Drawing
 - [ ] Dialogue 	
 	
 **[[Camie]]**
-- [ ] Description
+- [x] Description
 - [ ] Drawing
 - [ ] Dialogue 	
 
 **[[Doran]]**
-- [ ] Description
+- [x] Description
 - [ ] Drawing
 - [ ] Dialogue 
 
 **[[Gatz]]**
-- [ ] Description
+- [x] Description
 - [ ] Drawing
 - [ ] Dialogue 
 
 **[[Basic protester 1]]**
-- [ ] Description
+- [x] Description
 - [ ] Drawing
 - [ ] Dialogue 
 
 **[[Meditative guild Member]]**
-- [ ] Description
+- [x] Description
 - [ ] Drawing
 - [ ] Dialogue 
 	
