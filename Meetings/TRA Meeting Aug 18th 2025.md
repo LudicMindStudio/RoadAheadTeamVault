@@ -34,5 +34,6 @@ Please let us know if you are overstressed!
 ---
 
 # Recording
+https://youtu.be/1yPjuCEv7DE
 
 # Live Notes
