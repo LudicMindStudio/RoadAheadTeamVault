@@ -56,7 +56,7 @@ Location: Lakshmi's house
 **Grandpa Dan**
 	"Ahhh! Lakshmi don't scare me! Why are you sneaking around like that?"
 **Lakshmi**
-	"But you're the one who was sneaking in"
+	"But you're the one who's sneaking in... "
 **Grandpa Dan**
 	"Bah, Leo already got the jump on me earlier today. Won't anyone think of the health of a poor old mans heart?? "
 **Lakshmi**
