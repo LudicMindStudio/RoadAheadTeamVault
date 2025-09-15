@@ -58,19 +58,19 @@ Location: Lakshmi's house
 **Lakshmi**
 	"But you're the one who's sneaking in... "
 **Grandpa Dan**
-	"Bah, Leo already got the jump on me earlier today. Won't anyone think of the health of a poor old mans heart?? "
+	"Bah, Lakshmi can't you feel for an old mans heart!? Leo already got the jump on me earlier this morning. "
 **Lakshmi**
 	"What are you leaving there Grandpa Dan?"
 *Grandpa Dan looks embarrassed clearing his throat and trying to bring no attention to the breakfast*
 **Grandpa Dan**
-	"Ah well its just a small breakfast for you Lakshmi, you're still growing after all"
+	"Ahem-- well its just a small breakfast for you Lakshmi, you're still growing after all"
 	"But I'm really here to check on you Lakshmi, Greg was expecting you hours ago."
 **Lakshmi**
 	"Sorry... I accidentally slept in"
 **Grandpa Dan**
-	"Well no time like the present Lakshmi, hurry long now. I'll be seeing you later."
+	"Well no time like the present Lakshmi, hurry along now. I'll be seeing you later."
 **Lakshmi**
-	"Bye Grandpa Dan!"
+	"Cya Grandpa Dan!"
 	
 #####################################################################
 
