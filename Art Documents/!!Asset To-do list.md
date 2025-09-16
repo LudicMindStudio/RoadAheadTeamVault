@@ -23,19 +23,19 @@ Assigned to Corina
 
 | Name             | Category | Assigned to | Priority | Status      |
 | ---------------- | -------- | ----------- | -------- | ----------- |
-| Wooden floors    | Tileset  |             | High     | In progress |
-| Wooden stairs    | Tileset  |             | High     |             |
-| Spiral Staircase | Sprite   |             | Low      |             |
-| Chairs           | Sprite   |             | Mid      |             |
-| Armoire          | Sprite   |             | Mid      |             |
-| Dresser          | Sprite   |             | Mid      |             |
-| Windows          | Sprite   |             | Mid      |             |
-| Counter          | Sprite   |             | Mid      |             |
-| Stove            | Sprite   |             | Mid      |             |
-| Toilets          | Sprite   |             | Mid      |             |
-| Carpet           | Sprite   |             | Low      |             |
-| Lights           | Sprite   |             | Low      |             |
-| Tables           | Sprite   |             | Mid      |             |
+| Wooden floors    | Tileset  |             | High     | Complete    |
+| Wooden stairs    | Tileset  |             | High     | Complete    |
+| Spiral Staircase | Sprite   |             | Low      | In progress |
+| Chairs           | Sprite   |             | Mid      | Complete    |
+| Armoire          | Sprite   |             | Mid      | Complete    |
+| Dresser          | Sprite   |             | Mid      | Complete    |
+| Windows          | Sprite   |             | Mid      | Complete    |
+| Counter          | Sprite   |             | Mid      | Complete    |
+| Stove            | Sprite   |             | Mid      | Complete    |
+| Toilets          | Sprite   |             | Mid      | Complete    |
+| Carpet           | Sprite   |             | Low      | Complete    |
+| Lights           | Sprite   |             | Low      | Complete    |
+| Tables           | Sprite   |             | Mid      | Complete    |
 
 
 Exterior
