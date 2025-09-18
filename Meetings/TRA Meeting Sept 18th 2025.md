@@ -26,6 +26,9 @@ meeting date:
 ### Whats next?
 - Keep trying to reach our original slice scope!
 	- Extra maps
+	- More sprites
+	- More systems
+- Discord meeting
 
 ---
 
