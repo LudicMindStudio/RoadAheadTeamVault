@@ -24,7 +24,8 @@ meeting date:
 - Better refined idea of the game!
 ---
 ### Whats next?
-- More 
+- Keep trying to reach our original slice scope!
+	- Extra maps
 
 ---
 
