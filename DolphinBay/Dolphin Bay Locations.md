@@ -51,3 +51,5 @@ This is where Lakshmi lives and its a bit out of town. Its supposed to be a peac
 
 ## Other Ideas
 - Could there a be location which used to be super popular to surf and that people used to see dolphins who would surf alongside them. Or kayaking spot? There could be an NPC that used to go there but since the fog they say that the water moves differently and that there is no dolphins anymore which just makes them sad. This part of dophin bay could be also/or known that have turtles which a NPC loves.  Maybe in the "fin of the dolphin" for a more quiet spot maybe for kayaking where the water would be so clear that you could see sealife but now the water isnt so nice and you can barely see any living things. 
+
+	- Yea this is an awesome idea! maybe he has a little route he takes around the dolphins outline and mostly does kayaking out there. this npc could be the expert on the local geography and might
