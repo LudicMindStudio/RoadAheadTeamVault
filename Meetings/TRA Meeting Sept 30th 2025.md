@@ -40,10 +40,35 @@ meeting date:
 ### So Where are we now?
 - Over the summer we did our first "cycle"
 - Today we will briefly summarise and get right into the **production** phase again 
-### Last Development Cycle
-**Basics of the engine**
+---
+### Last Sprint
+**Completed: Basics of the engine**
 - first map
-- player 
+- basic actors (Npcs,Pc)
+- intro dialogue
+---
+### Last Sprint
+**Left to cleanup**
+- first interior map
+- dialogue portraits
+- first item
+- smaller events/interactions
+---
+### Next Sprint
+**Town Beginnings**
+
+---
+### Writing Team
+- Town building
+	- Be specific in connecting the npcs to the town
+	- Whos house is where? why?
+	- What types of things would they be doing throughout the day
+
+---
+### Art Team
+
+
+
 
 # Recording
 
