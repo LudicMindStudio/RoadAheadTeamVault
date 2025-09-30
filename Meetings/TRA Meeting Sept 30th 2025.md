@@ -73,7 +73,12 @@ meeting date:
 	- Defining the shape of the town
 	- The style of architecture that the buildings are made from?
 	- The style of clothing that the npcs wear?
-	
+---
+### Dev Team
+- Making the town feel alive
+	- polish npc movement
+	- allow for more dynamic environments
+	- nice details (water shader, atmospheric effects/lighting)
 
 
 
