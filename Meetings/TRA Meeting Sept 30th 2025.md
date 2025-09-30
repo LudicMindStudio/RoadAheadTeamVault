@@ -27,17 +27,18 @@ meeting date:
 
 **Implement Tiles into Unity, Develop Events in Unity, Develop Gameplay Mechanics, Develop Levels in Unity**
 
-4. Quality Feedback
+4. Feedback
 
 **Art Cohesion, Writing Cohesion, Debugging, Feedback that goes into the next sprint**
 
 ---
 ### How will we follow this plan?
 - We are still a small team, don't stress about it too much :)
-- 
-- 
+- The teams focus will be the **current** sprint 
+- We'll start by trying 2ish weeks per phase
 ---
-
+### So Where are we now?
+- Over the summer we did our first "cycle"
 ### Last Development Cycle
 
 
