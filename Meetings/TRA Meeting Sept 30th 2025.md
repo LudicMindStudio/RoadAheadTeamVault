@@ -15,11 +15,13 @@ meeting date:
 ---
 1. Brainstorming
 
-**Concept Art, Story, Lore, Game direction *from here on, all tasks should be clearly assigned to folks**
+**Concept Art, Story, Lore, Game direction**
 
-2. Building Blocks Production
+2. Production
 
-**Draw tiles, Draw Sprites, Write Story, Write Dialogues, Write Events, UI design, Music**
+**Draw tiles, Draw Sprites, Write Story, Write Dialogues, Write Events, UI design, Draft Game Design, Make Music**
+
+---
 
 3. Implementation
 
@@ -27,9 +29,15 @@ meeting date:
 
 4. Quality Feedback
 
-**: Art cohesion in the game (art style is the same, colors work well), Writing Cohesion (writing style is consistent, themes are consistent), Debugging
+**Art Cohesion, Writing Cohesion, Debugging, Feedback that goes into the next sprint**
 
 ---
+### How will we follow this plan?
+- We are still a small team, don't stress about it too much :)
+- 
+- 
+---
+
 ### Last Development Cycle
 
 
