@@ -39,9 +39,11 @@ meeting date:
 ---
 ### So Where are we now?
 - Over the summer we did our first "cycle"
-- Today we will briefly summarise and get right into the production phase again 
+- Today we will briefly summarise and get right into the **production** phase again 
 ### Last Development Cycle
-
+**Basics of the engine**
+- first map
+- player 
 
 # Recording
 
