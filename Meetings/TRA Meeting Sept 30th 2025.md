@@ -53,6 +53,7 @@ meeting date:
 - dialogue portraits
 - first item
 - smaller events/interactions
+- plethora of bug fixes
 ---
 ### Next Sprint
 **Town Beginnings**
