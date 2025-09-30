@@ -33,13 +33,13 @@ meeting date:
 
 ---
 ### How will we follow this plan?
-- We are still a small team, don't stress about it too much :)
+- We are still a small team and learning is still the priority, don't stress about it too much :)
 - The team's focus will be the **current** sprint 
 - We'll start by trying 2ish weeks per phase
 ---
 ### So Where are we now?
 - Over the summer we did our first "cycle"
-- Today we will refine the results of the 
+- Today we will briefly summarise and get right into the production phase again 
 ### Last Development Cycle
 
 
