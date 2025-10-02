@@ -211,6 +211,240 @@ Location: Lakshmi's house
 #####################################################################
 
 
+### Stranded Visitor (Felix) [[Stranded Visitor (Felix)]]
+- [x] Not Assigned
+- [ ] Started
+- [ ] Done :)
+ **Assigned**: 
+
+#####################################################################
+
+**Stranded Visitor (Felix)**
+	_I just came to this town for a visit, now I'm scared of the fog and don't want to leave..._
+
+**Movement Event**
+	The Visitor jumps around in fear and looks back and forth
+
+**Dialogue Option**
+	Option 1: _Oh no can i help you?_
+	Option 2: _I'll help you later!_
+
+**[[Stranded Visitor (Felix)]]**
+	`If Option1`
+		_Yes help me out of the village!_
+	`If Option2`
+		_Ok please come back soon!_
+	
+#####################################################################
+
+### Little Girl 1 (Cat) [[Little Girl 1 (Cat)]]
+- [x] Not Assigned
+- [ ] Started
+- [ ] Done :)
+ **Assigned**: 
+
+#####################################################################
+
+**Event**
+	Cat is sitting near the docks with Tullia and Sammy. They are talking among themselves. Lakshmi comes near and Cat calls her out. 
+
+*Cat* (Standing up; looking in Lakshmi's direction)
+	_Hey you! Why are you just standing there?. What are you doing here?
+	
+*Lakshmi*
+	_Hi sorry to disturb. I'm a new postal worker. I've been so focused on my studies that it's like I've been in my own world. I was taking a little break to enjoy the sea breeze._
+
+*Sammy*
+	_It used to be a lot nicer around here. Along with the sea breeze, you would hear dolphins clicking and whistling. Now, we can mostly hear villagers shouting._
+
+*Tullia*
+	_I don't like passing by the protesters... they're loud._
+
+*Lakshmi*
+	Choices:
+		1. _Protesters?_
+			*Cat*
+				_Yes, they are led by François. They all seem angry, but don't actually do anything other than shout. They usually hang around the dolphin statue. Just be mindful if there are any houses you need to get to in that area._
+			*Lakshmi*
+				_Oh! Okay. Thank you. See you around kids!_
+		2. _I don't hear any shouting?_
+			*Cat*
+				_François and his gang usually hang around the dolphin statue. Just be mindful of them if there are any houses you need to get to in that area._
+			*Lakshmi*
+				_Oh! Okay. Thank you. See you around kids!_
+
+*Lakshmi* (in her head)
+	_Alright, now I need to get to 26 Statue Corner. Oh, I guess I'll keep an eye out for the protesters._
 
 
+	
+#####################################################################
 
+### Little Girl 2 (Tullia) [[Little Girl 2 (Tullia)]]
+- [x] Not Assigned
+- [ ] Started
+- [ ] Done :)
+ **Assigned**: 
+
+#####################################################################
+**Event**
+	Lakshmi goes up to Tullia (who is alone) to begin a conversation
+
+**Tullia**
+	_Hi, sorry. I have to find Cat._
+#####################################################################
+
+
+### Little Boy 1 (Sammy) [[Little Boy 1 (Sammy)]]
+- [x] Not Assigned
+- [ ] Started
+- [ ] Done :)
+ **Assigned**: 
+
+#####################################################################
+**Event**
+	Sammy is in front of his house looking for worms and bugs while Lakshmi arrives at his front door.
+
+*Lakshmi*
+	_Hello! I'm here to deliver mail for Libby?_
+
+*Sammy*
+	_Hi, that's my mom. You can leave it on the ground. I'll bring it inside once I'm done here._
+
+*Lakshmi*
+	_Okay!_
+	Choices:
+		1. _What are you doing exactly?_
+			*Sammy*
+				_I'm just picking worms and bugs for my turtle. My parents built a little sanctuary for Abby in the back._
+			*Lakshmi*
+				_Abby?_
+			*Sammy*
+				_Abby is the turtle we rescued. We found her on the shore badly hurt and we've been taking care of her. Luckily, she's not one of those big turtles. Do you want to see her?_ 
+			*Lakshmi* 
+				_Maybe another time. Have fun kid._
+		2. _Have a good day, kid!_
+
+**Event**
+	As Lakshmi is about to leave the premises, Sammy takes her hand and brings her to see Abby. 
+
+*Sammy*
+	_There she is. We've been taking good care of her. Just like those workers at the dolphin sanctuary. Too bad no one believes them._
+
+*Lakshmi*
+	_She is adorable. Thank you for showing her to me. I have to get going kid. Bye!_
+
+**Event**
+	Lakshmi leaves as Sammy stays silently behind looking proudly at Abby. 
+#####################################################################
+
+### Little Boy 2 (Oliver) [[Little Boy 2 (Oliver)]]
+- [x] Not Assigned
+- [ ] Started
+- [ ] Done :)
+ **Assigned**: 
+
+#####################################################################
+
+**Event**
+	Lakshmi sees Oliver staring in the horizon. Lakshmi comes up to him and sits down. 
+
+*Lakshmi*
+	_Hey, I've been seeing you alone staring into the horizon around the village._
+
+*Oliver*
+	_Hey. I enjoy solitude plus I enjoy watching the nature around us. It's nice to admire what is right in front of you. 
+
+*Lakshmi*
+	_Okay, I just wanted to check on you. I have mail to deliver close by. Do you happen to know where 92 Peak street is?
+
+*Oliver*
+	_Yes, that's where I live. I can bring you there. Follow me. 
+
+Choices:
+	1. Follow Oliver.
+		*Lakshmi*
+			_Oh! Thank you._
+	2. Take your own way.
+		*Lakshmi*
+			_It's okay, I will figure it out. Thank you._
+		*Oliver*
+			_As you wish _
+			
+#####################################################################
+
+### Little Boy 3 (Elio) [[Little Boy 3 (Elio)]]
+- [x] Not Assigned
+- [ ] Started
+- [ ] Done :)
+ **Assigned**: 
+
+#####################################################################
+**Event**
+	While Lakshmi crosses the a bridge to get to the dolphin statue corner, Elio intercepts her.
+
+*Elio*
+	_Hello! Did you know that the male seahorse gives birth?_
+	
+*Lakshmi*
+	_Haha... no I didn't know._
+
+*Elio*
+	_Did you know that octupuses have 3 hearts? Animals are so interesting!_
+
+*Lakshmi*
+	_No, I..._
+*ELio*
+	 _Animals are so interesting!_
+
+*Lakshmi*
+	*Yes, they...*
+	
+*Elio*
+	_Did you know that sea otters hold hands when they sleep on their backs?_
+
+*Lakshmi*
+	_Sorry, I have to go. Thank you for the fun facts._
+
+*Elio*
+	_I wouldn't go that way if I were you but do as you wish!_
+
+**Event**
+	Elio leaves happily. Lakshmi continues crossing the bridge a bit scared. 
+#####################################################################
+
+
+### Little Boy 2 (Oliver) [[Little Boy 2 (Oliver)]]
+- [x] Not Assigned
+- [ ] Started
+- [ ] Done :)
+ **Assigned**: 
+
+#####################################################################
+
+**Event**
+	Lakshmi sees Oliver staring in the horizon. Lakshmi comes up to him and sits down. 
+
+*Lakshmi*
+	_Hey, I've been seeing you alone staring into the horizon around the village._
+
+*Oliver*
+	_Hey. I enjoy solitude plus I enjoy watching the nature around us. It's nice to admire what is right in front of you. 
+
+*Lakshmi*
+	_Okay, I just wanted to check on you. I have mail to deliver close by. Do you happen to know where 92 Peak street is?
+
+*Oliver*
+	_Yes, that's where I live. I can bring you there. Follow me. 
+
+Choices:
+	1. Follow Oliver.
+		*Lakshmi*
+			_Oh! Thank you._
+	2. Take your own way.
+		*Lakshmi*
+			_It's okay, I will figure it out. Thank you._
+		*Oliver*
+			_As you wish _
+			
+#####################################################################
