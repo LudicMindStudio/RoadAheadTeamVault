@@ -13,8 +13,10 @@ Goal: Review the dialogue and add feedback with the ___ plugin (WIP)
  
 Refer to : [[Dolphin Bay - Elements to be reviewed]]
 
-Links to overarching story of Dolphin Bay: [[Dolphin Bay Story]] [[Dolphin Bay - Storyline]] [[Dolphin Bay - Storyline 2]] [[Dolphin Bay - Storyline1]]
+Links to overarching story of Dolphin Bay: [[Dolphin Bay Story]] [[Dolphin Bay - Storyline]] [[Dolphin Bay - Storyline 2]] [[Dolphin Bay - Storyline1]] [[Trent's Dolphin bay notes]]
 # Content
+
+# ACT 1 Dialogue
 ### Scene 1 [[Dolphin Bay Story]]
 - [x] Not Assigned
 - [ ] Started
@@ -413,38 +415,6 @@ Choices:
 	Elio leaves happily. Lakshmi continues crossing the bridge a bit scared. 
 #####################################################################
 
-
-### Little Boy 2 (Oliver) [[Little Boy 2 (Oliver)]]
-- [x] Not Assigned
-- [ ] Started
-- [ ] Done :)
- **Assigned**: 
-
-#####################################################################
-
-**Event**
-	Lakshmi sees Oliver staring in the horizon. Lakshmi comes up to him and sits down. 
-
-*Lakshmi*
-	_Hey, I've been seeing you alone staring into the horizon around the village._
-
-*Oliver*
-	_Hey. I enjoy solitude plus I enjoy watching the nature around us. It's nice to admire what is right in front of you. 
-
-*Lakshmi*
-	_Okay, I just wanted to check on you. I have mail to deliver close by. Do you happen to know where 92 Peak street is?
-
-*Oliver*
-	_Yes, that's where I live. I can bring you there. Follow me. 
-
-Choices:
-	1. Follow Oliver.
-		*Lakshmi*
-			_Oh! Thank you._
-	2. Take your own way.
-		*Lakshmi*
-			_It's okay, I will figure it out. Thank you._
-		*Oliver*
-			_As you wish _
-			
-#####################################################################
+# ACT 2 Dialogue
+# ACT 3 Dialogue
+# Epilogue Dialogue
