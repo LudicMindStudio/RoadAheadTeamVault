@@ -17,6 +17,7 @@ Links to overarching story of Dolphin Bay: [[Dolphin Bay Story]] [[Dolphin Bay -
 # Content
 
 # ACT 1 Dialogue
+## Progression Dialogue (progresses the quest)
 ### Scene 1 [[Dolphin Bay Story]]
 - [x] Not Assigned
 - [ ] Started
@@ -57,17 +58,6 @@ Location: Lakshmi's house
 	"Cya Grandpa Dan!"
 	
 #####################################################################
-
-**Character 1**
-	_Dialogue_
-
-**Event**
-	Description
-
-**Character 2**
-	`If variable is true`
-		_Dialogue_
-
 
 ### Event 1 post exam [[Dolphin Bay - Event 1 post exam]]
 - [x] Not Assigned
@@ -212,7 +202,7 @@ Location: Lakshmi's house
 	
 #####################################################################
 
-
+## Exploration Dialogue (optional, contextual)
 ### Stranded Visitor (Felix) [[Stranded Visitor (Felix)]]
 - [x] Not Assigned
 - [ ] Started

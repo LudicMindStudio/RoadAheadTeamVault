@@ -56,5 +56,7 @@ ACT 3
 	- maybe techniques from the memories?
 - Before the disaster strikes she does a speech and changes the minds of the towns folks
 
+	CL brainstorming:   
+
 Epilogue
  - Establish the relationship between the protests gained power and the dolphin sanctuary employees
