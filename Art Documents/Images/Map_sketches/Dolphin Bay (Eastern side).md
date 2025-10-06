@@ -18,8 +18,8 @@ Here's more examples:
 
 **Garden area**
 ![[IMG_5745.jpg]]
-This part of town should be surrounded by wooden fences and have a cozy, "DIY" feel to it. Each food type should have its own section, ex: vegetables in one spot, grains in another, trees in another. I placed a gazebo in the middle where NPCs can relax, as well as a little wooden shed and well on the far left side.
-(In the map I only drew in apple trees but we should have a variety!)
+This part of town should be surrounded by wooden fences and have a cozy, "DIY" feel to it. Each food type should have its own section, ex: vegetables in one spot, grains in another, trees in another. In the map, I placed a gazebo in the middle where NPCs can relax, as well as a little wooden shed and well on the far left side.
+(Also I only drew in apple trees but we should have a variety!)
 
 more examples:
 ![[IMG_5746.jpg]]![[IMG_5741.jpg]]
