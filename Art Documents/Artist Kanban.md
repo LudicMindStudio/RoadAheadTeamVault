@@ -6,19 +6,18 @@ kanban-plugin: board
 
 ## To do
 
-- [ ] Test Card Artist #Fast @{2025-07-06}
 
 
 ## In Progress
 
-- [ ] Basic outdoor tileset : house tileset #Medium @{2025-07-23}: Corina
-- [ ] Basic indoor tileset: grass #Medium @{2025-07-18} : Nina
 
 
 ## Complete
 
 - [x] Dummy Card #Fast #ASAP @{2025-06-25} : Corina
+- [x] Basic indoor tileset: grass #Medium @{2025-07-18} : Nina
 - [x] Test Card Artist #Fast @{2025-07-02} : Connie
+- [x] Basic outdoor tileset : house tileset #Medium @{2025-07-23}: Corina
 - [x] NPC Character Concept Art **[[Old Sailor Garp]]** #Medium @{2025-07-18} : Michael
 - [x] #Exercise Copy [[this]] character design in pixel art using [[Spriter's Resource]] : Corina #Challenging @{2025-07-11}
 - [x] Lakshmi Sprite 32x64 (walking cycle, facing up, down and sides) (example but can change it) [[Art Documents/Rough Sketches/Lakshmi sprite.png]] please refer to the original concept art by Michael  #Challenging @{2025-07-16} : Michael

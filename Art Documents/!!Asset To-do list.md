@@ -85,3 +85,21 @@ Ui
 
 -UI
 --Tiled
+
+## (WIP) Dolphin Bay (Sprint 2)
+
+| Name                              | Category | Assigned to | Priority | Status |
+| --------------------------------- | -------- | ----------- | -------- | ------ |
+| Bench                             | Tileset  |             |          |        |
+| Flower Pots                       | Tileset  |             |          |        |
+| Artisan Stands (Different Angles) | Sprite   |             |          |        |
+| Fruit Stands (Different angles)   | Sprite   |             |          |        |
+| Podium for protestors (big )      | Sprite   |             |          |        |
+|                                   | Sprite   |             |          |        |
+|                                   | Sprite   |             |          |        |
+|                                   | Sprite   |             |          |        |
+|                                   | Sprite   |             |          |        |
+|                                   | Sprite   |             |          |        |
+|                                   | Sprite   |             |          |        |
+|                                   | Sprite   |             |          |        |
+|                                   | Sprite   |             |          |        |
