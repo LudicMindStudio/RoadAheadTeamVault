@@ -1,12 +1,12 @@
-Ill be going over some main points about the map design and using reference images to better illustrate my ideas.
+Ill be going over some main points about this map and using reference images to better illustrate my ideas.
 ![[IMG_2191.jpg]]
 
  Anything can be added or removed, if you have any feedback feel free to let me know!
-  Any finer details that we would need to further fill up space can be focused on later (for example: small plants, light posts, flowers etc.) But for now we can focus on the main assets.
+Any finer details that we would need, to further fill up space, can be focused on later (for example: small plants, light posts, flowers etc.) But for now we can focus on the main assets.
 
 **Sea wall**
 ![[IMG_5702 1.jpg]]
-The sea wall should mostly be on the same level as the town, with plenty of space for NPCs to walk alongside it. The botto
+The sea wall should mostly be on the same level as the town, lined with light posts and plenty of space for NPCs to walk alongside the top. The bottom part will be more rocky- supported by bigger rocks/boulders. It will connect to sand tiles which will then connect to the sea.
 
 **The Bridge**
 ![[IMG_5738.jpg]]This is the idea I had for bridge design, as well as the fishing area. (could also add birds resting on top of the logs if we want to).
@@ -31,3 +31,6 @@ The garden should look abundant and full of life; the details which we will sort
 ![[playground.png]]The playground shouldn't be anything fancy. Imagine seesaws built from planks of wood, basic handmade swing sets, a tire swing hanging from a tree.
 
 Note: This is where the child NPCs will spend a lot of time. Which is why the protester podium is near it. The kids will overhear what the protesters say. So they'll have valuable intel about the town to relay back to Lakshmi.
+
+**More references**
+![[IMG_5744.jpg]]![[IMG_5749.jpg]]![[IMG_5743.jpg]]
