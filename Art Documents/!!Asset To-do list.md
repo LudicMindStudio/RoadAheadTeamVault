@@ -110,4 +110,4 @@ Ui
 | Outdoor lamps                     | Sprite    |             |          |        |
 | Waves crashing against beach      | Animation |             |          |        |
 | Fishing roads                     | Sprite    |             |          |        |
-|                                   |           |             |          |        |
+| Apple trees                       | Sprite    |             |          |        |
