@@ -1,8 +1,6 @@
-Ill be going over some main points about this map and using reference images to better illustrate my ideas.
+Ill be going over some main points about this map and using reference images to better illustrate the ideas.
 ![[IMG_2191.jpg]]
-
- Anything can be added or removed, if you have any feedback feel free to let me know!
-Any finer details that we would need, to further fill up space, can be focused on later (for example: small plants, light posts, flowers etc.) But for now we can focus on the main assets.
+(Rough drawing of the map. more details can be added to the town later on!)
 
 **Sea wall**
 ![[IMG_5702 1.jpg]]
@@ -12,7 +10,7 @@ The sea wall should mostly be on the same level as the town, lined with light po
 ![[IMG_5738.jpg]]This is the idea I had for bridge design, as well as the fishing area. (could also add birds resting on top of the logs if we want to).
 
 **Commerce/market area**
-![[IMG_5740.jpg]]I had the idea to have some of the market stands directly connect to buildings, as if the owner lives right above the workplace.
+![[IMG_5740.jpg]] I liked the idea of having some market stands directly connecting to buildings, as if the owner lives right above the workplace.
 As for the style of the buildings, I did end up liking this design as well. But if anyone has other ideas let me know!
 
 Here's more examples:
