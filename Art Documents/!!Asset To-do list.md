@@ -88,29 +88,32 @@ Ui
 
 ## (WIP) Dolphin Bay (Sprint 2)
 
-| Name                              | Category  | Assigned to | Priority | Status |
-| --------------------------------- | --------- | ----------- | -------- | ------ |
-| Bench                             | Sprite    |             |          |        |
-| Flower Pots                       | Sprite    |             |          |        |
-| Artisan Stands (Different Angles) | Sprite    |             |          |        |
-| Fruit Stands (Different angles)   | Sprite    |             |          |        |
-| Inn (bigger than typical houses)  | Sprite    |             |          |        |
-| House                             | Sprite    |             |          |        |
-| Bridge                            | Tileset   |             |          |        |
-| Sandy Road                        | Tileset   |             |          |        |
-| Gardening space (fruits, veggies) | Tileset   |             |          |        |
-| Well                              | Sprite    |             |          |        |
-| Gazebo                            | Sprite    |             |          |        |
-| Rocky road                        | Tileset   |             |          |        |
-| Seesaw (for playground)           | Sprite    |             |          |        |
-| Swing (for playground)            | Sprite    |             |          |        |
-| Spinner (for playground)          | Sprite    |             |          |        |
-| Dolphin spring (for playground)   | Sprite    |             |          |        |
-| Natural rock wall                 | Tileset   |             |          |        |
-| Outdoor lamps                     | Sprite    |             |          |        |
-| Waves crashing against beach      | Animation |             |          |        |
-| Fishing roads                     | Sprite    |             |          |        |
-| Apple trees                       | Sprite    |             |          |        |
+| Name                              | Category   | Assigned to | Priority | Status |
+| --------------------------------- | ---------- | ----------- | -------- | ------ |
+| Bench                             | Sprite     |             |          |        |
+| Flower Pots                       | Sprite     |             |          |        |
+| Artisan Stands (Different Angles) | Sprite     |             |          |        |
+| Fruit Stands (Different angles)   | Sprite     |             |          |        |
+| Inn (bigger than typical houses)  | Sprite     |             |          |        |
+| House                             | Sprite     |             |          |        |
+| Bridge                            | Tileset    |             |          |        |
+| Sandy Road                        | Tileset    |             |          |        |
+| Gardening space (fruits, veggies) | Tileset    |             |          |        |
+| Well                              | Sprite     |             |          |        |
+| Gazebo                            | Sprite     |             |          |        |
+| Rocky road                        | Tileset    |             |          |        |
+| Seesaw (for playground)           | Sprite     |             |          |        |
+| Swing (for playground)            | Sprite     |             |          |        |
+| Spinner (for playground)          | Sprite     |             |          |        |
+| Dolphin spring (for playground)   | Sprite     |             |          |        |
+| Natural rock wall                 | Tileset    |             |          |        |
+| Outdoor lamps                     | Sprite     |             |          |        |
+| Waves crashing against beach      | Animation  |             |          |        |
+| Fishing roads                     | Sprite     |             |          |        |
+| Apple trees                       | Sprite     |             |          |        |
+| Seagul                            | Map sprite |             |          |        |
+| Lifeguard float ring              | Sprite     |             |          |        |
+| Buoys                             | Sprite     |             |          |        |
 Ideas by CL
 
 ![[DB tiles_sprites concept 1.png]] 
