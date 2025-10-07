@@ -111,3 +111,6 @@ Ui
 | Waves crashing against beach      | Animation |             |          |        |
 | Fishing roads                     | Sprite    |             |          |        |
 | Apple trees                       | Sprite    |             |          |        |
+Ideas by CL
+
+![[DB tiles_sprites concept 1.png]] 
