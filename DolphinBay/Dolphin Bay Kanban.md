@@ -22,6 +22,7 @@ tags:
 
 - [ ] [[Dolphin Bay NPC Art]]
 - [ ] [[Slice Art]]
+- [ ] [[Map Inspiration#Dolphin Bay Inspo]]
 
 
 ## Development Tasks
