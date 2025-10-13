@@ -88,6 +88,45 @@ Ui
 
 ## (WIP) Dolphin Bay (Sprint 2)
 
+### Basic - Ground
+
+| Name                         | Category | Assigned to | Priority | Status |
+| ---------------------------- | -------- | ----------- | -------- | ------ |
+| Seawall                      | Tile     |             | High     |        |
+| Grass tile (rounded)         | Tile     |             |          |        |
+| Dirt road                    | Tile     |             |          |        |
+| Rocks patches (pathway)      | Tile     |             |          |        |
+| Docks                        | Tile     |             |          |        |
+| Fence                        | Tiles    |             |          |        |
+| Big Dolphin                  | Sprite   |             |          |        |
+| Brick road patches (pathway) | Tile     |             |          |        |
+|                              |          |             |          |        |
+
+### Commerce related objects
+
+| Name                             | Category | Assigned to | Priority | Status |
+| -------------------------------- | -------- | ----------- | -------- | ------ |
+| Barrels                          |          |             |          |        |
+| Market stands (different angles) |          |             |          |        |
+|                                  |          |             |          |        |
+
+**To learn how to make the natural/rounded shape tiles
+**Can you superimpose tiles ? (need for transitioning tile)
+**dirt road - to talk in meeting
+**working area : people fishing, building materials, wood
+
+### Animation (later)
+| Name        | Category | Assigned to | Priority | Status |
+| ----------- | -------- | ----------- | -------- | ------ |
+| Ocean waves |          |             |          |        |
+|             |          |             |          |        |
+|             |          |             |          |        |
+|             |          |             |          |        |
+|             |          |             |          |        |
+|
+---
+
+
 | Name                               | Category   | Assigned to | Priority | Status |
 | ---------------------------------- | ---------- | ----------- | -------- | ------ |
 | Bench                              | Sprite     |             |          |        |
@@ -118,4 +157,4 @@ Ui
 |                                    |            |             |          |        |
 Ideas by CL
 
-![[DolphinBayTiles_ConceptArt.png]]
+![[DolphinBayTiles_ConceptArt.png]]![[Pasted image 20251010144333.png]]
