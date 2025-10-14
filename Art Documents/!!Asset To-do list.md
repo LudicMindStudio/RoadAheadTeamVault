@@ -88,34 +88,61 @@ Ui
 
 ## (WIP) Dolphin Bay (Sprint 2)
 
-| Name                               | Category   | Assigned to | Priority | Status |
-| ---------------------------------- | ---------- | ----------- | -------- | ------ |
-| Bench                              | Sprite     |             |          |        |
-| Flower Pots                        | Sprite     |             |          |        |
-| Artisan Stands (Different Angles)  | Sprite     |             |          |        |
-| Fruit Stands (Different angles)    | Sprite     |             |          |        |
-| Inn (bigger than typical houses)   | Sprite     |             |          |        |
-| Bridge                             | Tileset    |             |          |        |
-| Sandy Road                         | Tileset    |             |          |        |
-| Gardening space (fruits, veggies)  | Tileset    |             |          |        |
-| Well                               | Sprite     |             |          |        |
-| Gazebo                             | Sprite     |             |          |        |
-| Rocky road                         | Tileset    |             |          |        |
-| Seesaw (for playground)            | Sprite     |             |          |        |
-| Swing (for playground)             | Sprite     |             |          |        |
-| Spinner (for playground)           | Sprite     |             |          |        |
-| Dolphin spring (for playground)    | Sprite     |             |          |        |
-| Natural rock wall                  | Tileset    |             |          |        |
-| Outdoor lamps                      | Sprite     |             |          |        |
-| Waves crashing against beach       | Animation  |             |          |        |
-| Fishing roads                      | Sprite     |             |          |        |
-| Apple trees                        | Sprite     |             |          |        |
-| Seagul                             | Map sprite |             |          |        |
-| Lifeguard float ring               | Sprite     |             |          |        |
-| Buoys                              | Sprite     |             |          |        |
-| House                              | Sprite     |             |          |        |
-| House with market stands connected | Sprite     |             |          |        |
-|                                    |            |             |          |        |
+### Basic - Ground
+**Notes:
+- **Learn how to make the natural/rounded shape tiles
+- **For ground - transitioning tiles: Can you superimpose tiles ? How do they look in Unity? 
+* **Question about the dirt road - to talk in meeting
+
+| Name                             | Category | Assigned to | Priority | Status |
+| -------------------------------- | -------- | ----------- | -------- | ------ |
+| Seawall                          | Tile     |             | High     |        |
+| Grass tile (rounded)             | Tile     |             | High     |        |
+| Dirt road                        | Tile     |             | High     |        |
+| Rocks patches (pathway)          | Tile     |             | High     |        |
+| Docks                            | Tile     |             | High     |        |
+| Fence                            | Tiles    |             | Medium   |        |
+| Brick road patches (pathway)     | Tile     |             | High     |        |
+| Flowers on grass                 | Tile     |             | Medium   |        |
+| Gardening space (veggies, empty) | Tile     |             | High     |        |
+### Basic objects (Medium size)
+
+| Name                     | Category        | Assigned to | Priority | Status |
+| ------------------------ | --------------- | ----------- | -------- | ------ |
+| Barrels                  | Sprite (Market) |             | Medium   |        |
+| Baskets                  | Sprite (Market) |             | Medium   |        |
+| Fruit trees              | Sprite (Garden) |             | Medium   |        |
+| Well                     | Sprite (Garden) |             | Medium   |        |
+| Lamp                     | Sprite (Garden) |             | Medium   |        |
+| Flower pots              | Sprite          |             | Medium   |        |
+| Benches                  | Sprite          |             | Medium   |        |
+| Lifeguard float ring<br> | Sprite          |             | Medium   |        |
+| Buoys<br>                | Sprite          |             | Medium   |        |
+| Fishing rods             |                 |             | Medium   |        |
+### Custom objects (Big size)
+**Notes:
+* **working area : people fishing, building materials, wood
+
+| Name                                 | Category | Assigned to | Priority | Status |
+| ------------------------------------ | -------- | ----------- | -------- | ------ |
+| Inn (bigger than typical houses)<br> | Sprite   |             | High     |        |
+| Gazeebo                              | Sprite   |             | Medium   |        |
+| Town houses                          | Sprite   |             | High     |        |
+| Market stands (different angles)<br> | Sprite   |             | High     |        |
+| Central Dolphin Fountain             | Sprite   |             | High     |        |
+| Swing                                | Sprite   |             | Medium   |        |
+| Seasaw                               | Sprite   |             | Medium   |        |
+| Spinner (Playground)<br>             | Sprite   |             | Medium   |        |
+| Dolphin spring (for playground)<br>  | Sprite   |             | Medium   |        |
+### Animation (later)
+| Name        | Category      | Assigned to | Priority | Status |
+| ----------- | ------------- | ----------- | -------- | ------ |
+| Ocean waves | Animation     |             | Low      |        |
+| Seaguls     | Animation<br> |             | Low      |        |
+
+---
 Ideas by CL
 
 ![[DolphinBayTiles_ConceptArt.png]]
+Inspiration: Montain-y rural Japan river house villages
+![[Pasted image 20251010144333.png]]
