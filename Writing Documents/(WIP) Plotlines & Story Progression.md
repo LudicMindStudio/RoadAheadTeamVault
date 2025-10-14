@@ -4,9 +4,10 @@ created: 2025-10-07
 ---
 By: Corina
 ### WIP notes
-* add links to different written notes
-* Add progression Acts and previous notes about it
-* Add current state
+- [ ] Talk about it in the team at the end of the 2nd sprint or beginning for 3rd sprint
+- [ ] Add links to different written notes
+- [ ] Add progression Acts and previous notes about it
+- [ ] Add current state?
 
 # Context
 Get familiar with different plots of the game. We are focusing on different parts of the game depending on the sprint (take a look at the most recent Meeting tab page). All plots move at the same time at different rates (take a look at progression part). All should tie in with [[(WIP) Basic Gameplay Loop]]
@@ -21,28 +22,28 @@ note. think of these like an onion. Each peel goes deeper into the onion.
 ### Plot 1: The fog Cataclysm
 Story throughout the game. Will end at the end of the game
 
-Brief description:
-Links:
+*Brief description:* 
+*Links:*
 
 ### Plot 2: Lakshmi's parents mystery
 Story throughout the game. Will end at the end of the game
 
-Brief description:
-Links:
+*Brief description:*
+*Links:*
 [[Solidify our main story overview]]
 [[Old Character Bios]]
 
 ### Plot 3: Village plotline
 Will be self-contained stories within a village. The story should start and end when Lakshmi arrives to a new village
 
-Brief description:
-Links:
+*Brief description:*
+*Links:*
 
 ### Plot 4: Memories 
 Self-contained stories of different NPCs. Should start and end when Lakshmi talks to NPC after delivering mail.  
 
-Brief description:
-Links:
+*Brief description:*
+*Links:*
 
 
 ---
