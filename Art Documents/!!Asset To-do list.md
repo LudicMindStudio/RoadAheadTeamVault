@@ -97,49 +97,48 @@ Ui
 | Name                             | Category | Assigned to | Priority | Status |
 | -------------------------------- | -------- | ----------- | -------- | ------ |
 | Seawall                          | Tile     |             | High     |        |
-| Grass tile (rounded)             | Tile     |             |          |        |
-| Dirt road                        | Tile     |             |          |        |
-| Rocks patches (pathway)          | Tile     |             |          |        |
-| Docks                            | Tile     |             |          |        |
-| Fence                            | Tiles    |             |          |        |
-| Big Dolphin                      | Sprite   |             |          |        |
-| Brick road patches (pathway)     | Tile     |             |          |        |
-| Flowers on grass                 | Tile     |             |          |        |
-| Gardening space (veggies, empty) | Tile     |             |          |        |
+| Grass tile (rounded)             | Tile     |             | High     |        |
+| Dirt road                        | Tile     |             | High     |        |
+| Rocks patches (pathway)          | Tile     |             | High     |        |
+| Docks                            | Tile     |             | High     |        |
+| Fence                            | Tiles    |             | Medium   |        |
+| Brick road patches (pathway)     | Tile     |             | High     |        |
+| Flowers on grass                 | Tile     |             | Medium   |        |
+| Gardening space (veggies, empty) | Tile     |             | High     |        |
 ### Basic objects (Medium size)
 
 | Name                     | Category        | Assigned to | Priority | Status |
 | ------------------------ | --------------- | ----------- | -------- | ------ |
-| Barrels                  | Sprite (Market) |             |          |        |
-| Baskets                  | Sprite (Market) |             |          |        |
-| Fruit trees              | Sprite (Garden) |             |          |        |
-| Well                     | Sprite (Garden) |             |          |        |
-| Lamp                     | Sprite (Garden) |             |          |        |
-| Flower pots              | Sprite          |             |          |        |
-| Benches                  | Sprite          |             |          |        |
-| Lifeguard float ring<br> | Sprite          |             |          |        |
-| Buoys<br>                | Sprite          |             |          |        |
-| Fishing rods             |                 |             |          |        |
+| Barrels                  | Sprite (Market) |             | Medium   |        |
+| Baskets                  | Sprite (Market) |             | Medium   |        |
+| Fruit trees              | Sprite (Garden) |             | Medium   |        |
+| Well                     | Sprite (Garden) |             | Medium   |        |
+| Lamp                     | Sprite (Garden) |             | Medium   |        |
+| Flower pots              | Sprite          |             | Medium   |        |
+| Benches                  | Sprite          |             | Medium   |        |
+| Lifeguard float ring<br> | Sprite          |             | Medium   |        |
+| Buoys<br>                | Sprite          |             | Medium   |        |
+| Fishing rods             |                 |             | Medium   |        |
 ### Custom objects (Big size)
 **Notes:
 * **working area : people fishing, building materials, wood
 
 | Name                                 | Category | Assigned to | Priority | Status |
 | ------------------------------------ | -------- | ----------- | -------- | ------ |
-| Inn (bigger than typical houses)<br> | Sprite   |             |          |        |
-| Gazeebo                              | Sprite   |             |          |        |
-| Town houses                          | Sprite   |             |          |        |
-| Market stands (different angles)<br> | Sprite   |             |          |        |
-| Central Dolphin Fountain             | Sprite   |             |          |        |
-| Swing                                | Sprite   |             |          |        |
-| Seasaw                               | Sprite   |             |          |        |
-| Spinner (Playground)<br>             | Sprite   |             |          |        |
+| Inn (bigger than typical houses)<br> | Sprite   |             | High     |        |
+| Gazeebo                              | Sprite   |             | Medium   |        |
+| Town houses                          | Sprite   |             | High     |        |
+| Market stands (different angles)<br> | Sprite   |             | High     |        |
+| Central Dolphin Fountain             | Sprite   |             | High     |        |
+| Swing                                | Sprite   |             | Medium   |        |
+| Seasaw                               | Sprite   |             | Medium   |        |
+| Spinner (Playground)<br>             | Sprite   |             | Medium   |        |
+| Dolphin spring (for playground)<br>  | Sprite   |             | Medium   |        |
 ### Animation (later)
-| Name                                | Category  | Assigned to | Priority | Status |
-| ----------------------------------- | --------- | ----------- | -------- | ------ |
-| Ocean waves                         | Animation |             |          |        |
-| Dolphin spring (for playground)<br> |           |             |          |        |
-| Seaguls                             |           |             |          |        |
+| Name        | Category      | Assigned to | Priority | Status |
+| ----------- | ------------- | ----------- | -------- | ------ |
+| Ocean waves | Animation     |             | Low      |        |
+| Seaguls     | Animation<br> |             | Low      |        |
 
 ---
 Ideas by CL
