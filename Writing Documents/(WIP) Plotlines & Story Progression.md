@@ -13,9 +13,9 @@ Get familiar with different plots of the game. We are focusing on different part
 
 # Plots
 ---
-**How to use the plots:** Use these to understand the world & make your writing intentional. Intentional - meaning to make a character believable that they live in the game. For ex. an NPC within a village can make a comment about the fog and their life before the cataclysm - thus, progressing the fog plot.  Ex. A villager can talk about their neighbours and what they think about the protest - progressing the village story. 
+**How to use the plots:** Use these to understand the world & make your writing intentional. Intentional - meaning to make a character believable that they live in the game. For ex. an NPC within a village can make a comment about the fog and their life before the cataclysm - thus, adding information (progressing) about the fog mystery. Ex. A villager can talk about their neighbors and what they think about the protest - adding information (progressing) the Dolphin Bay village story. 
 
-**Why is this important:** All plots should eventually converge at the end for the story climax. Keeping track of it will make the plot twist/story climax more impactful.
+**Why is this important:** 1) To keep track what the player knows about the game and how to play it 2) All plots should eventually converge at the end for the story climax. Keeping track of it will make the plot twist/story climax more impactful.
 
 note. think of these like an onion. Each peel goes deeper into the onion. 
 ### Plot 1: The fog Cataclysm
@@ -46,7 +46,7 @@ Links:
 
 
 ---
-# Progression
+# Progression (VERY WIP)
 Plot 1: The fog Cataclysm 
 Plot 2: Lakshmi's parents mystery
 Plot 3: Village plotline (DB = Dolphin Bay, BT = Bubble Town)
@@ -56,4 +56,4 @@ Plot 4: Memories
 ![[Pasted image 20251007162315.png]]
 
 # How all plots are interlinked:
-Need to learn coping strategies from memories that will impact the village plotline. These coping strategies will also impact how Lakshmi reacts to the parents mystery. The Fog will lift from village 
+The player will learn coping strategies from memories that will impact the village plotline. These coping strategies will also impact how Lakshmi reacts to the parents mystery. The Fog will lift from village 
