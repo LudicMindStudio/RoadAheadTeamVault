@@ -12,7 +12,8 @@ By: Arkana and Corina
 Lakshmi graduates from postal guild, then the story of Dolphin Bay starts.
 
 Links to the previous work done about the graduation:
-[[Dolphin Bay - Elements to be reviewed]], [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event 2 post exam]], [[Dolphin Bay - Event 3 post exam]], [[Dolphin Bay Story]]
+Characters: [[Lakshmi]], [[Old Character Bios]]
+Early game notes: [[Dolphin Bay - Elements to be reviewed]], [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event 2 post exam]], [[Dolphin Bay - Event 3 post exam]], [[Dolphin Bay Story]] [[Main Story (Lakshmi's) Loose Brainstorming]]
 
 # Characters
 Lakshmi, Grandpa Dan, Greg.
