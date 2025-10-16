@@ -22,7 +22,7 @@ Lakshmi, Grandpa Dan, Greg.
 ---
 
 ## Drafting the story
-Corina's ideas: 2025-10-13
+Corina's ideas: 2025-10-15
 Brainstorm events before graduation:
 #### Loose progression:
 Lakshmi wakes up in Greg's chalet -> Lakshmi goes to the Guild Hall in Dolphin Bay -> Lakshmi does her exam -> Lakshmi speaks to the intern (enter first memory) -> Lakshmi delivers the first few mail (Start Dolphin Bay story) 
@@ -34,7 +34,7 @@ Lakshmi wakes up in Greg's chalet -> Lakshmi goes to the Guild Hall in Dolphin B
 - [x] Establish Lakshmi as a cheerful and happy go lucky person (finds beauty in the depressing world) (empathize when seeing fog and during exam) [[Lakshmi]]
 - [x] Introduce Grandpa Dan (Deliverymen Headquarters Master) [[Old Character Bios]]
 - [x] Introduce Greg (?? Makes food for Lakshmi) [[Old Character Bios]]
-- [ ] Need to establish that she lost her memory about her parents (? to confirm) (start plot 2) 
+- [ ] Need to establish that she lost her memory about her parents (? - to confirm) (start plot 2) 
 ---
 
 #### Lakshmi wakes up in Greg's chalet
