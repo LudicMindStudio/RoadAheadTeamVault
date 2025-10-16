@@ -13,6 +13,6 @@ She was a young girl when the disaster happened and does not have much memory of
 Notes discord:
 * Eager to get into the action
 * Confident
-* Distracted (player leaping into quests)
+* Enthusiastic, (too much sometimes) Distracted (player leaping into quests)
 * May give unhelpful advice at the beginning (to the intern)
 * Stubborn & impatient (young and innexperiences). POV more nuanced as game progresses

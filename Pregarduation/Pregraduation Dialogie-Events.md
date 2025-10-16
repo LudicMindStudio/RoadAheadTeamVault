@@ -23,24 +23,32 @@ Lakshmi, Grandpa Dan, Greg.
 Corina's ideas: 2025-10-13
 Brainstorm events before graduation:
 
-Introduce
-- Entering memories - intern
-- Main occupation - graduation delivering mail (can test the intern after that)
-- Fog (can be shown at the beginning & during exam the status quo of the world)
-- Establish Lakshmi as a cheerful and happy go lucky person (finds beauty in the depressing world)
-- Introduce Grandpa Dan (Deliverymen Headquarters Master)
-- Introduce Greg (?? Makes food for Lakshmi)
-- Need to establish that she lost her memories (start plot 2)
+#### Loose progression:
+Lakshmi wakes up in Greg's chalet -> Lakshmi goes to the Guild Hall in Dolphin Bay -> Lakshmi does her exam -> Lakshmi speaks to the intern (enter first memory) -> Lakshmi delivers the first few mail (Start Dolphin Bay story) 
 
-List of questions during exam: Lakshmi will comment about her experiences with these :
+#### Checkboxes to include (tutorial for gameplay & introduce story)
+- [ ] Entering memories - (intern)
+- [ ] Main occupation - graduation delivering mail (can test the intern after that)
+- [ ] Fog (can be shown at the beginning & during exam the status quo of the world)
+- [ ] Establish Lakshmi as a cheerful and happy go lucky person (finds beauty in the depressing world) (empathize when seeing fog and during exam)
+- [ ] Introduce Grandpa Dan (Deliverymen Headquarters Master)
+- [ ] Introduce Greg (?? Makes food for Lakshmi)
+- [ ] Need to establish that she lost her memories (start plot 2)
+
+#### Lakshmi wakes up in Greg's chalet
+- 
+#### Lakshmi goes to the Guild Hall in Dolphin Bay 
+#### Lakshmi does her exam 
+List of questions during exam (multiple choice?): Lakshmi will comment about her experiences with these :
 - Economy : isolation between villages. Less economy now. Self sustained villages
 - Technology : fell. No modern means of communication
-- Schools : farming schools
-- Fog : calamity, cant traverse it. Monsters.
+- Schools : farming schools (e.g. Lakshmi comments that prefers farming schools much more over normal schools, likes plants, can add a plant in her room)
+- Fog : calamity, cant traverse it. Monsters. (e.g. can add that she didn't encounter any monster before but she is deeply scared of them)
 - Reason for deliverymen : connect all villages together (maybe have a short verbal saying.) Delivering mail at your doorstep faster than email
-Fun twist to **confirm with dev team** : she is very bored and imagines it as a mini game. Or doodles by accident on the exam page.
 
-Lakshmi : overly excited to go see the world. Is she distracted and overbearing? What are her faults? Very determined to do smth when she gets excited. **To ask on Discord**
+Fun twist to **confirm with dev team** : she is very bored and imagines it as a mini game. Or doodles by accident on the exam page.
+#### Lakshmi speaks to the intern (enter first memory) 
+#### Lakshmi delivers the first few mail (Start Dolphin Bay story) 
 
 ## Dialogue & Events
 
