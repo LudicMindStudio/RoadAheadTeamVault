@@ -110,13 +110,13 @@ Ui
 
 | Name                     | Category        | Assigned to | Priority | Status |
 | ------------------------ | --------------- | ----------- | -------- | ------ |
-| Barrels                  | Sprite (Market) |             | Medium   |        |
-| Baskets                  | Sprite (Market) |             | Medium   |        |
+| Barrels                  | Sprite (Market) | Corina      | Medium   |        |
+| Baskets                  | Sprite (Market) | Corina      | Medium   |        |
 | Fruit trees              | Sprite (Garden) |             | Medium   |        |
-| Well                     | Sprite (Garden) |             | Medium   |        |
-| Lamp                     | Sprite (Garden) |             | Medium   |        |
-| Flower pots              | Sprite          |             | Medium   |        |
-| Benches                  | Sprite          |             | Medium   |        |
+| Well                     | Sprite (Garden) | Corina      | Medium   |        |
+| Lamp                     | Sprite (Garden) | Corina      | Medium   |        |
+| Flower pots              | Sprite          | Corina      | Medium   |        |
+| Benches                  | Sprite          | Corina      | Medium   |        |
 | Lifeguard float ring<br> | Sprite          |             | Medium   |        |
 | Buoys<br>                | Sprite          |             | Medium   |        |
 | Fishing rods             |                 |             | Medium   |        |
@@ -124,17 +124,17 @@ Ui
 **Notes:
 * **working area : people fishing, building materials, wood
 
-| Name                                 | Category | Assigned to | Priority | Status |
-| ------------------------------------ | -------- | ----------- | -------- | ------ |
-| Inn (bigger than typical houses)<br> | Sprite   |             | High     |        |
-| Gazeebo                              | Sprite   |             | Medium   |        |
-| Town houses                          | Sprite   |             | High     |        |
-| Market stands (different angles)<br> | Sprite   |             | High     |        |
-| Central Dolphin Fountain             | Sprite   |             | High     |        |
-| Swing                                | Sprite   |             | Medium   |        |
-| Seasaw                               | Sprite   |             | Medium   |        |
-| Spinner (Playground)<br>             | Sprite   |             | Medium   |        |
-| Dolphin spring (for playground)<br>  | Sprite   |             | Medium   |        |
+| Name                                 | Category | Assigned to | Priority | Status      |
+| ------------------------------------ | -------- | ----------- | -------- | ----------- |
+| Inn (bigger than typical houses)<br> | Sprite   | Corina      | High     |             |
+| Gazeebo                              | Sprite   | Corina      | Medium   |             |
+| Town houses                          | Sprite   | Corina      | High     | In progress |
+| Market stands (different angles)<br> | Sprite   | Corina      | High     |             |
+| Central Dolphin Fountain             | Sprite   | Corina      | High     | In progress |
+| Swing                                | Sprite   |             | Medium   |             |
+| Seasaw                               | Sprite   |             | Medium   |             |
+| Spinner (Playground)<br>             | Sprite   |             | Medium   |             |
+| Dolphin spring (for playground)<br>  | Sprite   |             | Medium   |             |
 ### Animation (later)
 | Name        | Category      | Assigned to | Priority | Status |
 | ----------- | ------------- | ----------- | -------- | ------ |
