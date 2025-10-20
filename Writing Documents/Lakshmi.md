@@ -15,4 +15,4 @@ Notes discord:
 * Confident
 * Enthusiastic, (too much sometimes) Distracted (player leaping into quests)
 * May give unhelpful advice at the beginning (to the intern)
-* Stubborn & impatient (young and innexperiences). POV more nuanced as game progresses
+* Stubborn & impatient (young and inexperienced). POV more nuanced as game progresses

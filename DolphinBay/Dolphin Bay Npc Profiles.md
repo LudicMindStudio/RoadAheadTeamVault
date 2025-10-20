@@ -60,7 +60,7 @@ These characters can be removed completely or we can extract parts of them to ma
 **[[Old Granny (Lisa)]]**
 - [x] Description
 - [ ] Drawing
-- [ ] Dialogue 
+- [x] Dialogue 
 		
 **[[Mysterious Man]]**
 - [x] Description

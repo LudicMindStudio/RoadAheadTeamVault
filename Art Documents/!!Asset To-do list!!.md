@@ -104,7 +104,8 @@ Ui
 | Fence                            | Tiles    |             | Medium   |        |
 | Brick road patches (pathway)     | Tile     |             | High     |        |
 | Flowers on grass                 | Tile     |             | Medium   |        |
-| Gardening space (veggies, empty) | Tile     |             | High     |        |
+| Gardening space (veggies, empty) | Tile     | Aaron       | High     |        |
+
 ### Basic objects (Medium size)
 
 | Name                     | Category        | Assigned to | Priority | Status |
