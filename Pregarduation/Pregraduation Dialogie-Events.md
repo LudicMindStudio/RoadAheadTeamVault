@@ -5,7 +5,7 @@ created: 2025-10-13
 By: Arkana and Corina
 # Progress
 - [ ] Extract Dialogue from RPG Maker
-- [ ] Draft the Pre-Graduation portion. 
+- [x] Draft the Pre-Graduation portion. 
 - [ ] Detail dialogue and events. (Make as many details about the environment for interaction with the map)
 - [ ] Implement in the game
 # Context
@@ -20,7 +20,6 @@ Lakshmi, Grandpa Dan, Greg.
 
 # Content
 ---
-
 ## Drafting the story
 Corina's ideas: 2025-10-15
 Brainstorm events before graduation:
@@ -40,7 +39,7 @@ Lakshmi wakes up in Greg's chalet -> Lakshmi goes to the Guild Hall in Dolphin B
 #### Lakshmi wakes up in Greg's chalet
 *Map [[Greg Chalet]]*
 - Wakes up at her desk, was writing in her journal because got too excited for the exam and stayed late. May be a very brief cameo about her parents. (picture of parents on desk or her lamenting in her journal)
-- Talks with Grandpa Dan who cooks for her breakfsat, tells her shes late
+- Talks with Grandpa Dan who cooks for her breakfast, tells her she's late
 - I need THIS moment with fog. AGGHH. Lakshmi is excited to go on her adventure and do her exam. Takes a moment to look at the scenery. Grandpa Dan tender moment until he gets grumpy and tells her to hurry up.
 ![[Pasted image 20251015202001.png]]
 #### Lakshmi goes to the Guild Hall in Dolphin Bay 

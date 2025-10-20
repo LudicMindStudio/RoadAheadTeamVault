@@ -1,5 +1,5 @@
 Ill be going over some main points about this map and using reference images to better illustrate the ideas.
-![[IMG_2191.jpg]]
+m
 (Rough drawing of the map. more details can be added to the town later on!)
 
 **Sea wall**
