@@ -124,17 +124,17 @@ Ui
 **Notes:
 * **working area : people fishing, building materials, wood
 
-| Name                                 | Category | Assigned to | Priority | Status      |
-| ------------------------------------ | -------- | ----------- | -------- | ----------- |
-| Inn (bigger than typical houses)<br> | Sprite   | Corina      | High     |             |
-| Gazeebo                              | Sprite   | Corina      | Medium   |             |
-| Town houses                          | Sprite   | Corina      | High     | In progress |
-| Market stands (different angles)<br> | Sprite   | Corina      | High     |             |
-| Central Dolphin Fountain             | Sprite   | Corina      | High     | In progress |
-| Swing                                | Sprite   |             | Medium   |             |
-| Seasaw                               | Sprite   |             | Medium   |             |
-| Spinner (Playground)<br>             | Sprite   |             | Medium   |             |
-| Dolphin spring (for playground)<br>  | Sprite   |             | Medium   |             |
+| Name                                 | Category | Assigned to | Priority | Status          |
+| ------------------------------------ | -------- | ----------- | -------- | --------------- |
+| Inn (bigger than typical houses)<br> | Sprite   | Corina      | High     |                 |
+| Gazeebo                              | Sprite   | Corina      | Medium   |                 |
+| Town houses                          | Sprite   | Corina      | High     | In progress     |
+| Market stands (different angles)<br> | Sprite   | Corina      | High     | In progress<br> |
+| Central Dolphin Fountain             | Sprite   | Corina      | High     | Complete        |
+| Swing                                | Sprite   |             | Mediu m  |                 |
+| Seasaw                               | Sprite   |             | Medium   |                 |
+| Spinner (Playground)<br>             | Sprite   |             | Medium   |                 |
+| Dolphin spring (for playground)<br>  | Sprite   |             | Medium   |                 |
 ### Animation (later)
 | Name        | Category      | Assigned to | Priority | Status |
 | ----------- | ------------- | ----------- | -------- | ------ |
@@ -147,3 +147,4 @@ Ideas by CL
 ![[DolphinBayTiles_ConceptArt.png]]
 Inspiration: Montain-y rural Japan river house villages
 ![[Pasted image 20251010144333.png]]
+ 
