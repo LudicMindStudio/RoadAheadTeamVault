@@ -36,3 +36,8 @@ meeting date:
 # Recording
 
 # Live Notes
+
+# Tasks
+* Main story up to graduation - Arkana, Corina
+* Dolphin Bay Protestor story - Trent
+* Dolphin Bay NPC polish - Aaron

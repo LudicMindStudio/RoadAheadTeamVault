@@ -56,7 +56,7 @@ ACT 3
 	- maybe techniques from the memories?
 - Before the disaster strikes she does a speech and changes the minds of the towns folks
 
-	CL random brainstorming: an idea can be to tie in the story to the disappearance of the [[Mysterious Man]]  after the many letters from [[Francois Hustle]]  in [[Dolphin Bay - Storyline 2]]. Maybe he was an important man, like a mayor who is pessimistic of the future and quit his profession. And now he went to the forest and disappeared (maybe Lakshmi can find clues in his house of his whereabouts). The point is to introduce forest exploration and monster fighting (or running away from, for now). She gains courage as she finds the man. She can even enter his memory briefly. Remind the man of who he was and, in turn, give him the courage to go back and settle down the two parties.  
+	CL random brainstorming (before learning of our scope for the current sprint): an idea can be to tie in the story to the disappearance of the [[Mysterious Man]]  after the many letters from [[Francois Hustle]]  in [[Dolphin Bay - Storyline 2]]. Maybe he was an important man, like a mayor who is pessimistic of the future and quit his profession. And now he went to the forest and disappeared (maybe Lakshmi can find clues in his house of his whereabouts). The point is to introduce forest exploration and monster fighting (or running away from, for now). She gains courage as she finds the man. She can even enter his memory briefly. Remind the man of who he was and, in turn, give him the courage to go back and settle down the two parties.  
 
 Epilogue
  - Establish the relationship between the protests gained power and the dolphin sanctuary employees
