@@ -86,7 +86,7 @@ Ui
 -UI
 --Tiled
 
-## (WIP) Dolphin Bay (Sprint 2)
+## Dolphin Bay (Sprint 2)
 
 ### Basic - Ground
 **Notes:
@@ -132,10 +132,10 @@ Ui
 | Town houses                          | Sprite   | Corina      | High     | In progress     |
 | Market stands (different angles)<br> | Sprite   | Corina      | High     | In progress<br> |
 | Central Dolphin Fountain             | Sprite   | Corina      | High     | Complete        |
-| Swing                                | Sprite   |             | Medium   |                 |
-| Seasaw                               | Sprite   |             | Medium   |                 |
-| Spinner (Playground)<br>             | Sprite   |             | Medium   |                 |
-| Dolphin spring (for playground)<br>  | Sprite   |             | Medium   |                 |
+| Swing                                | Sprite   |             | Low      |                 |
+| Seasaw                               | Sprite   |             | Low      |                 |
+| Spinner (Playground)<br>             | Sprite   |             | Low      |                 |
+| Dolphin spring (for playground)<br>  | Sprite   |             | Low      |                 |
 ### Animation (later)
 | Name        | Category      | Assigned to | Priority | Status |
 | ----------- | ------------- | ----------- | -------- | ------ |
