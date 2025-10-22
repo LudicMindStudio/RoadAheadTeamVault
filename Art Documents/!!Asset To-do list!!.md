@@ -90,15 +90,13 @@ Ui
 
 ### Basic - Ground
 **Notes:
-- **Learn how to make the natural/rounded shape tiles
-- **For ground - transitioning tiles: Can you superimpose tiles ? How do they look in Unity? 
-* **Question about the dirt road - to talk in meeting
+- **Learn how to make the natural/rounded/hexagonal shaped tiles 
 
 | Name                             | Category | Assigned to | Priority | Status |
 | -------------------------------- | -------- | ----------- | -------- | ------ |
-| Seawall                          | Tile     |             | High     |        |
+| Seawall                          | Tile     | Nina        | High     |        |
 | Grass tile (rounded)             | Tile     |             | High     |        |
-| Dirt road                        | Tile     |             | High     |        |
+| Dirt road                        | Tile     | Nina        | High     |        |
 | Rocks patches (pathway)          | Tile     |             | High     |        |
 | Docks                            | Tile     |             | High     |        |
 | Fence                            | Tiles    |             | Medium   |        |
@@ -106,32 +104,35 @@ Ui
 | Flowers on grass                 | Tile     |             | Medium   |        |
 | Gardening space (veggies, empty) | Tile     | Aaron       | High     |        |
 
+
 ### Basic objects (Medium size)
 
-| Name                     | Category        | Assigned to | Priority | Status |
-| ------------------------ | --------------- | ----------- | -------- | ------ |
-| Barrels                  | Sprite (Market) | Corina      | Medium   |        |
-| Baskets                  | Sprite (Market) | Corina      | Medium   |        |
-| Fruit trees              | Sprite (Garden) |             | Medium   |        |
-| Well                     | Sprite (Garden) | Corina      | Medium   |        |
-| Lamp                     | Sprite (Garden) | Corina      | Medium   |        |
-| Flower pots              | Sprite          | Corina      | Medium   |        |
-| Benches                  | Sprite          | Corina      | Medium   |        |
-| Lifeguard float ring<br> | Sprite          |             | Medium   |        |
-| Buoys<br>                | Sprite          |             | Medium   |        |
-| Fishing rods             |                 |             | Medium   |        |
+| Name                     | Category        | Assigned to | Priority | Status      |
+| ------------------------ | --------------- | ----------- | -------- | ----------- |
+| Barrels                  | Sprite (Market) | Corina      | Medium   | In progress |
+| Baskets                  | Sprite (Market) | Corina      | Medium   |             |
+| Fruit trees              | Sprite (Garden) |             | Medium   |             |
+| Well                     | Sprite (Garden) |             | Medium   |             |
+| Lamp                     | Sprite (Garden) |             | Medium   |             |
+| Flower pots              | Sprite          |             | Medium   |             |
+| Benches                  | Sprite          |             | Medium   |             |
+| Lifeguard float ring<br> | Sprite          |             | Medium   |             |
+| Buoys<br>                | Sprite          |             | Medium   |             |
+| Fishing rods             | Sprite          |             | Medium   |             |
+| Trees                    | Sprite          | Nina        | High     |             |
+
 ### Custom objects (Big size)
 **Notes:
 * **working area : people fishing, building materials, wood
 
 | Name                                 | Category | Assigned to | Priority | Status          |
 | ------------------------------------ | -------- | ----------- | -------- | --------------- |
-| Inn (bigger than typical houses)<br> | Sprite   | Corina      | High     |                 |
+| Inn (bigger than typical houses)<br> | Sprite   | Corina      | High     | In progress     |
 | Gazeebo                              | Sprite   | Corina      | Medium   |                 |
 | Town houses                          | Sprite   | Corina      | High     | In progress     |
 | Market stands (different angles)<br> | Sprite   | Corina      | High     | In progress<br> |
 | Central Dolphin Fountain             | Sprite   | Corina      | High     | Complete        |
-| Swing                                | Sprite   |             | Mediu m  |                 |
+| Swing                                | Sprite   |             | Medium   |                 |
 | Seasaw                               | Sprite   |             | Medium   |                 |
 | Spinner (Playground)<br>             | Sprite   |             | Medium   |                 |
 | Dolphin spring (for playground)<br>  | Sprite   |             | Medium   |                 |
