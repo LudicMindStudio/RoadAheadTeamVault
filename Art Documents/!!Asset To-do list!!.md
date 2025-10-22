@@ -1,4 +1,4 @@
-e
+
 Couple of notes:
 
 - In general, when I say something has to be some amount of tiles tall/wide, it refers to a 16x16 square. Basically the same size as the tiles in tile sets.
