@@ -51,7 +51,7 @@ _The love of my life taught me to respect and love them all. Every living thing.
 _What was her name?_
 
 *Lisa*
-_I called her Mo. She passed away years ago. Probably before you were even born. 
+_Mo. She passed away years ago. Probably before you were even born. 
 
 *Lakshmi*
 _That must have been very hard_
