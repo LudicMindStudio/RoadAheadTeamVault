@@ -113,7 +113,7 @@ Happens after the grasshopper conversation
 **Event**
 	Greg walks away.
 **Lakshmi**
-	_Ok, bring on quation 1!_
+	_Ok, bring on question 1!_
 		1) The fog that effects our world is most receptive to what human condition?
 			1) Hunger
 				1) _It was hunger that makes the fog appear right?_

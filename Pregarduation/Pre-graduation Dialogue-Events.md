@@ -1,10 +1,10 @@
 ---
-tags: 
+tags:
 created: 2025-10-13
 ---
 By: Arkana and Corina
 # Progress
-- [ ] Extract Dialogue from RPG Maker
+- [x] Extract Dialogue from RPG Maker
 - [x] Draft the Pre-Graduation portion. 
 - [ ] Detail dialogue and events. (Make as many details about the environment for interaction with the map)
 - [ ] Implement in the game
@@ -16,7 +16,7 @@ Characters: [[Lakshmi]], [[Old Character Bios]]
 Early game notes: [[Dolphin Bay - Elements to be reviewed]], [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event 2 post exam]], [[Dolphin Bay - Event 3 post exam]], [[Dolphin Bay Story]] [[Main Story (Lakshmi's) Loose Brainstorming]]
 
 # Characters
-Lakshmi, Grandpa Dan, Greg.
+Lakshmi, Grandpa Dan, Greg. Intern. [[Guild Receptionist (Robert)]]
 
 # Content
 ---
