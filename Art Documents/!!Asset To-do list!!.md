@@ -100,7 +100,7 @@ Ui
 | Rocks patches (pathway)          | Tile     |             | High     |        |
 | Docks                            | Tile     |             | High     |        |
 | Fence                            | Tiles    |             | Medium   |        |
-| Brick road patches (pathway)     | Tile     |             | High     |        |
+| Brick road patches (pathway)     | Tile     | Nina        | High     |        |
 | Flowers on grass                 | Tile     |             | Medium   |        |
 | Gardening space (veggies, empty) | Tile     | Aaron       | High     |        |
 
