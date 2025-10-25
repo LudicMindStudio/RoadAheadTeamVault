@@ -4,7 +4,8 @@ tags:
 created:
   "{ date }":
 ---
-Goal: Review the dialogue and add feedback with the ___ plugin (WIP). 
+# Goal: 
+Review the dialogue and add feedback with the ___ plugin (WIP). 
 # Progress
 - [x] Not Assigned
 - [ ] Started

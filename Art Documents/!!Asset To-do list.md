@@ -123,17 +123,18 @@ Ui
 **Notes:
 * **working area : people fishing, building materials, wood
 
-| Name                                 | Category | Assigned to | Priority | Status |
-| ------------------------------------ | -------- | ----------- | -------- | ------ |
-| Inn (bigger than typical houses)<br> | Sprite   |             | High     |        |
-| Gazeebo                              | Sprite   |             | Medium   |        |
-| Town houses                          | Sprite   |             | High     |        |
-| Market stands (different angles)<br> | Sprite   |             | High     |        |
-| Central Dolphin Fountain             | Sprite   |             | High     |        |
-| Swing                                | Sprite   |             | Medium   |        |
-| Seasaw                               | Sprite   |             | Medium   |        |
-| Spinner (Playground)<br>             | Sprite   |             | Medium   |        |
-| Dolphin spring (for playground)<br>  | Sprite   |             | Medium   |        |
+| Name                                 | Category | Assigned to | Priority | Status |     |
+| ------------------------------------ | -------- | ----------- | -------- | ------ | --- |
+| Inn (bigger than typical houses)<br> | Sprite   |             | High     |        |     |
+| Gazeebo                              | Sprite   |             | Medium   |        |     |
+| Town houses                          | Sprite   |             | High     |        |     |
+| Market stands (different angles)<br> | Sprite   |             | High     |        |     |
+| Central Dolphin Fountain             | Sprite   |             | High     |        |     |
+| Swing                                | Sprite   |             | Medium   |        |     |
+| Seasaw                               | Sprite   |             | Medium   |        |     |
+| Spinner (Playground)<br>             | Sprite   |             | Medium   |        |     |
+| Dolphin spring (for playground)<br>  | Sprite   |             | Medium   |        |     |
+
 ### Animation (later)
 | Name        | Category      | Assigned to | Priority | Status |
 | ----------- | ------------- | ----------- | -------- | ------ |
@@ -146,3 +147,19 @@ Ideas by CL
 ![[DolphinBayTiles_ConceptArt.png]]
 Inspiration: Montain-y rural Japan river house villages
 ![[Pasted image 20251010144333.png]]
+---
+### Extra: Interior 
+**Notes:
+* **working area : people fishing, building materials, wood
+
+| Name     | Category | Assigned to | Priority | Status |     |
+| -------- | -------- | ----------- | -------- | ------ | --- |
+| Door<br> | Sprite   |             |          |        |     |
+| Window   |          |             |          |        |     |
+|          |          |             |          |        |     |
+|          |          |             |          |        |     |
+|          |          |             |          |        |     |
+|          |          |             |          |        |     |
+|          |          |             |          |        |     |
+|          |          |             |          |        |     |
+|          |          |             |          |        |     |
