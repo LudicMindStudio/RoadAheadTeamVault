@@ -103,8 +103,7 @@ Ui
 | Brick road patches (pathway)     | Tile     | Nina        | High     |        |
 | Flowers on grass                 | Tile     |             | Medium   |        |
 | Gardening space (veggies, empty) | Tile     | Aaron       | High     |        |
-
-
+Prev tiles done: [[Exterior sprites_tiles.png]], [[GrassTexture.png]], [[OutdoorTiles.png]]
 ### Basic objects (Medium size)
 
 | Name                     | Category        | Assigned to | Priority | Status      |
@@ -120,7 +119,7 @@ Ui
 | Buoys<br>                | Sprite          |             | Medium   |             |
 | Fishing rods             | Sprite          |             | Medium   |             |
 | Trees                    | Sprite          | Nina        | High     |             |
-
+Prev sprites done: [[OutdoorSprites.png]]
 ### Custom objects (Big size)
 **Notes:
 * **working area : people fishing, building materials, wood
@@ -136,11 +135,13 @@ Ui
 | Seasaw                               | Sprite   |             | Low      |                 |
 | Spinner (Playground)<br>             | Sprite   |             | Low      |                 |
 | Dolphin spring (for playground)<br>  | Sprite   |             | Low      |                 |
+
 ### Animation (later)
 | Name        | Category      | Assigned to | Priority | Status |
 | ----------- | ------------- | ----------- | -------- | ------ |
 | Ocean waves | Animation     |             | Low      |        |
 | Seaguls     | Animation<br> |             | Low      |        |
+
 
 ---
 Ideas by CL
