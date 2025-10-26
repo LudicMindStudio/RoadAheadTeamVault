@@ -1,5 +1,5 @@
 Ill be going over some main points about this map and using reference images to better illustrate the ideas.
-![[IMG_2191.jpg]]
+m
 (Rough drawing of the map. more details can be added to the town later on!)
 
 **Sea wall**
@@ -14,7 +14,7 @@ The sea wall should mostly be on the same level as the town, lined with light po
 As for the style of the buildings, I did end up liking this design as well. But if anyone has other ideas let me know!
 
 Here's more examples:
-![[IMG_5747.jpg]]![[IMG_5748.jpg]]
+![[IMG_5747.jpg]]![[IMG_5748.jpg]] 
 
 **Garden area**
 ![[IMG_5745.jpg]]

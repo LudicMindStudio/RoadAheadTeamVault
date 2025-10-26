@@ -15,7 +15,7 @@ Check the image below for reference:
 
 - Let me know if you have any questions or need clarification.
 
-
+# Completed
 Interior
 ---
 
@@ -60,7 +60,7 @@ Assigned to Nina
 | Dolphin statue             | Sprite   |             | High     | complete |
 | Dirt wall (Grass tile set) | Tileset  |             | High     | complete |
 | Rock wall (sand tile set)  | Tileset  |             | High     | complete |
-
+# To Do
 Character Art
 ---
 
@@ -86,43 +86,46 @@ Ui
 -UI
 --Tiled
 
-## (WIP) Dolphin Bay (Sprint 2)
+## Dolphin Bay (Sprint 2)
 
 ### Basic - Ground
 **Notes:
-- **Learn how to make the natural/rounded shape tiles
-- **For ground - transitioning tiles: Can you superimpose tiles ? How do they look in Unity? 
-* **Question about the dirt road - to talk in meeting
+- **Learn how to make the natural/rounded/hexagonal shaped tiles 
 
 | Name                             | Category | Assigned to | Priority | Status |
 | -------------------------------- | -------- | ----------- | -------- | ------ |
-| Seawall                          | Tile     |             | High     |        |
+| Seawall                          | Tile     | Nina        | High     |        |
 | Grass tile (rounded)             | Tile     |             | High     |        |
-| Dirt road                        | Tile     |             | High     |        |
+| Dirt road                        | Tile     | Nina        | High     |        |
 | Rocks patches (pathway)          | Tile     |             | High     |        |
 | Docks                            | Tile     |             | High     |        |
 | Fence                            | Tiles    |             | Medium   |        |
-| Brick road patches (pathway)     | Tile     |             | High     |        |
+| Brick road patches (pathway)     | Tile     | Nina        | High     |        |
 | Flowers on grass                 | Tile     |             | Medium   |        |
-| Gardening space (veggies, empty) | Tile     |             | High     |        |
+| Gardening space (veggies, empty) | Tile     | Aaron       | High     |        |
+
+
 ### Basic objects (Medium size)
 
-| Name                     | Category        | Assigned to | Priority | Status |
-| ------------------------ | --------------- | ----------- | -------- | ------ |
-| Barrels                  | Sprite (Market) |             | Medium   |        |
-| Baskets                  | Sprite (Market) |             | Medium   |        |
-| Fruit trees              | Sprite (Garden) |             | Medium   |        |
-| Well                     | Sprite (Garden) |             | Medium   |        |
-| Lamp                     | Sprite (Garden) |             | Medium   |        |
-| Flower pots              | Sprite          |             | Medium   |        |
-| Benches                  | Sprite          |             | Medium   |        |
-| Lifeguard float ring<br> | Sprite          |             | Medium   |        |
-| Buoys<br>                | Sprite          |             | Medium   |        |
-| Fishing rods             |                 |             | Medium   |        |
+| Name                     | Category        | Assigned to | Priority | Status      |
+| ------------------------ | --------------- | ----------- | -------- | ----------- |
+| Barrels                  | Sprite (Market) | Corina      | Medium   | In progress |
+| Baskets                  | Sprite (Market) | Corina      | Medium   |             |
+| Fruit trees              | Sprite (Garden) |             | Medium   |             |
+| Well                     | Sprite (Garden) |             | Medium   |             |
+| Lamp                     | Sprite (Garden) |             | Medium   |             |
+| Flower pots              | Sprite          |             | Medium   |             |
+| Benches                  | Sprite          |             | Medium   |             |
+| Lifeguard float ring<br> | Sprite          |             | Medium   |             |
+| Buoys<br>                | Sprite          |             | Medium   |             |
+| Fishing rods             | Sprite          |             | Medium   |             |
+| Trees                    | Sprite          | Nina        | High     |             |
+
 ### Custom objects (Big size)
 **Notes:
 * **working area : people fishing, building materials, wood
 
+<<<<<<< HEAD:Art Documents/!!Asset To-do list.md
 | Name                                 | Category | Assigned to | Priority | Status |     |
 | ------------------------------------ | -------- | ----------- | -------- | ------ | --- |
 | Inn (bigger than typical houses)<br> | Sprite   |             | High     |        |     |
@@ -134,6 +137,19 @@ Ui
 | Seasaw                               | Sprite   |             | Medium   |        |     |
 | Spinner (Playground)<br>             | Sprite   |             | Medium   |        |     |
 | Dolphin spring (for playground)<br>  | Sprite   |             | Medium   |        |     |
+
+=======
+| Name                                 | Category | Assigned to | Priority | Status          |
+| ------------------------------------ | -------- | ----------- | -------- | --------------- |
+| Inn (bigger than typical houses)<br> | Sprite   | Corina      | High     | In progress     |
+| Gazeebo                              | Sprite   | Corina      | Medium   |                 |
+| Town houses                          | Sprite   | Corina      | High     | In progress     |
+| Market stands (different angles)<br> | Sprite   | Corina      | High     | In progress<br> |
+| Central Dolphin Fountain             | Sprite   | Corina      | High     | Complete        |
+| Swing                                | Sprite   |             | Low      |                 |
+| Seasaw                               | Sprite   |             | Low      |                 |
+| Spinner (Playground)<br>             | Sprite   |             | Low      |                 |
+| Dolphin spring (for playground)<br>  | Sprite   |             | Low      |                 |
 
 ### Animation (later)
 | Name        | Category      | Assigned to | Priority | Status |
@@ -147,6 +163,7 @@ Ideas by CL
 ![[DolphinBayTiles_ConceptArt.png]]
 Inspiration: Montain-y rural Japan river house villages
 ![[Pasted image 20251010144333.png]]
+<<<<<<< HEAD:Art Documents/!!Asset To-do list.md
 ---
 ### Extra: Interior 
 **Notes:
@@ -163,3 +180,6 @@ Inspiration: Montain-y rural Japan river house villages
 |          |          |             |          |        |     |
 |          |          |             |          |        |     |
 |          |          |             |          |        |     |
+=======
+ 
+>>>>>>> origin/master:Art Documents/!!Asset To-do list!!.md
