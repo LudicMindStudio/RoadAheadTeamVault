@@ -124,31 +124,18 @@ Prev sprites done: [[OutdoorSprites.png]]
 **Notes:
 * **working area : people fishing, building materials, wood
 
-<<<<<<< HEAD:Art Documents/!!Asset To-do list.md
-| Name                                 | Category | Assigned to | Priority | Status |     |
-| ------------------------------------ | -------- | ----------- | -------- | ------ | --- |
-| Inn (bigger than typical houses)<br> | Sprite   |             | High     |        |     |
-| Gazeebo                              | Sprite   |             | Medium   |        |     |
-| Town houses                          | Sprite   |             | High     |        |     |
-| Market stands (different angles)<br> | Sprite   |             | High     |        |     |
-| Central Dolphin Fountain             | Sprite   |             | High     |        |     |
-| Swing                                | Sprite   |             | Medium   |        |     |
-| Seasaw                               | Sprite   |             | Medium   |        |     |
-| Spinner (Playground)<br>             | Sprite   |             | Medium   |        |     |
-| Dolphin spring (for playground)<br>  | Sprite   |             | Medium   |        |     |
+| Name                             | Category | Assigned to | Priority | Status      |
+| -------------------------------- | -------- | ----------- | -------- | ----------- |
+| Inn (bigger than typical houses) | Sprite   | Corina      | High     | Complete    |
+| Gazeebo                          | Sprite   |             | Medium   |             |
+| Town houses                      | Sprite   | Corina      | High<br> | Complete    |
+| Market stands (different angles) | Sprite   | Corina      | High     | In progress |
+| Central Dolphin Fountain         | Sprite   | Corina      | High     | Complete    |
+| Swing                            | Sprite   |             | Medium   |             |
+| Seasaw                           | Sprite   |             | Medium   |             |
+| Spinner                          | Sprite   |             | Medium   |             |
+| Dolphin spring                   | Sprite   |             | Medium   |             |
 
-=======
-| Name                                 | Category | Assigned to | Priority | Status          |
-| ------------------------------------ | -------- | ----------- | -------- | --------------- |
-| Inn (bigger than typical houses)<br> | Sprite   | Corina      | High     | In progress     |
-| Gazeebo                              | Sprite   | Corina      | Medium   |                 |
-| Town houses                          | Sprite   | Corina      | High     | In progress     |
-| Market stands (different angles)<br> | Sprite   | Corina      | High     | In progress<br> |
-| Central Dolphin Fountain             | Sprite   | Corina      | High     | Complete        |
-| Swing                                | Sprite   |             | Low      |                 |
-| Seasaw                               | Sprite   |             | Low      |                 |
-| Spinner (Playground)<br>             | Sprite   |             | Low      |                 |
-| Dolphin spring (for playground)<br>  | Sprite   |             | Low      |                 |
 
 ### Animation (later)
 | Name        | Category      | Assigned to | Priority | Status |
