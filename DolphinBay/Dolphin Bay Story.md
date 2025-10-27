@@ -83,7 +83,7 @@ This is the first time the player will see Dolphin bay but it will be notably em
 ### Dialogue
 - [[Mysterious Man 1#Dialogue1]]
 - 
-
+Location: Lakshmi's house 
 ---
 **Scene 2 - The pop quiz**
 ### Synopsis
