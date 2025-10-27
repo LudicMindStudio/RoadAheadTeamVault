@@ -124,18 +124,33 @@ Prev sprites done: [[OutdoorSprites.png]]
 **Notes:
 * **working area : people fishing, building materials, wood
 
-| Name                             | Category | Assigned to | Priority | Status      |
-| -------------------------------- | -------- | ----------- | -------- | ----------- |
-| Inn (bigger than typical houses) | Sprite   | Corina      | High     | Complete    |
-| Gazeebo                          | Sprite   |             | Medium   |             |
-| Town houses                      | Sprite   | Corina      | High<br> | Complete    |
-| Market stands (different angles) | Sprite   | Corina      | High     | In progress |
-| Central Dolphin Fountain         | Sprite   | Corina      | High     | Complete    |
-| Swing                            | Sprite   |             | Medium   |             |
-| Seasaw                           | Sprite   |             | Medium   |             |
-| Spinner                          | Sprite   |             | Medium   |             |
-| Dolphin spring                   | Sprite   |             | Medium   |             |
+| Name                             | Category | Assigned to | Priority | Status   |
+| -------------------------------- | -------- | ----------- | -------- | -------- |
+| Inn (bigger than typical houses) | Sprite   | Corina      | High     | Complete |
+| Gazeebo                          | Sprite   |             | Medium   |          |
+| Town houses                      | Sprite   | Corina      | High<br> | Complete |
+| Market stands (different angles) | Sprite   | Corina      | High     | Complete |
+| Central Dolphin Fountain         | Sprite   | Corina      | High     | Complete |
+| Swing                            | Sprite   |             | Medium   |          |
+| Seasaw                           | Sprite   |             | Medium   |          |
+| Spinner                          | Sprite   |             | Medium   |          |
+| Dolphin spring                   | Sprite   |             | Medium   |          |
 
+### Extra: Interior 
+**Notes:
+* **all sprites should be from the interior
+
+| Name     | Category       | Assigned to | Priority | Status        |
+| -------- | -------------- | ----------- | -------- | ------------- |
+| Door<br> | Sprite         |             | High     |               |
+| Window   | Sprite<br>     | Corina      | High     | Completed<br> |
+| Bath     | Sprite<br>     |             | Medium   |               |
+| Wall     | Sprite<br>     | Corina      | High     | Completed     |
+| Counter  | Sprite<br><br> | Corina<br>  | High<br> | Completed<br> |
+| Floor    | Sprite<br>     | Corina<br>  | High<br> | Completed<br> |
+
+
+Prev assets: [[Interior sprite_1.jpeg]] [[Interior sprite_2.jpeg]]
 
 ### Animation (later)
 | Name        | Category      | Assigned to | Priority | Status |
@@ -152,16 +167,3 @@ Inspiration: Montain-y rural Japan river house villages
 ![[Pasted image 20251010144333.png]]
 <<<<<<< HEAD:Art Documents/!!Asset To-do list.md
 ---
-### Extra: Interior 
-**Notes:
-* **all sprites should be from the interior
-
-| Name     | Category   | Assigned to | Priority | Status |
-| -------- | ---------- | ----------- | -------- | ------ |
-| Door<br> | Sprite     |             | High     |        |
-| Window   | Sprite<br> |             | High     |        |
-| Bath     | Sprite<br> |             |          |        |
-| Wall     | Sprite<br> |             |          |        |
-
-
-Prev assets: [[Interior sprite_1.jpeg]] [[Interior sprite_2.jpeg]]
