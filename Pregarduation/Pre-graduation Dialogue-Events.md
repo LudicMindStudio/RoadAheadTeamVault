@@ -43,6 +43,7 @@ Prev work done: [[Grasshopper Discussion]], [[Day of the exam]]
 - Wakes up at her desk, was writing in her journal because got too excited for the exam and stayed late. May be a very brief cameo about her parents. (picture of parents on desk or her lamenting in her journal)
 - Talks with Grandpa Dan who cooks for her breakfast, tells her she's late
 - I need THIS moment with fog. AGGHH. Lakshmi is excited to go on her adventure and do her exam. Takes a moment to look at the scenery. Grandpa Dan tender moment until he gets grumpy and tells her to hurry up.
+
 ![[Pasted image 20251015202001.png]]
 
 ![[Copy of Idea for Prologue Scope of the World.png]]

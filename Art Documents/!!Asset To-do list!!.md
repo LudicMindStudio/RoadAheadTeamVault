@@ -166,3 +166,7 @@ Prev assets: [[Interior sprite_1.jpeg]] [[Interior sprite_2.jpeg]]
 ![[DolphinBayTiles_ConceptArt.png]]
 Inspiration: Montain-y rural Japan river house villages
 ![[Pasted image 20251010144333.png]]
+
+---
+Misc. 
+Background for Pre-graduation scene [[Pre-graduation Dialogue-Events]]
