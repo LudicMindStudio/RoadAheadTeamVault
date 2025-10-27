@@ -100,11 +100,10 @@ Ui
 | Rocks patches (pathway)          | Tile     |             | High     |        |
 | Docks                            | Tile     |             | High     |        |
 | Fence                            | Tiles    |             | Medium   |        |
-| Brick road patches (pathway)     | Tile     |             | High     |        |
+| Brick road patches (pathway)     | Tile     | Nina        | High     |        |
 | Flowers on grass                 | Tile     |             | Medium   |        |
 | Gardening space (veggies, empty) | Tile     | Aaron       | High     |        |
-
-
+Prev tiles done: [[Exterior sprites_tiles.png]], [[GrassTexture.png]], [[OutdoorTiles.png]]
 ### Basic objects (Medium size)
 
 | Name                     | Category        | Assigned to | Priority | Status      |
@@ -120,11 +119,25 @@ Ui
 | Buoys<br>                | Sprite          |             | Medium   |             |
 | Fishing rods             | Sprite          |             | Medium   |             |
 | Trees                    | Sprite          | Nina        | High     |             |
-
+Prev sprites done: [[OutdoorSprites.png]]
 ### Custom objects (Big size)
 **Notes:
 * **working area : people fishing, building materials, wood
 
+<<<<<<< HEAD:Art Documents/!!Asset To-do list.md
+| Name                                 | Category | Assigned to | Priority | Status |     |
+| ------------------------------------ | -------- | ----------- | -------- | ------ | --- |
+| Inn (bigger than typical houses)<br> | Sprite   |             | High     |        |     |
+| Gazeebo                              | Sprite   |             | Medium   |        |     |
+| Town houses                          | Sprite   |             | High     |        |     |
+| Market stands (different angles)<br> | Sprite   |             | High     |        |     |
+| Central Dolphin Fountain             | Sprite   |             | High     |        |     |
+| Swing                                | Sprite   |             | Medium   |        |     |
+| Seasaw                               | Sprite   |             | Medium   |        |     |
+| Spinner (Playground)<br>             | Sprite   |             | Medium   |        |     |
+| Dolphin spring (for playground)<br>  | Sprite   |             | Medium   |        |     |
+
+=======
 | Name                                 | Category | Assigned to | Priority | Status          |
 | ------------------------------------ | -------- | ----------- | -------- | --------------- |
 | Inn (bigger than typical houses)<br> | Sprite   | Corina      | High     | In progress     |
@@ -136,11 +149,13 @@ Ui
 | Seasaw                               | Sprite   |             | Low      |                 |
 | Spinner (Playground)<br>             | Sprite   |             | Low      |                 |
 | Dolphin spring (for playground)<br>  | Sprite   |             | Low      |                 |
+
 ### Animation (later)
 | Name        | Category      | Assigned to | Priority | Status |
 | ----------- | ------------- | ----------- | -------- | ------ |
 | Ocean waves | Animation     |             | Low      |        |
 | Seaguls     | Animation<br> |             | Low      |        |
+
 
 ---
 Ideas by CL
@@ -148,4 +163,23 @@ Ideas by CL
 ![[DolphinBayTiles_ConceptArt.png]]
 Inspiration: Montain-y rural Japan river house villages
 ![[Pasted image 20251010144333.png]]
+<<<<<<< HEAD:Art Documents/!!Asset To-do list.md
+---
+### Extra: Interior 
+**Notes:
+* **working area : people fishing, building materials, wood
+
+| Name     | Category | Assigned to | Priority | Status |     |
+| -------- | -------- | ----------- | -------- | ------ | --- |
+| Door<br> | Sprite   |             |          |        |     |
+| Window   |          |             |          |        |     |
+|          |          |             |          |        |     |
+|          |          |             |          |        |     |
+|          |          |             |          |        |     |
+|          |          |             |          |        |     |
+|          |          |             |          |        |     |
+|          |          |             |          |        |     |
+|          |          |             |          |        |     |
+=======
  
+>>>>>>> origin/master:Art Documents/!!Asset To-do list!!.md
