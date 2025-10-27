@@ -106,19 +106,19 @@ Ui
 Prev tiles done: [[Exterior sprites_tiles.png]], [[GrassTexture.png]], [[OutdoorTiles.png]]
 ### Basic objects (Medium size)
 
-| Name                     | Category        | Assigned to | Priority | Status      |
-| ------------------------ | --------------- | ----------- | -------- | ----------- |
-| Barrels                  | Sprite (Market) | Corina      | Medium   | In progress |
-| Baskets                  | Sprite (Market) | Corina      | Medium   |             |
-| Fruit trees              | Sprite (Garden) |             | Medium   |             |
-| Well                     | Sprite (Garden) |             | Medium   |             |
-| Lamp                     | Sprite (Garden) |             | Medium   |             |
-| Flower pots              | Sprite          |             | Medium   |             |
-| Benches                  | Sprite          |             | Medium   |             |
-| Lifeguard float ring<br> | Sprite          |             | Medium   |             |
-| Buoys<br>                | Sprite          |             | Medium   |             |
-| Fishing rods             | Sprite          |             | Medium   |             |
-| Trees                    | Sprite          | Nina        | High     |             |
+| Name                     | Category        | Assigned to | Priority | Status   |
+| ------------------------ | --------------- | ----------- | -------- | -------- |
+| Barrels                  | Sprite (Market) | Corina      | Medium   | Complete |
+| Baskets                  | Sprite (Market) | Corina      | Medium   | Complete |
+| Fruit trees              | Sprite (Garden) |             | Medium   |          |
+| Well                     | Sprite (Garden) |             | Medium   |          |
+| Lamp                     | Sprite (Garden) |             | Medium   |          |
+| Flower pots              | Sprite          |             | Medium   |          |
+| Benches                  | Sprite          |             | Medium   |          |
+| Lifeguard float ring<br> | Sprite          |             | Medium   |          |
+| Buoys<br>                | Sprite          |             | Medium   |          |
+| Fishing rods             | Sprite          |             | Medium   |          |
+| Trees                    | Sprite          | Nina        | High     |          |
 Prev sprites done: [[OutdoorSprites.png]]
 ### Custom objects (Big size)
 **Notes:
