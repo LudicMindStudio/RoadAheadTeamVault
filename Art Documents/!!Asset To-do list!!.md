@@ -148,8 +148,6 @@ Prev sprites done: [[OutdoorSprites.png]]
 | Wall     | Sprite<br>     | Corina      | High     | Completed     |
 | Counter  | Sprite<br><br> | Corina<br>  | High<br> | Completed<br> |
 | Floor    | Sprite<br>     | Corina<br>  | High<br> | Completed<br> |
-
-
 Prev assets: [[Interior sprite_1.jpeg]] [[Interior sprite_2.jpeg]]
 
 ### Animation (later)
@@ -158,12 +156,13 @@ Prev assets: [[Interior sprite_1.jpeg]] [[Interior sprite_2.jpeg]]
 | Ocean waves | Animation     |             | Low      |        |
 | Seaguls     | Animation<br> |             | Low      |        |
 
-
 ---
-Ideas by CL
+### References and Links for Dolphin Bay 
+
+[[Dolphin Bay Locations]]
+
+
 
 ![[DolphinBayTiles_ConceptArt.png]]
 Inspiration: Montain-y rural Japan river house villages
 ![[Pasted image 20251010144333.png]]
-<<<<<<< HEAD:Art Documents/!!Asset To-do list.md
----
