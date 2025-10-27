@@ -154,19 +154,15 @@ Inspiration: Montain-y rural Japan river house villages
 ---
 ### Extra: Interior 
 **Notes:
-* **working area : people fishing, building materials, wood
+* **all sprites should be from the interior
 
-| Name     | Category | Assigned to | Priority | Status |     |
-| -------- | -------- | ----------- | -------- | ------ | --- |
-| Door<br> | Sprite   |             |          |        |     |
-| Window   |          |             |          |        |     |
-|          |          |             |          |        |     |
-|          |          |             |          |        |     |
-|          |          |             |          |        |     |
-|          |          |             |          |        |     |
-|          |          |             |          |        |     |
-|          |          |             |          |        |     |
-|          |          |             |          |        |     |
-=======
- 
->>>>>>> origin/master:Art Documents/!!Asset To-do list!!.md
+| Name     | Category   | Assigned to | Priority | Status |     |
+| -------- | ---------- | ----------- | -------- | ------ | --- |
+| Door<br> | Sprite     |             | High     |        |     |
+| Window   | Sprite<br> |             | High     |        |     |
+| Bath     | Sprite<br> |             |          |        |     |
+| Wall     | Sprite<br> |             |          |        |     |
+|          | Sprite<br> |             |          |        |     |
+|          |            |             |          |        |     |
+
+Prev assets: [[Interior sprite_1.jpeg]] [[Interior sprite_2.jpeg]]
