@@ -156,13 +156,12 @@ Inspiration: Montain-y rural Japan river house villages
 **Notes:
 * **all sprites should be from the interior
 
-| Name     | Category   | Assigned to | Priority | Status |     |
-| -------- | ---------- | ----------- | -------- | ------ | --- |
-| Door<br> | Sprite     |             | High     |        |     |
-| Window   | Sprite<br> |             | High     |        |     |
-| Bath     | Sprite<br> |             |          |        |     |
-| Wall     | Sprite<br> |             |          |        |     |
-|          | Sprite<br> |             |          |        |     |
-|          |            |             |          |        |     |
+| Name     | Category   | Assigned to | Priority | Status |
+| -------- | ---------- | ----------- | -------- | ------ |
+| Door<br> | Sprite     |             | High     |        |
+| Window   | Sprite<br> |             | High     |        |
+| Bath     | Sprite<br> |             |          |        |
+| Wall     | Sprite<br> |             |          |        |
+
 
 Prev assets: [[Interior sprite_1.jpeg]] [[Interior sprite_2.jpeg]]
