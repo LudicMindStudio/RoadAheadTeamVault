@@ -103,49 +103,77 @@ Ui
 | Brick road patches (pathway)     | Tile     | Nina        | High     |        |
 | Flowers on grass                 | Tile     |             | Medium   |        |
 | Gardening space (veggies, empty) | Tile     | Aaron       | High     |        |
-
-
+Prev tiles done: [[Exterior sprites_tiles.png]], [[GrassTexture.png]], [[OutdoorTiles.png]]
 ### Basic objects (Medium size)
 
-| Name                     | Category        | Assigned to | Priority | Status      |
-| ------------------------ | --------------- | ----------- | -------- | ----------- |
-| Barrels                  | Sprite (Market) | Corina      | Medium   | In progress |
-| Baskets                  | Sprite (Market) | Corina      | Medium   |             |
-| Fruit trees              | Sprite (Garden) |             | Medium   |             |
-| Well                     | Sprite (Garden) |             | Medium   |             |
-| Lamp                     | Sprite (Garden) |             | Medium   |             |
-| Flower pots              | Sprite          |             | Medium   |             |
-| Benches                  | Sprite          |             | Medium   |             |
-| Lifeguard float ring<br> | Sprite          |             | Medium   |             |
-| Buoys<br>                | Sprite          |             | Medium   |             |
-| Fishing rods             | Sprite          |             | Medium   |             |
-| Trees                    | Sprite          | Nina        | High     |             |
-
+| Name                     | Category        | Assigned to | Priority | Status   |
+| ------------------------ | --------------- | ----------- | -------- | -------- |
+| Barrels                  | Sprite (Market) | Corina      | Medium   | Complete |
+| Baskets                  | Sprite (Market) | Corina      | Medium   | Complete |
+| Fruit trees              | Sprite (Garden) |             | Medium   |          |
+| Well                     | Sprite (Garden) |             | Medium   |          |
+| Lamp                     | Sprite (Garden) |             | Medium   |          |
+| Flower pots              | Sprite          |             | Medium   |          |
+| Benches                  | Sprite          |             | Medium   |          |
+| Lifeguard float ring<br> | Sprite          |             | Medium   |          |
+| Buoys<br>                | Sprite          |             | Medium   |          |
+| Fishing rods             | Sprite          |             | Medium   |          |
+| Trees                    | Sprite          | Nina        | High     |          |
+Prev sprites done: [[OutdoorSprites.png]]
 ### Custom objects (Big size)
 **Notes:
 * **working area : people fishing, building materials, wood
 
-| Name                                 | Category | Assigned to | Priority | Status          |
-| ------------------------------------ | -------- | ----------- | -------- | --------------- |
-| Inn (bigger than typical houses)<br> | Sprite   | Corina      | High     | In progress     |
-| Gazeebo                              | Sprite   | Corina      | Medium   |                 |
-| Town houses                          | Sprite   | Corina      | High     | In progress     |
-| Market stands (different angles)<br> | Sprite   | Corina      | High     | In progress<br> |
-| Central Dolphin Fountain             | Sprite   | Corina      | High     | Complete        |
-| Swing                                | Sprite   |             | Low      |                 |
-| Seasaw                               | Sprite   |             | Low      |                 |
-| Spinner (Playground)<br>             | Sprite   |             | Low      |                 |
-| Dolphin spring (for playground)<br>  | Sprite   |             | Low      |                 |
+| Name                             | Category | Assigned to | Priority | Status   |
+| -------------------------------- | -------- | ----------- | -------- | -------- |
+| Inn (bigger than typical houses) | Sprite   | Corina      | High     | Complete |
+| Gazeebo                          | Sprite   |             | Medium   |          |
+| Town houses                      | Sprite   | Corina      | High<br> | Complete |
+| Market stands (different angles) | Sprite   | Corina      | High     | Complete |
+| Central Dolphin Fountain         | Sprite   | Corina      | High     | Complete |
+| Swing                            | Sprite   |             | Medium   |          |
+| Seasaw                           | Sprite   |             | Medium   |          |
+| Spinner                          | Sprite   |             | Medium   |          |
+| Dolphin spring                   | Sprite   |             | Medium   |          |
+
+### Interior 
+**Notes:
+* **all sprites should be from the interior
+
+| Name     | Category       | Assigned to | Priority | Status        |
+| -------- | -------------- | ----------- | -------- | ------------- |
+| Door<br> | Sprite         |             | High     |               |
+| Window   | Sprite<br>     | Corina      | High     | Completed<br> |
+| Bath     | Sprite<br>     |             | Medium   |               |
+| Wall     | Sprite<br>     | Corina      | High     | Completed     |
+| Counter  | Sprite<br><br> | Corina<br>  | High<br> | Completed<br> |
+| Floor    | Sprite<br>     | Corina<br>  | High<br> | Completed<br> |
+Prev assets: [[Interior sprite_1.jpeg]] [[Interior sprite_2.jpeg]]
+
 ### Animation (later)
 | Name        | Category      | Assigned to | Priority | Status |
 | ----------- | ------------- | ----------- | -------- | ------ |
 | Ocean waves | Animation     |             | Low      |        |
 | Seaguls     | Animation<br> |             | Low      |        |
+| Fog         | Animation<br> |             | Medium   |        |
 
 ---
-Ideas by CL
+### References and Links for Dolphin Bay 
+
+[[Dolphin Bay Locations]]
+
+
 
 ![[DolphinBayTiles_ConceptArt.png]]
 Inspiration: Montain-y rural Japan river house villages
 ![[Pasted image 20251010144333.png]]
- 
+
+---
+### Next Big Story Pieces 
+
+| Name                                | Category        | Assigned to | Priority | Status |
+| ----------------------------------- | --------------- | ----------- | -------- | ------ |
+| Background Village Map              | Sprite/Parallax |             |          |        |
+| Hand Drawn Lakshmi Doodles for exam | Sprite<br>      |             |          |        |
+
+Background for Pre-graduation scene [[Pre-graduation Dialogue-Events]]

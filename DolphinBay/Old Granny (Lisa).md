@@ -17,8 +17,10 @@ Lisa is well respected in the bay community. She was the pioneering force behind
 - faint reassuring smile
 
 # Dialogue
+*Event*
 
-**Event**
+
+**Event (HAS MAIL)**
 Lakshmi arrives to Lisa's house. She rings the doorbell. Door opens. 
 
 *Lisa*
