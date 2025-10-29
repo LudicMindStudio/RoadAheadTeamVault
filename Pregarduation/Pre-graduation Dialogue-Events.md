@@ -7,6 +7,8 @@ By: Arkana and Corina
 - [x] Extract Dialogue from RPG Maker
 - [x] Draft the Pre-Graduation portion. 
 - [ ] Detail dialogue and events. (Make as many details about the environment for interaction with the map)
+- [ ] Review each other's scripts
+	** overarching review note. Do we keep the apostrophe in the game text or do we keep the language professional (you're vs you are)?
 - [ ] Implement in the game
 # Context
 Lakshmi graduates from postal guild, then the story of Dolphin Bay starts.
@@ -48,6 +50,8 @@ Prev work done: [[Grasshopper Discussion]], [[Day of the exam]]
 ![[Copy of Idea for Prologue Scope of the World.png]]
 #### Lakshmi goes to the Guild Hall in Dolphin Bay 
 *Map [[Dolphin Bay Locations]] (in the middle of the dolphin tail)*
+
+Reference to [[(WIP) Plotlines & Story Progression]]  mention of fog and her memories being foggy (sorry)
 #### Lakshmi does her exam 
 *Map (interior not created yet)*
 
@@ -85,8 +89,11 @@ Template:
 	`If variable is true`
 		_Dialogue_
 
+
 #### Lakshmi wakes up in Greg's chalet (Corina)
-***note. Do we include the grasshopper memory, or do we leave it for later?*
+
+** note : in this version, Lakshmi knows she will be graduating since she woke up. Leave it this way?
+** note2. Do we include the grasshopper memory, or do we leave it for later?*
 
 **Event**
 	Cutscene of Lakshmi waking up at the table in her room (see if we can make a sprite for it or not)
@@ -95,9 +102,9 @@ Template:
 **Event**
 	Lakshmi stands up and looks to the left and right
 **Lakshmi**
-	*My back is so sore... I better get going, Greg will get me with his slipper if he finds out I slept in today of all days.*
+	*My back is so sore... I better get going, Greg will get me with his slipper if he finds out I slept in. He had something to tell me. He should be at the **Guild Hall**, as usual.*
 **Event** 
-	Journal updated: Greg will get to me if I missed today... I should hurry up to the *Guild Hall*.   
+	Journal updated: Greg will get to me if I am late... I should hurry up to the *Guild Hall*.   
 **Event** 
 	Lakshmi Interaction options [in the room]
 	`If variable is true` Table
@@ -152,7 +159,7 @@ Template:
 **Lakshmi**
 	*Today is the day! Now if I go straight from here, **Guild Hall** should be up ahead. I have not been in Dolphin Bay often though... Bah, I can ask around for directions.*
 **Event** 
-	Lakshmi wanders through the forest. The walk from the chalet to Dolphin Bay. There is an optional path on the way.
+	Lakshmi wanders through the forest, a narrow path from Greg's chalet towards Dolphin Bay. There is an optional path on the way.
 **Event**
 	Optional path: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone chair. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]
 	`If variable is true` Interact with Grandpa Dan
@@ -171,9 +178,42 @@ Template:
 	There is a silent pause of the cutscene. And the interaction ends on this awkward note.
  	`If variable is true` Interact with Grandpa Dan again
 	 **Grandpa Dan**
-		*You aren't a postal worker yet? What are you doing! Hurry up to the Guild Hall!*
-
+		*You aren't a postal worker yet? What are you doing? Hurry up to the Guild Hall!*
+**Event**
+	`If variable is true` Lakshmi walks down the path towards Dolphin Bay
+**Lakshmi**
+	*Brr. The forest gives me the creeps. Now I did hear kids in the village say there are monsters lurking there... No! Lakshmi get a hold of yourself! These are kid's tales, nothing more.* 
+**Event**
+	Lakshmi enters the village and can explore a bit. 
+	`If variable is true` Leo (dog) jumps out on Lakshmi.
+	**Lakshmi**
+		*Eek! Leo! You cannot do that to me! It is a Grandpa Dan thing!*
+	**Leo**
+		*Wuf wuf!* 
+	Leo runs away. 
+	**Lakshmi**
+		*Ugh. Knowing this energetic pup, I will need to get a few more scares before he is satisfied.*
+	Journal Update: Leo thinks it is a game. Look in the village if you can find him. He will be exhausted at some point.
+	
 #### Lakshmi does her exam (Corina)
+**Event**
+	Lakshmi goes up to the receptionist. 
+**Receptionist**
+	`If variable is true`
+		*Welcome to the post guild! I'm the receptionist....ah Lakshmi it's you!. The exam will start at any minute! Greg is waiting in his office in the back room. Good luck!*
+**Lakshmi**
+	*What do you mean good luck... How much am I in trouble on a scale from 1 to "You're on farming duty today."*
+**Receptionist**
+	*Oh, you will be picking apples alright.*
+**Lakshmi**
+	*That bad... Alright! See you soon! I'll nail this exam!*
+**Lakshmi**
+	*Brr... She is getting scarier than Greg.*
+**Event**
+	Lakshmi goes to the back of the guild hall. 
+**Intern**
+	*Dammit where are those shipment boxes? The guild work is too much I'm going to get in trouble again*
+	
 
 #### Lakshmi speaks to the intern (enter first memory) (Arkana) -> to modify
 **Greg**
@@ -286,3 +326,10 @@ general idea
 - delievers mail to Liam's sister. 
 
 
+#### Miscelaneous Side Quests Wrap-Up
+
+1. Find Leo the dog
+
+2. Thank Grandpa Dan for making your favourite bread 
+
+3. (WIP) Can talk to kids about the tales of monsters in the forest.
