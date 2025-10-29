@@ -172,10 +172,10 @@ Inspiration: Montain-y rural Japan river house villages
 ---
 ### Next Big Story Pieces 
 
-| Name                                 | Category        | Assigned to | Priority | Status |
-| ------------------------------------ | --------------- | ----------- | -------- | ------ |
-| Background Village Map               | Sprite/Parallax |             |          |        |
-| Hand Drawn Lakshmi Doodles for exam  | Sprite<br>      |             |          |        |
-| Lakshmi sprite sleeping at the table |                 |             |          |        |
+| Name                                | Category            | Assigned to | Priority | Status |
+| ----------------------------------- | ------------------- | ----------- | -------- | ------ |
+| Background Village Map              | Sprite/Parallax     |             |          |        |
+| Hand Drawn Lakshmi Doodles for exam | Sprite/Parallax<br> |             |          |        |
+| Lakshmi sleeping at the table       | Sprite<br>          |             |          |        |
 
 Background for Pre-graduation scene [[Pre-graduation Dialogue-Events]]
