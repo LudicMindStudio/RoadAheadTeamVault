@@ -92,17 +92,17 @@ Ui
 **Notes:
 - **Learn how to make the natural/rounded/hexagonal shaped tiles 
 
-| Name                             | Category | Assigned to | Priority | Status |
-| -------------------------------- | -------- | ----------- | -------- | ------ |
-| Seawall                          | Tile     | Nina        | High     |        |
-| Grass tile (rounded)             | Tile     |             | High     |        |
-| Dirt road                        | Tile     | Nina        | High     |        |
-| Rocks patches (pathway)          | Tile     |             | High     |        |
-| Docks                            | Tile     |             | High     |        |
-| Fence                            | Tiles    |             | Medium   |        |
-| Brick road patches (pathway)     | Tile     |             | High     |        |
-| Flowers on grass                 | Tile     |             | Medium   |        |
-| Gardening space (veggies, empty) | Tile     | Aaron       | High     |        |
+| Name                             | Category | Assigned to | Priority | Status   |
+| -------------------------------- | -------- | ----------- | -------- | -------- |
+| Seawall                          | Tile     | Nina        | High     | complete |
+| Grass tile (rounded)             | Tile     |             | High     |          |
+| Dirt road                        | Tile     | Nina        | High     | complete |
+| Rocks patches (pathway)          | Tile     |             | High     |          |
+| Docks                            | Tile     |             | High     |          |
+| Fence                            | Tiles    |             | Medium   |          |
+| Brick road patches (pathway)     | Tile     | Nina        | High     | complete |
+| Flowers on grass                 | Tile     |             | Medium   |          |
+| Gardening space (veggies, empty) | Tile     | Aaron       | High     |          |
 
 
 ### Basic objects (Medium size)
@@ -119,7 +119,7 @@ Ui
 | Lifeguard float ring<br> | Sprite          |             | Medium   |             |
 | Buoys<br>                | Sprite          |             | Medium   |             |
 | Fishing rods             | Sprite          |             | Medium   |             |
-| Trees                    | Sprite          | Nina        | High     |             |
+| Trees                    | Sprite          | Nina        | High     | complete    |
 
 ### Custom objects (Big size)
 **Notes:
