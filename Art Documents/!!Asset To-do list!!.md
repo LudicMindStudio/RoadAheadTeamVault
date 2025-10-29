@@ -92,7 +92,7 @@ Ui
 **Notes:
 - **Learn how to make the natural/rounded/hexagonal shaped tiles 
 
-<<<<<<< HEAD
+
 | Name                             | Category | Assigned to | Priority | Status   |
 | -------------------------------- | -------- | ----------- | -------- | -------- |
 | Seawall                          | Tile     | Nina        | High     | complete |
@@ -122,7 +122,7 @@ Ui
 | Fishing rods             | Sprite          |             | Medium   |             |
 | Trees                    | Sprite          | Nina        | High     | complete    |
 
-=======
+
 | Name                             | Category | Assigned to | Priority | Status |
 | -------------------------------- | -------- | ----------- | -------- | ------ |
 | Seawall                          | Tile     | Nina        | High     |        |
@@ -151,7 +151,6 @@ Prev tiles done: [[Exterior sprites_tiles.png]], [[GrassTexture.png]], [[Outdoor
 | Fishing rods             | Sprite          |             | Medium   |          |
 | Trees                    | Sprite          | Nina        | High     |          |
 Prev sprites done: [[OutdoorSprites.png]]
->>>>>>> origin/master
 ### Custom objects (Big size)
 **Notes:
 * **working area : people fishing, building materials, wood
