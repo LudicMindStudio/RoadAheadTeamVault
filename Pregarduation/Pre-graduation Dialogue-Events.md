@@ -90,10 +90,12 @@ Template:
 		_Dialogue_
 
 
+Notes for events
+* [Welcome world] event is optional and can be interacted with later in the game. The game will implicitly point towards it with the Journal Side Quest [Thank Grandpa Dan for the bread]
+
 #### Lakshmi wakes up in Greg's chalet (Corina)
 
-** note : in this version, Lakshmi knows she will be graduating since she woke up. Leave it this way?
-** note2. Do we include the grasshopper memory, or do we leave it for later?*
+** note. Do we include the grasshopper memory, or do we leave it for later?*
 
 **Event**
 	Cutscene of Lakshmi waking up at the table in her room (see if we can make a sprite for it or not)
@@ -134,15 +136,13 @@ Template:
 **Event**
 	Journal Updated: Find Leo. Where should I hurry up first? Yes.
 **Grandpa Dan**
-	*Speaking of breakfast, go eat your slice of bread and run straight to the **Guild Hall**! Greg will skewer you if you are late for the boarding exam!*
+	*Speaking of breakfast, go eat your slice of bread and run straight to the **Guild Hall**! Greg will skewer you if you are late!*
 **Event**
 	Grandpa Dan starts walking away towards the door.
 **Lakshmi**
 	 *Thanks Grandpa Dan. For the bread.* 
 **Grandpa Dan**
-	* *Khum.* * *Right. See you later Lakshmi. The next time I see you, you better be the new postal worker.*
-**Lakshmi**
-	*You bet!*
+	* *Khum.* * *Right. See you later Lakshmi.
 **Event**
 	Grandpa Dan walks out.
 **Event**	
@@ -160,7 +160,7 @@ Template:
 	*Today is the day! Now if I go straight from here, **Guild Hall** should be up ahead. I have not been in Dolphin Bay often though... Bah, I can ask around for directions.*
 **Event** 
 	Lakshmi wanders through the forest, a narrow path from Greg's chalet towards Dolphin Bay. There is an optional path on the way.
-**Event**
+**Event** [Welcome world]
 	Optional path: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone chair. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]
 	`If variable is true` Interact with Grandpa Dan
 	**Lakshmi** 
@@ -178,7 +178,7 @@ Template:
 	There is a silent pause of the cutscene. And the interaction ends on this awkward note.
  	`If variable is true` Interact with Grandpa Dan again
 	 **Grandpa Dan**
-		*You aren't a postal worker yet? What are you doing? Hurry up to the Guild Hall!*
+		*Hurry up to the Guild Hall! Greg is waiting for you.*
 **Event**
 	`If variable is true` Lakshmi walks down the path towards Dolphin Bay
 **Lakshmi**
@@ -200,20 +200,30 @@ Template:
 	Lakshmi goes up to the receptionist. 
 **Receptionist**
 	`If variable is true`
-		*Welcome to the post guild! I'm the receptionist....ah Lakshmi it's you!. The exam will start at any minute! Greg is waiting in his office in the back room. Good luck!*
+		*Welcome to the post guild! I'm the receptionist....ah Lakshmi it's you! A big day for you!  Greg is waiting in his office in the back room. Good luck!*
 **Lakshmi**
-	*What do you mean good luck... How much am I in trouble on a scale from 1 to "You're on farming duty today."*
+	*... Big day? Good luck? Euhhh. How much am I in trouble on a scale from 1 to "You're on farming duty today."*
 **Receptionist**
 	*Oh, you will be picking apples alright.*
 **Lakshmi**
-	*That bad... Alright! See you soon! I'll nail this exam!*
+	*That bad... Alright! Thanks!*
 **Lakshmi**
 	*Brr... She is getting scarier than Greg.*
 **Event**
 	Lakshmi goes to the back of the guild hall. 
-**Intern**
+**Intern** 
+	Lakshmi overhears the intern speaking to themselves behind a wall. Cannot interact with them yet.
 	*Dammit where are those shipment boxes? The guild work is too much I'm going to get in trouble again*
-	
+**Greg**
+	`If variable is true` Interact with Greg
+		*Ah Lakshmi, good morning. You slept in today, I hope you are well rested.*
+**Lakshmi**
+	*As much as I can be... haha. Sorry Greg... I must have missed my alarm. Nothing too big is going on today right?*
+**Greg**
+	`If variable is true`
+		_I'm afraid so Lakshmi. You have.... .... a pop quiz today!_
+**Lakshmi**
+	_A pop quiz!!!_
 
 #### Lakshmi speaks to the intern (enter first memory) (Arkana) -> to modify
 **Greg**
