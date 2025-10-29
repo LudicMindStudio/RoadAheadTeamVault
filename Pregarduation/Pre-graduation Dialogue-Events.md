@@ -101,10 +101,13 @@ Template:
 **Event** 
 	Lakshmi Interaction options [in the room]
 	`If variable is true` Table
-		*Journaling keeps your mind at bay and spirits sharp! But makes you prone to losing track of time… must have been written in small font.*
+		**Lakshmi**
+			*Journaling keeps your mind at bay and spirits sharp! But makes you prone to losing track of time… must have been written in small font.*
 	`If variable is true` Mirror
-		*Looking good there! Dressed in uniform since 2 AM*
+		**Lakshmi**
+			*Looking good there! Dressed in uniform since 2 AM*
 	`If variable is true` Bed
+		**Lakshmi**
 		*Do not tempt me.*
 **Event**	
 	`If variable is true` Player leaves the room.
@@ -138,12 +141,26 @@ Template:
 **Event**	
 	Player interaction options
 	`If variable is true` Bread
-	*Lakshmi: His fingers really are blessed. The crust is the best part! Huh... Is it... maple syrup sour bread? Wow it is not even my birthday, I should thank him later.*
+	**Lakshmi**
+		His fingers really are blessed. The crust is the best part! Huh... Is it... maple syrup sour bread? Wow it is not even my birthday, I should thank him later.*
 **Event** 
 	Journal Updated: Thank Grandpa Dan for making your favourite bread.
 	
 #### Lakshmi goes to the Guild Hall in Dolphin Bay (Corina)
+**Event**
+	Lakshmi walks out of Greg's chalet
+**Lakshmi**
+	*Today is the day! Now if I go straight from here, **Guild Hall** should be up ahead. I have not been in Dolphin Bay often though... Bah, I can ask around for directions.*
+**Event** 
+	Lakshmi wanders through the forest. The walk from the chalet to Dolphin Bay. There is an optional path on the way.
+**Event**
+	Optional path: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. Grandpa Dan is sitting at the lone chair. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]
+	`If variable is true` Interact with Grandpa Dan
+	**Lakshmi** 
+		*How beautiful*
 
+	 
+	
 
 #### Lakshmi does her exam (Corina)
 
