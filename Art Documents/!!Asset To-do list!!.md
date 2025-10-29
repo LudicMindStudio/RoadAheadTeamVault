@@ -98,7 +98,7 @@ Ui
 | Grass tile (rounded)             | Tile     |             | High     |        |
 | Dirt road                        | Tile     | Nina        | High     |        |
 | Rocks patches (pathway)          | Tile     |             | High     |        |
-| Docks                            | Tile     |             | High     |        |
+| Docks                            | Tile     | Chris       | High     |        |
 | Fence                            | Tiles    |             | Medium   |        |
 | Brick road patches (pathway)     | Tile     |             | High     |        |
 | Flowers on grass                 | Tile     |             | Medium   |        |
