@@ -154,13 +154,24 @@ Template:
 **Event** 
 	Lakshmi wanders through the forest. The walk from the chalet to Dolphin Bay. There is an optional path on the way.
 **Event**
-	Optional path: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. Grandpa Dan is sitting at the lone chair. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]
+	Optional path: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone chair. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]
 	`If variable is true` Interact with Grandpa Dan
 	**Lakshmi** 
-		*How beautiful*
-
-	 
-	
+		*Wow. How beautiful.*
+	**Grandpa Dan**
+		*That is... one way to put it.*
+	**Lakshmi**
+		*How come?*
+	**Grandpa Dan**
+		*I'd say the world looks miserable with the fog.*
+	**Lakshmi**
+		 *Maybe. I do not have many memories left of the times before the fog... And it does sound terrible... But I cannot help but love it. I want to see all of it.*
+	**Grandpa Dan**
+		*...*
+	There is a silent pause of the cutscene. And the interaction ends on this awkward note.
+ 	`If variable is true` Interact with Grandpa Dan again
+	 **Grandpa Dan**
+		*You aren't a postal worker yet? What are you doing! Hurry up to the Guild Hall!*
 
 #### Lakshmi does her exam (Corina)
 
