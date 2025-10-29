@@ -1,10 +1,10 @@
 ---
-tags: 
+tags:
 created: 2025-10-13
 ---
 By: Arkana and Corina
 # Progress
-- [ ] Extract Dialogue from RPG Maker
+- [x] Extract Dialogue from RPG Maker
 - [x] Draft the Pre-Graduation portion. 
 - [ ] Detail dialogue and events. (Make as many details about the environment for interaction with the map)
 - [ ] Implement in the game
@@ -12,19 +12,17 @@ By: Arkana and Corina
 Lakshmi graduates from postal guild, then the story of Dolphin Bay starts.
 
 Links to the previous work done about the graduation:
-Characters: [[Lakshmi]], [[Old Character Bios]]
-Early game notes: [[Dolphin Bay - Elements to be reviewed]], [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event 2 post exam]], [[Dolphin Bay - Event 3 post exam]], [[Dolphin Bay Story]] [[Main Story (Lakshmi's) Loose Brainstorming]]
+Early game notes: [[Dolphin Bay - Elements to be reviewed]], [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event 2 post exam]], [[Dolphin Bay - Event 3 post exam]], [[Dolphin Bay Story]] [[Main Story (Lakshmi's) Loose Brainstorming]], [[Original RPG Maker Scripts]]
 
 # Characters
-Lakshmi, Grandpa Dan, Greg.
+Lakshmi, Grandpa Dan, Greg. Intern. [[Guild Receptionist (Robert)]], [[Lakshmi]], [[Old Character Bios]]
 
 # Content
 ---
 ## Drafting the story
-Corina's ideas: 2025-10-15
-Brainstorm events before graduation:
+Brainstorm events before graduation: 
 #### Loose progression:
-Lakshmi wakes up in Greg's chalet -> Lakshmi goes to the Guild Hall in Dolphin Bay -> Lakshmi does her exam -> Lakshmi speaks to the intern (enter first memory) -> Lakshmi delivers the first few mail (Start Dolphin Bay story) 
+Lakshmi wakes up in Greg's chalet (Corina) -> Lakshmi goes to the Guild Hall in Dolphin Bay (Corina) -> Lakshmi does her exam (Corina) -> Lakshmi speaks to the intern (enter first memory) (Arkana) -> Lakshmi delivers the first few mail (Start Dolphin Bay story)  (Arkana)
 
 #### Checkboxes to include (tutorial for gameplay & introduce story)
 - [x] Entering memories - (intern)
@@ -36,16 +34,25 @@ Lakshmi wakes up in Greg's chalet -> Lakshmi goes to the Guild Hall in Dolphin B
 - [ ] Need to establish that she lost her memory about her parents (? - to confirm) (start plot 2) 
 ---
 
+
 #### Lakshmi wakes up in Greg's chalet
 *Map [[Greg Chalet]]*
+
+Prev work done: [[Grasshopper Discussion]], [[Day of the exam]]
+
 - Wakes up at her desk, was writing in her journal because got too excited for the exam and stayed late. May be a very brief cameo about her parents. (picture of parents on desk or her lamenting in her journal)
 - Talks with Grandpa Dan who cooks for her breakfast, tells her she's late
 - I need THIS moment with fog. AGGHH. Lakshmi is excited to go on her adventure and do her exam. Takes a moment to look at the scenery. Grandpa Dan tender moment until he gets grumpy and tells her to hurry up.
+
 ![[Pasted image 20251015202001.png]]
+
+![[Copy of Idea for Prologue Scope of the World.png]]
 #### Lakshmi goes to the Guild Hall in Dolphin Bay 
 *Map [[Dolphin Bay Locations]] (in the middle of the dolphin tail)*
 #### Lakshmi does her exam 
 *Map (interior not created yet)*
+
+Prev work done: [[Day of the exam]]
 
 * Meets Greg
 * Does her exam. Alone? With someone? Or shes late so shes alone? Idk
@@ -78,3 +85,121 @@ Template:
 **Character 2**
 	`If variable is true`
 		_Dialogue_
+
+#### Lakshmi wakes up in Greg's chalet (Corina)
+
+#### Lakshmi goes to the Guild Hall in Dolphin Bay (Corina)
+
+#### Lakshmi does her exam (Corina)
+
+#### Lakshmi speaks to the intern (enter first memory) (Arkana) -> to modify
+**Greg**
+	_Alright! Now it's time for the... Practical test!_
+**Lakshmi**
+	`If variable is true`
+		_Will I be delivering mail alone?_
+**Greg**
+	__Well for now it's just a little message for the new intern. Deliver this to the new intern. They should be in the storage room on the right of reception. Make sure to deliver it like you've been taught. Treat this note like you would a real postal delivery.__
+**Lakshmi**
+	`If variable is true`
+		_Got it!_
+**Event**
+	Journal updated. Player picks up the item and goes to see the intern.
+**Intern**
+	`If variable is true`
+		_Dammit where did that go?_
+**Lakshmi**
+	_Uhmm Hi! Are you the new intern?_
+**Intern**
+	`If variable is true`
+		_Oh, hum hi Lakshmi, what's up?_
+**Lakshmi**
+	_Well, I'm in the middle of my postal guild graduation testing and have a delivery for you!_
+**Intern**
+	`If variable is true`
+		_Wow, really? You,re so lucky. I'll receive your mail then._
+**Lakshmi**
+	_Ok! Well then, I'm Lakshmi from the postal guild here to deliver your mail! Thank you for using our services and have a good day! 
+		Wow thanks again!_ 
+			_(...)_
+**Intern**
+	`If variable is true`
+		_Hey are you okay?_ 
+**Lakshmi**
+		_Yes, just a little excited! Oh no not this again._
+**Event**
+	Screen blacks out and the player is now in a different room as the intern. 
+	
+**Intern**
+	`If variable is true`
+		_Dammit... I messed up again... How come I keep messing up everything... Even the simplest of task... I'm not cut out to be a guild member what was I thinking coming here. I can't do anything right.. (...)_
+**Greg**
+	`If variable is true`
+		_Hello? Anybody in here? Where did that new intern go?_
+**Intern**
+	`If variable is true`
+		_(...) Well I can at least minimize their disapointment... Back to it..._
+**Event**
+	Screen blacks out and the player is back in the guild room as Lakshmi. 
+**Intern**
+	`If variable is true`
+		_Lakshmi!? Are you ok?_
+**Lakshmi**
+	_Ah... Yeah I'm ok sorry... (?) (Argh... I gotta get bettwe at that)_
+**Intern**
+	`If variable is true`
+		_Ok phew. I thought I did something wrong again._
+**Lakshmi**
+	_No no! You did nothing wrong! In fact, thank you for being such a good practive delivery! I feel so much more prepared to be a guild worker and it's all thanks to you._
+**Intern**
+	`If variable is true`
+		_(<3) Oh geez, well no problem then!_
+**Lakshmi**
+	_Keep up the good work and I'm sure you'll be a full guild member soon too!_
+**Intern**
+	`If variable is true`
+		_Really? Do you really believe that?_
+**Lakshmi**
+	1) _Absolutelu_
+	2) _Well..._
+		1) _Well. Maybe one day. Theres hope for anytone._
+		 **Intern**
+			`If variable is true`
+			_(...) Yeah maybe one day...._
+**Lakshmi**
+	_Welll I better go back to Greg and tell him how I did. Thanks again, see you around._
+**Event**
+	Journal updated. Player goes to see Greg.
+**Lakshmi**
+	_I did it Greg! Mail delivered._
+**Greg**
+	`If variable is true`
+		_I saw, well done Lakshmi. I'm very proud. I am also happy to say... Welcome in, Lakshmi you are now a full guilf member. I hope to see more great things from you._
+**Lakshmi**
+	_(!) All right! Awesome! This is so awesome Greg! can we have a party!?_
+**Greg**
+	`If variable is true`
+		_Maybe we'll set one up for later tonight, for now I'm putting you straight to work._
+**Lakshmi**
+	_Ok then, bring it on!_
+**Greg**
+	`If variable is true`
+		_Go up to the front desk. The receptionist will have some deliveres for you to make._
+**Event**
+	Player goes to see the receptionist.
+**Greg**
+	`If variable is true`
+		_Hey Lakshmi, congrats on becoming a full member. I've got a whole batch of deliveries here for you to make. Good luck!_
+**Lakshmi**
+	_Thanks! ( I better read who I need to deliver these too)_
+#### Lakshmi delivers the first few mail (Start Dolphin Bay story) (Arkana)
+
+
+general idea
+- Leaves the guild hall proudly, but disorganised. 
+- meets CAT and the gang
+- meets Elio
+- delivers mail to Doran
+- delievers mail to Liam's sister. 
+
+

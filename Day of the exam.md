@@ -113,7 +113,7 @@ Happens after the grasshopper conversation
 **Event**
 	Greg walks away.
 **Lakshmi**
-	_Ok, bring on quation 1!_
+	_Ok, bring on question 1!_
 		1) The fog that effects our world is most receptive to what human condition?
 			1) Hunger
 				1) _It was hunger that makes the fog appear right?_
@@ -152,7 +152,7 @@ Happens after the grasshopper conversation
 	_Wow! Will I be delivering my own mail?._
 **Greg**
 	`If variable is true`
-		_Well for now its just a little messafe for the new intern. Deliver this to our new intern in the storage room. You can find them in the room on the right of reception. Make sure to deliver it like you have been taught. Treat this note like you would a real postal delivery._
+		_Well for now its just a little message for the new intern. Deliver this to our new intern in the storage room. You can find them in the room on the right of reception. Make sure to deliver it like you have been taught. Treat this note like you would a real postal delivery._
 **Lakshmi**
 	_Got it!_
 **Greg**

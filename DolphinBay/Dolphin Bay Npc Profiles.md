@@ -17,7 +17,7 @@ These characters can be removed completely or we can extract parts of them to ma
 
 *Todo: Make a page for each of these NPCs*
 
-**[[Experienced Guild Member 1]]**
+**[[Experienced Guild Member 1 (Gordon)]]**
 - [x] Description
 - [ ] Drawing
 - [ ] Dialogue
@@ -87,12 +87,12 @@ These characters can be removed completely or we can extract parts of them to ma
 - [ ] Drawing
 - [ ] Dialogue 
 
-**[[Basic protester 1]]**
+**[[Basic protester 1 (Leaf)]]**
 - [x] Description
 - [ ] Drawing
 - [ ] Dialogue 
 
-**[[Meditative guild Member]]**
+**[[Meditative guild Member (Lora)]]**
 - [x] Description
 - [ ] Drawing
 - [ ] Dialogue 

@@ -5,6 +5,8 @@ created:
 ---
 # Content
 Lost Activist. Wants to make a change and do something. Jumps on the protests boat to find something to do. Finds art interesting but isnt sure what to do. Comes to realize that his preffered medium to share is thoughts and critiques is through street art (maybe?) Will paint a fresco/mural. 
+
+Gatz need for change made him immediate friends with Camie (the local baker). Both have grand visions of the how the society should be organized, and think that the current organization of the society is directly responsible for the current plight. Gatz isn't as theory driven, but can clearly picture Camie's dreams. 
 # Apperance
 Messy dark hair, white t-shirt, 
 
