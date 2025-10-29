@@ -90,10 +90,25 @@ Template:
 
 **Event**
 	Cutscene of Lakshmi waking up at the table in her room (see if we can make a sprite for it or not)
-
-**Character 2**
-	`If variable is true`
-		_Dialogue_
+**Lakshmi**
+	*Yaawwwn...* *Right. I ended up journaling pretty late last night...*
+**Event**
+	Lakshmi stands up and looks to the left and right
+**Lakshmi**
+	*My back is so sore... I better get going, Greg will get me with his slipper if he finds out I slept in today of all days.*
+**Event** 
+	Journal updated: Greg will get to me if I missed today... I should hurry up to the *Guild Hall*.   
+**Event** 
+	Lakshmi Interaction options [in the room]
+	`If variable is true` Table
+		*Journaling keeps your mind at bay and spirits sharp! But makes you prone to losing track of time… must have been written in small font.*
+	`If variable is true` Mirror
+		*Looking good there! Dressed in uniform since 2 AM*
+	`If variable is true` Bed
+		*Do not tempt me.*
+**Event**	
+	`If variable is true` Player leaves the room.
+		Lakshmi finds Grandpa Dan downstairs, his back is to her with various breads spread on the 
 
 #### Lakshmi goes to the Guild Hall in Dolphin Bay (Corina)
 
