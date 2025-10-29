@@ -177,5 +177,6 @@ Inspiration: Montain-y rural Japan river house villages
 | Background Village Map              | Sprite/Parallax     |             |          |        |
 | Hand Drawn Lakshmi Doodles for exam | Sprite/Parallax<br> |             |          |        |
 | Lakshmi sleeping at the table       | Sprite<br>          |             |          |        |
+| Bread                               | Sprite              |             |          |        |
 
 Background for Pre-graduation scene [[Pre-graduation Dialogue-Events]]
