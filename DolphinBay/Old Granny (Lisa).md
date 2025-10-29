@@ -17,8 +17,10 @@ Lisa is well respected in the bay community. She was the pioneering force behind
 - faint reassuring smile
 
 # Dialogue
+*Event*
 
-**Event**
+
+**Event (HAS MAIL)**
 Lakshmi arrives to Lisa's house. She rings the doorbell. Door opens. 
 
 *Lisa*
@@ -51,7 +53,7 @@ _The love of my life taught me to respect and love them all. Every living thing.
 _What was her name?_
 
 *Lisa*
-_I called her Mo. She passed away years ago. Probably before you were even born. 
+_Mo. She passed away years ago. Probably before you were even born. 
 
 *Lakshmi*
 _That must have been very hard_

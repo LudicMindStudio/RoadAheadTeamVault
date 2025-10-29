@@ -10,7 +10,9 @@ created: 2025-09-08
 - [ ] Concepts
 # Content
 A villager who follows whatever is happening in the city. Has no opinion of his own. Seems to be simply a leaf who's being blown in the wind. 
-# Apperance
+
+Leaf is rather dispassionately working on becoming a gardener for the local community (under the watchful eye of Granny). He's easily swept into the action of the town as it allows a welcome respite from his training. He's also friends with Elio who is in favour of the direct action of the protestors. 
+# Appearance
 
 
 # Dialogue
