@@ -101,16 +101,77 @@ Template:
 **Event** 
 	Lakshmi Interaction options [in the room]
 	`If variable is true` Table
-		*Journaling keeps your mind at bay and spirits sharp! But makes you prone to losing track of time… must have been written in small font.*
+		**Lakshmi**
+			*Journaling keeps your mind at bay and spirits sharp! But makes you prone to losing track of time… must have been written in small font.*
 	`If variable is true` Mirror
-		*Looking good there! Dressed in uniform since 2 AM*
+		**Lakshmi**
+			*Looking good there! Dressed in uniform since 2 AM*
 	`If variable is true` Bed
+		**Lakshmi**
 		*Do not tempt me.*
 **Event**	
 	`If variable is true` Player leaves the room.
-		Lakshmi finds Grandpa Dan downstairs, his back is to her with various breads spread on the 
-
+		Lakshmi finds Grandpa Dan downstairs, his back is to her with various breads spread on the counter he stands in front of.
+**Lakshmi**
+	*Grandpa Dan?!*
+**Event**
+	Grandpa Dan jumps in place and turns towards Lakshmi.
+**Grandpa Dan**
+	*Ah! Lakshmi don't scare me! That mutt already got the jump on me this morning, my heart can't take much more!*
+**Lakshmi**
+	*Leo? Pfft. Ok grandpa. He just knows you need the energy to get your morning started.*
+**Grandpa Dan**
+	  * *grumble grumble* * *Yet I've been up since morning.* * *grumble grumble* * *Well, if you see that dog, get him home. I made him his favourite biscuits.*
+**Lakshmi**
+	*Ay Ay, cap'n!*
+**Event**
+	Journal Updated: Find Leo. Where should I hurry up first? Yes.
+**Grandpa Dan**
+	*Speaking of breakfast, go eat your slice of bread and run straight to the **Guild Hall**! Greg will skewer you if you are late for the boarding exam!*
+**Event**
+	Grandpa Dan starts walking away towards the door.
+**Lakshmi**
+	 *Thanks Grandpa Dan. For the bread.* 
+**Grandpa Dan**
+	* *Khum.* * *Right. See you later Lakshmi. The next time I see you, you better be the new postal worker.*
+**Lakshmi**
+	*You bet!*
+**Event**
+	Grandpa Dan walks out.
+**Event**	
+	Player interaction options
+	`If variable is true` Bread
+	**Lakshmi**
+		His fingers really are blessed. The crust is the best part! Huh... Is it... maple syrup sour bread? Wow it is not even my birthday, I should thank him later.*
+**Event** 
+	Journal Updated: Thank Grandpa Dan for making your favourite bread.
+	
 #### Lakshmi goes to the Guild Hall in Dolphin Bay (Corina)
+**Event**
+	Lakshmi walks out of Greg's chalet
+**Lakshmi**
+	*Today is the day! Now if I go straight from here, **Guild Hall** should be up ahead. I have not been in Dolphin Bay often though... Bah, I can ask around for directions.*
+**Event** 
+	Lakshmi wanders through the forest. The walk from the chalet to Dolphin Bay. There is an optional path on the way.
+**Event**
+	Optional path: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone chair. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]
+	`If variable is true` Interact with Grandpa Dan
+	**Lakshmi** 
+		*Wow. How beautiful.*
+	**Grandpa Dan**
+		*That is... one way to put it.*
+	**Lakshmi**
+		*How come?*
+	**Grandpa Dan**
+		*I'd say the world looks miserable with the fog.*
+	**Lakshmi**
+		 *Maybe. I do not have many memories left of the times before the fog... And it does sound terrible... But I cannot help but love it. I want to see all of it.*
+	**Grandpa Dan**
+		*...*
+	There is a silent pause of the cutscene. And the interaction ends on this awkward note.
+ 	`If variable is true` Interact with Grandpa Dan again
+	 **Grandpa Dan**
+		*You aren't a postal worker yet? What are you doing! Hurry up to the Guild Hall!*
 
 #### Lakshmi does her exam (Corina)
 
