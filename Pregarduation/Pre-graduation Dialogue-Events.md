@@ -108,9 +108,42 @@ Template:
 		*Do not tempt me.*
 **Event**	
 	`If variable is true` Player leaves the room.
-		Lakshmi finds Grandpa Dan downstairs, his back is to her with various breads spread on the 
-
+		Lakshmi finds Grandpa Dan downstairs, his back is to her with various breads spread on the counter he stands in front of.
+**Lakshmi**
+	*Grandpa Dan?!*
+**Event**
+	Grandpa Dan jumps in place and turns towards Lakshmi.
+**Grandpa Dan**
+	*Ah! Lakshmi don't scare me! That mutt already got the jump on me this morning, my heart can't take much more!*
+**Lakshmi**
+	*Leo? Pfft. Ok grandpa. He just knows you need the energy to get your morning started.*
+**Grandpa Dan**
+	  * *grumble grumble* * *Yet I've been up since morning.* * *grumble grumble* * *Well, if you see that dog, get him home. I made him his favourite biscuits.*
+**Lakshmi**
+	*Ay Ay, cap'n!*
+**Event**
+	Journal Updated: Find Leo. Where should I hurry up first? Yes.
+**Grandpa Dan**
+	*Speaking of breakfast, go eat your slice of bread and run straight to the **Guild Hall**! Greg will skewer you if you are late for the boarding exam!*
+**Event**
+	Grandpa Dan starts walking away towards the door.
+**Lakshmi**
+	 *Thanks Grandpa Dan. For the bread.* 
+**Grandpa Dan**
+	* *Khum.* * *Right. See you later Lakshmi. The next time I see you, you better be the new postal worker.*
+**Lakshmi**
+	*You bet!*
+**Event**
+	Grandpa Dan walks out.
+**Event**	
+	Player interaction options
+	`If variable is true` Bread
+	*Lakshmi: His fingers really are blessed. The crust is the best part! Huh... Is it... maple syrup sour bread? Wow it is not even my birthday, I should thank him later.*
+**Event** 
+	Journal Updated: Thank Grandpa Dan for making your favourite bread.
+	
 #### Lakshmi goes to the Guild Hall in Dolphin Bay (Corina)
+
 
 #### Lakshmi does her exam (Corina)
 
