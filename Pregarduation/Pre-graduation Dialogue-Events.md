@@ -34,7 +34,6 @@ Lakshmi wakes up in Greg's chalet (Corina) -> Lakshmi goes to the Guild Hall in 
 - [ ] Need to establish that she lost her memory about her parents (? - to confirm) (start plot 2) 
 ---
 
-
 #### Lakshmi wakes up in Greg's chalet
 *Map [[Greg Chalet]]*
 
@@ -87,6 +86,14 @@ Template:
 		_Dialogue_
 
 #### Lakshmi wakes up in Greg's chalet (Corina)
+***note. Do we include the grasshopper memory, or do we leave it for later?*
+
+**Event**
+	Cutscene of Lakshmi waking up at the table in her room (see if we can make a sprite for it or not)
+
+**Character 2**
+	`If variable is true`
+		_Dialogue_
 
 #### Lakshmi goes to the Guild Hall in Dolphin Bay (Corina)
 

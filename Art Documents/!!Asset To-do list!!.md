@@ -155,7 +155,8 @@ Prev assets: [[Interior sprite_1.jpeg]] [[Interior sprite_2.jpeg]]
 | ----------- | ------------- | ----------- | -------- | ------ |
 | Ocean waves | Animation     |             | Low      |        |
 | Seaguls     | Animation<br> |             | Low      |        |
-| Fog         | Animation<br> |             | Medium   |        |
+| Fog         | Animation<br> |             | High     |        |
+
 
 ---
 ### References and Links for Dolphin Bay 
@@ -171,9 +172,10 @@ Inspiration: Montain-y rural Japan river house villages
 ---
 ### Next Big Story Pieces 
 
-| Name                                | Category        | Assigned to | Priority | Status |
-| ----------------------------------- | --------------- | ----------- | -------- | ------ |
-| Background Village Map              | Sprite/Parallax |             |          |        |
-| Hand Drawn Lakshmi Doodles for exam | Sprite<br>      |             |          |        |
+| Name                                 | Category        | Assigned to | Priority | Status |
+| ------------------------------------ | --------------- | ----------- | -------- | ------ |
+| Background Village Map               | Sprite/Parallax |             |          |        |
+| Hand Drawn Lakshmi Doodles for exam  | Sprite<br>      |             |          |        |
+| Lakshmi sprite sleeping at the table |                 |             |          |        |
 
 Background for Pre-graduation scene [[Pre-graduation Dialogue-Events]]
