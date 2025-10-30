@@ -57,6 +57,9 @@ Reference to [[(WIP) Plotlines & Story Progression]]  mention of fog and her mem
 
 Prev work done: [[Day of the exam]]
 
+* [Exam] event Since Greg can be a big goofball, I want him to troll Lakshmi with the pop quizz. Whether she does good or bad, she passes her exam, because it's more about her actions and maturity that Greg is evaluating.
+* [Exam] Revaluate the multiple choice event. If we do this, we need for Greg to explain each of the wrong answers and it can be difficult. Might make a mini game or internal monologue with doodles instead.
+
 * Meets Greg
 * Does her exam. Alone? With someone? Or shes late so shes alone? Idk
 
@@ -77,7 +80,7 @@ Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event
 
 ---
 ## Dialogue & Events
-
+##### Template
 Template:
 **Character 1**
 	_Dialogue_
@@ -90,13 +93,13 @@ Template:
 		_Dialogue_
 
 
-Notes for events
+##### Notes for devs when implementing events
 * [Welcome world] event is optional and can be interacted with later in the game. The game will implicitly point towards it with the Journal Side Quest [Thank Grandpa Dan for the bread]
+
 
 #### Lakshmi wakes up in Greg's chalet (Corina)
 
 ** note. Do we include the grasshopper memory, or do we leave it for later?*
-
 **Event**
 	Cutscene of Lakshmi waking up at the table in her room (see if we can make a sprite for it or not)
 **Lakshmi**
@@ -218,13 +221,70 @@ Notes for events
 	`If variable is true` Interact with Greg
 		*Ah Lakshmi, good morning. You slept in today, I hope you are well rested.*
 **Lakshmi**
-	*As much as I can be... haha. Sorry Greg... I must have missed my alarm. Nothing too big is going on today right?*
+	*As much as I can be... haha. Sorry Greg... I must have missed my alarm. Nothing too big is going on today I hope?*
 **Greg**
 	`If variable is true`
-		_I'm afraid so Lakshmi. You have.... .... a pop quiz today!_
+		_I'm afraid you are incorrect, Lakshmi. You have.... a pop quiz today!_
 **Lakshmi**
-	_A pop quiz!!!_
-
+	_A pop quiz??_
+**Greg**
+	`If variable is true`
+		_Yes Lakshmi I'm sorry to say. You've been progressing too quickly and I believe you are ready to graduate._
+**Lakshmi**
+	*Are you kidding me? I've been dreaming of this day!* *Although... didn't expect to sleep so little...*
+**Greg**
+	*Ah well, you leave much to be desired in terms of discipline. But no matter, you are young. You will learn.*
+**Lakshmi**
+	*Is this a challenge? If so, I accept!*
+**Greg**
+	_(?) A challenge? Who said anything about a challenge? You'll start with just a few written questions. Go over to the classroom, take a seat and I'll be over in a minute with your exam._
+**Lakshmi**
+	*Eugh... At least it beats picking up apples all afternoon.*
+**Event**
+	Journal updated. Player goes towards the classroom.  Sits at a desk.
+**Lakshmi**
+	_(deep breaths, I've got this!)_
+**Event**
+	Greg walks over to Lakshmi to give her the exam.
+**Greg**
+	`If variable is true`
+		_Here you are Lakshmi, only 3 questions. Best of luck._.
+**Event**
+	Greg walks away.
+**Lakshmi**
+	*Bring it on!*
+**(WIP) Event** [Exam] 
+	_Ok, bring on question 1!_
+		1) The fog that effects our world is most receptive to what human condition?
+			1) Hunger
+				1) _It was hunger that makes the fog appear right?_
+			2) Emotion 
+			3) Speech
+		2) What's the primary goal of our influential guild, with location across many post fog cities?
+			1) Fortune
+				1) _Fortune, the guild tried to make money in the new world._
+			2) Adventure
+			3) Communication
+		3) What types of government did the survivors of the fog create for their new cities?
+			1) Community Driven
+				1) _Us post fog people have community values! A lot of strength was gained by coming together as communities against the fog._
+			2) Monarch 
+			3) Anarchy
+**Event**
+	Journal updated: Exam is done. Time to see Greg to see how I have done.
+**Lakshmi**
+	_Ok Greg, I've finished the test._
+**Greg**
+	`If variable is true` (if completed the test badly)
+		_Great job Lakshmi, Let's see how you did. Hmmm.... You did alright Lakshmi but I've seen you do better._
+**Lakshmi**
+	_Darn. I knew I was blanking on a few._
+**Greg**
+	`If variable is true` (if completed the test well)
+		_We'll still move on to the next part. I believe in you Lakshmi._
+**Lakshmi**
+	_I'll try my best Greg, bring it on!_	
+	
 #### Lakshmi speaks to the intern (enter first memory) (Arkana) -> to modify
 **Greg**
 	_Alright! Now it's time for the... Practical test!_
