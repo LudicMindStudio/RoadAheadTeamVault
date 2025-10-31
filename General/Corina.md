@@ -3,7 +3,7 @@
 
 _exquisite text_
 
-[[Vault Entry]]
+[[1.0 Vault Entry]]
 
 #TutorialTestTag
 

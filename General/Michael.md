@@ -3,6 +3,6 @@
 
 **This is a bold statement**
 
-[[Vault Entry]]
+[[1.0 Vault Entry]]
 
 #TutorialTestTag 
