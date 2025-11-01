@@ -6,7 +6,7 @@ By: Arkana and Corina
 # Progress
 - [x] Extract Dialogue from RPG Maker
 - [x] Draft the Pre-Graduation portion. 
-- [x] Detail dialogue and events. (Make as many details about the environment for interaction with the map)
+- [ ] Detail dialogue and events. (Make as many details about the environment for interaction with the map)
 - [ ] Review each other's scripts
 	** overarching review note. Do we keep the apostrophe in the game text or do we keep the language professional (you're vs you are)?
 - [ ] Implement in the game
