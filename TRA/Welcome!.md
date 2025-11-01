@@ -34,6 +34,8 @@ Different aspects of the game: Villages, Memories, Main Story and game lore
 # I don't know how to use these! 
 Don't worry! We all start somewhere. We have plenty of resources and tutorials available for you to learn.
 Obsidian : 
+	*Formatting scripts*
+	*Naming art assets*  
 Unity : 
 Drawing pixel art: [[Spriter's Resource]]
 
