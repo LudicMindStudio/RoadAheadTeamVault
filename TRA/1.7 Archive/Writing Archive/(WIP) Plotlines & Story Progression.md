@@ -10,7 +10,7 @@ By: Corina
 - [ ] Add current state?
 
 # Context
-Get familiar with different plots of the game. We are focusing on different parts of the game depending on the sprint (take a look at the most recent Meeting tab page). All plots move at the same time at different rates (take a look at progression part). All should tie in with [[(WIP) Basic Gameplay Loop]]
+Get familiar with different plots of the game. We are focusing on different parts of the game depending on the sprint (take a look at the most recent Meeting tab page). All plots move at the same time at different rates (take a look at progression part). All should tie in with [[Basic Gameplay Loop]]
 
 # Plots
 ---

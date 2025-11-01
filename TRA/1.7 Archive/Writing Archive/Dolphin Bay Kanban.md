@@ -13,7 +13,7 @@ tags:
 
 ## Writing Tasks
 
-- [ ] [[Dolphin Bay Npc Profiles]]
+- [ ] [[1. Dolphin Bay Npc Profiles]]
 - [ ] [[Dolphin Bay Story]]
 - [ ] [[Dolphin Bay Locations]]
 

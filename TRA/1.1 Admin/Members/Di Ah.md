@@ -3,7 +3,7 @@
 
 **bold text**
 
-[[1.0 Vault Entry]]
+[[Welcome!]]
 
 #tutorialtest
 
