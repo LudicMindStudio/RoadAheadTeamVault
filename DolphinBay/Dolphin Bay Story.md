@@ -7,7 +7,7 @@ Since Dolphin bay is the begining of the game, we introduce everything along wit
 
 ## Characters
 
-**[[Lakshmi]]**
+**[[Lakshmi (MC)]]**
 Other then in the prologue, the player has no idea about anything. Lakshmi should be as blank as she has can be.
 
 Her tone is optimistic but experience-less. She asks a lot of questions but when she thinks she knows something, shes confident about it. She's empathetic but unable to correctly express herself. Lakshmi doesn't innately seem to have any drive other then to graduate and become a postal worker. As a youth, she is a blank slate.
@@ -18,7 +18,7 @@ Grandpa Dan is introduced as comedic more then anything. his bumbling in his rol
 
 With the graduation of Lakshmi approaching, Grandpa Dan knows that soon he will have less time with her. His dwindling time to be sincere with Lakshmi is boiling into his character and usual actions until the moment she leaves.
 
-**[[Greg]]**
+**[[Greg (Guild leader)]]**
 Greg is the more obvious model for Lakshmi in this moment. As the leader of the postal guild, he acts as the goal Lakshmi is chasing. Also in contrast to Grandpa, Greg is much more prepared for Lakshmi's graduation. His high hopes for Lakshmi stray close to expectations as he continues to guide Lakshmi in her early steps as a guild member. At this point in the story Greg is perfect, a guide who has all the answers.
 
 **[[Francois Hustle 1]]**

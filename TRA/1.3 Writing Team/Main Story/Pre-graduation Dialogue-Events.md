@@ -17,7 +17,7 @@ Links to the previous work done about the graduation:
 Early game notes: [[Dolphin Bay - Elements to be reviewed]], [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event 2 post exam]], [[Dolphin Bay - Event 3 post exam]], [[Dolphin Bay Story]] [[Main Story (Lakshmi's) Loose Brainstorming]], [[Original RPG Maker Scripts]]
 
 # Characters
-Lakshmi, Grandpa Dan, Greg. Intern. [[Guild Receptionist (Robert)]], [[Lakshmi]], [[Old Character Bios]]
+Lakshmi, Grandpa Dan, Greg. Intern. [[Guild Receptionist (Robert)]], [[Lakshmi (MC)]], [[Old Character Bios]]
 
 # Content
 ---
@@ -30,7 +30,7 @@ Lakshmi wakes up in Greg's chalet (Corina) -> Lakshmi goes to the Guild Hall in 
 - [x] Entering memories - (intern)
 - [x] Main occupation - graduation delivering mail (can test the intern after that)
 - [x] Fog (can be shown at the beginning & during exam the status quo of the world)
-- [x] Establish Lakshmi as a cheerful and happy go lucky person (finds beauty in the depressing world) (empathize when seeing fog and during exam) [[Lakshmi]]
+- [x] Establish Lakshmi as a cheerful and happy go lucky person (finds beauty in the depressing world) (empathize when seeing fog and during exam) [[Lakshmi (MC)]]
 - [x] Introduce Grandpa Dan (Deliverymen Headquarters Master) [[Old Character Bios]]
 - [x] Introduce Greg (?? Makes food for Lakshmi) [[Old Character Bios]]
 - [ ] Need to establish that she lost her memory about her parents (? - to confirm) (start plot 2) 

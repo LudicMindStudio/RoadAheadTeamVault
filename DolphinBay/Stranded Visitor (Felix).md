@@ -24,7 +24,7 @@ short brown hair
 
 initial text with the player when they first talk to this npc
 # Characters
-[[Lakshmi]]
+[[Lakshmi (MC)]]
 [[Stranded Visitor (Felix)]]
 
 # Content
