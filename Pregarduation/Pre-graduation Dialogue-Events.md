@@ -193,8 +193,6 @@ Template:
 **Lakshmi**
 	_Thanks! ( I better read who I need to deliver these too)_
 #### Lakshmi delivers the first few mail (Start Dolphin Bay story) (Arkana)
-
-
 general idea
 - Leaves the guild hall proudly, but disorganised. 
 - meets CAT and the gang
