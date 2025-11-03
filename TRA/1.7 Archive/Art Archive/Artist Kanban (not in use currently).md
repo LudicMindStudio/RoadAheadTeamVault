@@ -20,7 +20,7 @@ kanban-plugin: board
 - [x] Basic outdoor tileset : house tileset #Medium @{2025-07-23}: Corina
 - [x] NPC Character Concept Art **[[Old Sailor Garp]]** #Medium @{2025-07-18} : Michael
 - [x] #Exercise Copy [[this]] character design in pixel art using [[Spriter's Resource]] : Corina #Challenging @{2025-07-11}
-- [x] Lakshmi Sprite 32x64 (walking cycle, facing up, down and sides) (example but can change it) [[Art Documents/Rough Sketches/Lakshmi sprite.png]] please refer to the original concept art by Michael  #Challenging @{2025-07-16} : Michael
+- [x] Lakshmi Sprite 32x64 (walking cycle, facing up, down and sides) (example but can change it) [[IDK/Lakshmi sprite.png]] please refer to the original concept art by Michael  #Challenging @{2025-07-16} : Michael
 - [x] Grandpa Dan sprite 32x64 (walking cycle, facing up, down and sides) please refer to the concept art by Michael #Challenging  @{2025-07-16} : Michael
 
 
