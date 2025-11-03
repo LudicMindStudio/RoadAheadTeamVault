@@ -67,6 +67,7 @@ Prev work done: [[Day of the exam]]
 
 Fun twist to **confirm with dev team** : she is very bored and imagines it as a mini game. Or doodles by accident on the exam page and we can show it as drawings on screen. Easier to get the player interested in the game and hint at future gameplay?
 	- ==COMMENT FROM ARKANA:== I love the idea of the doodling, but if she's late maybe she doesn't have much time to do that. I think having an image of the actual exam questions pop up and then choosing her answer would make it more interesting visually. Maybe she could get distracted by seeing everyone getting up because they're done and do a little doodle then tell herself to stay focused. Then, on the image of the exam we would see her doodle. Can you visualise what I'm trying to explain?
+	- ==Answer From Corina== : I love that idea. But I also realized that in the original script, the pop quizz was like a surprise exam. When Lakshmi woke up, she just knew Greg had to talk to her. If we keep that, we might not need to include other characters doing the exam. The advantage of that is for us not to make extra characters haha. Because we might need to flesh out new characters and make the script much longer. Another advantage is for the exam not to have good or bad answers like we had in the original, because it seems like a nightmare to code and write with the multiple choices. I can make it look like a prank exam from Greg (will also work into his strict but goofy character) and the real exam is the practice test. To think over. 
 #### Lakshmi speaks to the intern (enter first memory) 
 *Map (interior not created yet)*
 #### Lakshmi delivers the first few mail (Start Dolphin Bay story) 
@@ -114,7 +115,7 @@ Template:
 **Lakshmi**
 	_Well, I'm in the middle of my postal guild graduation testing and have a delivery for you!_
 **Intern**
-	_Wow, really? You,re so lucky. I'll receive your mail then._
+	_Wow, really? You're so lucky. I'll receive your mail then._
 **Lakshmi**
 	_Ok! Well then, I'm Lakshmi from the postal guild here to deliver your mail! Thank you for using our services and have a good day! 
 		Wow thanks again!_ 
@@ -131,7 +132,7 @@ Template:
 **Greg**
 	_Hello? Anybody in here? Where did that new intern go?_
 **Intern**
-	_(...) Well I can at least minimize their disapointment... Back to it..._
+	_(...) Well I can at least minimize their disappointment... Back to it..._
 **Event**
 	Screen blacks out and the player is back in the guild room as Lakshmi. 
 **Intern**
@@ -191,6 +192,7 @@ general idea of order of events
 - Enters  Liam's memory
 
 ==PLEASE COMMENT ON THIS==: I'm realising I'm going with a very strict order of events. I'm thinking the player should decide which letter to deliver first. I just don't think they should start with Liam's so maybe after they have delevered two letters we could have an event saying like of there's one at the bottom of my bag that I didn't notice. 
+==COMMENT FROM CORINA:== Yup, you have the answer haha. That's great! It shows her inexperience too this way.
 
 **Event**
 	Player leaves the guild hall. Walks around a bit but Cat calls her out. 

@@ -96,7 +96,6 @@ Template:
 ##### Notes for devs when implementing events
 * [Welcome world] event is optional and can be interacted with later in the game. The game will implicitly point towards it with the Journal Side Quest [Thank Grandpa Dan for the bread]
 
-
 #### Lakshmi wakes up in Greg's chalet (Corina)
 
 ** note. Do we include the grasshopper memory, or do we leave it for later?*
