@@ -100,7 +100,7 @@ Template:
 **Lakshmi**
 	_Will I be delivering mail alone?_
 **Greg**
-	__Well for now it's just a little message for the new intern. Deliver this to the new intern. They should be in the storage room on the right of reception. Make sure to deliver it like you've been taught. Treat this note like you would a real postal delivery.__
+	_Well for now it's just a little message for the new intern. Deliver this to the new intern. They should be in the storage room on the right of reception. Make sure to deliver it like you've been taught. Treat this note like you would a real postal delivery._
 **Lakshmi**
 	_Got it!_
 **Event**
@@ -173,10 +173,12 @@ Template:
 	_Go up to the front desk. The receptionist will have some deliveres for you to make._
 **Event**
 	Player goes to see the receptionist.
-**Greg**
+**Receptionist**
 	_Hey Lakshmi, congrats on becoming a full member. I've got a whole batch of deliveries here for you to make. Good luck!_
 **Lakshmi**
 	_Thanks! ( I better read who I need to deliver these too)_
+**Event**
+	Player collects the mail.
 #### Lakshmi delivers the first few mail (Start Dolphin Bay story) (Arkana)
 general idea of order of events
 - Leaves the guild hall proudly, but disorganised. 
@@ -185,5 +187,7 @@ general idea of order of events
 - delivers mail to Doran
 - delievers mail to Liam's sister. 
 - Enters  Liam's memory
+
+PLEASE COMMENT ON THIS: I'm realising I'm going with a very strict order of events. I'm thinking the player should decide which letter to deliver first. I just don't think they should start with Liam's so maybe after they have delevered two letters we could have an event saying like of there's one at the bottom of my bag that I didn't notice. 
 
 

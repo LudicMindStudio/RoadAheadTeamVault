@@ -242,7 +242,7 @@ Happens after the grasshopper conversation
 		_Go up to the front desk. The receptionist will have some deliveres for you to make._
 **Event**
 	Player goes to see the receptionist.
-**Greg**
+**Receptionist**
 	`If variable is true`
 		_Hey Lakshmi, congrats on becoming a full member. I've got a whole batch of deliveries here for you to make. Good luck!_
 **Lakshmi**
