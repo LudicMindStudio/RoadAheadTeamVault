@@ -24,7 +24,7 @@ qTJK9bSd: https://www.youtube.com/watch?v=68eC42S_FNc
 ## Embedded Files
 c8cc6b7df877e73145e92b79dafd41e8f22743b7: [[Pasted Image 20250704111442_435 1.png]]
 
-e0a2610f1a598188b9de0d63753c180f1b8880a8: [[Misc/Lakshmi sprite.png]]
+e0a2610f1a598188b9de0d63753c180f1b8880a8: [[1.7 Archive/Art Archive/Lakshmi sprite.png]]
 
 bcb8da05b276bd7809171b500d754f7caf0604c7: [[Pasted Image 20250704111534_590 1.png]]
 

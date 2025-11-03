@@ -29,5 +29,5 @@ Example Sea of Stars & To the Moon art aesthetic, colours, characters, rounded a
 example Chracter asset sea of stars: 32 x 64 px
 ![[Pasted image 20250624184424.png]]
 example of Lakshmi sprite from May 2025 by Corina
-![[Misc/Lakshmi sprite.png]]
+![[1.7 Archive/Art Archive/Lakshmi sprite.png]]
 
