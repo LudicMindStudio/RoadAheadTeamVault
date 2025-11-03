@@ -3,7 +3,7 @@
 
 **bold text**
 
-[[Welcome!]]
+[[1.0 Welcome!]]
 
 #tutorialtest
 

@@ -3,7 +3,7 @@
 
 _exquisite text_
 
-[[Welcome!]]
+[[1.0 Welcome!]]
 
 #TutorialTestTag
 

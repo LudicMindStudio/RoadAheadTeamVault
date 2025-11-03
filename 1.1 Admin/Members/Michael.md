@@ -3,6 +3,6 @@
 
 **This is a bold statement**
 
-[[Welcome!]]
+[[1.0 Welcome!]]
 
 #TutorialTestTag 
