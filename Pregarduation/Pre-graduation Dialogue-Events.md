@@ -55,7 +55,8 @@ Prev work done: [[Grasshopper Discussion]], [[Day of the exam]]
 Prev work done: [[Day of the exam]]
 
 * Meets Greg
-* Does her exam. Alone? With someone? Or shes late so shes alone? Idk
+* Does her exam. Alone? With someone? Or shes late so shes alone? Idk 
+	* ==COMMENT FROM ARKANA==: I think it would be interesting to have other students doing their exam but they are finishing before her because she's late. It would give more life to the guild hall too if multiple people are doing their exam. We could have all of them getting up and walking around too doing their practical exam which doesn't have to be the same as Lakshmi. Maybe having at least 2 other students.
 
 -> List of questions during exam (multiple choice?): Lakshmi will comment about her experiences with these :
 - Economy : isolation between villages. Less economy now. Self sustained villages
@@ -65,6 +66,7 @@ Prev work done: [[Day of the exam]]
 - Reason for deliverymen : connect all villages together (maybe have a short verbal saying.) Delivering mail at your doorstep faster than email
 
 Fun twist to **confirm with dev team** : she is very bored and imagines it as a mini game. Or doodles by accident on the exam page and we can show it as drawings on screen. Easier to get the player interested in the game and hint at future gameplay?
+	- ==COMMENT FROM ARKANA:== I love the idea of the doodling, but if she's late maybe she doesn't have much time to do that. I think having an image of the actual exam questions pop up and then choosing her answer would make it more interesting visually. Maybe she could get distracted by seeing everyone getting up because they're done and do a little doodle then tell herself to stay focused. Then, on the image of the exam we would see her doodle. Can you visualise what I'm trying to explain?
 #### Lakshmi speaks to the intern (enter first memory) 
 *Map (interior not created yet)*
 #### Lakshmi delivers the first few mail (Start Dolphin Bay story) 
@@ -96,71 +98,58 @@ Template:
 **Greg**
 	_Alright! Now it's time for the... Practical test!_
 **Lakshmi**
-	`If variable is true`
-		_Will I be delivering mail alone?_
+	_Will I be delivering mail alone?_
 **Greg**
 	__Well for now it's just a little message for the new intern. Deliver this to the new intern. They should be in the storage room on the right of reception. Make sure to deliver it like you've been taught. Treat this note like you would a real postal delivery.__
 **Lakshmi**
-	`If variable is true`
-		_Got it!_
+	_Got it!_
 **Event**
 	Journal updated. Player picks up the item and goes to see the intern.
 **Intern**
-	`If variable is true`
-		_Dammit where did that go?_
+	_Dammit where did that go?_
 **Lakshmi**
 	_Uhmm Hi! Are you the new intern?_
 **Intern**
-	`If variable is true`
-		_Oh, hum hi Lakshmi, what's up?_
+	_Oh, hum hi Lakshmi, what's up?_
 **Lakshmi**
 	_Well, I'm in the middle of my postal guild graduation testing and have a delivery for you!_
 **Intern**
-	`If variable is true`
-		_Wow, really? You,re so lucky. I'll receive your mail then._
+	_Wow, really? You,re so lucky. I'll receive your mail then._
 **Lakshmi**
 	_Ok! Well then, I'm Lakshmi from the postal guild here to deliver your mail! Thank you for using our services and have a good day! 
 		Wow thanks again!_ 
 			_(...)_
 **Intern**
-	`If variable is true`
-		_Hey are you okay?_ 
+	_Hey are you okay?_ 
 **Lakshmi**
-		_Yes, just a little excited! Oh no not this again._
+	_Yes, just a little excited! Oh no not this again._
 **Event**
 	Screen blacks out and the player is now in a different room as the intern. 
 	
 **Intern**
-	`If variable is true`
-		_Dammit... I messed up again... How come I keep messing up everything... Even the simplest of task... I'm not cut out to be a guild member what was I thinking coming here. I can't do anything right.. (...)_
+	_Dammit... I messed up again... How come I keep messing up everything... Even the simplest of task... I'm not cut out to be a guild member what was I thinking coming here. I can't do anything right.. (...)_
 **Greg**
-	`If variable is true`
-		_Hello? Anybody in here? Where did that new intern go?_
+	_Hello? Anybody in here? Where did that new intern go?_
 **Intern**
-	`If variable is true`
-		_(...) Well I can at least minimize their disapointment... Back to it..._
+	_(...) Well I can at least minimize their disapointment... Back to it..._
 **Event**
 	Screen blacks out and the player is back in the guild room as Lakshmi. 
 **Intern**
-	`If variable is true`
-		_Lakshmi!? Are you ok?_
+	_Lakshmi!? Are you ok?_
 **Lakshmi**
 	_Ah... Yeah I'm ok sorry... (?) (Argh... I gotta get bettwe at that)_
 **Intern**
-	`If variable is true`
-		_Ok phew. I thought I did something wrong again._
+	_Ok phew. I thought I did something wrong again._
 **Lakshmi**
 	_No no! You did nothing wrong! In fact, thank you for being such a good practive delivery! I feel so much more prepared to be a guild worker and it's all thanks to you._
 **Intern**
-	`If variable is true`
-		_(<3) Oh geez, well no problem then!_
+	_(<3) Oh geez, well no problem then!_
 **Lakshmi**
 	_Keep up the good work and I'm sure you'll be a full guild member soon too!_
 **Intern**
-	`If variable is true`
-		_Really? Do you really believe that?_
+	_Really? Do you really believe that?_
 **Lakshmi**
-	1) _Absolutelu_
+	1) _Absoluteluy
 	2) _Well..._
 		1) _Well. Maybe one day. Theres hope for anytone._
 		 **Intern**
@@ -173,31 +162,28 @@ Template:
 **Lakshmi**
 	_I did it Greg! Mail delivered._
 **Greg**
-	`If variable is true`
-		_I saw, well done Lakshmi. I'm very proud. I am also happy to say... Welcome in, Lakshmi you are now a full guilf member. I hope to see more great things from you._
+	_I saw, well done Lakshmi. I'm very proud. I am also happy to say... Welcome in, Lakshmi you are now a full guilf member. I hope to see more great things from you._
 **Lakshmi**
 	_(!) All right! Awesome! This is so awesome Greg! can we have a party!?_
 **Greg**
-	`If variable is true`
-		_Maybe we'll set one up for later tonight, for now I'm putting you straight to work._
+	_Maybe we'll set one up for later tonight, for now I'm putting you straight to work._
 **Lakshmi**
 	_Ok then, bring it on!_
 **Greg**
-	`If variable is true`
-		_Go up to the front desk. The receptionist will have some deliveres for you to make._
+	_Go up to the front desk. The receptionist will have some deliveres for you to make._
 **Event**
 	Player goes to see the receptionist.
 **Greg**
-	`If variable is true`
-		_Hey Lakshmi, congrats on becoming a full member. I've got a whole batch of deliveries here for you to make. Good luck!_
+	_Hey Lakshmi, congrats on becoming a full member. I've got a whole batch of deliveries here for you to make. Good luck!_
 **Lakshmi**
 	_Thanks! ( I better read who I need to deliver these too)_
 #### Lakshmi delivers the first few mail (Start Dolphin Bay story) (Arkana)
-general idea
+general idea of order of events
 - Leaves the guild hall proudly, but disorganised. 
-- meets CAT and the gang
+- meets CAT and the gang by the docks
 - meets Elio
 - delivers mail to Doran
 - delievers mail to Liam's sister. 
+- Enters  Liam's memory
 
 
