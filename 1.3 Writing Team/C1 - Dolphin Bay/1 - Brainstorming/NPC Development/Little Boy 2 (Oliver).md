@@ -25,7 +25,7 @@ Distant from the other kids. Seen staring off into the ocean. Quiet
 	Lakshmi sees Oliver staring in the horizon. Lakshmi comes up to him and sits down. 
 
 *Lakshmi*
-	_Hey, I've been seeing you alone staring into the horizon around the village._
+	_Hey, I've been seeing you alone staring into the horizon around here for a while.
 
 *Oliver*
 	_Hey. I enjoy solitude plus I enjoy watching the nature around us. It's nice to admire what is right in front of you. 

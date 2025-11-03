@@ -176,9 +176,11 @@ Template:
 **Receptionist**
 	_Hey Lakshmi, congrats on becoming a full member. I've got a whole batch of deliveries here for you to make. Good luck!_
 **Lakshmi**
-	_Thanks! ( I better read who I need to deliver these too)_
+	_Thanks!_
 **Event**
 	Player collects the mail.
+**Lakshmi**
+	_I better get started!_
 #### Lakshmi delivers the first few mail (Start Dolphin Bay story) (Arkana)
 general idea of order of events
 - Leaves the guild hall proudly, but disorganised. 
@@ -188,6 +190,68 @@ general idea of order of events
 - delievers mail to Liam's sister. 
 - Enters  Liam's memory
 
-PLEASE COMMENT ON THIS: I'm realising I'm going with a very strict order of events. I'm thinking the player should decide which letter to deliver first. I just don't think they should start with Liam's so maybe after they have delevered two letters we could have an event saying like of there's one at the bottom of my bag that I didn't notice. 
+==PLEASE COMMENT ON THIS==: I'm realising I'm going with a very strict order of events. I'm thinking the player should decide which letter to deliver first. I just don't think they should start with Liam's so maybe after they have delevered two letters we could have an event saying like of there's one at the bottom of my bag that I didn't notice. 
+
+**Event**
+	Player leaves the guild hall. Walks around a bit but Cat calls her out. 
+
+**Event**
+	Cat is sitting near the docks with Tullia and Sammy. They are talking among themselves. Lakshmi comes near and Cat calls her out. 
+
+*Cat* (Standing up; looking in Lakshmi's direction)
+	_Hey you! Why are you just standing there? What are you doing here?
+	
+*Lakshmi*
+	_Hi sorry to disturb. I'm a new postal worker. I've been so focused on my studies that it's like I've been in my own world. I'm just checking where I need to go and I like feeling the sea breeze.
+
+*Sammy*
+	_It used to be a lot nicer around here. Along with the sea breeze, you would hear dolphins clicking and whistling. Now, we mostly hear shouting._
+	
+*Tullia*
+	_I don't like passing by the protesters... they're loud._
+
+*Lakshmi*
+	_Sorry kids, I'm not sure what you're taking about but I better get to work see you around!
+
+**Event**
+	In their bag, the player has 4 letters but only have access to 3. There will be an event later where Lakshmi realises there is a 4th letter. The 3 first letters are for NPCs.  The player can take a right to go towards "central dolphin bay" or to the left towards "rural dolphin bay"
+
+**Event (Option chosen is player goes left)**
+	Player has mail for Doran and Oliver's mother. They have to walk around to find where to go. Lakshmi passes by a boy sitting and staring into the horizon. 
+_Lakshmi_
+	_(In her head). He's been sitting since this morning. Should I go check on him?_
+	Option 1: Yes
+		`If variable is true`
+	*Lakshmi*
+		_Hey, I've been seeing you alone staring into the horizon around here for a while._
+	*Oliver*
+		_Hey. I enjoy solitude plus I enjoy watching the nature around us. It's nice to admire what is right in front of you._
+	_Lakshmi_
+		_Okay, I just wanted to check on you. I have mail to deliver close by. Do you happen to know where 92 Peak street is?_
+	*Oliver*
+		_Yes, that's where I live. I can bring you there. Follow me._
+	Choices:
+		1. Follow Oliver.
+			*Lakshmi*
+				_Oh! Thank you._
+		2. Take your own way.
+			*Lakshmi*
+				_It's okay, I will figure it out. Thank you._
+			*Oliver*
+				_As you wish_
+	Option 2: No.
+		`If variable is true`
+	_Lakshmi_
+		_(In her head) I will let him be. Now, let's deliver some mail!_
+	
+			
+
+
+
+
+
+
+
+
 
 

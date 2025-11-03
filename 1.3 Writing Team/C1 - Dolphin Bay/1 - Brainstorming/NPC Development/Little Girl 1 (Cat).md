@@ -52,5 +52,5 @@ Loves animals and playing games. The leader amongst the dolphin bay kids
 				_Oh! Okay. Thank you. See you around kids!_
 
 *Lakshmi* (in her head)
-	_Alright, now I need to get to 26 Statue Corner. Oh, I guess I'll keep an eye out for the protesters._
+	_Alright, now I better go do my job. I guess I'll keep an eye out for the protesters._
 
