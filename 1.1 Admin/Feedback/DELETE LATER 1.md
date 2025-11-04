@@ -1,5 +1,8 @@
+# Admin to do later:
+* Guideline for naming and formatting art assets 
 
-**general feedback notes for the sprints
+
+# (WIP) General feedback notes for the sprints
 
 What worked:
 * easy to identify the steps and immediate goals

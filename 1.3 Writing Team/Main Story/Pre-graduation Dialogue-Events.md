@@ -116,7 +116,9 @@ Template:
 			*Journaling keeps your mind at bay and spirits sharp! But makes you prone to losing track of time… must have been written in small font.*
 	`If variable is true` Mirror
 		**Lakshmi**
-			*Looking good there! Dressed in uniform since 2 AM*
+			*Looking good there! Got dressed and ready since 3 AM!* 
+			*...*
+			*That does sound disgusting when I put it that way.*
 	`If variable is true` Bed
 		**Lakshmi**
 		*Do not tempt me.*
@@ -163,7 +165,7 @@ Template:
 **Event** 
 	Lakshmi wanders through the forest, a narrow path from Greg's chalet towards Dolphin Bay. There is an optional path on the way.
 **Event** [Welcome world]
-	Optional path: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone chair. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]
+	Optional path: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting on the lone bench. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]
 	`If variable is true` Interact with Grandpa Dan
 	**Lakshmi** 
 		*Wow. How beautiful.*
