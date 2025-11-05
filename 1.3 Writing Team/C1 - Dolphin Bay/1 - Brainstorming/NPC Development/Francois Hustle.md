@@ -2,8 +2,9 @@
 tags:
   - DolphinBay
 created:
+Name: Aaron Kenney
 ---
-
+[[1. Dolphin Bay Npc Profiles]]
 # Content
 Protest Leader. Angry that the dolphins are no longer in dolphin bay. Was a large sponsor in the dolphin programs in the town. Always enjoyed watching them from afar. Now he feels betrayed and that his wealth was misused. Was never actually close to the dolphins, but loved them from a distance.
 
@@ -23,7 +24,7 @@ _If only your company was enough, we have had bad years. Horrible years. Nothing
 wipes away tears 
 _IT IS TIME FOR CHANGE! Together we will push back the fog! The dolphins must return! Say it with me. THE DOLPHINS MUST RETURN!_
 he spots Lakshmi 
-_You there! How fortuitous. In our hour of need!  _
+_You there! How fortuitous. In our hour of need! 
 
 *Lakshmi*
 _You need me? (A)
@@ -60,3 +61,14 @@ RETURN to original options
 _You will return. I know it_
 END EVENT
 
+**Event (Has mail)**
+
+*Francois*
+_Gather around all, a guild member calls!_
+
+*Lakshmi*
+_Looks like you have mail_
+
+*Francois*
+beaming 
+_Brethren we are delivered! And with such an unfamiliar and attractive seal, perhaps a new benefactor for our cause! Thank you my comrade_
