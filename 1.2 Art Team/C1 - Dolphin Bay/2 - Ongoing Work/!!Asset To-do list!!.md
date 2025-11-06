@@ -179,4 +179,4 @@ Inspiration: Montain-y rural Japan river house villages
 | Lakshmi sleeping at the table       | Sprite<br>          |             |          |        |
 | Bread                               | Sprite              |             |          |        |
 
-Background for Pre-graduation scene [[Pre-graduation Dialogue-Events]]
+Background for Pre-graduation scene [[Pregraduation/Pre-graduation Dialogue-Events]]
