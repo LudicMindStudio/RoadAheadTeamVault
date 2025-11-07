@@ -8,7 +8,6 @@ By: Arkana and Corina
 - [x] Draft the Pre-Graduation portion. 
 - [ ] Detail dialogue and events. (Make as many details about the environment for interaction with the map)
 - [ ] Review each other's scripts
-	** overarching review note. Do we keep the apostrophe in the game text or do we keep the language professional (you're vs you are)?
 - [ ] Implement in the game
 # Context
 Lakshmi graduates from postal guild, then the story of Dolphin Bay starts.
@@ -316,12 +315,12 @@ A:Good point!! The goal of the question is to make the player understand that ou
 **Lakshmi**
     _What kind of grade is that?_
 **Greg**
-	*It was less about how much you know about the world, and more about how you react to unpredictable and stressful situations. Today’s quizz was out of nowhere, and yet you challenged it face first. It’s fine not to know all the answers.
+	*It was less about how much you know about the world, and more about how you react to unpredictable and stressful situations. Today’s quizz was out of nowhere, and yet you challenged it face first. It’s fine not to know all the answers.*
 	*I won’t lie to you Lakshmi, postal workers face challenges where pure enthusiasm won’t be enough. When that happens, don't forget you can take a step back and ask for help.*
 **Lakshmi**
     _…_
 **Greg**
-    `        _Hum. Very well, let’s move on to the next part._
+    _Hum. Very well, let’s move on to the next part._
 **Lakshmi**
     _I'll try my best Greg, bring it on!_    
     
@@ -506,7 +505,7 @@ _Lakshmi_
 			
 
 
-#### Miscelaneous Side Quests Wrap-Up
+#### Miscellaneous Side Quests Wrap-Up
 
 1. Find Leo the dog
 
@@ -514,7 +513,7 @@ _Lakshmi_
 
 3. (WIP) Can talk to kids about the tales of monsters in the forest.
 
-4. Journalling (note. To wrap up some loose ends of the plot and to get Lakshmi’s perspective of the world. It would be nice for her to have spots to sit down and write a sentence or two about what she has just experienced. Very thematic for mental health and emotion processing and also memories.)
+4. Journaling (note. To wrap up some loose ends of the plot and to get Lakshmi’s perspective of the world. It would be nice for her to have spots to sit down and write a sentence or two about what she has just experienced. Very thematic for mental health and emotion processing and also memories.)
 
 To keep in mind:
 -  **Now I did hear kids in the village say there are monsters lurking there.** -> kids could mention it later 
