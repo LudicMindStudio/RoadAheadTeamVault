@@ -175,8 +175,8 @@ Inspiration: Montain-y rural Japan river house villages
 | Name                                | Category            | Assigned to | Priority | Status |
 | ----------------------------------- | ------------------- | ----------- | -------- | ------ |
 | Background Village Map              | Sprite/Parallax     |             |          |        |
-| Hand Drawn Lakshmi Doodles for exam | Sprite/Parallax<br> |             |          |        |
-| Lakshmi sleeping at the table       | Sprite<br>          |             |          |        |
+| Hand Drawn Lakshmi Doodles for exam | Sprite/Parallax<br> | Corina      |          | Done   |
+| Lakshmi sleeping at the table       | Sprite<br>          | Corina      |          | Done   |
 | Bread                               | Sprite              |             |          |        |
 
-Background for Pre-graduation scene [[Pregraduation/Pre-graduation Dialogue-Events]]
+Background for Pre-graduation scene [[1.3 Writing Team/Main Story/Pre-graduation Dialogue-Events|Pre-graduation Dialogue-Events]]

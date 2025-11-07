@@ -6,12 +6,17 @@ Welcome to our Obsidian Vault! A tool used for The Road Ahead team's organizatio
 
 Different aspects of the game: Villages, Memories, Main Story and game lore
 
+# Where are we now? Links!
+* See the Meetings tab for the latest updates during our general meetings
+* Art team current tasks: [[!!Asset To-do list!!]]
+* Writing team current tasks: see latest writing meeting in Meetings tab
+* Dev team current tasks: see latest general meetings in Meetings tab
+
 # What do we do?
 * Team Division
 * Sprints
 * Communication
 * Hours expected: flexible
-
 # Tools we use
 * Obsidian
 * Discord
@@ -25,11 +30,7 @@ Different aspects of the game: Villages, Memories, Main Story and game lore
 # Honorariums how to
 
 
-# Where are we now?
-* See the Meetings tab for the latest updates during our general meetings
-* Art team current tasks: [[!!Asset To-do list!!]]
-* Writing team current tasks: see latest writing meeting in Meetings tab
-* Dev team current tasks: see latest general meetings in Meetings tab
+
 
 # I don't know how to use these! 
 Don't worry! We all start somewhere. We have plenty of resources and tutorials available for you to learn.
