@@ -39,7 +39,7 @@ Lakshmi wakes up in Greg's chalet (Corina) -> Lakshmi goes to the Guild Hall in 
 *Map [[Greg Chalet]]*
 
 Prev work done: [[Grasshopper Discussion]], [[Day of the exam]]
-
+![[Pasted image 20251106220054.png]]
 - Wakes up at her desk, was writing in her journal because got too excited for the exam and stayed late. May be a very brief cameo about her parents. (picture of parents on desk or her lamenting in her journal)
 - Talks with Grandpa Dan who cooks for her breakfast, tells her she's late
 - I need THIS moment with fog. AGGHH. Lakshmi is excited to go on her adventure and do her exam. Takes a moment to look at the scenery. Grandpa Dan tender moment until he gets grumpy and tells her to hurry up.
@@ -264,40 +264,32 @@ Before crossing the bridge to get to the guild hall, Lakshmi notices a boy stari
  _Ok, bring it on, question 1!_
         1) The fog affecting our world is most receptive to what human aspect?
             1) Hunger
-                1) _It was hunger that makes the fog appear right? Im hungry just thinking about it._
+                _It was hunger that makes the fog appear right? I'm hungry just thinking about it._
             2) Emotion 
-		*Strong emotion sublimes the fog - is what Greg would say, right?*
+				*Strong emotion sublimes the fog - is what Greg would say, right?*
             3) Speech
-		*While Greg recommended against screaming if I ever get lost in the foggy woods… is this what makes the fog appear?*
+				*While Greg recommended against screaming if I ever get lost in the foggy woods… is this what makes the fog appear?*
         2) What's the primary goal of our influential guild located in every village?,?
             1) Fortune
-               _Fortune. All economy collapsed after the calamity, so the guild tries to create jobs in the new world._ 
+	               _Fortune. All economy collapsed after the calamity, so the guild tries to create jobs in the new world._ 
             2) Adventure
-	*Adventure. It is pretty much the only way to travel between villages now! That excites me the most.*
+				*Adventure. It is pretty much the only way to travel between villages now! That excites me the most.*
             3) Communication
-	*All manner of modern technology collapsed after the cataclysm… of course it's the only way people communicate nowadays if you live in different villages.*
-        3) What do children learn in school?
-	1) Farming
-	*Most folks farm to sustain the village.While I love picking apples in the Fall… I most certainly hate picking out weeds all year long. Guess who has to do that most often.*
-	2) ==Mithochondira is the powerhouse of the cell.==
-	*I certainly didn’t find biology exciting in school when I was young. I find it even more useless nowadays. But that’s what you learn in schools right?*
-	3) There are no schools anymore, 
-	*That makes sense too. There aren't enough students to fill in a school in villages anymore… but they still learn somehow. Seems like a trick question to me. But whatever, it’s the process of elimination.*
-        3) ~~What types of government did the survivors of the fog create for their new cities?
-            1) Community Driven
-                1) _Us post fog people have community values! A lot of strength was gained by coming together as communities against the fog._
-            2) Monarch 
-            3) Anarchy~~
-==COMMENT==
-C:Is this question a bit too hard for young folks?
-A:Good point!! The goal of the question is to make the player understand that our characters value community in this postapocalyptic world. I'm not sure what we could change it to tho...
-
+				*All manner of modern technology collapsed after the cataclysm… of course it's the only way people communicate nowadays if you live in different villages.*
+	    3) What do children learn in school?
+			1) Farming
+				*Most folks farm to sustain the village.While I love picking apples in the Fall… I most certainly hate picking out weeds all year long. Guess who has to do that most often.*
+			2) ==Mitochondria is the powerhouse of the cell.==
+				*I certainly didn’t find biology exciting in school when I was young. I find it even more useless nowadays. But that’s what you learn in schools right?*
+			3) There are no schools anymore, 
+				*That makes sense too. There aren't enough students to fill in a school in villages anymore… but they still learn somehow. Seems like a trick question to me. But whatever, it’s the process of elimination.*
+        
 **Lakshmi**
 	*Wait, that's it? Is this a joke?*
 **Event**
     Journal updated: Quizz done. Time to see Greg for some explanation.
 **Lakshmi**
-    _Ok Greg, I've finished the test. Do you really think three questions are enough to test someone’s deep understanding of the world? _
+    *Ok Greg, I've finished the test. Do you really think three questions are enough to test someone’s deep understanding of the world?*
 **Greg**
 	*Now, now, don’t get too cocky. Let’s see how you did first.*
     `If variable is true` (All answers are correct.)
