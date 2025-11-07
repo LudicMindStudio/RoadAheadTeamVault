@@ -280,7 +280,7 @@ Before crossing the bridge to get to the guild hall, Lakshmi notices a boy stari
         3) What do children learn in school?
 	1) Farming
 	*Most folks farm to sustain the village.While I love picking apples in the Fall… I most certainly hate picking out weeds all year long. Guess who has to do that most often.*
-	2) Mithochondira is the powerhouse of the cell.
+	2) ==Mithochondira is the powerhouse of the cell.==
 	*I certainly didn’t find biology exciting in school when I was young. I find it even more useless nowadays. But that’s what you learn in schools right?*
 	3) There are no schools anymore, 
 	*That makes sense too. There aren't enough students to fill in a school in villages anymore… but they still learn somehow. Seems like a trick question to me. But whatever, it’s the process of elimination.*
