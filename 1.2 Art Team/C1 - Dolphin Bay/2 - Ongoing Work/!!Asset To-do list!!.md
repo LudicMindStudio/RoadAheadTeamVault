@@ -126,13 +126,13 @@ Ui
 | Name                             | Category | Assigned to | Priority | Status |
 | -------------------------------- | -------- | ----------- | -------- | ------ |
 | Seawall                          | Tile     | Nina        | High     |        |
-| Grass tile (rounded)             | Tile     |             | High     |        |
+| Grass tile (rounded)             | Tile     | Nina        | High     |        |
 | Dirt road                        | Tile     | Nina        | High     |        |
 | Rocks patches (pathway)          | Tile     |             | High     |        |
 | Docks                            | Tile     | Chris       | High     |        |
 | Fence                            | Tiles    |             | Medium   |        |
 | Brick road patches (pathway)     | Tile     | Nina        | High     |        |
-| Flowers on grass                 | Tile     |             | Medium   |        |
+| Flowers on grass                 | Tile     | Nina        | Medium   |        |
 | Gardening space (veggies, empty) | Tile     | Aaron       | High     |        |
 Prev tiles done: [[Exterior sprites_tiles.png]], [[GrassTexture.png]], [[OutdoorTiles.png]]
 ### Basic objects (Medium size)
@@ -142,13 +142,13 @@ Prev tiles done: [[Exterior sprites_tiles.png]], [[GrassTexture.png]], [[Outdoor
 | Barrels                  | Sprite (Market) | Corina      | Medium   | Complete |
 | Baskets                  | Sprite (Market) | Corina      | Medium   | Complete |
 | Fruit trees              | Sprite (Garden) |             | Medium   |          |
-| Well                     | Sprite (Garden) |             | Medium   |          |
-| Lamp                     | Sprite (Garden) |             | Medium   |          |
+| Well                     | Sprite (Garden) | Nina        | Medium   |          |
+| Lamp                     | Sprite (Garden) | Nina        | Medium   |          |
 | Flower pots              | Sprite          |             | Medium   |          |
 | Benches                  | Sprite          |             | Medium   |          |
 | Lifeguard float ring<br> | Sprite          |             | Medium   |          |
 | Buoys<br>                | Sprite          |             | Medium   |          |
-| Fishing rods             | Sprite          |             | Medium   |          |
+| Fishing rods             | Sprite          | Nina        | Medium   |          |
 | Trees                    | Sprite          | Nina        | High     |          |
 Prev sprites done: [[OutdoorSprites.png]]
 ### Custom objects (Big size)
