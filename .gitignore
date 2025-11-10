@@ -1,3 +1,4 @@
 .obsidian/workspace.json
 *.gdrive
 .obsidian
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
