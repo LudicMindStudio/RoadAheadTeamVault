@@ -34,6 +34,7 @@ Lakshmi wakes up in Greg's chalet (Corina) -> Lakshmi goes to the Guild Hall in 
 - [ ] Need to establish that she lost her memory about her parents (? - to confirm) (start plot 2) 
 ---
 
+
 #### Lakshmi wakes up in Greg's chalet
 *Map [[Greg Chalet]]*
 
@@ -54,7 +55,8 @@ Prev work done: [[Grasshopper Discussion]], [[Day of the exam]]
 Prev work done: [[Day of the exam]]
 
 * Meets Greg
-* Does her exam. Alone? With someone? Or shes late so shes alone? Idk
+* Does her exam. Alone? With someone? Or shes late so shes alone? Idk 
+	* ==COMMENT FROM ARKANA==: I think it would be interesting to have other students doing their exam but they are finishing before her because she's late. It would give more life to the guild hall too if multiple people are doing their exam. We could have all of them getting up and walking around too doing their practical exam which doesn't have to be the same as Lakshmi. Maybe having at least 2 other students.
 
 -> List of questions during exam (multiple choice?): Lakshmi will comment about her experiences with these :
 - Economy : isolation between villages. Less economy now. Self sustained villages
@@ -64,6 +66,8 @@ Prev work done: [[Day of the exam]]
 - Reason for deliverymen : connect all villages together (maybe have a short verbal saying.) Delivering mail at your doorstep faster than email
 
 Fun twist to **confirm with dev team** : she is very bored and imagines it as a mini game. Or doodles by accident on the exam page and we can show it as drawings on screen. Easier to get the player interested in the game and hint at future gameplay?
+	- ==COMMENT FROM ARKANA:== I love the idea of the doodling, but if she's late maybe she doesn't have much time to do that. I think having an image of the actual exam questions pop up and then choosing her answer would make it more interesting visually. Maybe she could get distracted by seeing everyone getting up because they're done and do a little doodle then tell herself to stay focused. Then, on the image of the exam we would see her doodle. Can you visualise what I'm trying to explain?
+	- ==Answer From Corina== : I love that idea. But I also realized that in the original script, the pop quizz was like a surprise exam. When Lakshmi woke up, she just knew Greg had to talk to her. If we keep that, we might not need to include other characters doing the exam. The advantage of that is for us not to make extra characters haha. Because we might need to flesh out new characters and make the script much longer. Another advantage is for the exam not to have good or bad answers like we had in the original, because it seems like a nightmare to code and write with the multiple choices. I can make it look like a prank exam from Greg (will also work into his strict but goofy character) and the real exam is the practice test. To think over. 
 #### Lakshmi speaks to the intern (enter first memory) 
 *Map (interior not created yet)*
 #### Lakshmi delivers the first few mail (Start Dolphin Bay story) 
@@ -86,92 +90,8 @@ Template:
 		_Dialogue_
 
 #### Lakshmi wakes up in Greg's chalet (Corina)
-***note. Do we include the grasshopper memory, or do we leave it for later?*
 
-**Event**
-	Cutscene of Lakshmi waking up at the table in her room (see if we can make a sprite for it or not)
-**Lakshmi**
-	*Yaawwwn...* *Right. I ended up journaling pretty late last night...*
-**Event**
-	Lakshmi stands up and looks to the left and right
-**Lakshmi**
-	*My back is so sore... I better get going, Greg will get me with his slipper if he finds out I slept in today of all days.*
-**Event** 
-	Journal updated: Greg will get to me if I missed today... I should hurry up to the *Guild Hall*.   
-**Event** 
-	Lakshmi Interaction options [in the room]
-	`If variable is true` Table
-		**Lakshmi**
-			*Journaling keeps your mind at bay and spirits sharp! But makes you prone to losing track of time… must have been written in small font.*
-	`If variable is true` Mirror
-		**Lakshmi**
-			*Looking good there! Dressed in uniform since 2 AM*
-	`If variable is true` Bed
-		**Lakshmi**
-		*Do not tempt me.*
-**Event**	
-	`If variable is true` Player leaves the room.
-		Lakshmi finds Grandpa Dan downstairs, his back is to her with various breads spread on the counter he stands in front of.
-**Lakshmi**
-	*Grandpa Dan?!*
-**Event**
-	Grandpa Dan jumps in place and turns towards Lakshmi.
-**Grandpa Dan**
-	*Ah! Lakshmi don't scare me! That mutt already got the jump on me this morning, my heart can't take much more!*
-**Lakshmi**
-	*Leo? Pfft. Ok grandpa. He just knows you need the energy to get your morning started.*
-**Grandpa Dan**
-	  * *grumble grumble* * *Yet I've been up since morning.* * *grumble grumble* * *Well, if you see that dog, get him home. I made him his favourite biscuits.*
-**Lakshmi**
-	*Ay Ay, cap'n!*
-**Event**
-	Journal Updated: Find Leo. Where should I hurry up first? Yes.
-**Grandpa Dan**
-	*Speaking of breakfast, go eat your slice of bread and run straight to the **Guild Hall**! Greg will skewer you if you are late for the boarding exam!*
-**Event**
-	Grandpa Dan starts walking away towards the door.
-**Lakshmi**
-	 *Thanks Grandpa Dan. For the bread.* 
-**Grandpa Dan**
-	* *Khum.* * *Right. See you later Lakshmi. The next time I see you, you better be the new postal worker.*
-**Lakshmi**
-	*You bet!*
-**Event**
-	Grandpa Dan walks out.
-**Event**	
-	Player interaction options
-	`If variable is true` Bread
-	**Lakshmi**
-		His fingers really are blessed. The crust is the best part! Huh... Is it... maple syrup sour bread? Wow it is not even my birthday, I should thank him later.*
-**Event** 
-	Journal Updated: Thank Grandpa Dan for making your favourite bread.
-	
 #### Lakshmi goes to the Guild Hall in Dolphin Bay (Corina)
-**Event**
-	Lakshmi walks out of Greg's chalet
-**Lakshmi**
-	*Today is the day! Now if I go straight from here, **Guild Hall** should be up ahead. I have not been in Dolphin Bay often though... Bah, I can ask around for directions.*
-**Event** 
-	Lakshmi wanders through the forest. The walk from the chalet to Dolphin Bay. There is an optional path on the way.
-**Event**
-	Optional path: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone chair. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]
-	`If variable is true` Interact with Grandpa Dan
-	**Lakshmi** 
-		*Wow. How beautiful.*
-	**Grandpa Dan**
-		*That is... one way to put it.*
-	**Lakshmi**
-		*How come?*
-	**Grandpa Dan**
-		*I'd say the world looks miserable with the fog.*
-	**Lakshmi**
-		 *Maybe. I do not have many memories left of the times before the fog... And it does sound terrible... But I cannot help but love it. I want to see all of it.*
-	**Grandpa Dan**
-		*...*
-	There is a silent pause of the cutscene. And the interaction ends on this awkward note.
- 	`If variable is true` Interact with Grandpa Dan again
-	 **Grandpa Dan**
-		*You aren't a postal worker yet? What are you doing! Hurry up to the Guild Hall!*
 
 #### Lakshmi does her exam (Corina)
 
@@ -179,71 +99,58 @@ Template:
 **Greg**
 	_Alright! Now it's time for the... Practical test!_
 **Lakshmi**
-	`If variable is true`
-		_Will I be delivering mail alone?_
+	_Will I be delivering mail alone?_
 **Greg**
-	__Well for now it's just a little message for the new intern. Deliver this to the new intern. They should be in the storage room on the right of reception. Make sure to deliver it like you've been taught. Treat this note like you would a real postal delivery.__
+	_Well for now it's just a little message for the new intern. Deliver this to the new intern. They should be in the storage room on the right of reception. Make sure to deliver it like you've been taught. Treat this note like you would a real postal delivery._
 **Lakshmi**
-	`If variable is true`
-		_Got it!_
+	_Got it!_
 **Event**
 	Journal updated. Player picks up the item and goes to see the intern.
 **Intern**
-	`If variable is true`
-		_Dammit where did that go?_
+	_Dammit where did that go?_
 **Lakshmi**
 	_Uhmm Hi! Are you the new intern?_
 **Intern**
-	`If variable is true`
-		_Oh, hum hi Lakshmi, what's up?_
+	_Oh, hum hi Lakshmi, what's up?_
 **Lakshmi**
 	_Well, I'm in the middle of my postal guild graduation testing and have a delivery for you!_
 **Intern**
-	`If variable is true`
-		_Wow, really? You,re so lucky. I'll receive your mail then._
+	_Wow, really? You're so lucky. I'll receive your mail then._
 **Lakshmi**
 	_Ok! Well then, I'm Lakshmi from the postal guild here to deliver your mail! Thank you for using our services and have a good day! 
 		Wow thanks again!_ 
 			_(...)_
 **Intern**
-	`If variable is true`
-		_Hey are you okay?_ 
+	_Hey are you okay?_ 
 **Lakshmi**
-		_Yes, just a little excited! Oh no not this again._
+	_Yes, just a little excited! Oh no not this again._
 **Event**
 	Screen blacks out and the player is now in a different room as the intern. 
 	
 **Intern**
-	`If variable is true`
-		_Dammit... I messed up again... How come I keep messing up everything... Even the simplest of task... I'm not cut out to be a guild member what was I thinking coming here. I can't do anything right.. (...)_
+	_Dammit... I messed up again... How come I keep messing up everything... Even the simplest of task... I'm not cut out to be a guild member what was I thinking coming here. I can't do anything right.. (...)_
 **Greg**
-	`If variable is true`
-		_Hello? Anybody in here? Where did that new intern go?_
+	_Hello? Anybody in here? Where did that new intern go?_
 **Intern**
-	`If variable is true`
-		_(...) Well I can at least minimize their disapointment... Back to it..._
+	_(...) Well I can at least minimize their disappointment... Back to it..._
 **Event**
 	Screen blacks out and the player is back in the guild room as Lakshmi. 
 **Intern**
-	`If variable is true`
-		_Lakshmi!? Are you ok?_
+	_Lakshmi!? Are you ok?_
 **Lakshmi**
 	_Ah... Yeah I'm ok sorry... (?) (Argh... I gotta get bettwe at that)_
 **Intern**
-	`If variable is true`
-		_Ok phew. I thought I did something wrong again._
+	_Ok phew. I thought I did something wrong again._
 **Lakshmi**
 	_No no! You did nothing wrong! In fact, thank you for being such a good practive delivery! I feel so much more prepared to be a guild worker and it's all thanks to you._
 **Intern**
-	`If variable is true`
-		_(<3) Oh geez, well no problem then!_
+	_(<3) Oh geez, well no problem then!_
 **Lakshmi**
 	_Keep up the good work and I'm sure you'll be a full guild member soon too!_
 **Intern**
-	`If variable is true`
-		_Really? Do you really believe that?_
+	_Really? Do you really believe that?_
 **Lakshmi**
-	1) _Absolutelu_
+	1) _Absoluteluy
 	2) _Well..._
 		1) _Well. Maybe one day. Theres hope for anytone._
 		 **Intern**
@@ -256,33 +163,97 @@ Template:
 **Lakshmi**
 	_I did it Greg! Mail delivered._
 **Greg**
-	`If variable is true`
-		_I saw, well done Lakshmi. I'm very proud. I am also happy to say... Welcome in, Lakshmi you are now a full guilf member. I hope to see more great things from you._
+	_I saw, well done Lakshmi. I'm very proud. I am also happy to say... Welcome in, Lakshmi you are now a full guilf member. I hope to see more great things from you._
 **Lakshmi**
 	_(!) All right! Awesome! This is so awesome Greg! can we have a party!?_
 **Greg**
-	`If variable is true`
-		_Maybe we'll set one up for later tonight, for now I'm putting you straight to work._
+	_Maybe we'll set one up for later tonight, for now I'm putting you straight to work._
 **Lakshmi**
 	_Ok then, bring it on!_
 **Greg**
-	`If variable is true`
-		_Go up to the front desk. The receptionist will have some deliveres for you to make._
+	_Go up to the front desk. The receptionist will have some deliveres for you to make._
 **Event**
 	Player goes to see the receptionist.
-**Greg**
-	`If variable is true`
-		_Hey Lakshmi, congrats on becoming a full member. I've got a whole batch of deliveries here for you to make. Good luck!_
+**Receptionist**
+	_Hey Lakshmi, congrats on becoming a full member. I've got a whole batch of deliveries here for you to make. Good luck!_
 **Lakshmi**
-	_Thanks! ( I better read who I need to deliver these too)_
+	_Thanks!_
+**Event**
+	Player collects the mail.
+**Lakshmi**
+	_I better get started!_
 #### Lakshmi delivers the first few mail (Start Dolphin Bay story) (Arkana)
-
-
-general idea
+general idea of order of events
 - Leaves the guild hall proudly, but disorganised. 
-- meets CAT and the gang
+- meets CAT and the gang by the docks
 - meets Elio
 - delivers mail to Doran
 - delievers mail to Liam's sister. 
+- Enters  Liam's memory
+
+==PLEASE COMMENT ON THIS==: I'm realising I'm going with a very strict order of events. I'm thinking the player should decide which letter to deliver first. I just don't think they should start with Liam's so maybe after they have delevered two letters we could have an event saying like of there's one at the bottom of my bag that I didn't notice. 
+==COMMENT FROM CORINA:== Yup, you have the answer haha. That's great! It shows her inexperience too this way.
+
+**Event**
+	Player leaves the guild hall. Walks around a bit but Cat calls her out. 
+
+**Event**
+	Cat is sitting near the docks with Tullia and Sammy. They are talking among themselves. Lakshmi comes near and Cat calls her out. 
+
+*Cat* (Standing up; looking in Lakshmi's direction)
+	_Hey you! Why are you just standing there? What are you doing here?
+	
+*Lakshmi*
+	_Hi sorry to disturb. I'm a new postal worker. I've been so focused on my studies that it's like I've been in my own world. I'm just checking where I need to go and I like feeling the sea breeze.
+
+*Sammy*
+	_It used to be a lot nicer around here. Along with the sea breeze, you would hear dolphins clicking and whistling. Now, we mostly hear shouting._
+	
+*Tullia*
+	_I don't like passing by the protesters... they're loud._
+
+*Lakshmi*
+	_Sorry kids, I'm not sure what you're taking about but I better get to work see you around!
+
+**Event**
+	In their bag, the player has 4 letters but only have access to 3. There will be an event later where Lakshmi realises there is a 4th letter. The 3 first letters are for NPCs.  The player can take a right to go towards "central dolphin bay" or to the left towards "rural dolphin bay"
+
+**Event (Option chosen is player goes left)**
+	Player has mail for Doran and Oliver's mother. They have to walk around to find where to go. Lakshmi passes by a boy sitting and staring into the horizon. 
+_Lakshmi_
+	_(In her head). He's been sitting since this morning. Should I go check on him?_
+	Option 1: Yes
+		`If variable is true`
+	*Lakshmi*
+		_Hey, I've been seeing you alone staring into the horizon around here for a while._
+	*Oliver*
+		_Hey. I enjoy solitude plus I enjoy watching the nature around us. It's nice to admire what is right in front of you._
+	_Lakshmi_
+		_Okay, I just wanted to check on you. I have mail to deliver close by. Do you happen to know where 92 Peak street is?_
+	*Oliver*
+		_Yes, that's where I live. I can bring you there. Follow me._
+	Choices:
+		1. Follow Oliver.
+			*Lakshmi*
+				_Oh! Thank you._
+		2. Take your own way.
+			*Lakshmi*
+				_It's okay, I will figure it out. Thank you._
+			*Oliver*
+				_As you wish_
+	Option 2: No.
+		`If variable is true`
+	_Lakshmi_
+		_(In her head) I will let him be. Now, let's deliver some mail!_
+	
+			
+
+
+
+
+
+
+
+
 
 
