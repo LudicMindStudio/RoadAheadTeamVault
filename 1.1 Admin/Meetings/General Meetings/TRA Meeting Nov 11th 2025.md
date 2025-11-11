@@ -61,7 +61,7 @@ Anything to share since last meeting?
 ---
 
 # Recording
-
+https://youtu.be/ZOAInzYXlqU
 # Live Notes
 
 2025-11-11 General Meeting Minutes 
