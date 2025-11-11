@@ -14,17 +14,6 @@ You can find him checking his lobster cages by the warf. He doesn't find much an
 He's tall but bent over and gaunt. He wears an extra large black jacket that covers him completely, and nuzzles his cheek. His pocket has a big x stitched into it to keep it together (clearly done by a loving hand). He wears a trapper hat. 
 # Dialogue
 
-Template:
-**Character 1**
-	_Dialogue_
-
-**Event**
-	Description
-
-**Character 2**
-	`If variable is true`
-		_Dialogue_
-
 
 Character Introduction 
 `If Has Mail is false`
