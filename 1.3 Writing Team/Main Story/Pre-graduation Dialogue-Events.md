@@ -458,7 +458,7 @@ general idea
 	_It used to be a lot nicer around here. Along with the sea breeze, you would hear dolphins clicking and whistling. Now, we mostly hear shouting._
 	
 *Tullia*
-	_I don't like passing by the protesters... they're loud._
+	_I don't like passing by the protesters... they're loud. They sound like monsters._
 
 *Lakshmi*
 	_Sorry kids, I'm not sure what you're taking about but I better get to work see you around!
@@ -467,8 +467,8 @@ general idea
 	In their bag, the player has 4 letters but only have access to 3. There will be an event later where Lakshmi realises there is a 4th letter. The 3 first letters are for NPCs.  The player can take a right to go towards "central dolphin bay" or to the left towards "rural dolphin bay"
 
 **Event (Option chosen is player goes left)**
-	Player has mail for Doran and Oliver's mother. They have to walk around to find where to go. Lakshmi passes by a boy sitting and staring into the horizon. 
-_Lakshmi_
+	Player has mail for Doran and Oliver. They have to walk around to find where to go. Lakshmi passes by a boy sitting and staring into the horizon. 
+	_Lakshmi_
 	_(In her head). He's been sitting since this morning. Should I go check on him?_
 	Option 1: Yes
 		`If variable is true`
@@ -483,18 +483,34 @@ _Lakshmi_
 	Choices:
 		1. Follow Oliver.
 			*Lakshmi*
-				_Oh! Thank you._
+				_Oh! Thank you._ 
+			**Event**
+				Oliver walks towards his house and the player has to follow him
+					_Oliver_
+						_This is my place. Well... I guess you could've just left the letter with me instead of following me around._
+					_Lakshmi_
+						_It's okay, I'll know where your house is for future deliveries! In the mailbox it goes. Thank you for trusting me with your mail, goodbye!_
 		2. Take your own way.
 			*Lakshmi*
-				_It's okay, I will figure it out. Thank you._
+				_It's okay, I'll figure it out. Thank you._
 			*Oliver*
-				_As you wish_
+				_As you wish._
 	Option 2: No.
 		`If variable is true`
 	_Lakshmi_
-		_(In her head) I will let him be. Now, let's deliver some mail!_
+		_(In her head) I'll let him be. Now, let's deliver some mail! How about I try to find 92 Peak street_
+	**Event**
+		Player walks around the map of "rural Dolphin Bay" until they find the house on 92 Peak street. 
+	_Lakshmi_
+		_Haha! I found it. Let's go ring the doorbell._
+	**Event**
+		Player has to approach the door and hears a doorbell sound
+	_Lakshmi_
+		_Oh...No answer. I guess it goes right into the mailbox. Thank you for trusting us with your mail!! Now onto the next house._
+		
+		
+		
 	
-			
 
 
 #### Miscellaneous Side Quests Wrap-Up
