@@ -33,7 +33,7 @@ Character Introduction
 	_What are you catching?_
 
 **Mysterious Man**
-	_Nothing, can't you see? Not all too surprising niether_
+	_Nothing, can't you see? Not all too surprising neither_
 
 **Lakshmi**
 	_I can see just fine. Is it the fog?_
@@ -42,9 +42,37 @@ Character Introduction
 	_Oh it's always the fog with you people. No. No. It isn't the fog. It's the dock. I remember when she was half the size. And I'll tell you one thing. I didn't have a day without a good catch!_
 
 **Lakshmi**
-	_I can
+	_Seems like you've got your work cut out for you then. I think I'll be on my way 
 
+**Mysterious Man**
+	_Scared you off already have I? Oh don't mind this ol'geezer none. Of course you wouldn't. 
+
+**Lakshmi**
+	_Silly, I can see the latch is loose. I bet if you fix that you'll have much better luck. See ya! 
+
+**Mysterious Man**
+	(Gaufs)
 
 Mail Delivery 
 `If Has Mail is true`
+
+**Lakshmi**
+	_Hey mister, looks like I've got something for you_
+
+**Mysterious Man**
+	_Must be the wrong address, check again_
+
+**Lakshmi**
+	_No way. Look here, it's VERY specific_
+
+**Mysterious Man**
+	_Oh my_
+	(chokes)
+	_I haven't seen her writing in years. I thought she would never... She's not going to have any luck asking for more silver_
+	(Laughs)
+	_Thank you very much, I'll be alone now._
+
+**Lakshmi**
+	_Sure thing 
+
 
