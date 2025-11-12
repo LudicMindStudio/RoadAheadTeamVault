@@ -148,12 +148,14 @@ Template:
 **Grandpa Dan**
     * *Khum.* * *Right. See you later Lakshmi.
 **Event**
+
     Grandpa Dan walks out.
+    
 **Event**    
     Player interaction options
     `If variable is true` Bread
     **Lakshmi**
-        His fingers really are blessed. The crust is the best part! Huh... Is it... maple syrup sour bread? Wow it’s not even my birthday. I should thank him later.*
+        *Gotta give it to him, he's so gifted! The crust is the best part! Huh... Is it... maple syrup sour bread? Wow it’s not even my birthday. I should thank him later.*
 **Event** 
     Journal Updated: Thank Grandpa Dan for making your favourite bread.
     
@@ -177,7 +179,7 @@ Template:
     **Grandpa Dan**
         *I say the world looks pretty miserable with the fog.*
     **Lakshmi**
-         *Maybe. ==I do not have many memories left of the times before the fog...== And while the cataclysm does sound like an intense period of time... I cannot help but love the world. I want to see all of it.*
+         *Maybe. I do not have many memories left of the times before the fog... And while the cataclysm does sound like an intense period of time... I cannot help but love the world. I want to see all of it.*
     **Grandpa Dan**
         *...*
     There is a silent pause during the cutscene, with the wind blowing. The interaction ends on this awkward note.
@@ -187,7 +189,7 @@ Template:
 **Event**
     `If variable is true` Lakshmi walks down the path towards Dolphin Bay
 **Lakshmi**
-    ==*Brr. The forest gives me the creeps. Now I did hear kids in the village say there are monsters lurking there...== No! Lakshmi get a hold of yourself! These are kid's tales, nothing more.* 
+    *Brr. The forest gives me the creeps. Now I heard kids in the village say there are monsters lurking here... No! Lakshmi get a hold of yourself! These are kid's tales, nothing more.* 
 **Event**
     Lakshmi enters the village and can explore a bit. 
     `If variable is true` Leo (dog) jumps out on Lakshmi.
@@ -217,39 +219,36 @@ Before crossing the bridge to get to the guild hall, Lakshmi notices a boy stari
 **Event**
     Lakshmi turns around.
 **Lakshmi**
-    *Brr... She is getting scarier than Greg.*
+    *Brr... He is getting scarier than Greg.*
 **Event**
-    Lakshmi goes to the back of the guild hall. 
+    Lakshmi goes to the back of the guild hall. Lakshmi overhears the intern speaking to themselves behind a wall. Cannot interact with them yet.
 **Intern** 
-    Lakshmi overhears the intern speaking to themselves behind a wall. Cannot interact with them yet.
-    *Dammit! Where are those shipment boxes? I'm going to get in trouble again… The guild work is too much. *
+    *Dammit! Where are those shipment boxes? I'm going to get in trouble again… The guild work is too much.*
 **Greg**
     `If variable is true` Interact with Greg
         *Ah Lakshmi, good morning. You slept in today, I hope you are well rested.*
 **Lakshmi**
     *As much as I can be... haha. Sorry Greg... I must have missed my alarm. Nothing too big is going on today I hope?*
 **Greg**
-    `If variable is true`
-        _I'm afraid you are incorrect, Lakshmi. You have.... a pop quiz today!_
+      _I'm afraid you are incorrect, Lakshmi. You have.... your graduation exam today!_
 **Lakshmi**
-    _A pop quiz??_
+    _My graduation exam??_
 **Greg**
-    `If variable is true`
-        _Yes Lakshmi I'm sorry for what I am about to say… You've been progressing too quickly and I believe you are ready to graduate!
+    _Yes Lakshmi I'm sorry for what I am about to say… You've been progressing too quickly and I believe you are ready to become a postal worker!
 **Lakshmi**
-    *Are you kidding me? I've been dreaming of this day!* *Although... I expected a bit of a heads up so I could sleep a bit more… *
+    *Are you kidding me? I've been dreaming of this day!* *Although... I expected a bit of a heads up so I could sleep in a bit more… *
 **Greg**
     *Ah well, you leave much to be desired in terms of discipline. But no matter, you are young. You will learn.*
-**Lakshmi**
+*Lakshmi*
     *Is this a challenge? If so, I accept!*
 **Greg**
-    _(?) A challenge? Who said anything about a challenge? You'll start with just a few written questions. Go over to the classroom, take a seat and I'll be over in a minute with your exam._
+    A challenge? Who said anything about a challenge? You'll start with just a few written questions. Go over to the classroom, take a seat and I'll be over in a minute with your exam._
 **Lakshmi**
-    *Eugh... At least it beats pulling  out weeds all afternoon.*
+    *Eugh... At least it beats pulling out weeds all afternoon.*
 **Event**
-    . Player goes towards the classroom. Sits at a desk.
+    Player goes towards the classroom. Sits at a desk.
 **Lakshmi**
-    _(deep breaths, I've got this!)_
+    _(Deep breaths, I've got this!)_
 **Event**
     Greg walks over to Lakshmi to give her the exam.
 **Greg**
@@ -259,45 +258,49 @@ Before crossing the bridge to get to the guild hall, Lakshmi notices a boy stari
     Greg walks away.
 **Lakshmi**
     *Bring it on!*
-**(WIP) Event** [Quizz] p.s. it can look like a paper on screen, where the player will click on the right answer. If the player picks the correct option (in bold) then a doodle will appear next to the paper.
+**Event** [Quizz] p.s. it can look like a paper on screen, where the player will click on the right answer. If the player picks the correct option (in bold) then a doodle will appear next to the paper.
  **Lakshmi** 
  _Ok, bring it on, question 1!_
         1) The fog affecting our world is most receptive to what human aspect?
             1) Hunger
                 _It was hunger that makes the fog appear right? I'm hungry just thinking about it._
-            2) Emotion 
+            2) **Emotion** 
 				*Strong emotion sublimes the fog - is what Greg would say, right?*
             3) Speech
 				*While Greg recommended against screaming if I ever get lost in the foggy woods… is this what makes the fog appear?*
-        2) What's the primary goal of our influential guild located in every village?,?
+        2) What's the primary goal of our influential guild located in every village?
             1) Fortune
 	               _Fortune. All economy collapsed after the calamity, so the guild tries to create jobs in the new world._ 
             2) Adventure
 				*Adventure. It is pretty much the only way to travel between villages now! That excites me the most.*
-            3) Communication
+            3) **Communication**
 				*All manner of modern technology collapsed after the cataclysm… of course it's the only way people communicate nowadays if you live in different villages.*
 	    3) What do children learn in school?
-			1) Farming
-				*Most folks farm to sustain the village.While I love picking apples in the Fall… I most certainly hate picking out weeds all year long. Guess who has to do that most often.*
-			2) ==Mitochondria is the powerhouse of the cell.==
-				*I certainly didn’t find biology exciting in school when I was young. I find it even more useless nowadays. But that’s what you learn in schools right?*
+			1) **Farming**
+				*Most folks farm to sustain the village. While I love picking apples in the Fall… I most certainly hate picking out weeds all year long. Guess who has to do that most often.*
+			2) ==Mitochondria is the powerhouse of the cell.
+				*I certainly didn’t find biology exciting in school when I was young. I find it even more useless nowadays. But that’s what you learn in schools right?* ==
 			3) There are no schools anymore, 
 				*That makes sense too. There aren't enough students to fill in a school in villages anymore… but they still learn somehow. Seems like a trick question to me. But whatever, it’s the process of elimination.*
         
 **Lakshmi**
 	*Wait, that's it? Is this a joke?*
 **Event**
-    Journal updated: Quizz done. Time to see Greg for some explanation.
+    Journal updated: Exam done. Time to see Greg for some explanation.
 **Lakshmi**
-    *Ok Greg, I've finished the test. Do you really think three questions are enough to test someone’s deep understanding of the world?*
+    *Ok Greg, I've finished the exam. Do you really think three questions are enough to test someone’s deep understanding of the world?*
 **Greg**
 	*Now, now, don’t get too cocky. Let’s see how you did first.*
     `If variable is true` (All answers are correct.)
-        _Great job Lakshmi! You've got all correct. 
+        **Greg**
+	        _Great job Lakshmi! You've got all correct. 
+		**Lakshmi**
+			*Whoo hoo!*
     `If variable is true` (One question or more are wrong.)	
-	_Hmmm.... You did alright Lakshmi but I've seen you do better._
-**Lakshmi**
-    _Darn. I knew I was blanking on a few._
+	**Greg**
+		Hmmm.... You did alright Lakshmi but I've seen you do better._
+	**Lakshmi**
+	    _Darn. I knew I was blanking on a few._
 **Greg**
 	*And your test result is…*
 **Lakshmi**
@@ -307,8 +310,8 @@ Before crossing the bridge to get to the guild hall, Lakshmi notices a boy stari
 **Lakshmi**
     _What kind of grade is that?_
 **Greg**
-	*It was less about how much you know about the world, and more about how you react to unpredictable and stressful situations. Today’s quizz was out of nowhere, and yet you challenged it face first. It’s fine not to know all the answers.*
-	*I won’t lie to you Lakshmi, postal workers face challenges where pure enthusiasm won’t be enough. When that happens, don't forget you can take a step back and ask for help.*
+	*It was less about how much you know about the world, and more about how you react to unpredictable and stressful situations. Today’s exam was out of nowhere, and yet you challenged it face first. It’s fine not to know all the answers.*
+	*I won’t lie to you Lakshmi, guild members face challenges where pure enthusiasm won’t be enough. When that happens, don't forget you can take a step back and ask for help.*
 **Lakshmi**
     _…_
 **Greg**
