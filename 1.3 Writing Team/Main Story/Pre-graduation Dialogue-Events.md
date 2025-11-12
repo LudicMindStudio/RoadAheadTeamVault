@@ -279,7 +279,7 @@ Before crossing the bridge to get to the guild hall, Lakshmi notices a boy stari
 	    3) What do children learn in school?
 			1) Farming
 				*Most folks farm to sustain the village.While I love picking apples in the Fall… I most certainly hate picking out weeds all year long. Guess who has to do that most often.*
-			2) ==Mitochondria is the powerhouse of the cell.==
+			2) Mitochondria is the powerhouse of the cell.
 				*I certainly didn’t find biology exciting in school when I was young. I find it even more useless nowadays. But that’s what you learn in schools right?*
 			3) There are no schools anymore, 
 				*That makes sense too. There aren't enough students to fill in a school in villages anymore… but they still learn somehow. Seems like a trick question to me. But whatever, it’s the process of elimination.*
@@ -326,29 +326,24 @@ A:I like the idea of having Lakshmi as a blank slate too. I feel like the flashb
 **Greg**
     _Alright! Now it's time for the... Practical test! Youl’l deliver a little message for the new intern. Deliver this to the new intern. They should be in the storage room on the right of reception. Make sure to deliver it like you've been taught. Treat this note like you would a real postal delivery.__
 **Lakshmi**
-    `If variable is true`
-        _Got it!_
+    _Got it!_
 **Event**
     Journal updated. Player picks up the item and goes to see the intern.
 **Intern**
-    `If variable is true`
         _Dammit where did that go?_
 **Lakshmi**
     _Uhmm Hi! Are you the new intern?_
 **Intern**
-    `If variable is true`
         _Oh, hum hi Lakshmi, what's up?_
 **Lakshmi**
     _Well, I'm in the middle of my postal guild graduation testing and have a delivery for you!_
 **Intern**
-    `If variable is true`
         _Wow, really? You’re so lucky. I'll receive your mail then._
 **Lakshmi**
     _Ok! Well then, I'm Lakshmi from the postal guild here to deliver your mail! Thank you for using our services and have a good day! 
         Wow thanks again!_ 
             _(...)_
 **Intern**
-    `If variable is true`
         _Hey are you okay?_ 
 **Lakshmi**
         _Yes, just a little excited! Oh no not this again._
