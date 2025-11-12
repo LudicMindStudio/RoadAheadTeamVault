@@ -467,7 +467,7 @@ general idea
 	In their bag, the player has 4 letters but only have access to 3. There will be an event later where Lakshmi realises there is a 4th letter. The 3 first letters are for NPCs.  The player can take a right to go towards "central dolphin bay" or to the left towards "rural dolphin bay"
 
 **Event (Option chosen is player goes left)**
-	Player has mail for Doran and Oliver. They have to walk around to find where to go. Lakshmi passes by a boy sitting and staring into the horizon. 
+	Player has mail for Oliver. They have to walk around to find where to go. Lakshmi passes by a boy sitting and staring into the horizon. 
 	_Lakshmi_
 	_(In her head). He's been sitting since this morning. Should I go check on him?_
 	Option 1: Yes
@@ -508,9 +508,71 @@ general idea
 	_Lakshmi_
 		_Oh...No answer. I guess it goes right into the mailbox. Thank you for trusting us with your mail!! Now onto the next house._
 		
-		
-		
-	
+**Event (Option chosen is player goes right)**
+	*Lakshmi*
+		_Let's go to central Dolphin Bay!_
+		**Event**
+			Player walks on the bridge to go to central Dolphin Bay.
+			*Elio*
+				_Hello! Did you know that the male seahorse gives birth?_
+			*Lakshmi*
+				_Haha... no I didn't know._
+			*Elio*
+				_Did you know that octupuses have 3 hearts? Animals are so interesting!_
+			*Lakshmi*
+				_No, I..._
+			*ELio*
+				 _Animals are so interesting!_
+			*Lakshmi*
+				*Yes, they...*
+			*Elio*
+				_Did you know that sea otters hold hands when they sleep on their backs?_
+			*Lakshmi*
+				_Sorry, I have to go. Thank you for the fun facts._
+			*Elio*
+				_I wouldn't go that way if I were you but do as you wish!_
+			**Event**
+				Elio leaves happily. Lakshmi continues crossing the bridge a bit scared. 
+			*Lakshmi*
+				_These kids confuse me... I need to focus and have a good first day on the job! I need to go find the baker._	
+		**Event**
+				Player must walk around to find the bakery. They walk inside and the sound of a bell resonates. 
+			**Lakshmi**
+				_Looks like I've got a package for you_ 
+			**Camie**
+				_No Way! OMG please, please be that almond flour_ 
+			**Lakshmi**
+				_Feels right_
+			**Camie**
+				_Hey thanks kid. Here, I packed some muffins for the protest. You want one?_
+			**Lakshmi**
+				_Protest?...I'll take it to go please. Thanks!_
+			**Lakshmi**
+				_(In her head) Something weird is happening in this town..._
+
+**Event (Quest to Liam's memory)**
+	After delivering mail to 2 NPCs. Lakshmi is ready to go back to the guild but realises she missed a letter which has a nice dolphin wax seal on it.
+	_Lakshmi_
+		_Ahhhh! I'm all done with my deliveries. It was an easy first day. Let me double check that my bag is empty._
+	_Lakshmi_
+		_Ahhhh! I'm all done with my deliveries. It was an easy first day. Let me double check that my bag is empty._
+	_Lakshmi_
+		_NO WAY!!! I missed one and it has such a pretty wax seal on it. I need to get this to a certain Liam. I have to get going now!_ 
+	**Event**
+		In her confusion. Lakshmi doesn't check the address and doesn't know where to go. A timer of 30 seconds starts where the player tries to find where they need to go but nothing is helping them.
+	_Lakshmi_
+		_ARGHH! I don't know where to go! I need to breathe. Let me take a second to figure this out. I should look at the address._
+	**Event**
+		Player opens their bag.
+	_Lakshmi_
+		_There it is 54 dolphin corner in Central Dolphin Bay. I've got this!_
+	**Event**
+		Journal uptate. Lakshmi reminds herself that she needs to breathe when she's overwhelmed.
+	**Event**
+		Player walks around to find Liam's house. Once found they ring the doorbell and Liam's sister answers.
+	==ADD DISCUSSION WITH SISTER==
+
+[[Memory of Liam Script]]
 
 
 #### Miscellaneous Side Quests Wrap-Up
@@ -523,5 +585,3 @@ general idea
 
 4. Journaling (note. To wrap up some loose ends of the plot and to get Lakshmi’s perspective of the world. It would be nice for her to have spots to sit down and write a sentence or two about what she has just experienced. Very thematic for mental health and emotion processing and also memories.)
 
-To keep in mind:
--  **Now I did hear kids in the village say there are monsters lurking there.** -> kids could mention it later 
