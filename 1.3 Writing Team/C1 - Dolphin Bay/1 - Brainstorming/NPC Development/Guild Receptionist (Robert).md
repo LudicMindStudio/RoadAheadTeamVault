@@ -19,5 +19,22 @@ Some ideas for Robert's face
 
 # Dialogue
 
-**Event** 
-	Lakshmi enters 
+Character Introduction - Main Story ([[Pre-graduation Dialogue-Events]])
+
+**Robert**
+    `If variable is true`
+        *Welcome to the post guild! I'm the receptionist....ah Lakshmi it's you! A big day, eh? Greg is waiting in his office in the back room. Good luck!*
+**Lakshmi**
+    *... Big day? Good luck? Euhhh. How much am I in trouble on a scale from 1 to "You're on farming duty today."*
+**Robert**
+    *Oh, you will be pulling weeds alright.*
+
+
+Character Introduction 2.0
+`If variable has graduated is true`
+
+**Robert**
+    _Why hello graduate! I swear you've gotten taller?_
+**Lakshmi**
+    *Oh, you will be pulling weeds alright.*
+
