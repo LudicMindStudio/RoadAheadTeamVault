@@ -92,17 +92,17 @@ Ui
 **Notes:
 - **Learn how to make the natural/rounded/hexagonal shaped tiles 
 
-| Name                             | Category | Assigned to | Priority | Status |
-| -------------------------------- | -------- | ----------- | -------- | ------ |
-| Seawall                          | Tile     | Nina        | High     |        |
-| Grass tile (rounded)             | Tile     |             | High     |        |
-| Dirt road                        | Tile     | Nina        | High     |        |
-| Rocks patches (pathway)          | Tile     |             | High     |        |
-| Docks                            | Tile     | Chris       | High     |        |
-| Fence                            | Tiles    |             | Medium   |        |
-| Brick road patches (pathway)     | Tile     | Nina        | High     |        |
-| Flowers on grass                 | Tile     |             | Medium   |        |
-| Gardening space (veggies, empty) | Tile     | Aaron       | High     |        |
+| Name                             | Category | Assigned to | Priority | Status   |
+| -------------------------------- | -------- | ----------- | -------- | -------- |
+| Seawall                          | Tile     | Nina        | High     |          |
+| Grass tile (rounded)             | Tile     |             | High     |          |
+| Dirt road                        | Tile     | Nina        | High     |          |
+| Rocks patches (pathway)          | Tile     | chris       | High     | complete |
+| Docks                            | Tile     | Chris       | High     | complete |
+| Fence                            | Tiles    | chris       | Medium   | complete |
+| Brick road patches (pathway)     | Tile     | Nina        | High     |          |
+| Flowers on grass                 | Tile     |             | Medium   |          |
+| Gardening space (veggies, empty) | Tile     | Aaron       | High     |          |
 Prev tiles done: [[Exterior sprites_tiles.png]], [[GrassTexture.png]], [[OutdoorTiles.png]]
 ### Basic objects (Medium size)
 
@@ -116,7 +116,7 @@ Prev tiles done: [[Exterior sprites_tiles.png]], [[GrassTexture.png]], [[Outdoor
 | Flower pots              | Sprite          |             | Medium   |          |
 | Benches                  | Sprite          |             | Medium   |          |
 | Lifeguard float ring<br> | Sprite          |             | Medium   |          |
-| Buoys<br>                | Sprite          |             | Medium   |          |
+| Buoys<br>                | Sprite          | chris       | Medium   | complete |
 | Fishing rods             | Sprite          |             | Medium   |          |
 | Trees                    | Sprite          | Nina        | High     |          |
 Prev sprites done: [[OutdoorSprites.png]]
