@@ -33,7 +33,7 @@ Character Introduction
 **Camie**
 	_I sure hope so. I'm tired of baby sitting all the rift raft. 
 	(whispers)
-	Don't tell Doran 
+	Don't tell Gatz 
 
 **Lakshmi**
 	_Promise. Say aren't you going to get hungry? 
@@ -64,4 +64,4 @@ Mail Delivery
 	_Hey thanks kid. Here, I packed some muffins for the protest. You want one?  
 
 **Lakshmi**
-	_I'll take it to go please. Thanks!
+	_Protest?...I'll take it to go please. Thanks!
