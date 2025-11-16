@@ -45,10 +45,10 @@ Character Introduction
 	_Hey kid, Greg tells me it's your big day. Commander in chief is getting really creative with the quizzes these days. Just remember not to take anything too seriously okay? 
 
 **Lakshmi**
-	_Aw, you don't have to worry I've been studying all night!_
+	_Quizzes...Okay, I mean it's Greg so how hard can it be?_
 
 **Gordon**
-	_Right...well just keep an open mind okay?_
+	_Hahaha too true...well just keep an open mind okay?_
 
 **Lakshmi**
 	_Always do_
@@ -73,13 +73,12 @@ Character Introduction 2.0
 	_Captain Gordon at your service! And to answer your question private: Invigorating as always! 30 years and the secrets of Cartography continue to unfold. Say you earned it kid. We're all proud._
 
 **Lakshmi**
-	_Thanks Gordo. Hey, do you think I'll ever adventure beyond the bay? _
+	_Thanks Gordo. Hey, do you think I'll ever adventure beyond the bay?_
 
 **Gordon**
-	_hahaha... Looking to leave so soon? OF COURSE YOU ARE! 
+	_Looking to leave so soon? OF COURSE YOU ARE! 
 	You know what. Something might just be in the cards. Just make sure you get someone else to chart your course HAHAHAHA. Now, don't you have mail to deliver? 
 
 **Lakshmi**
 	(beaming)
 	_I think I do! 
-

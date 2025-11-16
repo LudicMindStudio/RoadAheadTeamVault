@@ -276,13 +276,15 @@ Before crossing the bridge to get to the guild hall, Lakshmi notices a boy stari
             3) **Communication**
 				*All manner of modern technology collapsed after the cataclysm… of course it's the only way people communicate nowadays if you live in different villages.*
 	    3) What do children learn in school?
-			1) **Farming**
-				*Most folks farm to sustain the village. While I love picking apples in the Fall… I most certainly hate picking out weeds all year long. Guess who has to do that most often.*
-			2) ==Mitochondria is the powerhouse of the cell.
-				*I certainly didn’t find biology exciting in school when I was young. I find it even more useless nowadays. But that’s what you learn in schools right?* ==
-			3) There are no schools anymore, 
-				*That makes sense too. There aren't enough students to fill in a school in villages anymore… but they still learn somehow. Seems like a trick question to me. But whatever, it’s the process of elimination.*
-        
+
+
+**Farming**
+*Most folks farm to sustain the village. While I love picking apples in the Fall… I most certainly hate picking out weeds all year long. Guess who has to do that most often.*
+There are no schools anymore
+
+That makes sense too. There aren't enough students to fill in a school in villages anymore… but they still learn somehow. Seems like a trick question to me. But whatever, it’s the process of elimination
+
+
 **Lakshmi**
 	*Wait, that's it? Is this a joke?*
 **Event**
@@ -329,29 +331,24 @@ A:I like the idea of having Lakshmi as a blank slate too. I feel like the flashb
 **Greg**
     _Alright! Now it's time for the... Practical test! Youl’l deliver a little message for the new intern. Deliver this to the new intern. They should be in the storage room on the right of reception. Make sure to deliver it like you've been taught. Treat this note like you would a real postal delivery.__
 **Lakshmi**
-    `If variable is true`
-        _Got it!_
+    _Got it!_
 **Event**
     Journal updated. Player picks up the item and goes to see the intern.
 **Intern**
-    `If variable is true`
         _Dammit where did that go?_
 **Lakshmi**
     _Uhmm Hi! Are you the new intern?_
 **Intern**
-    `If variable is true`
         _Oh, hum hi Lakshmi, what's up?_
 **Lakshmi**
     _Well, I'm in the middle of my postal guild graduation testing and have a delivery for you!_
 **Intern**
-    `If variable is true`
         _Wow, really? You’re so lucky. I'll receive your mail then._
 **Lakshmi**
     _Ok! Well then, I'm Lakshmi from the postal guild here to deliver your mail! Thank you for using our services and have a good day! 
         Wow thanks again!_ 
             _(...)_
 **Intern**
-    `If variable is true`
         _Hey are you okay?_ 
 **Lakshmi**
         _Yes, just a little excited! Oh no not this again._
@@ -427,7 +424,7 @@ C: So the choices are great. But Im also thinking… of addressing her memory en
 C:Wasnt there an experienced guild member in Obsidian…? I distantly recall him being the one positioned in Dolphin Bay and thats who you go see for mail… I may be wrong…
 **Event**
     Player goes to see the receptionist.
-**Greg**
+**Receptionist**
     `If variable is true`
         _Hey Lakshmi, congrats on becoming a full member. I've got a whole batch of deliveries here for you to make. Good luck!_
 **Lakshmi**
@@ -470,7 +467,7 @@ general idea
 	In their bag, the player has 4 letters but only have access to 3. There will be an event later where Lakshmi realises there is a 4th letter. The 3 first letters are for NPCs.  The player can take a right to go towards "central dolphin bay" or to the left towards "rural dolphin bay"
 
 **Event (Option chosen is player goes left)**
-	Player has mail for Doran and Oliver. They have to walk around to find where to go. Lakshmi passes by a boy sitting and staring into the horizon. 
+	Player has mail for Oliver. They have to walk around to find where to go. Lakshmi passes by a boy sitting and staring into the horizon. 
 	_Lakshmi_
 	_(In her head). He's been sitting since this morning. Should I go check on him?_
 	Option 1: Yes
@@ -511,9 +508,71 @@ general idea
 	_Lakshmi_
 		_Oh...No answer. I guess it goes right into the mailbox. Thank you for trusting us with your mail!! Now onto the next house._
 		
-		
-		
-	
+**Event (Option chosen is player goes right)**
+	*Lakshmi*
+		_Let's go to central Dolphin Bay!_
+		**Event**
+			Player walks on the bridge to go to central Dolphin Bay.
+			*Elio*
+				_Hello! Did you know that the male seahorse gives birth?_
+			*Lakshmi*
+				_Haha... no I didn't know._
+			*Elio*
+				_Did you know that octupuses have 3 hearts? Animals are so interesting!_
+			*Lakshmi*
+				_No, I..._
+			*ELio*
+				 _Animals are so interesting!_
+			*Lakshmi*
+				*Yes, they...*
+			*Elio*
+				_Did you know that sea otters hold hands when they sleep on their backs?_
+			*Lakshmi*
+				_Sorry, I have to go. Thank you for the fun facts._
+			*Elio*
+				_I wouldn't go that way if I were you but do as you wish!_
+			**Event**
+				Elio leaves happily. Lakshmi continues crossing the bridge a bit scared. 
+			*Lakshmi*
+				_These kids confuse me... I need to focus and have a good first day on the job! I need to go find the baker._	
+		**Event**
+				Player must walk around to find the bakery. They walk inside and the sound of a bell resonates. 
+			**Lakshmi**
+				_Looks like I've got a package for you_ 
+			**Camie**
+				_No Way! OMG please, please be that almond flour_ 
+			**Lakshmi**
+				_Feels right_
+			**Camie**
+				_Hey thanks kid. Here, I packed some muffins for the protest. You want one?_
+			**Lakshmi**
+				_Protest?...I'll take it to go please. Thanks!_
+			**Lakshmi**
+				_(In her head) Something weird is happening in this town..._
+
+**Event (Quest to Liam's memory)**
+	After delivering mail to 2 NPCs. Lakshmi is ready to go back to the guild but realises she missed a letter which has a nice dolphin wax seal on it.
+	_Lakshmi_
+		_Ahhhh! I'm all done with my deliveries. It was an easy first day. Let me double check that my bag is empty._
+	_Lakshmi_
+		_Ahhhh! I'm all done with my deliveries. It was an easy first day. Let me double check that my bag is empty._
+	_Lakshmi_
+		_NO WAY!!! I missed one and it has such a pretty wax seal on it. I need to get this to a certain Liam. I have to get going now!_ 
+	**Event**
+		In her confusion. Lakshmi doesn't check the address and doesn't know where to go. A timer of 30 seconds starts where the player tries to find where they need to go but nothing is helping them.
+	_Lakshmi_
+		_ARGHH! I don't know where to go! I need to breathe. Let me take a second to figure this out. I should look at the address._
+	**Event**
+		Player opens their bag.
+	_Lakshmi_
+		_There it is 54 dolphin corner in Central Dolphin Bay. I've got this!_
+	**Event**
+		Journal uptate. Lakshmi reminds herself that she needs to breathe when she's overwhelmed.
+	**Event**
+		Player walks around to find Liam's house. Once found they ring the doorbell and Liam's sister answers.
+	==ADD DISCUSSION WITH SISTER==
+
+[[Memory of Liam Script]]
 
 
 #### Miscellaneous Side Quests Wrap-Up
@@ -526,5 +585,3 @@ general idea
 
 4. Journaling (note. To wrap up some loose ends of the plot and to get Lakshmi’s perspective of the world. It would be nice for her to have spots to sit down and write a sentence or two about what she has just experienced. Very thematic for mental health and emotion processing and also memories.)
 
-To keep in mind:
--  **Now I did hear kids in the village say there are monsters lurking there.** -> kids could mention it later 
