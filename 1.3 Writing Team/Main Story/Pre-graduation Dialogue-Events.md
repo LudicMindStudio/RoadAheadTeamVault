@@ -276,15 +276,10 @@ Before crossing the bridge to get to the guild hall, Lakshmi notices a boy stari
             3) **Communication**
 				*All manner of modern technology collapsed after the cataclysm… of course it's the only way people communicate nowadays if you live in different villages.*
 	    3) What do children learn in school?
-
-
-**Farming**
-*Most folks farm to sustain the village. While I love picking apples in the Fall… I most certainly hate picking out weeds all year long. Guess who has to do that most often.*
-There are no schools anymore
-
-That makes sense too. There aren't enough students to fill in a school in villages anymore… but they still learn somehow. Seems like a trick question to me. But whatever, it’s the process of elimination
-
-
+		    1) **Farming**
+				*Most folks farm to sustain the village. While I love picking apples in the Fall… I most certainly hate picking out weeds all year long. Guess who has to do that most often.*
+			2) There are no schools anymore
+				*That makes sense too. There aren't enough students to fill in a school in villages anymore… but they still learn somehow. Seems like a trick question to me. But whatever, it’s the process of elimination*
 **Lakshmi**
 	*Wait, that's it? Is this a joke?*
 **Event**
