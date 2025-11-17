@@ -111,9 +111,9 @@ Ui
 | Seawall                          | Tile     | Nina        | High     | complete |
 | Grass tile (rounded)             | Tile     |             | High     |          |
 | Dirt road                        | Tile     | Nina        | High     | complete |
-| Rocks patches (pathway)          | Tile     |             | High     |          |
-| Docks                            | Tile     |             | High     |          |
-| Fence                            | Tiles    |             | Medium   |          |
+| Rocks patches (pathway)          | Tile     | Chris       | High     | complete |
+| Docks                            | Tile     | Chris       | High     | complete |
+| Fence                            | Tiles    | Chris       | Medium   | complete |
 | Brick road patches (pathway)     | Tile     | Nina        | High     | complete |
 | Flowers on grass                 | Tile     |             | Medium   |          |
 | Gardening space (veggies, empty) | Tile     | Aaron       | High     |          |
