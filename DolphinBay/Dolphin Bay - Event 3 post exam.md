@@ -1,0 +1,35 @@
+# Dolphin Bay - Event 3 post exam
+
+- **Lakshmi**: Wow... what a memorable delivery.  
+	- She’s kind of amazing, in a terrifying way.  
+	- Alright, next stop before someone else catches fire.
+- **Possible interaction with a middle-aged man if the player chooses to look for clues**: 
+	- Brick house on the hill...?
+	- Mmm... can’t say I know it.
+	- Sounds like something someone made up for a story.
+- ***Lakshmi** eventually arrives at the right house and knocks on the door*
+	- Mail delivery!
+	- *Waits around for a bit and then starts talking to herself*
+		- Well... this is taking a while
+		- ...
+		- They're probably not here
+		- Bye bye mail! *as she leaves*
+- *Mission updated: Head back to the post office*
+- **Lakshmi**: Hi Greg!
+- **Greg**: Lakshmi! How was your first day?
+- **Lakshmi**: Hum... it was great!
+	- *Literal stars in her eyes after the reflective "Hum"*
+- **Greg**: Yeah? Everything went well?
+- **Lakshmi**: Soooo smooth, no issues whatsoever
+- **Greg**: Perfect, I knew I could trust you! You ready to go tomorrow?
+- **Lakshmi**: Yes sir, I can deliver much more if you want. And I can deliver outside Dolphin Bay too if needed. I'm serious, if you want me to go to another village-
+- **Greg**: Laskhmi, don't get ahead of yourself, and don't talk about going out like that as if the Fog poses no threat at all
+- **Lakshmi**: But it doesn't
+- **Greg**: SHH! Don't even think about it. And stop talking about... You know how some people feel when we trivialize that subject.
+- **Lakshmi**: Whatever, I'm just saying in case...
+- **Greg**: In case you want to come back sharp and ready tomorrow, go get some rest now.
+- **Lakshmi**: Okayyy, see ya Greg!
+	- And see ya intern!
+- Intern: S...See ya
+	- *All awkward and shy*
+- *Lakshmi goes back to her house. Maybe we can add a conversation with Grandpa Dan*

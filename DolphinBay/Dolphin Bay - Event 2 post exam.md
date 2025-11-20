@@ -1,0 +1,40 @@
+# Dolphin Bay - Event 2 post exam
+
+- **Lakshmi**: OUF. *deep breaths* Deep breaths Lakshmi. Can't be screaming like that again.
+	- Alright next up is...
+	- The cottage next to the old greenhouse
+	- I should probably look on the outskirts of the bay...
+- **Possible interaction with a young man if the player chooses to look for clues**: You’re not headed near THAT cottage by the old greenhouse, are you?  
+	- **Lakshmi**: Hmm, yup says that right here
+		- *Looks at a blank piece of paper*
+	- Stay clear of that one. That lady’s got _jars_ of stuff that still move on their own.  
+	- **Lakshmi**: ...
+	- Last time I walked by, I swear I heard the plants _talking back_.
+- ***Lakshmi** eventually arrives at the right house and knocks on the door*
+	- *whispers*: mail delivery
+- *We hear a loud sound and an explosion of flames comes out the open window*
+- **Lakshmi** *all worried*: HEY! 
+	- ...
+	- HEY! 
+	- What was that?! 
+	- Are you okay?!
+- *Just silence* [...]
+- *Lakshmi goes in front of the window and jumps to try and see what just happened*
+- **Lakshmi**: CAN ANYONE HEAR ME? I'M GONNA COME IN!
+- **Mystery woman**: Okayyyy, come innn
+- *Lakshmi opens the door and goes inside*
+- **Mystery woman**: Oohhh, you must be-a the mail lady, eh? Finalmente, someone shows up!
+- **Lakshmi**: Yes I am, but, are you okay? You look... crispy
+- **Mystery woman**: Crispy? Ahhh, bella, I am always a little crispy! Is-a part of the process! Now tell me — you have-a my package, sì?
+- **Lakshmi**: Oh right, yes, let me just... I left it outside let me just pick it up...
+	- *Goes outside to pick up the package and breathes a big sigh*
+	- Ok... This is harder than I thought. Focus, you can't be forgetting mail like this
+	- *Goes back inside*
+- **Lakshmi**: Hi again. Here is your package. 
+- **Mystery woman**: Grazie mille, grazie! Are you sure it’s-a mine?
+- Lakshmi: It says here "for Dr. Lamborghini"
+- **Dr. Lamborghini**: Mamma mia, no more explosions once I use this!
+	- *There are literal stars in her eyes*
+	- And you, what’s-a your name, bella ragazza?
+- **Lakshmi**: I'm Lakshmi :)
+- **Dr. Lamborghini**: Piacere! So nice to meet you, Lakshmi! Next time, don’t-a be shy — just come in! The door is open! The danger is minimal!
