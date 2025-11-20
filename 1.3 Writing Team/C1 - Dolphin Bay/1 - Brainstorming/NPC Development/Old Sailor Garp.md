@@ -51,11 +51,11 @@ Character Introduction
 	_Well you're honest. Heck, why not. If you can find me another crew member, why I could get ol'Snapper seaworthy before the tide goes out 
 
 Options: 
-(A) Eye, eye captain  
+(A) Aye, aye captain  
 (B) Maybe after I've got this whole mail thing down 
 
 **(Option A) Lakshmi**
-	_Eye, eye captain_
+	_aye, aye captain_
 
 **Garp**
 	_(chuckles) 
@@ -76,7 +76,7 @@ Mail delivery
 **Garp**
 	_Let me see that!_ 
 	(tastes a long sniff)
-	_Woooie wee, yep, that's the one. Shes even stinkier when she's cured _
+	_Woooie wee, yep, that's the one. Shes even stinkier when she's cured 
 
 **Lakshmi**
 	_Smelt like fish to me_

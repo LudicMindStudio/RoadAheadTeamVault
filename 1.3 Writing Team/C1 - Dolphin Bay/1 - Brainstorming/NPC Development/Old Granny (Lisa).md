@@ -41,7 +41,7 @@ _OPTIONS:
 *Lisa*
 _Wonderful! I was just steeping a pot in the garden. Come along now before it gets cold_
 (Pours Tea, takes a sip) 
-_isn't that just delightful. The honey is courtesy of my local hive of course  _
+_isn't that just delightful. The honey is courtesy of my local hive of course_
 
 *Lakshmi*
 _You have bees in your garden? Actually come to mention it, I've never seen so many animals in all of dolphin bay! 
@@ -64,10 +64,11 @@ _Certainly, but you know every since she passed, her furry friends have been con
 _When you fall in love, plant a garden. There's so little we leave behind these days, I wouldn't have found her without it._
 
 *Lakshmi*
-_I'll find a perfect spot just like this one. I promise. _
+_I'll find a perfect spot just like this one. I promise._
 
 *Lisa*
 _I'm sure you will. You've grown into such a delightful person, I'm glad you were the one to deliver my parcel_
 
 *Lakshmi*
 _I had completely forgotten! Here you go! And thank you for the tea Granny. I must be going now_
+
