@@ -19,7 +19,7 @@ Some ideas for Robert's face
 
 # Dialogue
 
-Character Introduction - Main Story ([[Pre-graduation Dialogue-Events]])
+Character Introduction - Main Story ([[Pregarduation/Pre-graduation Dialogue-Events]])
 
 **Robert**
     `If variable is true`

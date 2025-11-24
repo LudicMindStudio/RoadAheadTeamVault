@@ -186,4 +186,4 @@ Inspiration: Montain-y rural Japan river house villages
 | Bread                               | Sprite              |             |          |        |
 |                                     |                     |             |          |        |
 
-Background for Pre-graduation scene [[1.3 Writing Team/Main Story/Pre-graduation Dialogue-Events|Pre-graduation Dialogue-Events]]
+Background for Pre-graduation scene [[1.3 Writing Team/Main Story/2 - Assets/Pre-graduation Dialogue-Events|Pre-graduation Dialogue-Events]]
