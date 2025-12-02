@@ -77,18 +77,14 @@ Lakshmi: Brr. The forest gives me the creeps. Now I heard kids in the village sa
 
 # Act 1 - Scene 3 - Lakshmi Arrives in Dolphin Bay 
 
-### Event - Lakshmi interacts with GrandpaDan Again 
+### Event - Lakshmi Enters Dolphin Bay
 
+Dialogue Bundle: 
+## Characters: Lakshmi, Leo 
+## Bundle: A 1. S 3. Leo Jumps Lakshmi
 
+Lakshmi: Eek! Leo! You cannot do that to me! It’s a Grandpa Dan thing!
+Leo: Wuf wuf!
+### Event - Leo Jumps Away 
+Lakshmi: Ugh. Knowing this energetic pup, I will need to get a few more scares before he is satisfied.
 
-**Event**
-    Lakshmi enters the village and can explore a bit. 
-    `If variable is true` Leo (dog) jumps out on Lakshmi.
-    **Lakshmi*
-        *Eek! Leo! You cannot do that to me! It’s a Grandpa Dan thing!*
-    **Leo**
-        *Wuf wuf!* 
-    Leo runs away. 
-    **Lakshmi**
-        *Ugh. Knowing this energetic pup, I will need to get a few more scares before he is satisfied.*
-    Journal Update: Leo thinks it is a game. Look in the village if you can find him. He will be exhausted at some point.
