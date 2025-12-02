@@ -58,51 +58,29 @@ Lakshmi: Today is the day! Now if I go straight from here, Guild Hall should be 
 
 Dialogue Bundle: 
 ## Characters: Lakshmi, GranpdaDan 
-## Bundle: Lakshmi and GrandpaDan Face the World 
+## Bundle: A 1. S 2. Lakshmi Interact with GrandpaDan
 
-Lakshmi: Grandpa Dan?!
-Grandpa Dan: Ah! Lakshmi don't scare me like that! That mutt already got the jump on me this morning. My heart can't take much more!
-Lakshmi: Leo? Pfft. Ok grandpa. He just knows you need the energy to get your morning started.
-Grandpa Dan: *grumble* *grumble* Yet I've been up since morning. *grumble* *grumble* Well, if you see that dog, get him home. I made him his favourite biscuits.
-Lakshmi: Ay Ay, cap'n!
-Grandpa Dan: Speaking of breakfast, go eat your slice of bread and run straight to the **Guild Hall**! Greg will skewer you if you are late!
-Lakshmi: Thanks Grandpa Dan.
-Grandpa Dan: Khum. Right. See you later Lakshmi.
+Lakshmi: Wow. How beautiful.
+Grandpa Dan: That is… …one way to put it.
+Lakshmi: How come?
+Grandpa Dan: I say the world looks pretty miserable with the fog.
+Lakshmi: Maybe. I do not have many memories left of the times before the fog... And while the cataclysm does sound like an intense period of time... I cannot help but love the world. I want to see all of it.
+Grandpa Dan: ...
+### Event - Lakshmi interacts with GrandpaDan Again 
+
+Grandpa Dan: Hurry up to the Guild Hall! Greg is waiting for you.
+
+### Event - Lakshmi enters the woods 
+
+Lakshmi: Brr. The forest gives me the creeps. Now I heard kids in the village say there are monsters lurking here... No! Lakshmi get a hold of yourself! These are kid's tales, nothing more.
+
+
+# Act 1 - Scene 3 - Lakshmi Arrives in Dolphin Bay 
+
+### Event - Lakshmi interacts with GrandpaDan Again 
 
 
 
-
-#### Lakshmi goes to the Guild Hall in Dolphin Bay (Corina)
-**Event**
-    Lakshmi walks out of Greg's chalet
-**Lakshmi**
-    *Today is the day! Now if I go straight from here, **Guild Hall** should be up ahead. I have not been in Dolphin Bay often though... Bah, I can ask around for directions.*
-**Event** 
-    Lakshmi wanders through the forest, a narrow path from Greg's chalet towards Dolphin Bay. There is an optional path on the way.
-**Event** [Welcome world]
-    Optional path: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone bench. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]
-    `If variable is true` Interact with Grandpa Dan
-    **Lakshmi** 
-        *Wow. How beautiful.*
-    **Grandpa Dan**
-        *That is…*
-	*…one way to put it.*
-    **Lakshmi**
-        *How come?*
-    **Grandpa Dan**
-        *I say the world looks pretty miserable with the fog.*
-    **Lakshmi**
-         *Maybe. I do not have many memories left of the times before the fog... And while the cataclysm does sound like an intense period of time... I cannot help but love the world. I want to see all of it.*
-    **Grandpa Dan**
-        *...*
-    There is a silent pause during the cutscene, with the wind blowing. The interaction ends on this awkward note.
-     `If variable is true` Interact with Grandpa Dan again
-     **Grandpa Dan**
-        *Hurry up to the Guild Hall! Greg is waiting for you.*
-**Event**
-    `If variable is true` Lakshmi walks down the path towards Dolphin Bay
-**Lakshmi**
-    *Brr. The forest gives me the creeps. Now I heard kids in the village say there are monsters lurking here... No! Lakshmi get a hold of yourself! These are kid's tales, nothing more.* 
 **Event**
     Lakshmi enters the village and can explore a bit. 
     `If variable is true` Leo (dog) jumps out on Lakshmi.
