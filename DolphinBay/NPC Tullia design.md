@@ -1,1 +1,0 @@
-![[Tullia_ConceptArt.jpeg]]
