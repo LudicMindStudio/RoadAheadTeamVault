@@ -60,11 +60,8 @@ The final phase of the sprint has begun!
 			-how to improve future sprints 
 		c. Why didn't everything go as planned? 
 3. Showcase Meetings 
-	1. Tuesday slot next week 
-	2. 
-		
-		
-		
+	1. Tuesday - feedback and polish for the final game
+	2.  Meeting with Manuela regarding the showcase in December 16th 
 
 Start Feedback 
 
