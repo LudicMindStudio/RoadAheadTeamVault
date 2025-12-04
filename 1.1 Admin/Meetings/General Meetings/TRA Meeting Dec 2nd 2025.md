@@ -41,3 +41,29 @@ The final phase of the sprint has begun!
 # Recording
 
 # Live Notes
+
+
+1. Implementation Review 
+	How to set future scopes? 
+		Not as much was implemented as we originally hoped 
+	Continuing Implementation 
+		-Implementors are content to continue 
+			Trent - Scheduling for NPCs in Dolphin Bay 
+			Aaron - Interior Guild Hall EVENTING 
+2. Feedback 
+	Playable demo: [https://ludicmindstudio.itch.io/theroadahead?secret=xZb8hnbbgq70vEBzySLchByqViU](https://ludicmindstudio.itch.io/theroadahead?secret=xZb8hnbbgq70vEBzySLchByqViU "https://ludicmindstudio.itch.io/theroadahead?secret=xZb8hnbbgq70vEBzySLchByqViU") 
+	Steps: 
+		a. Review of game 
+			-debugging 
+			-assets that can be improved 
+			-mechanics/systems to be reworked 
+		b. How did the sprint go, how was the pipeline? 
+			-how to improve future sprints 
+		c. Why didn't everything go as planned? 
+3. Showcase Meetings 
+	1. Tuesday - feedback and polish for the final game
+	2.  Meeting with Manuela regarding the showcase in December 16th 
+
+Start Feedback 
+
+Showcase News 
