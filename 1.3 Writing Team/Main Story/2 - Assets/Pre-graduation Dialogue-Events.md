@@ -279,7 +279,9 @@ Before crossing the bridge to get to the guild hall, Lakshmi notices a boy stari
 		    1) **Farming**
 				*Most folks farm to sustain the village. While I love picking apples in the Fall… I most certainly hate picking out weeds all year long. Guess who has to do that most often.*
 			2) There are no schools anymore
-				*That makes sense too. There aren't enough students to fill in a school in villages anymore… but they still learn somehow. Seems like a trick question to me. But whatever, it’s the process of elimination*
+				*That makes sense too. There aren't enough students to fill a real school in villages anymore… but they still learn somehow. Seems like a trick question to me. But whatever, it’s the process of elimination*
+			3) Meditation 
+				_Boredom aside, Lora did insist on teaching me. My best shot of traversing through the fog. Not sure I want to think about that! _
 **Lakshmi**
 	*Wait, that's it? Is this a joke?*
 **Event**
@@ -355,7 +357,7 @@ Before crossing the bridge to get to the guild hall, Lakshmi notices a boy stari
 **Greg**
     _Where's that mail I asked for? Where did that new intern go?_
 **Intern**
-    _Well I can at least minimize their dissapointment... Back to it...but I just want to hide in here._
+    _Well I can at least minimize their disappointment... Back to it...but I just want to hide in here._
 **Event**
     Screen blacks out and the player is back in the guild room as Lakshmi. 
 **Intern**
