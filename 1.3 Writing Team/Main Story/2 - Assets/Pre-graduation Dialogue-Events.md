@@ -202,7 +202,7 @@ Template:
         *Ugh. Knowing this energetic pup, I will need to get a few more scares before he is satisfied.*
     Journal Update: Leo thinks it is a game. Look in the village if you can find him. He will be exhausted at some point.
     
-#### Lakshmi does her exam (Corina)
+#### Lakshmi does her exam 
 **Event**
 Before crossing the bridge to get to the guild hall, Lakshmi notices a boy staring into the horizon. Just looks at him for a few seconds. Does not comment anything.
 **Event**
