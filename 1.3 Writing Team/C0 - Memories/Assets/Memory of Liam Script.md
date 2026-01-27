@@ -185,7 +185,7 @@ NPCs
 .2. Stay out of my life!
 	`If variable is true`
 		**Liam 2**
-			_... ( I need help with finding an answer to this -Arkana)_
+			_I can 
 			==Choices:==
 				1. I would like you to support me. 
 					`If variable is true`
@@ -209,7 +209,7 @@ NPCs
 				.2. Stay out of my life!
 					`If variable is true`
 					**Liam 2**
-						_... ( I need help with finding an answer to this -Arkana)_
+						_You cant escape yourself Liam. What do you need to feel comfortable? 
 					==Choices:==
 						.1. I would like if you could support me. 
 							`If variable is true`

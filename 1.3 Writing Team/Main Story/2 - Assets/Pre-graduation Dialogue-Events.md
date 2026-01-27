@@ -279,7 +279,9 @@ Before crossing the bridge to get to the guild hall, Lakshmi notices a boy stari
 		    1) **Farming**
 				*Most folks farm to sustain the village. While I love picking apples in the Fall… I most certainly hate picking out weeds all year long. Guess who has to do that most often.*
 			2) There are no schools anymore
-				*That makes sense too. There aren't enough students to fill in a school in villages anymore… but they still learn somehow. Seems like a trick question to me. But whatever, it’s the process of elimination*
+				*That makes sense too. There aren't enough students to fill a real school in villages anymore… but they still learn somehow. Seems like a trick question to me. But whatever, it’s the process of elimination*
+			3) Meditation 
+				_Boredom aside, Lora did insist on teaching me. My best shot of traversing through the fog. Not sure I want to think about that! _
 **Lakshmi**
 	*Wait, that's it? Is this a joke?*
 **Event**
@@ -318,124 +320,83 @@ Before crossing the bridge to get to the guild hall, Lakshmi notices a boy stari
     
 #### Lakshmi speaks to the intern (enter first memory) (Arkana) -> to modify
 
-==COMMENT==
-C: After much thinking on whether to keep the grasshopper’s flashback… I thought the Intern’s memory serves the same purpose as the grasshopper’s flashback. They both introduce the empathy theme of the game. But the memory also introduces Lakshmi’s special abilities. The grasshopper memory introduces her dad but Im still not 100percent sure if she even clearly remembers her parents and/or if she has fond memories of them. Hmm. What do you think? I like the candidness of the grasshopper memory but idk if its the right place for it… because I also like the idea for Lakshmi to wake up without a flashback so she can appear like a blank slate to the players. We can chat more about it.
-
-A:I like the idea of having Lakshmi as a blank slate too. I feel like the flashback is a bit confusing. Maybe we could see what people said in the focus group about that part
-
 **Greg**
-    _Alright! Now it's time for the... Practical test! Youl’l deliver a little message for the new intern. Deliver this to the new intern. They should be in the storage room on the right of reception. Make sure to deliver it like you've been taught. Treat this note like you would a real postal delivery.__
+    _Alright! Now it's time for the... Practical test! You'll deliver a little message for the new intern._
+**Event**
+    Player receives the mail.
+**Greg**
+	_Deliver this to the new intern. They should be in the storage room on the right of reception. Make sure to deliver it like you've been taught. Treat this note like you would a real postal delivery._
 **Lakshmi**
     _Got it!_
 **Event**
     Journal updated. Player picks up the item and goes to see the intern.
 **Intern**
-        _Dammit where did that go?_
+    _Dammit where did that go?_
 **Lakshmi**
     _Uhmm Hi! Are you the new intern?_
 **Intern**
-        _Oh, hum hi Lakshmi, what's up?_
+    _Oh, hum hi, what's up?_
 **Lakshmi**
     _Well, I'm in the middle of my postal guild graduation testing and have a delivery for you!_
 **Intern**
-        _Wow, really? You’re so lucky. I'll receive your mail then._
+    _Wow, really? You’re so lucky. I'll receive your mail then._
 **Lakshmi**
-    _Ok! Well then, I'm Lakshmi from the postal guild here to deliver your mail! Thank you for using our services and have a good day! 
-        Wow thanks again!_ 
-            _(...)_
+    _Ok! Well then, I'm Lakshmi from the postal guild here to deliver your mail! Thank you for using our services and have a good day!_
+**Event**
+    Screen shakes.
+**Lakshmi**
+	_Whoa thanks again!_ 
 **Intern**
-        _Hey are you okay?_ 
+    _Hey... are you okay?_ 
 **Lakshmi**
-        _Yes, just a little excited! Oh no not this again._
-==COMMENT==
-C: I love the comedic tone here! This does raise a question though. Is it something Lakshmi hides from others or will she go to Greg to tell of her experience. How long did she have those abilities, etc. etc. We might not have an answer for this sprint but it would be nice to have a temporary decision so we are consistent. What do yuou think?
-
-A:Yes I was wondering the same thing. Also, what is her awareness about her ability. I will ask the question during the meeting on Friday
-
+    _Yes, just a little excited! Oh no not this again..._
 **Event**
     Screen blacks out and the player is now in a different room as the intern. 
-    
 **Intern**
-    `If variable is true`
-        _Dammit... I messed up again... How come I keep messing up everything... Even the simplest of tasks... I'm not cut out to be a guild member, what was I thinking coming here. I can't do anything right.. (...)_
+    _Dang-it... I dumped the mail again. How come I keep messing up everything... Even the simplest of tasks... I'm not cut out to be a guild member, what was I thinking coming here. I can't do anything right.._
 **Greg**
-    `If variable is true`
-        _Hello? Anybody in here? Where did that new intern go?_
+    _Where's that mail I asked for? Where did that new intern go?_
 **Intern**
-    `If variable is true`
-        _(...) Well I can at least minimize their dissapointment... Back to it..._
-==COMMENT==
-C: If I can suggest: give an example of an action, it might sound more emotionally strong than describing it. E.g. I can at least hide here so he doesn’t see me like this. Its the same info but easier to empathize with I think. But this is totally hard, and I am be guilty of this too! So if you agree with what I have to say, please feel free to leave me suggestions too! Another pair of eyes help a ton.
-
+    _Well I can at least minimize their disappointment... Back to it...but I just want to hide in here._
 **Event**
     Screen blacks out and the player is back in the guild room as Lakshmi. 
 **Intern**
-    `If variable is true`
-        _Lakshmi!? Are you ok?_
+    _Lakshmi!? Are you ok?_
 **Lakshmi**
-    _Ah... Yeah I'm ok sorry... (?) (Argh... I gotta get better at that)_
+    _Ah... Yeah I'm ok sorry... (Argh... I got to get better at that)_
 **Intern**
-    `If variable is true`
-        _Ok phew. I thought I did something wrong again._
+    _Ok phew. I thought I did something wrong again._
 **Lakshmi**
-    _No no! You did nothing wrong! In fact, thank you for being such a good practice delivery! I feel so much more prepared to be a guild worker and it's all thanks to you._
+    _No no...You did nothing wrong? Thanks for your help._
 **Intern**
-    `If variable is true`
-        _(<3) Oh geez, well no problem then!_
+    _No problem, then!_
 **Lakshmi**
     _Keep up the good work and I'm sure you'll be a full guild member soon too!_
-==COMMENT==
-C: So the choices are great. But Im also thinking… of addressing her memory entering abilities. If we decide for her to keep that moment to herself, its totally fine. Im just thinking it can be great if she can think about it… so for ex. she feels the need to journal it and make a small resumé of what happened and how she feels about the intern… what do you think?
 **Intern**
-    `If variable is true`
-        _Really? Do you really believe that?_
+    _Really? Do you really believe that?_
 **Lakshmi**
-    1) _Absolutely_
-    2) _Well..._
-        1) _Well. Maybe one day. Theres hope for anyone._
-         **Intern**
-            `If variable is true`
-            _(...) Yeah maybe one day...._
-**Lakshmi**
-    _Welll I better go back to Greg and tell him how I did. Thanks again, see you around._
+    _For sure! Well I better go back to Greg and tell him how I did. Thanks again, see you around._
 **Event**
     Journal updated. Player goes to see Greg.
 **Lakshmi**
     _I did it Greg! Mail delivered._
 **Greg**
-    `If variable is true`
-        _I saw, well done Lakshmi. I'm very proud. I am also happy to say... Welcome in, Lakshmi you are now a full guild member. I hope to see more great things from you._
+    _I saw, well done. I'm very proud. I am also happy to say... Welcome in, Lakshmi you are now a full guild member. I hope to see more great things from you._
 **Lakshmi**
-    _(!) All right! Awesome! This is so awesome Greg! can we have a party!?_
+    _All right! This is so awesome Greg!_
 **Greg**
-    `If variable is true`
-        _Maybe we'll set one up for later tonight. or now I'm putting you straight to work._
+    _Now, I'm putting you straight to work._
 **Lakshmi**
-    _Ok then, bring it on!_
+     _Bring it on!_
 **Greg**
-    `If variable is true`
-        _Go up to the front desk. The receptionist will have some deliveries for you to make._
-==COMMENT==
-C:Wasnt there an experienced guild member in Obsidian…? I distantly recall him being the one positioned in Dolphin Bay and thats who you go see for mail… I may be wrong…
+    _Go up to the front desk. Robert will have some deliveries for you to make._
 **Event**
     Player goes to see the receptionist.
-**Receptionist**
-    `If variable is true`
-        _Hey Lakshmi, congrats on becoming a full member. I've got a whole batch of deliveries here for you to make. Good luck!_
+**Robert**
+    _Hey Lakshmi, congrats on becoming a full member. I've got a whole batch of deliveries here for you to make. Good luck!_
 **Lakshmi**
-    _Thanks! ( I better read who I need to deliver these too)_
+    _Thanks! 
 #### Lakshmi delivers the first few mail (Start Dolphin Bay story) (Arkana)
-
-
-general idea
-- Leaves the guild hall proudly, but disorganised. 
-- meets CAT and the gang
-- meets Elio
-- delivers mail to Doran
-- delievers mail to Liam's sister. 
-
-==PLEASE COMMENT ON THIS==: I'm realising I'm going with a very strict order of events. I'm thinking the player should decide which letter to deliver first. I just don't think they should start with Liam's so maybe after they have delevered two letters we could have an event saying like of there's one at the bottom of my bag that I didn't notice. 
-==COMMENT FROM CORINA:== Yup, you have the answer haha. That's great! It shows her inexperience too this way.
 
 **Event**
 	Player leaves the guild hall. Walks around a bit but Cat calls her out. 
@@ -456,10 +417,10 @@ general idea
 	_I don't like passing by the protesters... they're loud. They sound like monsters._
 
 *Lakshmi*
-	_Sorry kids, I'm not sure what you're taking about but I better get to work see you around!
+	_Hum... sorry kids, I'm not sure what you're talking about but I better get to work see you around!
 
 **Event**
-	In their bag, the player has 4 letters but only have access to 3. There will be an event later where Lakshmi realises there is a 4th letter. The 3 first letters are for NPCs.  The player can take a right to go towards "central dolphin bay" or to the left towards "rural dolphin bay"
+	In their bag, the player has 4 letters but only have access to 3. There will be an event later where Lakshmi realises there is a 4th letter. The 3 first letters are for NPCs.  The player can take a right to go towards "East dolphin bay" or to the left towards "West dolphin bay"
 
 **Event (Option chosen is player goes left)**
 	Player has mail for Oliver. They have to walk around to find where to go. Lakshmi passes by a boy sitting and staring into the horizon. 
