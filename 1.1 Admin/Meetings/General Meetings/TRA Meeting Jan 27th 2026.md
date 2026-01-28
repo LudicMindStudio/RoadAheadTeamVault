@@ -72,4 +72,6 @@ By the end of the year, I dream we'll have...
 ---
 # Recording
 
+https://youtu.be/TMbWhGpsYUQ
+
 # Live Notes
