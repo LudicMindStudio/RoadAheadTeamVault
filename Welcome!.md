@@ -8,13 +8,16 @@ Different aspects of the game: Villages, Memories, Main Story and game lore
 
 # Where are we now? Links!
 * See the Meetings tab for the latest updates during our general meetings
+	* 2026 goals [[TRA Meeting Jan 27th 2026]]
 * Art team current tasks: [[!!Asset To-do list!!]]
 * Writing team current tasks: see latest writing meeting in Meetings tab
 * Dev team current tasks: see latest general meetings in Meetings tab
 
 # What do we do?
-* Team Division
-* Sprints
+* Team Division: (not exclusive)
+	* Game dev team: Art Team, Writing Team, Implementation Team 
+	* Project team: Research team, Socials team
+* Sprints: [[TRA Meeting Sept 30th 2025]]
 * Communication
 * Hours expected: ~10h a week
 # Tools we use
@@ -27,6 +30,7 @@ Different aspects of the game: Villages, Memories, Main Story and game lore
 * Member Interviews
 * Focus Groups
 * Game Jams
+* News!?? 
 # Honorariums how to
 
 
