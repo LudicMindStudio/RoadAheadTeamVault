@@ -37,9 +37,9 @@ Different aspects of the game: Villages, Memories, Main Story and game lore
 # I don't know how to use these! 
 Don't worry! We all start somewhere. We have plenty of resources and tutorials available for you to learn.
 Obsidian : 
-	*Creating new pages in Obsidian & using templates*
-	*Formatting scripts*
-	*Naming art assets*  
+	*Creating new pages in Obsidian & using templates* (WIP)
+	*Formatting scripts* (WIP)
+	*Naming art assets*  (WIP)
 Unity : 
 	https://www.youtube.com/watch?v=ix14e3MyaaQ
 	https://www.youtube.com/watch?v=sAJiyPQRt8M
@@ -47,7 +47,8 @@ Unity :
 	https://www.youtube.com/watch?v=CAwStH0ay-M
 Drawing pixel art: 
 	[[Spriter's Resource]]
-
+Writing:
+	(WIP)
 # Project evolution 
 
 ![[Pasted image 20260129171837.png]]
