@@ -34,8 +34,6 @@ Different aspects of the game: Villages, Memories, Main Story and game lore
 # Honorariums how to
 
 
-
-
 # I don't know how to use these! 
 Don't worry! We all start somewhere. We have plenty of resources and tutorials available for you to learn.
 Obsidian : 
