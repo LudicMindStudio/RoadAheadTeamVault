@@ -16,7 +16,7 @@ Different aspects of the game: Villages, Memories, Main Story and game lore
 * Team Division
 * Sprints
 * Communication
-* Hours expected: flexible
+* Hours expected: ~10h a week
 # Tools we use
 * Obsidian
 * Discord
@@ -26,7 +26,7 @@ Different aspects of the game: Villages, Memories, Main Story and game lore
 * Gaming Against Stigma
 * Member Interviews
 * Focus Groups
-* Game Jams?
+* Game Jams
 # Honorariums how to
 
 
@@ -39,11 +39,16 @@ Obsidian :
 	*Formatting scripts*
 	*Naming art assets*  
 Unity : 
-Drawing pixel art: [[Spriter's Resource]]
+	https://www.youtube.com/watch?v=ix14e3MyaaQ
+	https://www.youtube.com/watch?v=sAJiyPQRt8M
+	https://www.youtube.com/watch?v=kMv5XiDhzS0
+	https://www.youtube.com/watch?v=CAwStH0ay-M
+Drawing pixel art: 
+	[[Spriter's Resource]]
 
 # Project evolution 
 
-![[Timeline Project.png]]
+![[Pasted image 20260129171837.png]]
 # Members
 Current members
 
