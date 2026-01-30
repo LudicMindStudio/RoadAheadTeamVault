@@ -75,3 +75,79 @@ By the end of the year, I dream we'll have...
 https://youtu.be/TMbWhGpsYUQ
 
 # Live Notes
+
+-New Year - New goals 
+	Proper demo with a completed Dolphin Bay 
+		Fully defining the scope 
+		What does a good/proper demo look like 
+o	Youth onboarding system 
+	Setting up the framework 
+	Easier to share memories 
+•	With limited experience with game development 
+o	Sharing the game with many others 
+	Public place to present ourselves 
+•	Social Media 
+•	Kickstarter 
+o	Discuss goals 
+•	Custom website 
+	Home for our game 
+•	Itch.io 
+•	Marketplace? 
+o	General Direction (3 pillars) 
+	More than just the game itself 
+	3 pillars 
+•	While playing the game 
+o	How we develop the game itself 
+o	People who like video games to like our game 
+•	After playing the game 
+o	Take homes from the game 
+o	Interventions within the game 
+	Evidence based coping mechanisms 
+o	Memory system 
+o	Direct goals for helping youth 
+•	While making the game 
+o	The team – creating video games 
+o	How to teach youth for game creation 
+	More structure following the 3 pillars and team structure changes 
+-	Discussion 
+o	Sprints 
+	Thoughts on the last sprint 
+•	Working well, effective in software development 
+o	Roles 
+	Sub-teams – art, writing and implementation/development 
+•	Leadership on sub teams? 
+o	More leadership on the sub teams to allow information to flow more easily 
+o	Leadership responsibilities:
+	Organizing leader 
+	Being the expert on the design of the subdomain 
+•	Eg. “what is the artistic design behind the project in general” 
+•	Knowing the most about that area of game design 
+	Style guide – here’s how to structure, here’s the standard for deliverables in this domain 
+	Onboarding onto the specific subteam 
+	Separation of game tasks and project tasks 
+•	Game tasks – Art, Writing and implementation 
+•	Project tasks – Administration (onboarding), marketing, communication 
+o	Outside of development 
+	Tasks outside of development 
+•	Upcoming conferences 
+•	Media production 
+o	Trailers 
+o	Interviews with team members 
+o	Dev logs etc. 
+•	Incorporation of The Road Ahead 
+o	Public donation page creation 
+-	Immediate steps 
+o	NEXT WEEK 
+	Back into sprints 
+•	Clean up our development pipeline 
+•	Final sprint for refining the pipeline (size of the scope) 
+•	2-month sprint 
+	Promotional material 
+•	Interviews with CBC 
+•	Starting to define a face/ mask for the project 
+o	Create a discord for sharing creative/unique promotional strategies 
+o	Support from the Douglas remains to stay afloat 
+	10hs of work a week 
+o	Research news 
+	Stay tuned for upcoming research news 
+
