@@ -1,12 +1,10 @@
 ---
-
-kanban-plugin: board
-
+kanban-plugin: table
 ---
 
 ## To do
 
-- [ ] Dummy Card
+- [ ] Dummy Card 1: CL [[Pre-graduation Dialogue-Events]]: DUE 2026-01-19
 
 
 ## In Progress
@@ -15,16 +13,18 @@ kanban-plugin: board
 
 ## Review
 
+- [ ] Dummy Card 2: CL [[Pre-graduation Dialogue-Events]]: DUE 2026-01-19
 
 
 ## Complete
 
+- [x] Dummy Card 3: CL [[Pre-graduation Dialogue-Events]]: DUE 2026-01-19
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false],"tag-colors":[{"tagKey":"#ASAP","color":"rgba(0, 0, 0, 1)","backgroundColor":"rgba(221, 22, 22, 1)"}],"new-note-template":"Templates/ArtistKanban card Template.md"}
+{"kanban-plugin":"table","list-collapse":[false,false,false,false],"tag-colors":[{"tagKey":"#ASAP","color":"rgba(0, 0, 0, 1)","backgroundColor":"rgba(221, 22, 22, 1)"}],"new-note-template":"Templates/ArtistKanban card Template.md"}
 ```
 %%
