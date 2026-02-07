@@ -1,7 +1,7 @@
 Welcome to our Obsidian Vault! A tool used for The Road Ahead team's organization of tasks and workflow!
 ![[TRA Logo.png]]
 # What the game is about
-##### Our game trailer : https://www.mcgill.ca/ludicmind/projects/road-ahead
+##### Our game trailer : https://www.mcgill.ca/ludicmind/projects/road-ahead\
 ##### Game structure: [[Basic Gameplay Loop]]
 
 Different aspects of the game: Villages, Memories, Main Story and game lore
