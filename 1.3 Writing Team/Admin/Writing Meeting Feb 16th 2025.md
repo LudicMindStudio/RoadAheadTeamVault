@@ -17,7 +17,7 @@
 	* Pages to work on:
 		- (overhaul of pre-graduation script) Does not have to be CL!!
 		- Make sure all characters you deliver mail to have dialogue 
-		- Liams's Memory 
+		- Liam's Memory 
 
 ### Medium Priority
 - Write out the complete plotline of Dolphin Bay
