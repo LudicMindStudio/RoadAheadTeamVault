@@ -14,7 +14,7 @@
 	- Tone, wording, spelling 
 	- Formatting into correct folders with correct names
 	* Pages to work on:
-		- (overhaul of pre-graduation script) Does not have to be CL!! [[Pre-graduation Dialogue-Events]]
+		- Overhaul of pre-graduation script (Does not have to be CL!!) [[Pre-graduation Dialogue-Events]]
 		- Make sure all characters you deliver mail to have dialogue 
 		- Liam's Memory [[Memory of Liam Script]]
 
@@ -32,7 +32,7 @@
 - Write Lakshmi's parents quest in Dolphin Bay (Start Dr. Lamborghini's plot)
 
 # Housekeeping (if we have time)
+* Walk through the style guide? Or check it and try to implement it by ourselves?
 * Game direction: straightforward, confusing, do you feel well supported and heard?
 * Welcome page
-	* Member's discord users
-* 
+	* Member's discord usernames?
