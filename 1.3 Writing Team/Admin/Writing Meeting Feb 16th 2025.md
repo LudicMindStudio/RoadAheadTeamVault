@@ -7,8 +7,11 @@
 - Get familiar to write in the new format (subgoal)
 
 **Separate Tasks:**
+	*Where to find info:* Writer Kanban [[Writing Kanban]]
+
 - Polish existing work : Bring it closer to the Guidelines doc (should be available tomorrow)
 	- Tone, wording, spelling 
+	- Formatting into correct folders with correct names
 	- (overhaul of pre-graduation script) Does not have to be CL!!
 	- (to confirm if completed) Make sure all characters you deliver mail to have dialogue 
 
