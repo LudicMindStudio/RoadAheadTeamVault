@@ -1,5 +1,5 @@
 # Quick check-in
-* Midterms? Personal obligations? Deadlines too quick?
+* Midterms? Personal obligations? Deadlines too intense?
 
 # Sprint Writing Goals
 - Polish existing writing + tighten up narrative of Dolphin Bay
