@@ -14,6 +14,6 @@
 * (to confirm if completed) Make sure all characters you deliver mail to have dialogue 
 * Have at least 2 full memories written out?
 	* Can but do not need to be related directly to 'assertiveness.' But it has to be an overarching theme of the village.
-	- Brainstorm how it can be a game mechanic
+	- Brainstorm how it can be a game mechanic 
 - Make a few re-occurring characters in every village (e.g. Quinn, a tradesman, Moonman?, etc.)
 - Write Lakshmi's parents quest in Dolphin Bay (Start Dr. Lamborghini's plot)
