@@ -1,6 +1,5 @@
 # Quick check-in
 * Midterms? Personal obligations? Deadlines too intense?
-
 # Sprint Writing Goals
 - Polish existing writing + tighten up narrative of Dolphin Bay
 - Figure out what everyone likes to write most (subgoal)
@@ -15,9 +14,9 @@
 	- Tone, wording, spelling 
 	- Formatting into correct folders with correct names
 	* Pages to work on:
-		- (overhaul of pre-graduation script) Does not have to be CL!!
+		- (overhaul of pre-graduation script) Does not have to be CL!! [[Pre-graduation Dialogue-Events]]
 		- Make sure all characters you deliver mail to have dialogue 
-		- Liam's Memory 
+		- Liam's Memory [[Memory of Liam Script]]
 
 ### Medium Priority
 - Write out the complete plotline of Dolphin Bay
@@ -31,3 +30,9 @@
 	- Brainstorm how it can be a game mechanic 
 - Make a few re-occurring characters in every village (e.g. Quinn, a tradesman, Moonman?, etc.)
 - Write Lakshmi's parents quest in Dolphin Bay (Start Dr. Lamborghini's plot)
+
+# Housekeeping (if we have time)
+* Game direction: straightforward, confusing, do you feel well supported and heard?
+* Welcome page
+	* Member's discord users
+* 
