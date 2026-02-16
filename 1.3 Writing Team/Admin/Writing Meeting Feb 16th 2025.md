@@ -20,9 +20,16 @@
 
 ### Medium Priority
 - Write out the complete plotline of Dolphin Bay
-	- Write the acts of the village story progression (it has to culminate with Lakshmi learning assertiveness) (e.g. Act 1, Act 2, Act 3)
-	- Goal: we need to learn something about the current world. (e.g. what happened to dolphins, or animals in general in this world?)
-	- Lakshmi progresses the narrative (e.g. bring smth, talk to someone, etc.) - a chain of quests
+	- Write the acts of the village story progression (it has to culminate with Lakshmi learning assertiveness) 
+		- Brainstorming (e.g. Act 1, Act 2, Act 3)
+		- Quests Assets (e.g. fetch this, observe that, talk to this person)
+		- Scene Assets
+		- Event Assets 
+		- Cutscene Assets 
+		- Interactable Assets 
+		- e.g. Learn Francois Hussle's motivation behind organizing the protests. Why is he angry? What happened to the dolphins? Would Lakshmi change his mind? 
+	- General village story goals: we need to learn something about the current world. (e.g. what happened to dolphins, or animals in general in this post-apocalyptic world?)
+	- Player centric: Lakshmi progresses the narrative (e.g. bring smth, talk to someone, etc.) - a chain of quests
 
 ### Lower Priority
 * Have at least 2 full memories written out?

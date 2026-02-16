@@ -49,7 +49,7 @@ Welcome to our Obsidian Vault! A tool used for The Road Ahead team's organizatio
 # Other stuff we do
 
 * Gaming Against Stigma (hiatus) https://www.mcgill.ca/ludicmind/projects/gaming-against-stigma
-	* We go through games one at a time and explore how their design represents mental health.
+	* We go through games one at a time and explore how their design talks about mental health.
 	* Our Blog: https://www.mcgill.ca/ludicmind/blog
 * Anonymous Member Interviews
 	* Once in a while, members are invited for a 1h long interview to check-in on their development experience. 
