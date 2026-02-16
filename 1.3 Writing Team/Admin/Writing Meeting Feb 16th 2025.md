@@ -32,7 +32,7 @@
 	- Player centric: Lakshmi progresses the narrative (e.g. bring smth, talk to someone, etc.) - a chain of quests
 
 ### Lower Priority
-* Have at least 2 full memories written out?
+* Have at least 3 full memories written out?
 	* Can but do not need to be related directly to 'assertiveness.' But it has to be an overarching theme of the village.
 	- Brainstorm how it can be a game mechanic 
 - Make a few re-occurring characters in every village (e.g. Quinn, a tradesman, Moonman?, etc.)
