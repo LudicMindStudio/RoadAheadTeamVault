@@ -11,7 +11,8 @@
 
 ### High Priority
 - Polish existing work : Bring it closer to the Guidelines doc (should be available tomorrow)
-	- Tone, wording, spelling 
+	- Tone, wording, spelling 
+	- Style Guide essentials - cutting down dialogue, adding gameplay 
 	- Formatting into correct folders with correct names
 	* Pages to work on:
 		- Overhaul of pre-graduation script (Does not have to be CL!!) [[Pre-graduation Dialogue-Events]]
