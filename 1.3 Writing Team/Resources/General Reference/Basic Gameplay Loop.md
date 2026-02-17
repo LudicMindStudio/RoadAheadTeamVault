@@ -13,12 +13,12 @@ Basic gameplay loop:
 2. Learn of the general village storyline
 3. Start at guild & Pick up deliveries
 4. Deliver Packages in village/commune
-5. Enter memories of certain NPCs, learn coping strategies
-6. Finish delivering mail, finish the village questline using the coping strategies
-7. Fog Lifts
-8. Path to next village opens & Go to next village 
+5. Enter memories of certain NPCs
+6. Finish delivering mail, learn a coping strategy (new game mechanic/skill)
+7. Finish village questline using the coping strategy
+8. Fog Lifts
+9. Path to next village opens & Go to next village 
 
-Everything should tie in together with the different villages (make a page on that) and [[(WIP) Plotlines & Story Progression]] (story beats)
 
-
+![[Gameplay loop ppt.png]]
 

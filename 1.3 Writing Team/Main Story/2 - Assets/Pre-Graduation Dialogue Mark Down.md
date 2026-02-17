@@ -13,7 +13,6 @@ Lakshmi: My back is so sore... I better get going, Greg will roast me if he find
 #### Interact with journal 
 
 Lakshmi: Journaling keeps your mind at bay and spirits sharp! But makes you prone to losing track of time… must have been written in small font.
-
 #### Interact with Mirror 
 
 Lakshmi: Looking good there! Dressed in uniform since 3 AM
