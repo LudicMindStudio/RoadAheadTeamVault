@@ -1,16 +1,10 @@
 ---
-
 kanban-plugin: board
-
 ---
 
 ## To do
 
-- [ ] Pre-graduation script: 
-	
-	[[Pre-graduation Dialogue-Events]]: 
-	
-	DUE 2026-01-19
+- [ ] Dummy Card 2: CL [[Pre-graduation Dialogue-Events]]: DUE 2026-01-19
 
 
 ## In Progress
@@ -19,12 +13,16 @@ kanban-plugin: board
 
 ## Review
 
-- [ ] Dummy Card 2: CL [[Pre-graduation Dialogue-Events]]: DUE 2026-01-19
 
 
 ## Complete
 
 - [ ] Dummy Card 3: CL [[Pre-graduation Dialogue-Events]]: DUE 2026-01-19
+- [ ] Pre-graduation script: Corina
+	
+	[[Pre-graduation Dialogue-Events]]: 
+	
+	DUE 2026-01-19
 
 
 

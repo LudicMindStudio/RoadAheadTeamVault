@@ -1,6 +1,6 @@
 # Quick check-in
 * Midterms? Personal obligations? Deadlines too intense?
-# Sprint Writing Goals
+# Sprint Writing Goals: Foundation sprint
 - Polish existing writing + tighten up narrative of Dolphin Bay
 - Figure out what everyone likes to write most (subgoal)
 - Get familiar to write in the new format (subgoal)
@@ -16,7 +16,10 @@
 	* Pages to work on:
 		- Overhaul of pre-graduation script (Does not have to be CL!!) [[Pre-graduation Dialogue-Events]]
 		- Make sure all characters you deliver mail to have dialogue 
+			- Arkana
 		- Liam's Memory [[Memory of Liam Script]]
+			- Arkana
+			- 
 
 ### Medium Priority
 - Write out the complete plotline of Dolphin Bay
