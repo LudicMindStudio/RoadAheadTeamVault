@@ -1,10 +1,10 @@
 {
-  "commitMessage": "vault backup: {{date}} {{hostname}}",
+  "commitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0,
   "autoPushInterval": 0,
-  "autoPullInterval": 10,
-  "autoPullOnBoot": true,
+  "autoPullInterval": 0,
+  "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
@@ -55,5 +55,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "vault backup: {{date}} {{hostname}}"
+  "autoCommitMessage": "vault backup: {{date}}"
 }

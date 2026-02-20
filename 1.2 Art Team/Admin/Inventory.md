@@ -10,16 +10,17 @@ Portraits
 
 Walking sprites
 
-| Name             |     |
-| ---------------- | --- |
-| Female Child NPC |     |
-| Female NPC       |     |
-| Grandpa Dan      |     |
-| Lakshmi          |     |
-| Male NPC         |     |
+| Name                 |     |
+| -------------------- | --- |
+| Female Child NPC     |     |
+| Female NPC           |     |
+| Grandpa Dan          |     |
+| Lakshmi              |     |
+| Male NPC             |     |
+| Blank walking sprite |     |
+|                      |     |
 
 Tilesets
-
 
 |     |     |
 | --- | --- |
