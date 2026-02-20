@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD:1.1 Admin/Meetings/Writing Meetings/Writing Meeting Feb 16th 2025.md
 ---
 tags: 
@@ -60,6 +61,8 @@ meeting date:
 =======
 =======
 >>>>>>> ludicmindgithub/master
+=======
+>>>>>>> ludicmindgithub/master
 ---
 tags: 
 created: 2026-02-16
@@ -119,7 +122,10 @@ meeting date:
 # Recording
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> ludicmindgithub/master:1.1 Admin/Meetings/Writing Meetings/Writing Meeting Feb 16th 2026.md
+=======
+>>>>>>> ludicmindgithub/master
 =======
 >>>>>>> ludicmindgithub/master
 # Live Notes
