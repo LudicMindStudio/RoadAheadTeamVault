@@ -22,36 +22,81 @@ Toilet
 Portraits
 ---
 
-Current list
-- Lakshmi
-- Greg
-- Grandpa dan
-- Male NPC
-- Male NPC var
-- Female NPC
-- Female NPC Var
-- Male child npc
-- Male child NPC var
-- Female Child NPC
-- Female Child NPC var
+Polish
+- [ ] Lakshmi
+- [ ] Greg
+- [ ] Grandpa dan
+
+Generic NPCs
+
+- [ ] Male NPC
+- [ ] Male NPC var
+- [ ] Female NPC
+- [ ] Female NPC Var
+- [ ] Male child npc
+- [ ] Male child NPC var
+- [ ] Female Child NPC
+- [ ] Female Child NPC var
+
+Liam's Memory
+
+- [ ] Liam (younger)
+- [ ] Liam (older)
+- [ ] Father
+- [ ] Mother
+- [ ] Sister (Young Liana)
+- [ ] Sister (Older Liana)
+- [ ] Grandma
+- [ ] Cat (Poki)
+- [ ] Old lady on the beach
+
+Guildhall
+
+- [ ] Experienced guild member 1 (gordon)
+- [ ] Guild Receptionist (Robert)
+- [ ] Meditative Guild Member (Lora)
+- [ ] Students in the guildhall
+- [ ] Little girl 1 (cat)
+- [ ] Little girl 2 (Tulia)
+- [ ] Little boy 1 (sammy)
+- [ ] Little boy 2 (oliver)
+- [ ] Little boy 3 (Elio)
+
+Older Villagers
+
+- [ ] old sailor garp
+- [ ] Old Granny (Lisa)
+
+Protesters
+
+- [ ] Francois Hustle
+- [ ] Camie
+- [ ] Doran
+- [ ] Gatz
+- [ ] Basic Protester (Leaf)
+
+Unique Visitors
+
+- [ ] Stranded visitor (Felix)
+- [ ] Mysterious Man
 
 
 Walking Sprites
 ---
 
 
-- Nude base
-- Recolors
+- [ ] Nude base
+- [ ] Recolors
 
-- Greg
-- Male NPC
-- Male NPC var
-- Female NPC
-- Female NPC Var
-- Male child npc
-- Male child NPC var
-- Female Child NPC
-- Female Child NPC var
+- [ ] Greg
+- [ ] Male NPC
+- [ ] Male NPC var
+- [ ] Female NPC
+- [ ] Female NPC Var
+- [ ] Male child npc
+- [ ] Male child NPC var
+- [ ] Female Child NPC
+- [ ] Female Child NPC var
 
 Ui
 ---
