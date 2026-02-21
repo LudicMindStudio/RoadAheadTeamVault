@@ -10,11 +10,11 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Make a list of the characters in Dolphin Bay (Arkana)
 
 
 ## Review
 
+- [ ] Make a list of the characters in Dolphin Bay (Arkana)
 
 
 ## Complete

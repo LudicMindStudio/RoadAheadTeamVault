@@ -4,7 +4,7 @@ tags:
 created: 2025-11-11
 Name: Aaron
 ---
-[[1. Dolphin Bay Npc Profiles]]
+[[1. Dolphin Bay Npc Profiles List]]
 # Basic Description
 Doran lives with his wife Libby and Sammy. Libby designs the buildings and he makes them. He's a very cautious and conservative soul. He often frets over a building to make sure it can survive the strong winds and rains that often strike the bay. The sudden movement of the fog and the absence of dolphins has him greatly in distress. He's also loved to watch the dolphins as a way to calm his anxious soul. 
 

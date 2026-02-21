@@ -3,7 +3,7 @@ tags:
   - DolphinBay
 created: 2025-09-08
 ---
-[[1. Dolphin Bay Npc Profiles]]
+[[1. Dolphin Bay Npc Profiles List]]
 # Type
 - [ ] Ideas
 - [ ] Themes
