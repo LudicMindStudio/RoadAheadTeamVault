@@ -3,7 +3,7 @@ tags:
 Date_Created:
 ---
 ```
-> PLEASE TITLE - LocationName - Description
+> PLEASE TITLE - VillageName - Description
 ```
 #  Description
 
@@ -19,10 +19,10 @@ CHARACTER PROFILE ONE
 CHARACTER PROFILE TWO 
 
 --- 
-# Location Playables
-## Location Plot Outline
+# Village Playables
+## Village Plot Outline
 
-## Location Side Plots
+## Village Side Plots
 
 SIDE PLOT OUTLINE ONE
 		Trigger Start - ExampleTag=True 

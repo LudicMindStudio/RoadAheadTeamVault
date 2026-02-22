@@ -38,7 +38,7 @@ Trigger Clear - Lakshmi_Left_Through_FrontDoor=True
 # Scene Dialogues
 
 [[Lakshmi Wakes Up_0 - Dialogue]]
-	Lakshmi wakes up to realize she slept in and thinks she better run to the guild hall  
+	Lakshmi wakes up to realize she slept in, so she thinks she better run to the guild hall  
 		Trigger Start - GameStart=True 
 		On Clear - Lakshmi_Just_Woke_Up=True 
 	
