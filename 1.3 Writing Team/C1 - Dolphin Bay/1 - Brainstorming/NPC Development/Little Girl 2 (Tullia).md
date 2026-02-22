@@ -21,6 +21,7 @@ Loves animals. More aloof. Curious
 	- dark eyes
 	- white t-shirt
 
+[[Tullia_ConceptArt.jpeg]]
 
 # Dialogue
 

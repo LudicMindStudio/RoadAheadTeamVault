@@ -4,7 +4,7 @@ Name: Aaron
 tags:
   - DolphinBay
 ---
-[[1. Dolphin Bay Npc Profiles]]
+[[1. Dolphin Bay Npc Profiles List]]
 # Content
 Misses the prefog times when sailing was so much simpler. Is being forced away from his passion by the world. Can use some encouragement. Is looking to assemble a new crew to join him.
 

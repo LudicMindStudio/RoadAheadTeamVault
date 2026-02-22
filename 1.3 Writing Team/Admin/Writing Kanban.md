@@ -14,6 +14,7 @@ kanban-plugin: board
 
 ## Review
 
+- [ ] Make a list of the characters in Dolphin Bay (Arkana)
 
 
 ## Complete
