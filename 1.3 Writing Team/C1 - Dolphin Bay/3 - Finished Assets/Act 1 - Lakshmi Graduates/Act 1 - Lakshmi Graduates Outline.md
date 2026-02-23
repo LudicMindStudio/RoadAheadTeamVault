@@ -1,0 +1,39 @@
+---
+tags:
+Date_Created:
+---
+```
+> PLEASE TITLE - Act ActNumber - ActName - Outline
+```
+# Act Description
+
+## Brainstorming Links
+
+Brainstorming Document One 
+Brainstorming Document Two...
+## Root Plot 
+
+Lakshmi Saves Dolphin Bay - Main Plot Outline 
+## General Description
+
+Lakshmi wakes up in Grandpa Dan's  Chalet and has to rush to the Guild Hall. Once there, Greg gives her a surprise quiz followed by a practical field test. Once she completes these tasks, she graduates and becomes a full guild-member! 
+
+--- 
+# Plot Quests
+
+Visit the Guild Hall
+	Lakshmi makes her way from Dan's Chalet to the Guild Hall in Dolphin Bay East
+		Trigger Start - Lakshmi_Wakes_Up=True 
+		Trigger Clear - Lakshmi_Visited_Hall=True 
+
+Pass Quiz
+	Lakshmi talks to Greg and he gives her a quiz to complete 
+		Trigger Start - Lakshmi_Visited_Hall=True 
+		Trigger Clear - Lakshmi_Passed_Quiz=True 
+
+Deliver Mail to Intern
+	Lakshmi has to complete a practical test  
+		Trigger Start - Lakshmi_Passed_Quiz=True 
+		Trigger Clear - Lakshmi_Graduated=True 
+
+
