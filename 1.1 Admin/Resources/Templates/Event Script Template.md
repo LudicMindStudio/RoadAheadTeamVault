@@ -1,6 +1,7 @@
 ---
 tags:
 Date_Created:
+Characters:
 ---
 ```
 > PLEASE TITLE - EventName - Event Script

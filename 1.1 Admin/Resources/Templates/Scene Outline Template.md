@@ -14,6 +14,10 @@ ROOT QUEST NAME
 ## Root Location
 
 ROOT LOCATION NAME 
+## Character List
+
+CHARACTER PROFILE ONE 
+CHARACTER PROFILE TWO... 
 ## Brainstorming Links
 
 Brainstorming Document One 
