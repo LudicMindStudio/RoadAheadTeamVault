@@ -3,7 +3,7 @@ tags:
 Date_Created:
 ---
 ```
-> PLEASE TITLE - SceneName - Scene Outline
+> PLEASE TITLE - Scene SceneNumber - SceneName - Outline
 ```
 
 # Scene Description
@@ -11,16 +11,19 @@ Date_Created:
 ## Root Quest
 
 ROOT QUEST NAME
+## Root Location
+
+ROOT LOCATION NAME 
 ## Brainstorming Links
 
 Brainstorming Document One 
 Brainstorming Document Two...
-## Setting 
+## Setting Specifics  
 
-Provide a short visual description of any important visual details that are present in the scene. This includes interactable objects, characters, background details, time of day details etc. 
+Detail any changes to the root location that are specific to the scene including environmental conditions such as a specific time of day. 
 ## General Description 
 
-Provide a brief description of any events 
+Provide a brief description of the core action of the scene. 
 ## Quest Logic 
 Trigger Start - ExampleTag=True
 Trigger Clear - ExampleTag=True

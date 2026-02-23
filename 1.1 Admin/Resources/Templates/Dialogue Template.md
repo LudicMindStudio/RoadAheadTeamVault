@@ -6,7 +6,7 @@ Date_Created:
 > PLEASE TITLE - DialogueOptionName_DistanceFromRoot - Dialogue
 ```
 
-*Root Dialogue* : Root Dialogue Option Name
+*Dialogue Root* : Root Dialogue Option Name/Root Event/Root Scene/Root Location...
 # Characters: Lakshmi, NPC1...
 ## Bundle : DialogueOptionName
 
