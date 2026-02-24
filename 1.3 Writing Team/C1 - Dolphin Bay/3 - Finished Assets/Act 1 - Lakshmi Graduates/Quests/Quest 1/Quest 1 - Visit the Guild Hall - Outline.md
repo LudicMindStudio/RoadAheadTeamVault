@@ -1,6 +1,6 @@
 ---
 tags:
-Date_Created:
+Date_Created: 2026-02-23
 ---
 ```
 > PLEASE TITLE - Quest QuestNumber - QuestName - Outline
