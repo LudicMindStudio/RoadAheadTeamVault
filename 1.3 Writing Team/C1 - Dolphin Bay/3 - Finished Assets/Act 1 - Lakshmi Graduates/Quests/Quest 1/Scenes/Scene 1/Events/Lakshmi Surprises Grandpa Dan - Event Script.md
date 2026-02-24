@@ -9,7 +9,7 @@ Date_Created:
 
 ## Root SCENE
 
-[[Scene 1 - Chalet First Morning - Scene Outline]]
+[[Scene 1 - Chalet First Morning - Outline]]
 ## General Description
 
 Lakshmi surprises Grandpa Dan (who is immersed in his baking) with her sudden presence. He encourages her to not be late. 

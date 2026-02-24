@@ -10,7 +10,7 @@ Date_Created:
 
 ## Root Scene 
 
-[[Scene 1 - Chalet First Morning - Scene Outline]]
+[[Scene 1 - Chalet First Morning - Outline]]
 ## Object Description
 Bread that Grandpa Dan made for Lakshmi 
 
