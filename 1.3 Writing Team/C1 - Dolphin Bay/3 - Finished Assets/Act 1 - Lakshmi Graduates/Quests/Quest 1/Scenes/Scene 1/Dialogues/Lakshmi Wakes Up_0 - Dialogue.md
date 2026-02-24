@@ -6,7 +6,7 @@ Date_Created:
 > PLEASE TITLE - DialogueOptionName_DistanceFromRoot - Dialogue
 ```
 
-*Dialogue Root* : [[Scene 1 - Chalet First Morning - Scene Outline]]
+*Dialogue Root* : [[Scene 1 - Chalet First Morning - Outline]]
 # Characters: Lakshmi
 ## Bundle : Lakshmi Wakes Up_0
 

@@ -34,4 +34,7 @@ DIALOGUE_0 ONE
 	Brief summary of dialogue 
 	On Clear - ExampleTag=True
 
+INVENTORY EFFECT ONE
+	Description of the inventory size (S/M/L) and contents (item names)
+	On Clear - ExampleTag=True
 

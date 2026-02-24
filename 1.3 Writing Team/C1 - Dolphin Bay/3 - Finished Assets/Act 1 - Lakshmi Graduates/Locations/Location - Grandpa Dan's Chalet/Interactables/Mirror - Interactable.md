@@ -21,7 +21,7 @@ Root Location - [[Grandpa Dan's Chalet - Location Outline]]
 ```
 # Scene Interactions
 
-Root Scene - [[Scene 1 - Chalet First Morning - Scene Outline]] 
+Root Scene - [[Scene 1 - Chalet First Morning - Outline]] 
 
 [[Lakshmi Talks to Mirror_0 - Dialogue]] 
 	Lakshmi realizes she was in uniform since late last night

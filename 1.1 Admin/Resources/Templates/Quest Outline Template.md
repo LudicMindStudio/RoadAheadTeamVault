@@ -37,3 +37,10 @@ SCENE TWO...
 		Trigger Start - ExampleTag=True 
 		Trigger Clear - ExampleTag=True 
 
+CUT SCENE ONE 
+	Brief summary of Cut Scene One 
+		Trigger Start - ExampleTag=True 
+		On Clear - ExampleTag=True 
+
+...
+

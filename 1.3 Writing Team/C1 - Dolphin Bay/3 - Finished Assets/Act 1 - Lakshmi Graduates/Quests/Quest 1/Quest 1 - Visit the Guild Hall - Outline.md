@@ -28,7 +28,7 @@ Trigger Clear - Lakshmi_Visited_Hall=True
 --- 
 # Quest Scenes
 
-[[Scene 1 - Chalet First Morning - Scene Outline]]
+[[Scene 1 - Chalet First Morning - Outline]]
 	Location: [[Grandpa Dan's Chalet - Location Outline]]
 	Lakshmi goes downstairs and leaves the Chalet 
 		Trigger Start - Lakshmi=True 
