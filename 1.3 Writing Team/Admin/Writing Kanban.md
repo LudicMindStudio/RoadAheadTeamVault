@@ -9,7 +9,7 @@ kanban-plugin: board
 - [ ] Revising pre-graduation script: Corina
 - [ ] (after reviewing) formatting pre-graduation script into implementation assets
 - [ ] Formatting Liam's memory scipt: Arkana
-- [ ] Revising dialogue of all characters who deliver mail: Arkana
+- [ ] (HOLD) Revising dialogue of all characters who deliver mail
 - [ ] Make the World Bible Excalidraw for plots : Corina
 
 
