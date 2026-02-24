@@ -1,7 +1,7 @@
 *Created and updated on : 2026-02-23 by Corina, Aaron and Trent*
 
 ***Section Overview*** 
- Document used to refresh on the general lore and core themes of The Road Ahead. A place to update with new bits of the lore are (World Bible WIP).
+ Document used to refresh on the general lore and core themes of The Road Ahead. A place to update with new bits of the lore are ==(World Bible WIP)==.
 ###### Jump to section -> 
 [[#Who is responsible for what part?]]
 [[#Easy to come back to goals]]
