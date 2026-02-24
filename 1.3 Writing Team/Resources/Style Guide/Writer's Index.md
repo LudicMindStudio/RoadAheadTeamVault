@@ -51,6 +51,8 @@ These are events in the game are thematically related to the [[#Fog]]. They shou
 
 # Technical Terms 
 
+*see the relationships between terms at [[Writer Document Hierarchy]]*
+
 #### Plot 
 This is the main action of the game. Writing related to the plot concerns broad sweeping actions which will advance Lakshmi’s learning. Writing documents consistent of [[Plot Outline Template|plot outlines]] and [[Brainstorm Template|plot brainstorming]]. The plot is specific to the [[#Villages|village]] (or between village locations). ==It consists of a main plot (described by the main plot outline) and several side plots (described by side plot outlines). Unlike side-plots, the player must complete the main plot in order to advance. Typically side-plots have fewer acts.== 
 
