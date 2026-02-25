@@ -9,8 +9,9 @@ kanban-plugin: board
 - [ ] Revising pre-graduation script: Corina
 - [ ] (after reviewing) formatting pre-graduation script into implementation assets
 - [ ] Formatting Liam's memory scipt
-- [ ] Revising dialogue of all characters who deliver mail
+- [ ] Revising dialogue of guild hall members (Aaron)
 - [ ] Make the World Bible Excalidraw for plots : Corina
+- [ ] Revising dialogue of exterior to guild hall members
 
 
 ## In Progress
