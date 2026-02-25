@@ -9,7 +9,7 @@ The graphics in the game fall into a few categories. More might be added later.
 
 ---
 - Concept Art:
-UNDER CONTRUCTION
+UNDER CONSTRUCTION
 
 For now, we can be pretty flexible with this, but I do want to get some specifications depending on the type of art being produced (Environment, characters etc)
 
@@ -43,10 +43,11 @@ Character portraits that show up during dialogue.
 There aren't any hard rules for portraits, but rather general guidelines. Use a 80x48 pixel rectangle as a general guideline
 
 
-
 ---
 - Walking Sprites:
 Sprites of characters while they are walking on the map.
+
+NOTE: animation sheet
 
 ---
 - UI (User Interface):
