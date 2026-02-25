@@ -85,7 +85,9 @@ Unity :
 Drawing pixel art: 
 	[[Spriter's Resource]]
 Writing:
-	(WIP)
+	[[Writer's Index]]
+	[[Narrative Goals]]
+	[[Writer Document Hierarchy]]
 
 ---
 # Project evolution 
