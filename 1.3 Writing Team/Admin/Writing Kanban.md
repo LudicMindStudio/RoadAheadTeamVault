@@ -6,8 +6,9 @@ kanban-plugin: board
 
 ## To do
 
-- [ ] Revising pre-graduation script: Corina
-- [ ] (after reviewing) formatting pre-graduation script into implementation assets
+- [ ] Revising pre-graduation script: the opening scene: Aaron
+- [ ] Revising pre-graduation script: after the opening scene: Corina
+- [ ] (after reviewing draft) formatting pre-graduation script into implementation assets
 - [ ] Formatting Liam's memory scipt: Arkana
 - [ ] (HOLD) Revising dialogue of all characters who deliver mail
 - [ ] Make the World Bible Excalidraw for plots : Corina
