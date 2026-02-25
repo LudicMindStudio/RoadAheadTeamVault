@@ -3,25 +3,24 @@ tags:
 Date_Created:
 ---
 ```
-> PLEASE TITLE - Main/LocationName - PlotName - Plot/SidePlot Outline
+> PLEASE TITLE - PlotName - Main/Side Plot Outline
 ```
-# Plot Description
 
-Provide a short description of the basic events of this plot outline. 
-## Brainstorming Links
+## Root Village 
 
-Brainstorming Document One 
-Brainstorming Document Two...
+ROOT VILLAGE DESCRIPTION ONE
+## Plot Description 
 
---- 
-# Plot Quests
+Summarize each of the acts which make up the plot
+## Plot Outline 
 
-QUEST ONE
-	Brief summary of Quest One 
+ACT ONE OUTLINE 
+	Brief summary of Act one
 		Trigger Start - ExampleTag=True 
 		Trigger Clear - ExampleTag=True 
 
-QUEST TWO... 
-	Brief summary of Quest Two 
+ACT TWO OUTLINE 
+	Brief summary of Act two
 		Trigger Start - ExampleTag=True 
 		Trigger Clear - ExampleTag=True 
+

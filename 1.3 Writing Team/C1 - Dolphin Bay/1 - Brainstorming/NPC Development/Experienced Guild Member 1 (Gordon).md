@@ -4,7 +4,7 @@ tags:
 created: 2025-11-05
 Name: Aaron
 ---
-[[1. Dolphin Bay Npc Profiles]]
+[[1. Dolphin Bay Npc Profiles List]]
 # Type
 - [ ] Ideas
 - [ ] Themes
