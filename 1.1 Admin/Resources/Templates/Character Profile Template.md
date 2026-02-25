@@ -7,7 +7,11 @@ Profession:
 ```
 > PLEASE TITLE - CharacterName - Profile
 ```
-#  Description
+
+# Reference Art Links
+
+Include any links to reference art here 
+# Description
 
 ## Appearance 
 
