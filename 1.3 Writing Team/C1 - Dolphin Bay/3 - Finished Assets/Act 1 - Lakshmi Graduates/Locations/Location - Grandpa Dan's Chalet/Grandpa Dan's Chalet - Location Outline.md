@@ -1,6 +1,6 @@
 ---
 tags:
-Date_Created:
+Date_Created: 2026-02-24
 ---
 ```
 > PLEASE TITLE - LocationName - Location Outline

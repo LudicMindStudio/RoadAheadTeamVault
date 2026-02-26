@@ -1,21 +1,20 @@
 Welcome to our Obsidian Vault! A tool used for The Road Ahead team's organization of tasks and workflow!
 ![[TRA Logo.png]]
 # What the game is about
-<<<<<<< HEAD
-##### Our game trailer (OLD): https://www.mcgill.ca/ludicmind/projects/road-ahead\
-##### Game structure: [[Basic Gameplay Loop]]
-=======
+
 ##### Our game trailer : https://drive.google.com/file/d/1SL-i-7oefQ1Bz2uFZhrkG3JyhuCs28hM/view
->>>>>>> origin/master
 
 ---
 
 # Where are we now? Links!
 * See the Meetings tab for the latest updates during our general meetings
 	* 2026 goals [[TRA Meeting Jan 27th 2026]]
-* **Art** team current tasks: see latest art team meeting in Meetings tab
-* **Writing** team current tasks: see latest writing team meeting in Meetings tab
-* **Dev** team current tasks: see latest general meetings in Meetings tab
+* **Art** team: 
+	* Current Art Tasks: [[!!Asset To-do list!!]] 
+* **Writing** team: 
+	* Current Writing Tasks: [[Writing Kanban]] + see latest writing team meeting in Meetings tab
+* **Dev** team:
+	* Current tasks: see latest general meetings in Meetings tab
  
 *Still have a question? Ask on Discord!
 
@@ -86,7 +85,9 @@ Unity :
 Drawing pixel art: 
 	[[Spriter's Resource]]
 Writing:
-	(WIP)
+	[[Writer's Index]]
+	[[Narrative Goals]]
+	[[Writer Document Hierarchy]]
 
 ---
 # Project evolution 

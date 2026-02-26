@@ -1,12 +1,6 @@
 
-
-
-
 Objects
 ---
-
-
-
 
 Redo
 
@@ -20,21 +14,24 @@ Toilet
 Portraits
 ---
 
+\*Signifies high priority
+
 Polish
-- [ ] Lakshmi
-- [ ] Greg
-- [ ] Grandpa dan
+- [ ] Lakshmi*
+- [ ] Greg*
+- [ ] Grandpa dan*
 
 Generic NPCs
 
-- [ ] Male NPC
-- [ ] Male NPC var
-- [ ] Female NPC
-- [ ] Female NPC Var
-- [ ] Male child npc
-- [ ] Male child NPC var
-- [ ] Female Child NPC
-- [ ] Female Child NPC var
+- [ ] Male NPC*
+- [ ] Male NPC var*
+- [ ] Female NPC*
+- [ ] Female NPC Var*
+- [ ] Male child npc*
+- [ ] Male child NPC var*
+- [ ] Female Child NPC*
+- [ ] Female Child NPC var*
+
 
 Liam's Memory
 
@@ -51,10 +48,11 @@ Liam's Memory
 Guildhall
 
 - [ ] Experienced guild member 1 (gordon)
-- [ ] Guild Receptionist (Robert)
-- [ ] Meditative Guild Member (Lora)
+- [ ] Guild Receptionist (Robert)*
+- [ ] Meditative Guild Member (Lora)*
+- [ ] Intern*
 - [ ] Students in the guildhall
-- [ ] Little girl 1 (cat)
+- [ ] Little girl 1 (cat)*
 - [ ] Little girl 2 (Tulia)
 - [ ] Little boy 1 (sammy)
 - [ ] Little boy 2 (oliver)
@@ -62,15 +60,15 @@ Guildhall
 
 Older Villagers
 
-- [ ] old sailor garp
+- [ ] old sailor garp*
 - [ ] Old Granny (Lisa)
 
 Protesters
 
-- [ ] Francois Hustle
-- [ ] Camie
+- [ ] Francois Hustle*
+- [ ] Camie*
 - [ ] Doran
-- [ ] Gatz
+- [ ] Gatz*
 - [ ] Basic Protester (Leaf)
 
 Unique Visitors
@@ -107,6 +105,7 @@ Ui
 Splash Images
 ---
 
+Title Screen
 
 
 
@@ -114,6 +113,14 @@ Splash Images
 
 ---
 
+
+
+
+
+
+
+
+---
 ## Dolphin Bay (Sprint 2)
 
 ### Basic - Ground
