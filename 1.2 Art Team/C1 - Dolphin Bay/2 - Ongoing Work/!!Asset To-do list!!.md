@@ -8,8 +8,6 @@ Objects
 
 
 
-
-
 Redo
 
 Stool
