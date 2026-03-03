@@ -25,19 +25,6 @@ Lakshmi, Grandpa Dan, Greg. Intern (NAME??). [[Guild Receptionist (Robert)]], [[
 #### Lakshmi wakes up in Greg's chalet
 *Map [[Greg Chalet]]*
 
-Prev work done: [[Grasshopper Discussion]], [[Day of the exam]]
-![[Pasted image 20251106220054.png]]
-- Wakes up at her desk, was writing in her journal because got too excited for the exam and stayed late. May be a very brief cameo about her parents. (picture of parents on desk or her lamenting in her journal)
-- Talks with Grandpa Dan who cooks for her breakfast, tells her she's late
-- I need THIS moment with fog. AGGHH. Lakshmi is excited to go on her adventure and do her exam. Takes a moment to look at the scenery. Grandpa Dan tender moment until he gets grumpy and tells her to hurry up.
-
-![[Pasted image 20251015202001.png]]
-
-![[Copy of Idea for Prologue Scope of the World.png]]
-#### Lakshmi goes to the Guild Hall in Dolphin Bay 
-*Map [[Dolphin Bay Locations]] (in the middle of the dolphin tail)*
-
-Reference to [[(WIP) Plotlines & Story Progression]]  mention of fog and her memories being foggy (sorry)
 #### Lakshmi does her exam 
 *Map (interior not created yet)*
 
