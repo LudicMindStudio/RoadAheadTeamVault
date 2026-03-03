@@ -7,10 +7,10 @@ kanban-plugin: board
 ## To do
 
 - [ ] Revising pre-graduation script - Quest 1, Scene 1, AK
-- [ ] Revising pre-graduation script - Quest 2, Scene 1, Quest 1, Scene 2: Corina
+- [ ] Revising pre-graduation script - Quest 2, Scene 1, Quest 2, Scene 2 (graduation congratulation) Quest 1, Scene 2: Corina
 - [ ] (after reviewing) formatting pre-graduation script into implementation assets
 - [ ] Revising Liam's memory scipt: Arkana
-- [ ] Revising dialogue of guild hall members (Aaron)
+- [ ] [ ] Revising dialogue of guild hall members (Aaron)
 	=======
 - [ ] Formatting Liam's memory scipt: Arkana
 
