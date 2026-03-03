@@ -281,7 +281,7 @@ Before crossing the bridge to get to the guild hall, Lakshmi notices a boy stari
 			2) There are no schools anymore
 				*That makes sense too. There aren't enough students to fill a real school in villages anymore… but they still learn somehow. Seems like a trick question to me. But whatever, it’s the process of elimination*
 			3) Meditation 
-				_Boredom aside, Lora did insist on teaching me. My best shot of traversing through the fog. Not sure I want to think about that! _
+				_Boredom aside, Lora did insist on teaching me. My best shot of traversing through the fog. Not sure I want to think about that!_
 **Lakshmi**
 	*Wait, that's it? Is this a joke?*
 **Event**
