@@ -11,12 +11,13 @@ kanban-plugin: board
 - [ ] Revising Liam's memory scipt: Arkana
 - [ ] Revising dialogue of guild hall members (Aaron)
 - [ ] Formatting Liam's memory scipt: Arkana
+- [ ] Interactibles in Guild Hall: Trent
 
 
 ## In Progress
 
 - [ ] Revising dialogue of all characters profiles who deliver mail - Cat : Arkana
-- [ ] Revising pre-graduation script - Quest 2, Scene 1, Quest 1, Scene 2: Corina (2026-03-17)
+- [ ] Revising pre-graduation script - Quest 2, Scene 1, Quest 1, Scene 2, Interactibles in Chalet: Corina (2026-03-17)
 
 
 ## Review
