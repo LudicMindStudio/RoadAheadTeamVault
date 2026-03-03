@@ -3,7 +3,7 @@ tags:
 Date_Created:
 ---
 ```
-> PLEASE TITLE - Quest QuestNumber - QuestName - Outline
+> PLEASE TITLE - (Side-)Quest QuestNumber - QuestName - Outline
 ```
 # Quest Description
 

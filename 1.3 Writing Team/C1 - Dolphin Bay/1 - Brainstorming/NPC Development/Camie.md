@@ -39,7 +39,7 @@ Character Introduction
 	_Promise. Say aren't you going to get hungry? 
 
 **Camie**
-	_Actually, I may have over packed. I emptied the whole shop into this basket! Feel free to try my "internally acclaimed" kelp buns. 
+	_Actually, I may have over packed. I emptied the whole shop into this basket! Feel free to try my "internationally acclaimed" kelp buns. 
 
 **Lakshmi** (tries them)
 	_WOW. THOSE ARE INCREDIBLE! 

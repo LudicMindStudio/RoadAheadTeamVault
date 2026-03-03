@@ -8,7 +8,7 @@ Characters:
 ```
 # Event Description
 
-## Root SCENE
+## Root Scene
 
 ROOT SCENE NAME
 ## General Description
@@ -22,7 +22,7 @@ On Clear - ExampleTag=True
 --- 
 # Event Script
 
-ACTION DESCRIPTION ONE
+ACTION DESCRIPTION ONE - ACTOR 
 	Brief summary of Action One
 	On Clear - ExampleTag=True
 

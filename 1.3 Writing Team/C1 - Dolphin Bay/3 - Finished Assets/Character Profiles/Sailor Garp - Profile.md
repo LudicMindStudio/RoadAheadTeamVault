@@ -1,8 +1,8 @@
 ---
 tags:
-Date_Created:
-Age:
-Profession:
+Date_Created: 2026-02-26
+Age: 60
+Profession: Fisherman
 ---
 ```
 > PLEASE TITLE - CharacterName - Profile
@@ -10,12 +10,12 @@ Profession:
 
 # Reference Art Links
 
-Include any links to reference art here 
+[[GarpConcept1.jpg]]
 # Description
 
 ## Appearance 
 
-Detailed description of the appearance of the character. What do they physically look like? What do they like to wear? 
+Physical description
 ## Core Characteristics 
 
 Description of the vibe of the character. What makes this character tick? 
@@ -42,4 +42,12 @@ DELIVERED MAIL TO NPC
 	Brief summary of DELIVERED MAIL TO NPC
 		Trigger Start - Lakshmi_Has_NPCs_Mail=True, Lakshmi_Interacts_NPC=True  
 		On Clear - Lakshmi_Has_Delivered_NPCs_Mail=True, Lakshmi_Has_NPCs_Mail=False
+
+
+[[GarpSaysHello_0]]
+	Sailor garp wishes Lakshmi a good day 
+		Trigger Start - Lakshmi Interacts with Sailor Garp 
+		
+
+
 
