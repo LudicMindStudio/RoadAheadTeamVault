@@ -6,21 +6,18 @@ kanban-plugin: board
 
 ## To do
 
-- [ ] Revising pre-graduation script: Corina
+- [ ] Revising pre-graduation script - Quest 1, Scene 1, AK
+- [ ] Revising pre-graduation script - Quest 2, Scene 1, Quest 1, Scene 2: Corina
 - [ ] (after reviewing) formatting pre-graduation script into implementation assets
-<<<<<<< HEAD
-- [ ] Formatting Liam's memory scipt
+- [ ] Revising Liam's memory scipt: Arkana
 - [ ] Revising dialogue of guild hall members (Aaron)
-=======
+	=======
 - [ ] Formatting Liam's memory scipt: Arkana
-- [ ] (HOLD) Revising dialogue of all characters who deliver mail
->>>>>>> origin/master
-- [ ] Make the World Bible Excalidraw for plots : Corina
-- [ ] Revising dialogue of exterior to guild hall members
 
 
 ## In Progress
 
+- [ ] Revising dialogue of all characters profiles who deliver mail - Cat : Arkana
 
 
 ## Review
