@@ -154,7 +154,7 @@ Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event
 			    The Fog
 				    Grandpa Dan
 					    Right. And how do you feel about the fog?
-					    Player choice  
+				    **Player choice**
 						    It's peaceful
 							    Narrator: 
 								    The stillness of the moment is oddly... soothing. Birds chirp quietly, keeping company to the dawn of another day.
@@ -164,7 +164,7 @@ Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event
 								    What do you mean?
 								Grandpa Dan
 									Do you remember anything about the **fog**? How it came to be?
-								Player choice: 
+								**Player choice** 
 									Some
 										Lakshmi
 											I have visions... When it all started... of my parents. I don't remember much anymore.
@@ -174,21 +174,23 @@ Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event
 											This fog shrouds your memories in ways you wouldn't expect. *(double check [[Narrative Goals]])*
 										Grandpa Dan
 											Maybe for the best. Dwelling on past memories won't build a future.
-										Player choice:
+										**Player choice**
 											Intensely Disagree
 												Lakshmi
 													NO! Keeping and sharing memories is what will keep us together! How can you say that!
 												 Grandpa Dan: 
 													 ...
 												 [Quick QTE to apologize: press a button before time runs out]
-												 If player is successful: 
+												 **If player is successful** 
 													 Lakshmi
 														 I... I'm sorry. I shouldn't have raised my voice at you.
 													 Grandpa Dan
 														 ...
 													 Grandpa Dan
 														 You're still young. 
-												 If player is unsuccessful: 
+													Grandpa Dan
+														Go see Greg, he is waiting for you. 
+												 **If player is unsuccessful**
 													 Lakshmi
 														 ...
 													 Grandpa Dan
@@ -216,21 +218,23 @@ Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event
 											This fog shrouds your memories in ways you wouldn't expect. *(double check [[Narrative Goals]])*
 										Grandpa Dan
 											Maybe for the best. Dwelling on past memories won't build a future.
-										Player choice:
+										**Player choice**
 											Intensely Disagree
 												Lakshmi
 													NO! Keeping and sharing memories is what will keep us together! How can you say that!
 												 Grandpa Dan: 
 													 ...
 												 [Quick QTE to apologize: press a button before time runs out]
-												 If player is successful: 
+												 **If player is successful**
 													 Lakshmi
 														 I... I'm sorry. I shouldn't have raised my voice at you.
 													 Grandpa Dan
 														 ...
 													 Grandpa Dan
 														 You're still young. 
-												 If player is unsuccessful: 
+													Grandpa Dan
+														Go see Greg, he is waiting for you. 
+												 **If player is unsuccessful** 
 													 Lakshmi
 														 ...
 													 Grandpa Dan
@@ -266,7 +270,7 @@ Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event
 								    What do you mean?
 								Grandpa Dan
 									Do you remember anything about the **fog**? How it came to be?
-								Player choice: 
+								**Player choice**
 									Some
 										Lakshmi
 											I have visions... When it all started... of my parents. I don't remember much anymore.
@@ -276,21 +280,22 @@ Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event
 											This fog shrouds your memories in ways you wouldn't expect. *(double check [[Narrative Goals]])*
 										Grandpa Dan
 											Maybe for the best. Dwelling on past memories won't build a future.
-										Player choice:
+										**Player choice**
 											Intensely Disagree
 												Lakshmi
 													NO! Keeping and sharing memories is what will keep us together! How can you say that!
 												 Grandpa Dan: 
 													 ...
 												 [Quick QTE to apologize: press a button before time runs out]
-												 If player is successful: 
+												 **If player is successful**
 													 Lakshmi
 														 I... I'm sorry. I shouldn't have raised my voice at you.
 													 Grandpa Dan
 														 ...
 													 Grandpa Dan
-														 You're still young. 
-												 If player is unsuccessful: 
+														 You're still young.
+														Go see Greg, he is waiting for you. 
+												 **If player is unsuccessful** 
 													 Lakshmi
 														 ...
 													 Grandpa Dan
@@ -318,25 +323,27 @@ Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event
 											This fog shrouds your memories in ways you wouldn't expect. *(double check [[Narrative Goals]])*
 										Grandpa Dan
 											Maybe for the best. Dwelling on past memories won't build a future.
-										Player choice:
+										**Player choice**
 											Intensely Disagree
 												Lakshmi
 													NO! Keeping and sharing memories is what will keep us together! How can you say that!
 												 Grandpa Dan: 
 													 ...
 												 [Quick QTE to apologize: press a button before time runs out]
-												 If player is successful: 
+												 **If player is successful** 
 													 Lakshmi
 														 I... I'm sorry. I shouldn't have raised my voice at you.
 													 Grandpa Dan
 														 ...
 													 Grandpa Dan
 														 You're still young. 
-												 If player is unsuccessful: 
+												 **If player is unsuccessful**
 													 Lakshmi
 														 ...
 													 Grandpa Dan
 														 ...
+													Grandpa Dan
+														Go see Greg, he is waiting for you. 
 													 [Lakshmi runs away form the scene.]
 											Softly Disagree
 												Lakshmi
@@ -352,7 +359,7 @@ Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event
 												Grandpa Dan
 													I... 
 												Grandpa Dan
-													hope to share some of your enthusiasm one day.				
+													hope to share some of your enthusiasm one day.		
 			    The Fog, duh
 				    Grandpa Dan: [jumps in place] Don't play coy with me --Ayy. my back.
 				    Khum. 
