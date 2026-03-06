@@ -4,7 +4,7 @@ created: 2025-10-13
 ---
 By: Corina
 # Progress
-- [ ] Outside scene with Grandpa Dan - Act 1, Quest 1 - Scene 2
+- [x] Outside scene with Grandpa Dan - Act 1, Quest 1 - Scene 2
 - [ ] Intern Memory - Quest 2 - Scene 1
 - [ ] Graduation Ceremony - Quest 2 - Scene 2 (?) 
 - [ ] Exam 
@@ -120,14 +120,14 @@ Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event
 
 ### Quest 1, Scene 2 : Lakshmi Talks to Grandpa Dan
 
-**Event**
+Event
     Lakshmi walks out of Greg's chalet
-**Lakshmi**
-    *Today is the day! Now if I go straight from here, **Guild Hall** should be up ahead. 
-    I have not been in Dolphin Bay often though... 
-    Bah, I'll figure this out!*
-**Event** 
-    If player goes up to Greg. 
+Lakshmi
+    Today is the day! Now if I go straight from here, Guild Hall should be up ahead.
+    I have not been in Dolphin Bay often though.. 
+    Bah, I'll figure this out!
+Event 
+    If player goes up to Greg.
     Descriptive notes: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone bench. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]
     `If variable is true` Interact with Grandpa Dan
     Lakshmi 
@@ -574,27 +574,32 @@ Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event
 			    Sorry Gramps, I am in a hurry. You know how Greg gets when he is angsty. Maybe another time.
 		    Grandpa Dan
 			    Huff... Right.
-
+	Event
+		Lakshmi walks away from the scene a bit.
+	Lakshmi
+		Shoot! I forgot to thank him for the bread...
+		Ah well, I'll do it later. I won't forget it for sure.
+		
 ### Quest 1, Forest Dialogue
 Lakshmi
     Brr. The forest gives me the creeps. 
     I heard kids in the village say there are monsters lurking here... 
     No! Lakshmi get a hold of yourself! These are kid's tales, nothing more. 
 
-### Quest 2: Graduation Lakshmi does her exam 
-**Event**
-Before crossing the bridge to get to the guild hall, Lakshmi notices a boy staring into the horizon. Just looks at him for a few seconds. Does not comment anything.
-**Event**
-    Lakshmi goes up to the receptionist. 
+### Quest 2, Scene 1: Graduation Lakshmi does her exam 
+
 **Receptionist**
     `If variable is true`
-        *Welcome to the post guild! I'm the receptionist....ah Lakshmi it's you! A big day, eh? Greg is waiting in his office in the back room. Good luck!*
+        Welcome to the post guild! 
+        Ah Lakshmi it's you! Greg is waiting in his office in the back room. Good luck!
 **Lakshmi**
-    *... Big day? Good luck? Euhhh. How much am I in trouble on a scale from 1 to "You're on farming duty today."*
+    ...Good luck? What's going on here...
+    Is it because I am late? 
+    Please please tell me I won't be pulling out weeds today!
 **Receptionist**
-    *Oh, you will be pulling weeds alright.*
+    **Oh, you will be pulling weeds alright.*
 **Lakshmi**
-    *That bad... Alright! Thanks!*
+    That bad... Alright! Thanks!
 **Event**
     Lakshmi turns around.
 **Lakshmi**
@@ -696,43 +701,44 @@ Before crossing the bridge to get to the guild hall, Lakshmi notices a boy stari
     _Hum. Very well, let’s move on to the next part._
 **Lakshmi**
     _I'll try my best Greg, bring it on!_    
-    
+
 ### Quest 2 - Scene 1: Lakshmi speaks to the intern (enter first memory) (Arkana) -> to modify
 
 **Greg**
-    _Alright! Now it's time for the... Practical test! You'll deliver a little message for the new intern._
+    Alright! Now it's time for the... 
+    Practical test! You'll deliver a little message for the new intern.
 **Event**
     Player receives the mail.
 **Greg**
-	_Deliver this to the new intern. They should be in the storage room on the right of reception. Make sure to deliver it like you've been taught. Treat this note like you would a real postal delivery._
+	Deliver this to the new intern. They should be in the storage room on the right of reception. Make sure to deliver it like you've been taught. Treat this note like you would a real postal delivery.
 **Lakshmi**
-    _Got it!_
+    Got it!
 **Event**
     Journal updated. Player picks up the item and goes to see the intern.
 **Intern**
-    _Dammit where did that go?_
+    Dammit where did that go?
 **Lakshmi**
-    _Uhmm Hi! Are you the new intern?_
+    Uhmm Hi! Are you the new intern?
 **Intern**
-    _Oh, hum hi, what's up?_
+    Oh, hum hi, what's up?
 **Lakshmi**
-    _Well, I'm in the middle of my postal guild graduation testing and have a delivery for you!_
+    Well, I'm in the middle of my postal guild graduation testing and have a delivery for you!
 **Intern**
-    _Wow, really? You’re so lucky. I'll receive your mail then._
+    Wow, really? You’re so lucky. I'll receive your mail then.
 **Lakshmi**
-    _Ok! Well then, I'm Lakshmi from the postal guild here to deliver your mail! Thank you for using our services and have a good day!_
+    Ok! Well then, I'm Lakshmi from the postal guild here to deliver your mail! Thank you for using our services and have a good day!
 **Event**
     Screen shakes.
 **Lakshmi**
-	_Whoa thanks again!_ 
+	Whoa thanks again! 
 **Intern**
-    _Hey... are you okay?_ 
+    Hey... are you okay? 
 **Lakshmi**
-    _Yes, just a little excited! Oh no not this again..._
+    Yes, just a little excited! Oh no not this again...
 **Event**
     Screen blacks out and the player is now in a different room as the intern. 
 **Intern**
-    _Dang-it... I dumped the mail again. How come I keep messing up everything... Even the simplest of tasks... I'm not cut out to be a guild member, what was I thinking coming here. I can't do anything right.._
+    Dang-it... I dumped the mail again. How come I keep messing up everything... Even the simplest of tasks... I'm not cut out to be a guild member, what was I thinking coming here. I can't do anything right.._
 **Greg**
     _Where's that mail I asked for? Where did that new intern go?_
 **Intern**
