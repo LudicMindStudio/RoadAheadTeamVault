@@ -33,9 +33,6 @@ Prev work done: [[Day of the exam]]
 * [Exam] event Since Greg can be a big goofball, I want him to troll Lakshmi with the pop quizz. Whether she does good or bad, she passes her exam, because it's more about her actions and maturity that Greg is evaluating.
 * [Exam] Revaluate the multiple choice event. If we do this, we need for Greg to explain each of the wrong answers and it can be difficult. Might make a mini game or internal monologue with doodles instead.
 
-* Meets Greg
-* Does her exam. Alone? With someone? Or shes late so shes alone? Idk
-	* ==COMMENT FROM ARKANA==: I think it would be interesting to have other students doing their exam but they are finishing before her because she's late. It would give more life to the guild hall too if multiple people are doing their exam. We could have all of them getting up and walking around too doing their practical exam which doesn't have to be the same as Lakshmi. Maybe having at least 2 other students.
 
 -> List of questions during exam (multiple choice?): Lakshmi will comment about her experiences with these :
 - Economy : isolation between villages. Less economy now. Self sustained villages
@@ -54,27 +51,15 @@ Fun twist to **confirm with dev team** : she is very bored and imagines it as a 
 Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event 2 post exam]], [[Dolphin Bay - Event 3 post exam]] (may want not to include Dr. Lamborghini's delivery yet so we can flesh out the character better)
 
 ---
-## Dialogue & Events
-##### Template
-Template:
-**Character 1**
-	_Dialogue_
+
+
+---
+
+### Lakshmi wakes up in Greg's chalet (AK revision, another doc)
+
 
 **Event**
-	Description
-
-**Character 2**
-	`If variable is true`
-		_Dialogue_
-
-
-##### Notes for devs when implementing events
-* [Welcome world] event is optional and can be interacted with later in the game. The game will implicitly point towards it with the Journal Side Quest [Thank Grandpa Dan for the bread]
-#### Lakshmi wakes up in Greg's chalet (Corina)
-
-** note. Do we include the grasshopper memory, or do we leave it for later?*
-**Event**
-    Cutscene of Lakshmi waking up at the table in her room (see if we can make a sprite for it or not)
+    Cutscene of Lakshmi waking up at the table in her room (see if we can make a parallax image for it or not)
 **Lakshmi**
     *Yaawwwn...* *Right. I ended up journaling pretty late last night...*
 **Event**
@@ -132,26 +117,91 @@ Template:
         *Gotta give it to him, he's so gifted! The crust is the best part! Huh... Is it... maple syrup sour bread? Wow it’s not even my birthday. I should thank him later.*
 **Event** 
     Journal Updated: Thank Grandpa Dan for making your favourite bread.
-    
+
+### Quest 1, Scene 2 : Lakshmi Talks to Grandpa Dan
+
 #### Lakshmi goes to the Guild Hall in Dolphin Bay (Corina)
 **Event**
     Lakshmi walks out of Greg's chalet
 **Lakshmi**
-    *Today is the day! Now if I go straight from here, **Guild Hall** should be up ahead. I have not been in Dolphin Bay often though... Bah, I can ask around for directions.*
+    *Today is the day! Now if I go straight from here, **Guild Hall** should be up ahead. 
+    I have not been in Dolphin Bay often though... 
+    Bah, I'll figure this out!*
 **Event** 
-    Lakshmi wanders through the forest, a narrow path from Greg's chalet towards Dolphin Bay. There is an optional path on the way.
-**Event** [Welcome world]
-    Optional path: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone bench. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]
+    If player goes up to Greg. 
+    Descriptive notes: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone bench. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]
     `If variable is true` Interact with Grandpa Dan
     **Lakshmi** 
-        *Wow. How beautiful.*
+        *Wow. What a view...*
+    Narrator: 
+	    A light breeze touches your cheek.
     **Grandpa Dan**
-        *That is…*
-	*…one way to put it.*
-    **Lakshmi**
-        *How come?*
+        *Huff*
+	**Lakshmi**
+        *Still grumpy?*
     **Grandpa Dan**
-        *I say the world looks pretty miserable with the fog.*
+        *...*
+        *Sit down a bit with me, will you?*
+    Player Choice:
+	    Sit Down
+		    *Lakshmi: Hey Gramps, what got your mood so sour?*
+		    **Grandpa Dan: ...**
+		    **Grandpa Dan: Tell me what do you see in front of you.**
+		    Player choice:
+			    The Fog
+				    Grandpa Dan: Right. And how do you feel about the fog?
+					    Player choice:  
+						    It's peaceful
+							    Narrator: The stillness of the moment is somehow... soothing. The birds chirp quietly, keeping company to the dawn of another day.
+							    Grandpa Dan: That is... an odd way to put it.
+							    Lakshmi: What do you mean?
+						    It's creepy
+							    Narrator: Crows kackle nosily, laughing at them. [Lakshmi humps in place]. 
+							    Narrator: Who knows what else is hiding in there? 
+							    Lakshmi: I just... the vibes are not there.
+							    Grandpa Dan:  Not unexpected. 
+							    Grandpa Dan: Still, I had some hope the new generation would be blissfully unaware of old fears.
+							    Lakshmi: What do you mean?
+								Grandpa Dan: Do you remember anything about the **fog**? How it came to be?
+								Player choice: 
+									Some
+										Lakshmi: I have visions... When it all started... of my parents. I don't remember much anymore.
+										Grandpa Dan: Most children don't. This fog shrouds your memories in ways you wouldn't expect. *(double check [[Narrative Goals]])*
+										Grandpa Dan: Maybe for the best. Dwelling on past memories won't build a future.
+										Player choice:
+											Intensely Disagree
+												Lakshmi: NO! Keeping and sharing memories is what will keep us together! How can you say that!
+												 Grandpa Dan: ...
+												 [Quick QTE to apologize: press a button before time runs out]
+												 If player is successful: 
+													 Lakshmi: I... I'm sorry. I shouldn't have raised my voice at you.
+													 Grandpa Dan: It's ok. You're still young. 
+												 If player is unsuccessful: 
+													 Lakshmi: ...
+													 Grandpa Dan: ...
+													 [Lakshmi runs away form the scene.]
+											Softly Disagree
+												Lakshmi: I see your point, Grandpa Dan... but I... think keeping and sharing memories is what will keep us together. To build a strong future. 
+												Lakshmi: A future with your memories too.
+												Grandpa Dan: Hum...
+												Lakshmi: I should go. Greg will get impatient otherwise.
+												Grandpa Dan: See you later Lakshmi.
+												 
+									Not at all
+										Grandpa Dan:  
+								
+			    The Fog, duh
+				    Grandpa Dan: [jumps in place] Don't play coy with me --Ayy. my back.
+				    Khum. 
+				    Right. And how do you feel about the fog?
+			    
+	    Walk Away
+		    *Lakshmi: Sorry Gramps, I am in a hurry. You know how Greg gets when he is angsty. Maybe another time.*
+		    *Grandpa Dan: Huff... Right.*
+
+
+
+
     **Lakshmi**
          *Maybe. I do not have many memories left of the times before the fog... And while the cataclysm does sound like an intense period of time... I cannot help but love the world. I want to see all of it.*
     **Grandpa Dan**
@@ -176,7 +226,7 @@ Template:
         *Ugh. Knowing this energetic pup, I will need to get a few more scares before he is satisfied.*
     Journal Update: Leo thinks it is a game. Look in the village if you can find him. He will be exhausted at some point.
     
-#### Lakshmi does her exam 
+### Quest 2: Graduation Lakshmi does her exam 
 **Event**
 Before crossing the bridge to get to the guild hall, Lakshmi notices a boy staring into the horizon. Just looks at him for a few seconds. Does not comment anything.
 **Event**
@@ -292,7 +342,7 @@ Before crossing the bridge to get to the guild hall, Lakshmi notices a boy stari
 **Lakshmi**
     _I'll try my best Greg, bring it on!_    
     
-#### Lakshmi speaks to the intern (enter first memory) (Arkana) -> to modify
+### Quest 2 - Scene 1: Lakshmi speaks to the intern (enter first memory) (Arkana) -> to modify
 
 **Greg**
     _Alright! Now it's time for the... Practical test! You'll deliver a little message for the new intern._
@@ -370,7 +420,8 @@ Before crossing the bridge to get to the guild hall, Lakshmi notices a boy stari
     _Hey Lakshmi, congrats on becoming a full member. I've got a whole batch of deliveries here for you to make. Good luck!_
 **Lakshmi**
     _Thanks! 
-#### Lakshmi delivers the first few mail (Start Dolphin Bay story) (Arkana)
+
+### Lakshmi delivers the first few mail (Start Dolphin Bay story) (CL)
 
 **Event**
 	Player leaves the guild hall. Walks around a bit but Cat calls her out. 
@@ -505,7 +556,7 @@ Before crossing the bridge to get to the guild hall, Lakshmi notices a boy stari
 [[Memory of Liam Script]]
 
 
-#### Miscellaneous Side Quests Wrap-Up
+### Miscellaneous Side Quests Wrap-Up
 
 1. Find Leo the dog
 
