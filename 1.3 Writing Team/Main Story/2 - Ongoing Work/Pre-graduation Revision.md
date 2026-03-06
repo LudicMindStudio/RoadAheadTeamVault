@@ -131,64 +131,228 @@ Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event
     If player goes up to Greg. 
     Descriptive notes: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone bench. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]
     `If variable is true` Interact with Grandpa Dan
-    **Lakshmi** 
-        *Wow. What a view...*
+    Lakshmi 
+        Wow. What a view...
     Narrator: 
 	    A light breeze touches your cheek.
-    **Grandpa Dan**
-        *Huff*
-	**Lakshmi**
-        *Still grumpy?*
-    **Grandpa Dan**
-        *...*
-        *Sit down a bit with me, will you?*
+    Grandpa Dan
+        Huff
+	Lakshmi
+        Still grumpy?
+    Grandpa Dan
+        ...
+        Sit down a bit with me, will you?
     Player Choice:
 	    Sit Down
-		    *Lakshmi: Hey Gramps, what got your mood so sour?*
-		    **Grandpa Dan: ...**
-		    **Grandpa Dan: Tell me what do you see in front of you.**
+		    Lakshmi: 
+			    Hey Gramps, what got your mood so sour?
+		    Grandpa Dan: 
+			    ...
+		    Grandpa Dan: 
+			    Tell me what do you see in front of you.
 		    Player choice:
 			    The Fog
 				    Grandpa Dan: Right. And how do you feel about the fog?
 					    Player choice:  
 						    It's peaceful
-							    Narrator: The stillness of the moment is somehow... soothing. The birds chirp quietly, keeping company to the dawn of another day.
-							    Grandpa Dan: That is... an odd way to put it.
-							    Lakshmi: What do you mean?
-						    It's creepy
-							    Narrator: Crows kackle nosily, laughing at them. [Lakshmi humps in place]. 
-							    Narrator: Who knows what else is hiding in there? 
-							    Lakshmi: I just... the vibes are not there.
-							    Grandpa Dan:  Not unexpected. 
-							    Grandpa Dan: Still, I had some hope the new generation would be blissfully unaware of old fears.
-							    Lakshmi: What do you mean?
-								Grandpa Dan: Do you remember anything about the **fog**? How it came to be?
+							    Narrator: 
+								    The stillness of the moment is oddly... soothing. Birds chirp quietly, keeping company to the dawn of another day.
+							    Grandpa Dan
+								    That is... an odd way to put it.
+							    Lakshmi
+								    What do you mean?
+								Grandpa Dan
+									Do you remember anything about the **fog**? How it came to be?
 								Player choice: 
 									Some
-										Lakshmi: I have visions... When it all started... of my parents. I don't remember much anymore.
-										Grandpa Dan: Most children don't. This fog shrouds your memories in ways you wouldn't expect. *(double check [[Narrative Goals]])*
-										Grandpa Dan: Maybe for the best. Dwelling on past memories won't build a future.
+										Lakshmi
+											I have visions... When it all started... of my parents. I don't remember much anymore.
+										Grandpa Dan
+											Most youth don't nowadays. 
+										Grandpa Dan
+											This fog shrouds your memories in ways you wouldn't expect. *(double check [[Narrative Goals]])*
+										Grandpa Dan
+											Maybe for the best. Dwelling on past memories won't build a future.
 										Player choice:
 											Intensely Disagree
-												Lakshmi: NO! Keeping and sharing memories is what will keep us together! How can you say that!
-												 Grandpa Dan: ...
+												Lakshmi
+													NO! Keeping and sharing memories is what will keep us together! How can you say that!
+												 Grandpa Dan: 
+													 ...
 												 [Quick QTE to apologize: press a button before time runs out]
 												 If player is successful: 
-													 Lakshmi: I... I'm sorry. I shouldn't have raised my voice at you.
-													 Grandpa Dan: It's ok. You're still young. 
+													 Lakshmi
+														 I... I'm sorry. I shouldn't have raised my voice at you.
+													 Grandpa Dan
+														 ...
+													 Grandpa Dan
+														 You're still young. 
 												 If player is unsuccessful: 
-													 Lakshmi: ...
-													 Grandpa Dan: ...
+													 Lakshmi
+														 ...
+													 Grandpa Dan
+														 ...
 													 [Lakshmi runs away form the scene.]
 											Softly Disagree
-												Lakshmi: I see your point, Grandpa Dan... but I... think keeping and sharing memories is what will keep us together. To build a strong future. 
-												Lakshmi: A future with your memories too.
-												Grandpa Dan: Hum...
-												Lakshmi: I should go. Greg will get impatient otherwise.
-												Grandpa Dan: See you later Lakshmi.
-												 
-									Not at all
-										Grandpa Dan:  
+												Lakshmi
+													I see your point, Grandpa Dan... but I... think keeping and sharing memories is what will keep us together. To build a strong future. 
+												Lakshmi
+													A future with your memories too.
+												Grandpa Dan
+													Hum...
+												Lakshmi
+													I should go. Greg will get impatient otherwise.
+												Grandpa Dan
+													See you later Lakshmi. 
+												Grandpa Dan
+													I... 
+												Grandpa Dan
+													hope to share some of your enthusiasm one day.
+									Not at all  
+										Grandpa Dan
+											Most youth don't nowadays. 
+										Grandpa Dan
+											This fog shrouds your memories in ways you wouldn't expect. *(double check [[Narrative Goals]])*
+										Grandpa Dan
+											Maybe for the best. Dwelling on past memories won't build a future.
+										Player choice:
+											Intensely Disagree
+												Lakshmi
+													NO! Keeping and sharing memories is what will keep us together! How can you say that!
+												 Grandpa Dan: 
+													 ...
+												 [Quick QTE to apologize: press a button before time runs out]
+												 If player is successful: 
+													 Lakshmi
+														 I... I'm sorry. I shouldn't have raised my voice at you.
+													 Grandpa Dan
+														 ...
+													 Grandpa Dan
+														 You're still young. 
+												 If player is unsuccessful: 
+													 Lakshmi
+														 ...
+													 Grandpa Dan
+														 ...
+													 [Lakshmi runs away form the scene.]
+											Softly Disagree
+												Lakshmi
+													I see your point, Grandpa Dan... but I... think keeping and sharing memories is what will keep us together. To build a strong future. 
+												Lakshmi
+													A future with your memories too.
+												Grandpa Dan
+													Hum...
+												Lakshmi
+													I should go. Greg will get impatient otherwise.
+												Grandpa Dan
+													See you later Lakshmi. 
+												Grandpa Dan
+													I... 
+												Grandpa Dan
+													hope to share some of your enthusiasm one day.
+						    It's creepy
+							    Narrator
+								    Crows kackle nosily, laughing at you. [Lakshmi humps in place]. 
+							    Narrator 
+								    Who knows what else is hiding in there? 
+							    Lakshmi
+								    I just... the vibes are not there... The fog is too mysterious.
+							    Grandpa Dan
+								    Not unexpected. 
+							    Grandpa Dan
+								    Still, I had some hope the new generation would be blissfully unaware of old fears.
+							    Lakshmi
+								    What do you mean?
+								Grandpa Dan
+									Do you remember anything about the **fog**? How it came to be?
+								Player choice: 
+									Some
+										Lakshmi
+											I have visions... When it all started... of my parents. I don't remember much anymore.
+										Grandpa Dan
+											Most youth don't nowadays. 
+										Grandpa Dan
+											This fog shrouds your memories in ways you wouldn't expect. *(double check [[Narrative Goals]])*
+										Grandpa Dan
+											Maybe for the best. Dwelling on past memories won't build a future.
+										Player choice:
+											Intensely Disagree
+												Lakshmi
+													NO! Keeping and sharing memories is what will keep us together! How can you say that!
+												 Grandpa Dan: 
+													 ...
+												 [Quick QTE to apologize: press a button before time runs out]
+												 If player is successful: 
+													 Lakshmi
+														 I... I'm sorry. I shouldn't have raised my voice at you.
+													 Grandpa Dan
+														 ...
+													 Grandpa Dan
+														 You're still young. 
+												 If player is unsuccessful: 
+													 Lakshmi
+														 ...
+													 Grandpa Dan
+														 ...
+													 [Lakshmi runs away form the scene.]
+											Softly Disagree
+												Lakshmi
+													I see your point, Grandpa Dan... but I... think keeping and sharing memories is what will keep us together. To build a strong future. 
+												Lakshmi
+													A future with your memories too.
+												Grandpa Dan
+													Hum...
+												Lakshmi
+													I should go. Greg will get impatient otherwise.
+												Grandpa Dan
+													See you later Lakshmi. 
+												Grandpa Dan
+													I... 
+												Grandpa Dan
+													hope to share some of your enthusiasm one day.
+									Not at all  
+										Grandpa Dan
+											Most youth don't nowadays. 
+										Grandpa Dan
+											This fog shrouds your memories in ways you wouldn't expect. *(double check [[Narrative Goals]])*
+										Grandpa Dan
+											Maybe for the best. Dwelling on past memories won't build a future.
+										Player choice:
+											Intensely Disagree
+												Lakshmi
+													NO! Keeping and sharing memories is what will keep us together! How can you say that!
+												 Grandpa Dan: 
+													 ...
+												 [Quick QTE to apologize: press a button before time runs out]
+												 If player is successful: 
+													 Lakshmi
+														 I... I'm sorry. I shouldn't have raised my voice at you.
+													 Grandpa Dan
+														 ...
+													 Grandpa Dan
+														 You're still young. 
+												 If player is unsuccessful: 
+													 Lakshmi
+														 ...
+													 Grandpa Dan
+														 ...
+													 [Lakshmi runs away form the scene.]
+											Softly Disagree
+												Lakshmi
+													I see your point, Grandpa Dan... but I... think keeping and sharing memories is what will keep us together. To build a strong future. 
+												Lakshmi
+													A future with your memories too.
+												Grandpa Dan
+													Hum...
+												Lakshmi
+													I should go. Greg will get impatient otherwise.
+												Grandpa Dan
+													See you later Lakshmi. 
+												Grandpa Dan
+													I... 
+												Grandpa Dan
+													hope to share some of your enthusiasm one day.
+											
 								
 			    The Fog, duh
 				    Grandpa Dan: [jumps in place] Don't play coy with me --Ayy. my back.
