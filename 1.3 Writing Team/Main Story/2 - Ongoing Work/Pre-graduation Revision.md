@@ -245,8 +245,8 @@ Event
 		Ah well, I'll do it later. I won't forget it for sure.
 
 *Notes:*
-* *Opened thread about Fog and memories  [[Narrative Goals#The fog subplot]] [[Narrative Goals#Calamity]]*
-* *Opened thread: [[Narrative Goals#Lakshmi’s trauma subplot]] Doesn't remember her parents* 
+* *Opened thread about Fog and memories  [[Narrative Goals#The fog subplot]] [[Narrative Goals#Calamity]]*: *Fog shrouds your memories*
+* *Opened thread: [[Narrative Goals#Lakshmi’s trauma subplot]]: Doesn't remember her parents* 
 * *Established Lakshmi's values: individual memories are important*
 ---
 ### Quest 1, Scene 2 : Lakshmi Talks to Grandpa Dan (backup)
@@ -733,7 +733,7 @@ Lakshmi
 **Lakshmi**
     That bad... Alright! Thanks!
 
-### Quest 2, Dialogue 2: 
+### Quest 2, Dialogue 2: Exam
 
 **Event**
     Lakshmi goes to the back of the guild hall. Lakshmi overhears the intern speaking to themselves behind a wall. Cannot interact with them yet.
