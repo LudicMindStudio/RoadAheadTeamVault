@@ -24,7 +24,6 @@ Lakshmi, Grandpa Dan, Greg. Intern (NAME??). [[Guild Receptionist (Robert)]], [[
 
 #### Lakshmi wakes up in Greg's chalet
 *Map [[Greg Chalet]]*
-
 #### Lakshmi does her exam 
 *Map (interior not created yet)*
 
@@ -54,6 +53,7 @@ Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event
 
 
 ---
+
 
 ### Lakshmi wakes up in Greg's chalet (AK revision, another doc)
 
@@ -118,6 +118,7 @@ Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event
 **Event** 
     Journal Updated: Thank Grandpa Dan for making your favourite bread.
 
+---
 ### Quest 1, Scene 2 : Lakshmi Talks to Grandpa Dan
 
 Event
@@ -126,6 +127,137 @@ Lakshmi
     Today is the day! Now if I go straight from here, Guild Hall should be up ahead.
     I have not been in Dolphin Bay often though.. 
     Bah, I'll figure this out!
+
+Event 
+    If player goes up to Greg.
+    Descriptive notes: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone bench. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]
+    `If variable is true` Interact with Grandpa Dan
+    Lakshmi 
+        Wow. What a view...
+    Narrator: 
+	    A light breeze touches your cheek.
+    Grandpa Dan
+        Huff
+	Lakshmi
+        Still grumpy?
+    Grandpa Dan
+        ...
+        Sit down a bit with me, will you?
+    **Player Choice**
+	    **Sit Down**
+		    Lakshmi
+			    What got your mood so sour?
+		    Grandpa Dan
+			    ...
+		    Grandpa Dan
+			    Tell me what do you see in front of you.
+		    **Player choice**
+			    **The Fog**
+			    **The Fog, duh**
+				    Grandpa Dan
+					    [jumps in place] Don't play coy with me --Ayy. my back.
+					Grandpa Dan
+					    Khum. 
+			[regardless of choice]
+			Grandpa Dan
+			    Right. And how do you feel about the fog?
+		    **Player choice**
+			    **It's peaceful**
+					 Narrator
+					    The stillness of the moment is oddly... soothing. Birds chirp quietly, keeping company to the dawn of another day.
+				    Grandpa Dan
+					    That is... an odd way to put it.
+				**It's creepy**
+				    Narrator
+					    Crows kackle nosily, laughing at you. [Lakshmi humps in place]. 
+					   Narrator 
+						Who knows what else is hiding in there? 
+					   Lakshmi
+					    I just... the vibes are not there... The fog is too mysterious.
+					   Grandpa Dan
+					    Not unexpected. 
+					   Grandpa Dan
+					    Still, I had some hope the new generation would be blissfully unaware of old fears.
+			[regardless of choice]
+			Lakshmi
+				What do you mean?
+			Grandpa Dan
+				Do you remember anything about the **fog**? How it came to be?
+			**Player choice** 
+				**Some**
+					Lakshmi
+						I have visions... When it all started... of my parents. I don't remember much anymore.
+				**Not at all**
+				[regardless of choice]
+					Grandpa Dan
+						Most youth don't nowadays. 
+					Grandpa Dan
+						This fog shrouds your memories in ways you wouldn't expect. *(double check [[Narrative Goals]])*
+					Grandpa Dan
+						Maybe for the best. Dwelling on past memories won't build a future.
+					**Player choice**
+						**Intensely Disagree**
+							Lakshmi
+								NO! Keeping and sharing memories is what will keep us together! How can you say that!
+							 Grandpa Dan: 
+								 ...
+							 [Quick QTE to apologize: press a button before time runs out]
+							 **If player is successful** 
+								 Lakshmi
+									 I... I'm sorry. I shouldn't have raised my voice at you.
+								 Grandpa Dan
+									 ...
+								 Grandpa Dan
+									 You're still young. 
+								Grandpa Dan
+									Go see Greg, he is waiting for you. 
+							 **If player is unsuccessful**
+								 Lakshmi
+									 ...
+								 Grandpa Dan
+									 ...
+								Event
+									 Lakshmi runs away form the scene.
+						**Softly Disagree**
+							Lakshmi
+								I see your point, Grandpa Dan... but I... think keeping and sharing memories is what will keep us together. To build a strong future. 
+							Lakshmi
+								A future with your memories too.
+							Grandpa Dan
+								Hum...
+							Lakshmi
+								I should go. Greg will get impatient otherwise.
+							Grandpa Dan
+								See you later Lakshmi. 
+							Grandpa Dan
+								I... 
+							Grandpa Dan
+								hope to share some of your enthusiasm one day.
+	    **Walk Away**
+		    Lakshmi
+			    Sorry Gramps, I am in a hurry. You know how Greg gets when he is angsty. Maybe another time.
+		    Grandpa Dan
+			    Huff... Right.
+	Event
+		Lakshmi walks away from the scene a bit.
+	Lakshmi
+		Shoot! I forgot to thank him for the bread...
+		Ah well, I'll do it later. I won't forget it for sure.
+
+*Notes:*
+* *Opened thread about Fog and memories  [[Narrative Goals#The fog subplot]] [[Narrative Goals#Calamity]]*
+* *Opened thread: [[Narrative Goals#Lakshmi’s trauma subplot]] Doesn't remember her parents* 
+* *Established Lakshmi's values: individual memories are important*
+---
+### Quest 1, Scene 2 : Lakshmi Talks to Grandpa Dan (backup)
+
+Event
+    Lakshmi walks out of Greg's chalet
+Lakshmi
+    Today is the day! Now if I go straight from here, Guild Hall should be up ahead.
+    I have not been in Dolphin Bay often though.. 
+    Bah, I'll figure this out!
+
 Event 
     If player goes up to Greg.
     Descriptive notes: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone bench. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]
@@ -586,24 +718,23 @@ Lakshmi
     I heard kids in the village say there are monsters lurking here... 
     No! Lakshmi get a hold of yourself! These are kid's tales, nothing more. 
 
-### Quest 2, Scene 1: Graduation Lakshmi does her exam 
+### Quest 2, Dialogue 1: Guild Hall Receptionist 
 
 **Receptionist**
-    `If variable is true`
-        Welcome to the post guild! 
-        Ah Lakshmi it's you! Greg is waiting in his office in the back room. Good luck!
+       Welcome to the post guild! 
+       Ah Lakshmi it's you! Greg is waiting in his office in the back room. Good luck!
 **Lakshmi**
     ...Good luck? What's going on here...
     Is it because I am late? 
     Please please tell me I won't be pulling out weeds today!
 **Receptionist**
-    **Oh, you will be pulling weeds alright.*
+    Bahahahaha
+    Can't promise anything.
 **Lakshmi**
     That bad... Alright! Thanks!
-**Event**
-    Lakshmi turns around.
-**Lakshmi**
-    *Brr... He is getting scarier than Greg.*
+
+### Quest 2, Dialogue 2: 
+
 **Event**
     Lakshmi goes to the back of the guild hall. Lakshmi overhears the intern speaking to themselves behind a wall. Cannot interact with them yet.
 **Intern** 
