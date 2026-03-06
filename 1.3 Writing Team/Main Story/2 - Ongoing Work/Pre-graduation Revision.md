@@ -120,7 +120,6 @@ Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event
 
 ### Quest 1, Scene 2 : Lakshmi Talks to Grandpa Dan
 
-#### Lakshmi goes to the Guild Hall in Dolphin Bay (Corina)
 **Event**
     Lakshmi walks out of Greg's chalet
 **Lakshmi**
@@ -142,7 +141,7 @@ Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event
     Grandpa Dan
         ...
         Sit down a bit with me, will you?
-    Player Choice:
+    **Player Choice**
 	    Sit Down
 		    Lakshmi: 
 			    Hey Gramps, what got your mood so sour?
@@ -576,33 +575,12 @@ Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event
 		    Grandpa Dan
 			    Huff... Right.
 
+### Quest 1, Forest Dialogue
+Lakshmi
+    Brr. The forest gives me the creeps. 
+    I heard kids in the village say there are monsters lurking here... 
+    No! Lakshmi get a hold of yourself! These are kid's tales, nothing more. 
 
-
-
-    **Lakshmi**
-         *Maybe. I do not have many memories left of the times before the fog... And while the cataclysm does sound like an intense period of time... I cannot help but love the world. I want to see all of it.*
-    **Grandpa Dan**
-        *...*
-    There is a silent pause during the cutscene, with the wind blowing. The interaction ends on this awkward note.
-     `If variable is true` Interact with Grandpa Dan again
-     **Grandpa Dan**
-        *Hurry up to the Guild Hall! Greg is waiting for you.*
-**Event**
-    `If variable is true` Lakshmi walks down the path towards Dolphin Bay
-**Lakshmi**
-    *Brr. The forest gives me the creeps. Now I heard kids in the village say there are monsters lurking here... No! Lakshmi get a hold of yourself! These are kid's tales, nothing more.* 
-**Event**
-    Lakshmi enters the village and can explore a bit. 
-    `If variable is true` Leo (dog) jumps out on Lakshmi.
-    **Lakshmi*
-        *Eek! Leo! You cannot do that to me! It’s a Grandpa Dan thing!*
-    **Leo**
-        *Wuf wuf!* 
-    Leo runs away. 
-    **Lakshmi**
-        *Ugh. Knowing this energetic pup, I will need to get a few more scares before he is satisfied.*
-    Journal Update: Leo thinks it is a game. Look in the village if you can find him. He will be exhausted at some point.
-    
 ### Quest 2: Graduation Lakshmi does her exam 
 **Event**
 Before crossing the bridge to get to the guild hall, Lakshmi notices a boy staring into the horizon. Just looks at him for a few seconds. Does not comment anything.
