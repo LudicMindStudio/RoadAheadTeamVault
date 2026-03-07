@@ -774,7 +774,7 @@ Lakshmi
 **Lakshmi**
 	Oki doki!
 
-### Quest 2, Scene 2: Theoretical Exam - Multiple Choice
+### Quest 2, Scene 2: Theoretical Exam
 **Event**
     Player goes towards the classroom. Sits at a desk.
 **Lakshmi**
