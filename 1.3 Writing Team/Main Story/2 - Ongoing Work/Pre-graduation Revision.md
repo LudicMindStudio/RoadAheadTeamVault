@@ -712,13 +712,13 @@ Event
 		Shoot! I forgot to thank him for the bread...
 		Ah well, I'll do it later. I won't forget it for sure.
 		
-### Quest 1, Forest Dialogue
+### Quest 1, Scene 3: Forest Dialogue
 Lakshmi
     Brr. The forest gives me the creeps. 
     I heard kids in the village say there are monsters lurking here... 
     No! Lakshmi get a hold of yourself! These are kid's tales, nothing more. 
 
-### Quest 2, Dialogue 1: Guild Hall Receptionist 
+### Quest 2, Interactible Receptionist
 
 **Receptionist**
        Welcome to the post guild! 
@@ -732,13 +732,13 @@ Lakshmi
     Can't promise anything.
 **Lakshmi**
     That bad... Alright! Thanks!
-
-### Quest 2, Dialogue 2: Exam
-
+### Quest 2, Interactible Intern
 **Event**
-    Lakshmi goes to the back of the guild hall. Lakshmi overhears the intern speaking to themselves behind a wall. Cannot interact with them yet.
+	Player Overhears Intern talking to themselves
 **Intern** 
-    *Dammit! Where are those shipment boxes? I'm going to get in trouble again… The guild work is too much.*
+    Dammit! Where are those shipment boxes? I'm going to get in trouble again… The guild work is too much.
+### Quest 2, Scene 1: Theoretical Exam
+
 **Greg**
     `If variable is true` Interact with Greg
         *Ah Lakshmi, good morning. You slept in today, I hope you are well rested.*
@@ -833,67 +833,154 @@ Lakshmi
 **Lakshmi**
     _I'll try my best Greg, bring it on!_    
 
-### Quest 2 - Scene 1: Lakshmi speaks to the intern (enter first memory) (Arkana) -> to modify
+### Quest 2 - Scene 2: Practical Exam Quest Giver
 
-**Greg**
+Greg
     Alright! Now it's time for the... 
-    Practical test! You'll deliver a little message for the new intern.
+    Practical test! 
+    Deliver a little message for the new intern.
 **Event**
     Player receives the mail.
-**Greg**
-	Deliver this to the new intern. They should be in the storage room on the right of reception. Make sure to deliver it like you've been taught. Treat this note like you would a real postal delivery.
-**Lakshmi**
+Greg
+	Deliver this to the new intern. They should be in the storage room.
+Lakshmi
+	And... where is that?
+Greg
+	Hum hum!
+Greg
+	You won't always be guided by a hand, you know. Explore the Guild a bit. Get to know the folks.
+Greg
+	Make sure to deliver the note like you've been taught. Treat it as a real postal delivery.
+Lakshmi
     Got it!
-**Event**
-    Journal updated. Player picks up the item and goes to see the intern.
+Narrator
+	Sharply breathing in, you are filled with resolution. Almost there.
+
+**Journal update**
+    Deliver the mail to the new intern. They should be in the storage room in the Guild.
+### Quest 2 - Scene 3: Practical Exam Intern Memory
+
 **Intern**
     Dammit where did that go?
 **Lakshmi**
     Uhmm Hi! Are you the new intern?
 **Intern**
-    Oh, hum hi, what's up?
+    Oh. Hum... Yes. Hi! What's up?
 **Lakshmi**
     Well, I'm in the middle of my postal guild graduation testing and have a delivery for you!
 **Intern**
     Wow, really? You’re so lucky. I'll receive your mail then.
 **Lakshmi**
-    Ok! Well then, I'm Lakshmi from the postal guild here to deliver your mail! Thank you for using our services and have a good day!
+    Ok! Well then... Hello... Ola...vius.
+**Lakshmi**
+	 I'm Lakshmi from the postal guild here to deliver your mail! Thank you for using our services and have a good day!
 **Event**
     Screen shakes.
 **Lakshmi**
-	Whoa thanks again! 
+	Whoaa. Em, t-thanks again! 
 **Intern**
-    Hey... are you okay? 
+    Hey... are you okay Lakshmi? 
+**Player Choice**
+    **YES**
+	    Lakshmi
+		    I am feeling perfect!
+		Intern
+			If you say so... Are you sure you don't want to sit down for a minute?
+		Lakshmi
+			You worry too much... Ol-
+    **I think I am sick**
+	    Lakshmi
+		    Euh... Not feeling superb.
+		Intern
+			W-would you like to sit down for a bit...?
+		Lakshmi
+			Sure! Thanks... Ol-
+[Regardless of choice]
 **Lakshmi**
-    Yes, just a little excited! Oh no not this again...
+    Oh no. Not this again...
 **Event**
     Screen blacks out and the player is now in a different room as the intern. 
 **Intern**
-    Dang-it... I dumped the mail again. How come I keep messing up everything... Even the simplest of tasks... I'm not cut out to be a guild member, what was I thinking coming here. I can't do anything right.._
-**Greg**
-    _Where's that mail I asked for? Where did that new intern go?_
+    Dang-it... I dumped the mail again. Greg will be so pissed.
 **Intern**
-    _Well I can at least minimize their disappointment... Back to it...but I just want to hide in here._
+    How come I keep messing up everything... Even the simplest of tasks. 
+**Intern**
+    I'm not cut out to be a guild member... What was I thinking coming here? I can't even fit in. Nobody even remembers my name...
+**Greg**
+    Hey intern!
+**Event**
+	Intern jumps in place. The intern hides behind scattered boxes. Greg enters the scene, looking around.
+**Greg**
+    Wow, what a mess. Did a hurricane pass through here? 
+**Greg**
+    And where did that new intern go...
+**Event**
+	Greg leaves the room.
+**Intern**
+    I'll just hide here... For a minute. or forever...
 **Event**
     Screen blacks out and the player is back in the guild room as Lakshmi. 
 **Intern**
-    _Lakshmi!? Are you ok?_
+    Lakshmi!? Are you ok?
 **Lakshmi**
-    _Ah... Yeah I'm ok sorry... (Argh... I got to get better at that)_
+    Ah... Yeah I'm ok sorry...
+**Lakshmi**
+	These flashbacks are getting more intense... (+ [[Narrative Goals#Memories subplot]])
 **Intern**
-    _Ok phew. I thought I did something wrong again._
+	What was that?
 **Lakshmi**
-    _No no...You did nothing wrong? Thanks for your help._
+	Oh, nothing. I'm better now.
 **Intern**
-    _No problem, then!_
+    Ok phew. I thought I did something wrong again.
 **Lakshmi**
-    _Keep up the good work and I'm sure you'll be a full guild member soon too!_
+    No no...You did nothing wrong? Thanks for your help...
+**Player's choice**
+	**Octavius**
+		Intern
+			...
+		Lakshmi
+			...
+		Lakshmi
+			It is their name, right?
+		Narrator
+			The intern cracks an awkward smile. You notice the name tag on their shirt: Olavius.
+		Lakshmi
+			Oopsies.
+	**Olavius** *(correct choice)*
+		Intern
+			Aw, thanks Lakshmi!
+		Narrator
+			Olavius' face flushes with relief. They look more relaxed than they did before.
+	**Olivier**
+		Intern
+			...
+		Lakshmi
+			...
+		Lakshmi
+			It is their name, right?
+		Narrator
+			The intern cracks an awkward smile. You notice the name tag on their shirt: Olavius.
+		Lakshmi
+			Oopsies.
 **Intern**
-    _Really? Do you really believe that?_
+    M-my pleasure!
 **Lakshmi**
-    _For sure! Well I better go back to Greg and tell him how I did. Thanks again, see you around._
-**Event**
-    Journal updated. Player goes to see Greg.
+    Keep up the good work! I'm sure you'll be a full guild member in no time!
+**Intern**
+    Really? Do you believe that Lakshmi?
+**Player's choice**
+	**Without a doubt**
+		Intern
+			Oh... I don't know what to say... T-thanks Lakshmi! I'm sure you'll do great things!
+	**On second thought**
+		Intern
+			Ah... haha. Yeah, I should probably get better at sorting mail first...
+**Lakshmi**
+    Well I better go back to Greg and tell him how I did. Thanks again, see you around.
+**Journal Update**
+    First mail delivered! Let's get back to Greg.
+
+### Quest 2: Scene 3 - conclusion
 **Lakshmi**
     _I did it Greg! Mail delivered._
 **Greg**
