@@ -5,7 +5,7 @@ created: 2025-10-13
 By: Corina
 # Progress
 - [x] Outside scene with Grandpa Dan - Act 1, Quest 1 - Scene 2
-- [ ] Intern Memory - Quest 2 - Scene 1
+- [x] Intern Memory - Quest 2 - Scene 1
 - [ ] Graduation Ceremony - Quest 2 - Scene 2 (?) 
 - [ ] Exam 
 - [ ] Interactable in Chalet
@@ -737,70 +737,99 @@ Lakshmi
 	Player Overhears Intern talking to themselves
 **Intern** 
     Dammit! Where are those shipment boxes? I'm going to get in trouble again… The guild work is too much.
-### Quest 2, Scene 1: Theoretical Exam
+### Quest 2, Scene 1: Theoretical Exam - Quest Giver
 
 **Greg**
-    `If variable is true` Interact with Greg
-        *Ah Lakshmi, good morning. You slept in today, I hope you are well rested.*
-**Lakshmi**
-    *As much as I can be... haha. Sorry Greg... I must have missed my alarm. Nothing too big is going on today I hope?*
+    Good morning, Lakshmi. 
 **Greg**
-      _I'm afraid you are incorrect, Lakshmi. You have.... your graduation exam today!_
+	You slept in today. I hope you are well rested.
 **Lakshmi**
-    _My graduation exam??_
+    As much as I can be... haha. Sorry Greg... I must have missed my alarm. Nothing too big is going on today I hope?
 **Greg**
-    _Yes Lakshmi I'm sorry for what I am about to say… You've been progressing too quickly and I believe you are ready to become a postal worker!
+      I'm afraid you are incorrect, Lakshmi. You have.... 
+**Greg**
+     Your graduation exam today!
 **Lakshmi**
-    *Are you kidding me? I've been dreaming of this day!* *Although... I expected a bit of a heads up so I could sleep in a bit more… *
+    My graduation exam?
 **Greg**
-    *Ah well, you leave much to be desired in terms of discipline. But no matter, you are young. You will learn.*
-*Lakshmi*
-    *Is this a challenge? If so, I accept!*
+    Yes, Lakshmi. I'm sorry for what I am about to say…
 **Greg**
-    A challenge? Who said anything about a challenge? You'll start with just a few written questions. Go over to the classroom, take a seat and I'll be over in a minute with your exam._
+    You've been progressing too quickly and I believe you are ready to become a postal worker!
+**Player choice**
+	**I'm so excited!**
+		Lakshmi
+			Are you kidding me? I've been dreaming of this day! 
+	**I'm absolutely scared!**
+		Lakshmi
+			Am-am I ready? I feel so underprepared!
+[Regardless of choice]
+**Greg**
+    You leave much to be desired in terms of discipline. But no matter, you are young. 
 **Lakshmi**
-    *Eugh... At least it beats pulling out weeds all afternoon.*
+    Is this a challenge? If so, I accept!
+**Greg**
+	A challenge? Who said anything about a challenge? You'll start with just a few written questions.
+**Greg**
+    Go over to the classroom, take a seat and I'll be over in a minute with your exam.
+**Lakshmi**
+	Oki doki!
+
+### Quest 2, Scene 2: Theoretical Exam - Multiple Choice
 **Event**
     Player goes towards the classroom. Sits at a desk.
 **Lakshmi**
-    _(Deep breaths, I've got this!)_
+    Deep breaths, I've got this!
 **Event**
     Greg walks over to Lakshmi to give her the exam.
 **Greg**
-    `If variable is true`
-        _Here you are Lakshmi, only 3 questions. Best of luck._.
+    Here you are Lakshmi. Best of luck..
 **Event**
     Greg walks away.
 **Lakshmi**
-    *Bring it on!*
-**Event** [Quizz] p.s. it can look like a paper on screen, where the player will click on the right answer. If the player picks the correct option (in bold) then a doodle will appear next to the paper.
- **Lakshmi** 
- _Ok, bring it on, question 1!_
-        1) The fog affecting our world is most receptive to what human aspect?
-            1) Hunger
-                _It was hunger that makes the fog appear right? I'm hungry just thinking about it._
-            2) **Emotion** 
-				*Strong emotion sublimes the fog - is what Greg would say, right?*
-            3) Speech
-				*While Greg recommended against screaming if I ever get lost in the foggy woods… is this what makes the fog appear?*
-        2) What's the primary goal of our influential guild located in every village?
-            1) Fortune
-	               _Fortune. All economy collapsed after the calamity, so the guild tries to create jobs in the new world._ 
-            2) Adventure
-				*Adventure. It is pretty much the only way to travel between villages now! That excites me the most.*
-            3) **Communication**
-				*All manner of modern technology collapsed after the cataclysm… of course it's the only way people communicate nowadays if you live in different villages.*
-	    3) What do children learn in school?
-		    1) **Farming**
-				*Most folks farm to sustain the village. While I love picking apples in the Fall… I most certainly hate picking out weeds all year long. Guess who has to do that most often.*
+    Bring it on!
+ **Event: Multiple Choice**
+    The Fog is most receptive to what human aspect?
+    **Player choice**
+	        **Hunger**
+	        Lakshmi
+		           Mm. I'm hungry just thinking about it.
+	        **Emotion** (Correct Answer) 
+			Lakshmi
+				"Where the heart storms, the fog grows" - is what Greg would say, right?
+	        **Speech**
+			Lakshmi
+				While I wouldn't scream if I ever get lost in the foggy woods myself… 
+			Lakshmi
+				Is this what makes the fog appear?
+    What's the primary goal of our influential guild?
+	**Player choice**
+		**Fortune**
+			Lakshmi
+		        All economy collapsed after the Calamity. It makes sense for the Guild to  to create new jobs.
+			 Lakshmi
+				 Right?
+		**Adventure**
+	        Lakshmi
+				The postal workers are pretty much the only people travelling between villages now.
+			Lakshmi
+				 So exciting!
+        **Communication**
+	        Lakshmi
+				All manner of modern technology collapsed after the cataclysm…
+			Lakshmi
+				Postal workers have such an important job!
+	What do children learn in school?
+	**Player choice**
+		    1) Farming
+			    1) Most folks farm to sustain the village. While I love picking apples in the Fall… I most certainly hate picking out weeds all year long. Guess who has to do that most often.
 			2) There are no schools anymore
-				*That makes sense too. There aren't enough students to fill a real school in villages anymore… but they still learn somehow. Seems like a trick question to me. But whatever, it’s the process of elimination*
+				That makes sense too. There aren't enough students to fill a real school in villages anymore… but they still learn somehow. Seems like a trick question to me. But whatever, it’s the process of elimination
 			3) Meditation 
-				_Boredom aside, Lora did insist on teaching me. My best shot of traversing through the fog. Not sure I want to think about that!_
+				Boredom aside, Lora did insist on teaching me. My best shot of traversing through the fog. Not sure I want to think about that!
 **Lakshmi**
-	*Wait, that's it? Is this a joke?*
-**Event**
-    Journal updated: Exam done. Time to see Greg for some explanation.
+	*Wait, that's it?*
+**Journal Update**
+	Exam done. Time to see Greg for some explanation.
 **Lakshmi**
     *Ok Greg, I've finished the exam. Do you really think three questions are enough to test someone’s deep understanding of the world?*
 **Greg**
