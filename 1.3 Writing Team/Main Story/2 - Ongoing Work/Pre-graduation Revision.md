@@ -6,8 +6,8 @@ By: Corina
 # Progress
 - [x] Outside scene with Grandpa Dan - Act 1, Quest 1 - Scene 2
 - [x] Intern Memory - Quest 2 - Scene 1
-- [ ] Graduation Ceremony - Quest 2 - Scene 2 (?) 
-- [ ] Exam 
+- [x] Graduation Ceremony - Quest 2 - Scene 2 (?) 
+- [x] Exam 
 - [ ] Interactable in Chalet
 ---
 
@@ -1054,10 +1054,8 @@ Lakshmi
 Greg
     And now... I'm putting you straight to work.
 **Player choice**
-	**Already?**
-	**Bring it on!**
-
-
+	==**Already?**==
+	==**Bring it on!**==
 Greg
     Go up to the front desk. Robert will have some deliveries for you to make.
 
