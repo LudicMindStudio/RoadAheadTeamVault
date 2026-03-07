@@ -200,7 +200,7 @@ Lakshmi
 		**Player choice**
 			**Intensely Disagree**
 				Lakshmi
-					NO! Keeping and sharing memories is what will keep us together! How can you say that!
+					NO! Sharing memories is what will keep us together! How can you say that!
 				 Grandpa Dan: 
 					 ...
 				 [Quick QTE to apologize: press a button before time runs out (to double check if possible with dev team)]
@@ -213,6 +213,10 @@ Lakshmi
 						 You're still young. 
 					Grandpa Dan
 						Go see Greg, he is waiting for you. 
+					Grandpa Dan
+						I... 
+					Grandpa Dan
+						Hope to share some of your enthusiasm one day.
 				 **If player is unsuccessful**
 					 Lakshmi
 						 ...
