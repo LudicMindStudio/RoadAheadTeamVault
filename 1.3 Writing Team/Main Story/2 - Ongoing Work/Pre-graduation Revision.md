@@ -179,7 +179,7 @@ Lakshmi
 				Grandpa Dan
 				    Not unexpected. 
 				Grandpa Dan
-				    Still, I had some hope the new generation would be blissfully unaware of old fears.
+				    Still, I had some hope the new generation would be blissfully ignorant of old fears.
 		[Regardless of choice]
 		Lakshmi
 			What do you mean?
@@ -255,6 +255,7 @@ Lakshmi
 * *Opened thread about Fog and memories  [[Narrative Goals#The fog subplot]] [[Narrative Goals#Calamity]]*: *Fog shrouds your memories*
 * *Opened thread: [[Narrative Goals#Lakshmi’s trauma subplot]]: Doesn't remember her parents* 
 * *Established Lakshmi's values: individual memories are important*
+==* *Might need to establish that the fog is related to strong emotions?*==
 ---
 ### Quest 1, Scene 3: Forest Dialogue
 Lakshmi
