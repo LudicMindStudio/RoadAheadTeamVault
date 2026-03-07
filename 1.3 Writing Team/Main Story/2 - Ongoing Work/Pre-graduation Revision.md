@@ -203,6 +203,8 @@ Lakshmi
 					NO! Sharing memories is what will keep us together! How can you say that!
 				 Grandpa Dan: 
 					 ...
+				Lakshmi
+					Shoot! Too brash. Should I apologize? Quick!
 				 [Quick QTE to apologize: press a button before time runs out (to double check if possible with dev team)]
 				 **If player is successful** 
 					 Lakshmi
