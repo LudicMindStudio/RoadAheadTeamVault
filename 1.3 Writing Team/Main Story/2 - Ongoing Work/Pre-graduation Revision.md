@@ -805,7 +805,7 @@ Lakshmi
 	**Player choice**
 		**Fortune**
 			Lakshmi
-		        All economy collapsed after the Calamity. It makes sense for the Guild to  to create new jobs.
+		        All economy collapsed after the Calamity. It makes sense for the Guild to create new jobs.
 			 Lakshmi
 				 Right?
 		**Adventure**
@@ -818,51 +818,73 @@ Lakshmi
 				All manner of modern technology collapsed after the cataclysm…
 			Lakshmi
 				Postal workers have such an important job!
-	What do children learn in school?
+	==What is the ranking system in the Guild?==
 	**Player choice**
-		    1) Farming
-			    1) Most folks farm to sustain the village. While I love picking apples in the Fall… I most certainly hate picking out weeds all year long. Guess who has to do that most often.
-			2) There are no schools anymore
-				That makes sense too. There aren't enough students to fill a real school in villages anymore… but they still learn somehow. Seems like a trick question to me. But whatever, it’s the process of elimination
-			3) Meditation 
-				Boredom aside, Lora did insist on teaching me. My best shot of traversing through the fog. Not sure I want to think about that!
-**Lakshmi**
-	*Wait, that's it?*
-**Journal Update**
-	Exam done. Time to see Greg for some explanation.
-**Lakshmi**
-    *Ok Greg, I've finished the exam. Do you really think three questions are enough to test someone’s deep understanding of the world?*
-**Greg**
-	*Now, now, don’t get too cocky. Let’s see how you did first.*
-    `If variable is true` (All answers are correct.)
-        **Greg**
-	        _Great job Lakshmi! You've got all correct. 
-		**Lakshmi**
-			*Whoo hoo!*
-    `If variable is true` (One question or more are wrong.)	
-	**Greg**
-		Hmmm.... You did alright Lakshmi but I've seen you do better._
-	**Lakshmi**
-	    _Darn. I knew I was blanking on a few._
-**Greg**
-	*And your test result is…*
-**Lakshmi**
-    _..._
-**Greg**
-	*Insignificant!*
-**Lakshmi**
-    _What kind of grade is that?_
-**Greg**
-	*It was less about how much you know about the world, and more about how you react to unpredictable and stressful situations. Today’s exam was out of nowhere, and yet you challenged it face first. It’s fine not to know all the answers.*
-	*I won’t lie to you Lakshmi, guild members face challenges where pure enthusiasm won’t be enough. When that happens, don't forget you can take a step back and ask for help.*
-**Lakshmi**
-    _…_
-**Greg**
-    _Hum. Very well, let’s move on to the next part._
-**Lakshmi**
-    _I'll try my best Greg, bring it on!_    
+	==Who found the Postal Worker Guild?==
+	**Player choice**
+	
 
-### Quest 2 - Scene 2: Practical Exam Quest Giver
+Lakshmi
+	Wait, that's it?
+**Journal Update**
+	Exam done. Time to see Greg.
+### Quest 2, Scene 3: Theoretical Exam - Test Result
+Lakshmi
+    Ok Greg, I've finished the exam. It was...
+**Player choice**
+	Easy peasy
+		Greg
+			Now, now, don’t get too cocky.
+	Unfair
+		Greg
+			Hahahaha. Nothing in life is fair.
+[Regardless of choice]
+Greg
+	Let’s see how you did first.
+    `If variable is true` (All answers are correct.)
+        Greg
+	        Great job Lakshmi! You've got all correct. 
+		Lakshmi
+			Whoo hoo!
+    `If variable is true` (One question or more are wrong.)	
+	Greg
+		Hmmm.... You did alright Lakshmi but you can do better.
+	Lakshmi
+	    Darn. I knew I was blanking on a few.
+Greg
+	And your test result is…
+Lakshmi
+    ...
+Greg
+	Insignificant!
+Lakshmi
+    What kind of grade is that?
+Greg
+	I was more interested in how you react to unpredictable situations. 
+Greg
+	Today’s exam was out of nowhere, and yet you challenged it face first.
+Greg
+	It’s fine not to know all the answers.
+Lakshmi
+	Hum... so all that work for nothing.
+Greg 
+	I won’t lie to you Lakshmi, postal workers face challenges where pure enthusiasm won’t be enough. 
+Greg
+	When that happens, don't forget you can take a step back and ask for help.
+Greg
+	...
+Greg
+	Do you need a few minutes to think about it?
+**Player choice**
+	Yes
+		Good. Know your limits. Get back to me when you are ready. [End dialogue. If interacts again. Start at Regardless of choice.]
+	No 	
+[Regardless of choice]
+Greg
+    Hum. Very well, let’s move on to the next part.
+Lakshmi
+    Bring it on!    
+### Quest 2 - Scene 4: Practical Exam Quest Giver
 
 Greg
     Alright! Now it's time for the... 
@@ -887,7 +909,7 @@ Narrator
 
 **Journal update**
     Deliver the mail to the new intern. They should be in the storage room in the Guild.
-### Quest 2 - Scene 3: Practical Exam Intern Memory
+### Quest 2 - Scene 5: Practical Exam Intern Memory
 
 **Intern**
     Dammit where did that go?
@@ -1009,25 +1031,43 @@ Narrator
 **Journal Update**
     First mail delivered! Let's get back to Greg.
 
-### Quest 2: Scene 3 - conclusion
-**Lakshmi**
-    _I did it Greg! Mail delivered._
-**Greg**
-    _I saw, well done. I'm very proud. I am also happy to say... Welcome in, Lakshmi you are now a full guild member. I hope to see more great things from you._
-**Lakshmi**
-    _All right! This is so awesome Greg!_
-**Greg**
-    _Now, I'm putting you straight to work._
-**Lakshmi**
-     _Bring it on!_
-**Greg**
-    _Go up to the front desk. Robert will have some deliveries for you to make._
+### Quest 2: Scene 6: Graduation
+
+Lakshmi
+    I did it Greg! Mail delivered.
+Greg
+    Well done Lakshmi! I'm very proud. 
+Greg
+    Walk with me.
 **Event**
+	Greg walks to the center of the Guild of the second floor. Other NPCs in the building come in the scene, closer to see Lakshmi.
+Greg
+    I am very proud to announce... 
+Greg
+    Welcome, Lakshmi! You are now a full guild member. 
+**Event**
+	NPCs cheer in the background.
+Greg
+    I hope to see great things from you.
+Lakshmi
+    All right! This is so awesome Greg!
+Greg
+    And now... I'm putting you straight to work.
+**Player choice**
+	**Already?**
+	**Bring it on!**
+
+
+Greg
+    Go up to the front desk. Robert will have some deliveries for you to make.
+
+### Quest 3: See Robert in Guild Hall
+Event
     Player goes to see the receptionist.
-**Robert**
-    _Hey Lakshmi, congrats on becoming a full member. I've got a whole batch of deliveries here for you to make. Good luck!_
-**Lakshmi**
-    _Thanks! 
+Robert
+    Hey Lakshmi, congrats on becoming a full member. I've got a whole batch of deliveries here for you to make. Good luck!
+Lakshmi
+    Thanks! 
 
 ### Lakshmi delivers the first few mail (Start Dolphin Bay story) (CL)
 
