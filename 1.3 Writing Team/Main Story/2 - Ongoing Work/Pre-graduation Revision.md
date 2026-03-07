@@ -169,7 +169,9 @@ Lakshmi
 				    That is... an odd way to put it.
 			**It's creepy**
 			    Narrator
-				    Crows kackle nosily, laughing at you. [Lakshmi humps in place]. 
+				    Crows kackle nosily, laughing at you.
+				**Event**
+					Lakshmi jumps in place.
 				Narrator 
 					Who knows what else is hiding in there? 
 				Lakshmi
@@ -201,7 +203,7 @@ Lakshmi
 					NO! Keeping and sharing memories is what will keep us together! How can you say that!
 				 Grandpa Dan: 
 					 ...
-				 [Quick QTE to apologize: press a button before time runs out]
+				 [Quick QTE to apologize: press a button before time runs out (to double check if possible with dev team)]
 				 **If player is successful** 
 					 Lakshmi
 						 I... I'm sorry. I shouldn't have raised my voice at you.
