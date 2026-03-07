@@ -7,8 +7,11 @@ By: Corina
 - [x] Outside scene with Grandpa Dan - Act 1, Quest 1 - Scene 2
 - [x] Intern Memory - Quest 2 - Scene 1
 - [x] Graduation Ceremony - Quest 2 - Scene 2 (?) 
-- [x] Exam 
-- [ ] Interactable in Chalet
+- [ ] Exam questions
+- [ ] Interactables in Chalet
+- [ ] Add narrator to other parts of the writing 
+- [ ] Make sure all exam answers are hinted at in previous dialogue/interctebles
+- [ ] Finish Quest 2 - Scene 6
 ---
 
 # Context
@@ -21,40 +24,7 @@ Early game notes: [[Dolphin Bay - Elements to be reviewed]], [[Dolphin Bay - Eve
 Lakshmi, Grandpa Dan, Greg. Intern (NAME??). [[Guild Receptionist (Robert)]], [[Lakshmi (MC)]], [[Old Character Bios]], experienced guild member
 
 ---
-
-#### Lakshmi wakes up in Greg's chalet
-*Map [[Greg Chalet]]*
-#### Lakshmi does her exam 
-*Map (interior not created yet)*
-
-Prev work done: [[Day of the exam]]
-
-* [Exam] event Since Greg can be a big goofball, I want him to troll Lakshmi with the pop quizz. Whether she does good or bad, she passes her exam, because it's more about her actions and maturity that Greg is evaluating.
-* [Exam] Revaluate the multiple choice event. If we do this, we need for Greg to explain each of the wrong answers and it can be difficult. Might make a mini game or internal monologue with doodles instead.
-
-
--> List of questions during exam (multiple choice?): Lakshmi will comment about her experiences with these :
-- Economy : isolation between villages. Less economy now. Self sustained villages
-- Technology : fell. No modern means of communication
-- Schools : farming schools (e.g. Lakshmi comments that prefers farming schools much more over normal schools, likes plants, can add a plant in her room)
-- Fog : calamity, cant traverse it. Monsters. (e.g. can add that she didn't encounter any monster before but she is deeply scared of them)
-- Reason for deliverymen : connect all villages together (maybe have a short verbal saying.) Delivering mail at your doorstep faster than email
-
-Fun twist to **confirm with dev team** : she is very bored and imagines it as a mini game. Or doodles by accident on the exam page and we can show it as drawings on screen. Easier to get the player interested in the game and hint at future gameplay?
-- ==COMMENT FROM ARKANA:== I love the idea of the doodling, but if she's late maybe she doesn't have much time to do that. I think having an image of the actual exam questions pop up and then choosing her answer would make it more interesting visually. Maybe she could get distracted by seeing everyone getting up because they're done and do a little doodle then tell herself to stay focused. Then, on the image of the exam we would see her doodle. Can you visualise what I'm trying to explain?
-#### Lakshmi speaks to the intern (enter first memory) 
-*Map (interior not created yet)*
-#### Lakshmi delivers the first few mail (Start Dolphin Bay story) 
-*Map [[Dolphin Bay Locations]] (Eastern and Western side?)*
-
-Previous work done :  [[Dolphin Bay - Event 1 post exam]], [[Dolphin Bay - Event 2 post exam]], [[Dolphin Bay - Event 3 post exam]] (may want not to include Dr. Lamborghini's delivery yet so we can flesh out the character better)
-
----
-
-
----
-
-
+# Draft 
 ### Lakshmi wakes up in Greg's chalet (AK revision, another doc)
 
 
