@@ -27,9 +27,9 @@ Generic NPCs
 - [ ] Male NPC var*
 - [ ] Female NPC*
 - [ ] Female NPC Var*
-- [ ] Male child npc*
+- [x] Male child npc*
 - [ ] Male child NPC var*
-- [ ] Female Child NPC*
+- [x] Female Child NPC*
 - [ ] Female Child NPC var*
 
 
