@@ -61,21 +61,21 @@ Lakshmi, Grandpa Dan, Greg. Intern (NAME??). [[Guild Receptionist (Robert)]], [[
 **Grandpa Dan**
     *Ah! Lakshmi don't scare me like that! That mutt already got the jump on me this morning. My heart can't take much more!*
 **Lakshmi**
-    *Leo? Pfft. Ok grandpa. He just knows you need the energy to get your morning started.*
+    *Leo? {++{emote/sfx laughing}++}{--Pfft.--} Ok grandpa. He just knows you need the energy to get your morning started.*
 **Grandpa Dan**
-      * *grumble grumble* * *Yet I've been up since morning.* * *grumble grumble* * *Well, if you see that dog, get him home. I made him his favourite biscuits.*
+      {--* *grumble grumble* *--} {++{emote frustrated} [++}*{++++}Yet I've been up since morning.*{++]{small font}++} {--* *grumble grumble* *--} *Well, if you see that dog, get him home. I made him his favourite biscuits.*
 **Lakshmi**
     *Ay Ay, cap'n!*
 **Event**
     Journal Updated: Find Leo. Who should I hurry up to first, Leo or Greg? The answer is *yes*.
 **Grandpa Dan**
-    *Speaking of breakfast, go eat your slice of bread and run straight to the **Guild Hall**! Greg will skewer you if you are late!*
+    *Speaking of breakfast, {++eat quick++}{--go eat your slice of bread--} and run straight to the **Guild Hall**! Greg will skewer you if you are {++any ++}late{++r++}!*
 **Event**
     Grandpa Dan starts walking away towards the door.
 **Lakshmi**
      *Thanks Grandpa Dan.* 
 **Grandpa Dan**
-    * *Khum.* * *Right. See you later Lakshmi.
+    {--* *Khum.* *--} {++{sfx/emote content}++}*{++ Ahem ++}{~~R~>r~~}ight. See you later Lakshmi.
 **Event**
 
     Grandpa Dan walks out.
@@ -100,7 +100,7 @@ Lakshmi
 
 Event 
     If player goes up to Greg.
-    Descriptive notes: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone bench. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]
+    Descriptive notes: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone bench. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]{++ See previous concept art++}
 Lakshmi 
 	Wow. What a view...
 Narrator
@@ -175,7 +175,7 @@ Lakshmi
 					 ...
 				Lakshmi
 					Shoot! Too brash. Should I apologize? Quick!
-				 [Quick QTE to apologize: press a button before time runs out (to double check if possible with dev team)]
+				 [Quick QTE to apologize: press a button before time runs out (to double check if possible with dev team)]{>>this would be possible. but i think we should think more about adding qtes to dialogue. we can meet and discuss how this is typically done and how it would work best in our game<<}
 				 **If player is successful** 
 					 Lakshmi
 						 I... I'm sorry. I shouldn't have raised my voice at you.
@@ -215,7 +215,7 @@ Lakshmi
 	    Lakshmi
 		    Sorry Gramps, I am in a hurry. You know how Greg gets when he is angsty. Maybe later?
 		Grandpa Dan
-		    Huff... Right.
+		    Huff... Right.{>>grandpa dan seems to be very vocal with his onomatopoeia. I think it can work maybe for just his character if we are committing to it. but as some of my corrections have shown, we should leverage sounds and emotes for conveying emotion and communicating along with the text.<<}
 Event
 	Lakshmi walks away from the scene a bit.
 Lakshmi
@@ -227,7 +227,7 @@ Lakshmi
 * *Opened thread about Fog and memories  [[Narrative Goals#The fog subplot]] [[Narrative Goals#Calamity]]*: *Fog shrouds your memories*
 * *Opened thread: [[Narrative Goals#Lakshmi’s trauma subplot]]: Doesn't remember her parents* 
 * *Established Lakshmi's values: individual memories are important*
-==* *Might need to establish that the fog is related to strong emotions?*==
+==* *Might need to establish that the fog is related to strong emotions?*=={>>This can be done later, no worries. Having the player figure out and have a deeper understanding of this will take time. Its kind of the whole point of the simplicity of the dolphin bay story<<}
 ---
 ### Quest 1, Scene 3: Forest Dialogue
 Lakshmi
