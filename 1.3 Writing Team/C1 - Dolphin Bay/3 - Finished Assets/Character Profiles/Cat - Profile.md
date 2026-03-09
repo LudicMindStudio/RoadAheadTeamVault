@@ -1,12 +1,10 @@
 ---
 tags:
 Date_Created: 2026-03-04
-Age: 13
+Age: 10
 Profession: kid
+dol:
 ---
-```
-> PLEASE TITLE - CharacterName - Profile
-```
 
 # Reference Art Links
 ![[Pasted image 20260304153212.png]]
