@@ -27,9 +27,9 @@ Generic NPCs
 - [ ] Male NPC var*
 - [ ] Female NPC*
 - [ ] Female NPC Var*
-- [ ] Male child npc*
+- [x] Male child npc*
 - [ ] Male child NPC var*
-- [ ] Female Child NPC*
+- [x] Female Child NPC*
 - [ ] Female Child NPC var*
 
 
@@ -221,4 +221,4 @@ Inspiration: Montain-y rural Japan river house villages
 | Bread                               | Sprite              |             |          |        |
 |                                     |                     |             |          |        |
 
-Background for Pre-graduation scene [[1.3 Writing Team/Main Story/2 - Assets/Pre-graduation Dialogue-Events|Pre-graduation Dialogue-Events]]
+Background for Pre-graduation scene [[Pre-graduation Dialogue-Events|Pre-graduation Dialogue-Events]]
