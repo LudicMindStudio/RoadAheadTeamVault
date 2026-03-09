@@ -8,7 +8,7 @@ Date_Created: 2026-03-09
 
 *Dialogue Root* : [[Tullia - Profile]]
 # Characters: Lakshmi, Tullia
-## Bundle : DialogueOptionName
+## Bundle : LashmiDeliversMailToTullia_0
 
 Lakshmi: Hi Tullia!!
 

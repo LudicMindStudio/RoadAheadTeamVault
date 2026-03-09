@@ -28,22 +28,13 @@ Cat has grown up hearing stories about the ocean as her father is a sailor.
 --- 
 # Character Dialogue 
 
-DIALOGUE_0 ONE
-	Brief summary of Dialogue One 
-		Trigger Start - ExampleTag=True
-		On Clear - ExampleTag=True 
 
-DELIVERED MAIL TO NPC
-	Brief summary of DELIVERED MAIL TO NPC
-		Trigger Start - Lakshmi_Has_NPCs_Mail=True, Lakshmi_Interacts_NPC=True  
-		On Clear - Lakshmi_Has_Delivered_NPCs_Mail=True, Lakshmi_Has_NPCs_Mail=False
-
-LakshmiMeetsCat_0 ONE
+[[LakshmiMeetsCatAndTullia_0]] 
 	Cat is sitting near the docks with Tullia. They are talking among themselves. Lakshmi comes near and Cat calls her out. 
 		Trigger Start - Lakshmi_comes_near_the_group=True
-		On Clear - Lakshmi_Has_Met_Cat_and_Tullia =True 
+		On Clear - Lakshmi_Has_Met_Cat_and_Tullia =True
 		
-LakshmiDeliversMailToCat_0
+[[LakshmiDeliversMailToCat_0]]
 	Brief summary of DELIVERED MAIL TO NPC
 		Trigger Start - Lakshmi_Has_Cats_Mail=True, Lakshmi_Interacts_NPC=True  
 		On Clear - Lakshmi_Has_Delivered_Cats_Mail=True, Lakshmi_Has_NPCs_Mail=False

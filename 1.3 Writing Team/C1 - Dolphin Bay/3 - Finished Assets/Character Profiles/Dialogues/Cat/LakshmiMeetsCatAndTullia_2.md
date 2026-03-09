@@ -1,18 +1,16 @@
 ---
-Date_Created: 2026-03-04
+Date_Created: 2026-03-09
 ---
 ```
 > PLEASE TITLE - DialogueName_DialogueOptionNumber_DialogueOptionNumber...
 > For Root Dialouge PLEASE TITLE - DialogueName_0 
 ```
 
-*Dialogue Root* : [[Cat - Profile]]
+*Dialogue Root* : [[LakshmiMeetsCatAndTullia_0]]
 # Characters: Lakshmi, Cat & Tullia
-## Bundle : IntroductionChat_0
+## Bundle : LakshmiMeetsCatAndTullia_2
 
-Cat: Hey you! What are you doing here?
-Lakshmi: Hi sorry to disturb. I'm a new postal worker. I'm just trying to figure out where to go next.
-Cat: Oh I see. You can sit with us and try to hear 
+Lakshmi: I have a lot of work to do, but nice meeting you kids.
 
 **Options**
 - DialogueOption1Name: Player Option 1

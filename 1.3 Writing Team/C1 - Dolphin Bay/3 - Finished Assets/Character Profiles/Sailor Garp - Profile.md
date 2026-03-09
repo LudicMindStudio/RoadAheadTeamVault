@@ -1,7 +1,7 @@
 ---
 tags:
 Date_Created: 2026-02-26
-Age: 60
+Age: 50
 Profession: Fisherman
 ---
 ```
@@ -15,20 +15,21 @@ Profession: Fisherman
 
 ## Appearance 
 
-Physical description
+- Wears a hat (unsure if he has hair under there or not)
+- brown eyes
+- Wears overalls
 ## Core Characteristics 
 
-Description of the vibe of the character. What makes this character tick? 
+Remembers all the wildlife he would see prior to the fog. Says that it seems like it all wondered away. Says that he is proud of his daughter for the work that she does. He's happy he's able to share his passion with her. 
 ## Essential History 
 
-Description of any character defining events that occurred before they meet Lakshmi 
+Misses the prefog times when sailing was so much simpler. Is being forced away from his passion by the world. Can use some encouragement. Is looking to assemble a new crew to join him.
 ## Relationships
 
-Brief description of major relationships (lovers, good friends, enemies etc.)
+Cat's father. 
 ## Brainstorming Links
 
-Brainstorming Document One 
-Brainstorming Document Two...
+[[Old Sailor Garp]]
 
 --- 
 # Character Dialogue 

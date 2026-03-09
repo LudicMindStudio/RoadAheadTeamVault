@@ -6,15 +6,13 @@ Date_Created: 2026-03-09
 > For Root Dialouge PLEASE TITLE - DialogueName_0 
 ```
 
-*Dialogue Root* : [[LakshmiDeliversMailToTullia_0]]
-# Characters: Lakshmi, Tullia
-## Bundle : LakshmiDeliversMailToTullia_1
+*Dialogue Root* : [[LakshmiMeetsCatAndTullia_1]]
+# Characters: Lakshmi, Cat & Tullia
+## Bundle : LakshmiMeetsCatAndTullia_1_2
 
-Lakshmi: Here's your mail!
+Cat: François and his gang usually hang around the dolphin statue. Just be mindful of them if there are any houses you need to get to in that area.
 
-Tullia: Oh...Thank you, bye.
-
-Lakshmi: Alright. Maybe I should work on my approach depending on who I deliver mail to. Who's next?
+Lakshmi: Oh! Okay. Thank you for the info. I have to get back to work. See you kids!
 
 **Options**
 - DialogueOption1Name: Player Option 1

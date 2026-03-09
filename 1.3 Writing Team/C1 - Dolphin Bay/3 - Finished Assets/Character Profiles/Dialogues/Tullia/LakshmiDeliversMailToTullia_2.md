@@ -8,7 +8,7 @@ Date_Created: 2026-03-09
 
 *Dialogue Root* : [[LakshmiDeliversMailToTullia_0]]
 # Characters: Lakshmi, Tullia
-## Bundle : LakshmiDeliversMailToTullia
+## Bundle : LakshmiDeliversMailToTullia_2
 
 Lakshmi: Hum...Never mind.
 
