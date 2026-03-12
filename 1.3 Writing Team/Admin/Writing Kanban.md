@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## To do
 
-- [ ] Revising pre-graduation script - Quest 1, Scene 1: Aaron (2026-03-17)
 - [ ] (after reviewing) formatting pre-graduation script into implementation assets (2026-03-24)
 - [ ] (HOLD?) Revising Liam's memory scipt: Arkana
 - [ ] Revising dialogue of guild hall members : Aaron (2026-03-17)
@@ -23,6 +22,7 @@ kanban-plugin: board
 ## Review
 
 - [ ] Make a list of the characters in Dolphin Bay (Arkana)
+- [ ] Revising pre-graduation script - Quest 1, Scene 1: Aaron (2026-03-17)
 
 
 ## Complete
