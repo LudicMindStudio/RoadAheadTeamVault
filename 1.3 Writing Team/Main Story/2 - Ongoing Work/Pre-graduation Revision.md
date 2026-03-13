@@ -7,12 +7,16 @@ By: Corina
 - [x] Outside scene with Grandpa Dan - Act 1, Quest 1 - Scene 2
 - [x] Intern Memory - Quest 2 - Scene 1
 - [x] Graduation Ceremony - Quest 2 - Scene 2 (?) 
-- [ ] Exam questions
-- [ ] Interactables in Chalet
+- [ ] Exam questions +  Make sure all exam answers are hinted at in previous dialogue/interactable (fog + emotions is fine)
+- [ ] Interactable in Chalet
+- [ ] Intern more related to DB?
 - [ ] Add narrator to other parts of the writing 
-- [ ] Make sure all exam answers are hinted at in previous dialogue/interctebles
 - [ ] Finish Quest 2 - Scene 6
 - [ ] Add dialogue in case the player interacts with NPCs again
+
+Overall comments
+* To add to narrative style: how to handle onomatopoeias in dialogue 
+
 ---
 # Context
 Lakshmi graduates from postal guild, then the story of Dolphin Bay starts.
@@ -61,21 +65,21 @@ Lakshmi, Grandpa Dan, Greg. Intern (NAME??). [[Guild Receptionist (Robert)]], [[
 **Grandpa Dan**
     *Ah! Lakshmi don't scare me like that! That mutt already got the jump on me this morning. My heart can't take much more!*
 **Lakshmi**
-    *Leo? {++{emote/sfx laughing}++}{--Pfft.--} Ok grandpa. He just knows you need the energy to get your morning started.*
+    *Leo? {emote/sfx laughing} Ok grandpa. He just knows you need the energy to get your morning started.*
 **Grandpa Dan**
-      {--* *grumble grumble* *--} {++{emote frustrated} [++}*{++++}Yet I've been up since morning.*{++]{small font}++} {--* *grumble grumble* *--} *Well, if you see that dog, get him home. I made him his favourite biscuits.*
+       {emote frustrated} [*Yet I've been up since morning.*]{small font}  *Well, if you see that dog, get him home. I made him his favourite biscuits.*
 **Lakshmi**
     *Ay Ay, cap'n!*
 **Event**
     Journal Updated: Find Leo. Who should I hurry up to first, Leo or Greg? The answer is *yes*.
 **Grandpa Dan**
-    *Speaking of breakfast, {++eat quick++}{--go eat your slice of bread--} and run straight to the **Guild Hall**! Greg will skewer you if you are {++any ++}late{++r++}!*
+    *Speaking of breakfast, eat quick and run straight to the **Guild Hall**! Greg will skewer you if you are any later!*
 **Event**
     Grandpa Dan starts walking away towards the door.
 **Lakshmi**
      *Thanks Grandpa Dan.* 
 **Grandpa Dan**
-    {--* *Khum.* *--} {++{sfx/emote content}++}*{++ Ahem ++}{~~R~>r~~}ight. See you later Lakshmi.
+     {sfx/emote content}* Ahem right. See you later Lakshmi.
 **Event**
 
     Grandpa Dan walks out.
@@ -100,13 +104,13 @@ Lakshmi
 
 Event 
     If player goes up to Greg.
-    Descriptive notes: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone bench. [Player can come back to look at the villages as they are unveiled by the fog, with game progression]{++ See previous concept art++}
+    Descriptive notes: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone bench. [Player can come back to look at the villages as they are unveiled by the fog, with game progression] See previous concept art
 Lakshmi 
 	Wow. What a view...
 Narrator
     A light breeze touches your cheek.
-   Grandpa Dan
-       Huff.
+Grandpa Dan
+       ...
 Lakshmi
        Still grumpy?
    Grandpa Dan
@@ -215,7 +219,7 @@ Lakshmi
 	    Lakshmi
 		    Sorry Gramps, I am in a hurry. You know how Greg gets when he is angsty. Maybe later?
 		Grandpa Dan
-		    Huff... Right.{>>grandpa dan seems to be very vocal with his onomatopoeia. I think it can work maybe for just his character if we are committing to it. but as some of my corrections have shown, we should leverage sounds and emotes for conveying emotion and communicating along with the text.<<}
+		    Right.{>>grandpa dan seems to be very vocal with his onomatopoeia. I think it can work maybe for just his character if we are committing to it. but as some of my corrections have shown, we should leverage sounds and emotes for conveying emotion and communicating along with the text.<<}
 Event
 	Lakshmi walks away from the scene a bit.
 Lakshmi
@@ -227,7 +231,7 @@ Lakshmi
 * *Opened thread about Fog and memories  [[Narrative Goals#The fog subplot]] [[Narrative Goals#Calamity]]*: *Fog shrouds your memories*
 * *Opened thread: [[Narrative Goals#Lakshmi’s trauma subplot]]: Doesn't remember her parents* 
 * *Established Lakshmi's values: individual memories are important*
-==* *Might need to establish that the fog is related to strong emotions?*=={>>This can be done later, no worries. Having the player figure out and have a deeper understanding of this will take time. Its kind of the whole point of the simplicity of the dolphin bay story<<}
+* *Might need to establish that the fog is related to strong emotions?*{>>This can be done later, no worries. Having the player figure out and have a deeper understanding of this will take time. Its kind of the whole point of the simplicity of the dolphin bay story<<}
 ---
 ### Quest 1, Scene 3: Forest Dialogue
 Lakshmi
@@ -235,21 +239,25 @@ Lakshmi
     I heard kids in the village say there are monsters lurking here... 
     No! Lakshmi get a hold of yourself! These are kid's tales, nothing more. 
 
-### Quest 2, Interactible Receptionist
+### Quest 2, Interactable Receptionist
 
 **Receptionist**
        Welcome to the post guild! 
+**Receptionist**
        Ah Lakshmi it's you! Greg is waiting in his office in the back room. Good luck!
 **Lakshmi**
     ...Good luck? What's going on here...
-    Is it because I am late? 
+**Lakshmi**
+    Is it because I am late?
+**Lakshmi**
     Please please tell me I won't be pulling out weeds today!
 **Receptionist**
     Bahahahaha
+**Receptionist**
     Can't promise anything.
 **Lakshmi**
     That bad... Alright! Thanks!
-### Quest 2, Interactible Intern
+### Quest 2, Interactable Intern
 **Event**
 	Player Overhears Intern talking to themselves
 **Intern** 
@@ -375,9 +383,9 @@ Lakshmi
 Greg
 	Insignificant!
 Lakshmi
-    What kind of grade is that?
+    What's the point of that?
 Greg
-	I was more interested in how you react to unpredictable situations. 
+	I was more interested in seeing the way you react to unpredictable situations. 
 Greg
 	Today’s exam was out of nowhere, and yet you challenged it face first.
 Greg
@@ -390,15 +398,18 @@ Greg
 	When that happens, don't forget you can take a step back and ask for help.
 Greg
 	...
+Lakshmi
+	I understand
 Greg
-	Do you need a few minutes to think about it?
+	Very well. Are you ready to move on to the next part?
 **Player choice**
 	Yes
-		Good. Know your limits. Get back to me when you are ready. [End dialogue. If interacts again. Start at Regardless of choice.]
+		Greg
+			Good. Know your limits. Get back to me when you are ready. [End dialogue. If interacts again. Start at Regardless of choice.]
 	No 	
 [Regardless of choice]
 Greg
-    Hum. Very well, let’s move on to the next part.
+    Let’s move on to the next part.
 Lakshmi
     Bring it on!    
 ### Quest 2 - Scene 4: Practical Exam Quest Giver
@@ -571,7 +582,9 @@ Lakshmi
 Greg
     And now... I'm putting you straight to work.
 **Player choice**
-	==**Already?**==
+	==**I need a moment**==
+		Greg: 
+			Good 
 	==**Bring it on!**==
 Greg
     Go up to the front desk. Robert will have some deliveries for you to make.
