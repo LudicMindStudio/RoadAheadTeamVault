@@ -4,9 +4,9 @@
 > For Root Dialouge PLEASE TITLE - DialogueName_0 
 ```
 
-*Dialogue Root* : [[Lakshmi_meets_François_0]]
-# Characters: Lakshmi, François
-## Bundle : Lakshmi_meets_François_3
+*Dialogue Root* : [[Lakshmi_meets_François_2]]
+# Characters: Lakshmi, NPC1...
+## Bundle : Lakshmi_meets_François_2_2
 
 François: You will return. I know it
 

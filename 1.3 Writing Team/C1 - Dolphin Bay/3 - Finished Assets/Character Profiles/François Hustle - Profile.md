@@ -37,10 +37,10 @@ Wife, Julia.
 [[Lakshmi_meets_François_0]] 
 	Lakshmi sees a group of protestors and Francois at the front of the pack standing on a small crate
 		Trigger Start - Lakshmi_Passes_By_Pack=True
-		On Clear - Lakshmi_Learns_Francois_Mission1=True, Lakshmi_Leanrs_Francois_Mission3=False
+		On Clear - Lakshmi_Learns_François_Mission1=True, Lakshmi_Leanrs_Francois_Mission3=False
 
 [[Lakshmi_Delivers_Mail_To_François_0]]
-	Brief summary of DELIVERED MAIL TO NPC
-		Trigger Start - Lakshmi_Has_NPCs_Mail=True, Lakshmi_Interacts_NPC=True  
-		On Clear - Lakshmi_Has_Delivered_NPCs_Mail=True, Lakshmi_Has_NPCs_Mail=False
+	Lakshmi .... (ADD DESCRIPTION)
+		Trigger Start - Lakshmi_Has_François_Mail=True, Lakshmi_Interacts_François=True  
+		On Clear - Lakshmi_Has_Delivered_François_Mail=True, Lakshmi_Has_François_Mail=False
 
