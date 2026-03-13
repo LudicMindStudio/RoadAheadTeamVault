@@ -34,7 +34,7 @@ Character Introduction 2.0
 `If variable has graduated is true`
 
 **Robert**
-    _Why hello graduate! I swear you've gotten taller?_
+    _Well hello graduate! I swear you've gotten taller?_
 **Lakshmi**
     *Oh, you will be pulling weeds alright.*
 

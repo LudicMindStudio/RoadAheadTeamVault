@@ -5,9 +5,6 @@ Date_Created: 2026-03-13
 Age: 43
 Profession:
 ---
-```
-> PLEASE TITLE - CharacterName - Profile
-```
 
 # Reference Art Links
 
