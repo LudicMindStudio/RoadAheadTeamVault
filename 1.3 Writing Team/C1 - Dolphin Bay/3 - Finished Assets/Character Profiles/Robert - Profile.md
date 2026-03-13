@@ -3,7 +3,7 @@ tags:
   - DolphinBay
 Date_Created: 2026-03-13
 Age: 34
-Profession: Receptionist
+Profession: Guild receptionist
 ---
 
 # Reference Art Links

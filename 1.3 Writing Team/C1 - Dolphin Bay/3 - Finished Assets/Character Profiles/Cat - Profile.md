@@ -1,11 +1,11 @@
 ---
 tags:
+  - DolphinBay
 Date_Created: 2026-03-04
 Age: 10
-Profession: kid
-dol:
+Profession: Kid
 ---
-
+TO FINISH
 # Reference Art Links
 ![[Pasted image 20260304153212.png]]
 # Description
@@ -28,13 +28,16 @@ Cat has grown up hearing stories about the ocean as her father is a sailor.
 --- 
 # Character Dialogue 
 
-
 [[LakshmiMeetsCatAndTullia_0]] 
 	Cat is sitting near the docks with Tullia. They are talking among themselves. Lakshmi comes near and Cat calls her out. 
-		Trigger Start - Lakshmi_comes_near_the_group=True
+		Trigger Start - Lakshmi_comes_near_the_group=True, Lakshmi_Has_Met_Cat_and_Tullia = False
 		On Clear - Lakshmi_Has_Met_Cat_and_Tullia =True
 
-Lakshmi and cat alone
+[[LakshmiMeetsCat_0]]
+	ADD Description
+		Trigger Start - Lakshmi_comes_near_the_group=True, Lakshmi_Has_Met_Cat_and_Tullia = False
+		On Clear - Lakshmi_Has_Met_Cat_and_Tullia =True
+	
 		
 [[LakshmiDeliversMailToCat_0]]
 	Brief summary of DELIVERED MAIL TO NPC

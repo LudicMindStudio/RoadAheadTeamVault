@@ -4,7 +4,7 @@
 > For Root Dialouge PLEASE TITLE - DialogueName_0 
 ```
 
-*Dialogue Root* : [[Receptionist Robert - Profile]]
+*Dialogue Root* : [[Robert - Profile]]
 # Characters: Lakshmi, Robert
 ## Bundle : Lakshmi_Talks_With_Robert_Main_Story
 

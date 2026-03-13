@@ -3,7 +3,7 @@ tags:
   - DolphinBay
 Date_Created: 2026-03-13
 Age: 43
-Profession:
+Profession: Fish vendor
 ---
 
 # Reference Art Links
