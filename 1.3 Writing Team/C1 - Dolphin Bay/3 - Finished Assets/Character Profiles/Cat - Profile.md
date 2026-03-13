@@ -33,6 +33,8 @@ Cat has grown up hearing stories about the ocean as her father is a sailor.
 	Cat is sitting near the docks with Tullia. They are talking among themselves. Lakshmi comes near and Cat calls her out. 
 		Trigger Start - Lakshmi_comes_near_the_group=True
 		On Clear - Lakshmi_Has_Met_Cat_and_Tullia =True
+
+Lakshmi and cat alone
 		
 [[LakshmiDeliversMailToCat_0]]
 	Brief summary of DELIVERED MAIL TO NPC

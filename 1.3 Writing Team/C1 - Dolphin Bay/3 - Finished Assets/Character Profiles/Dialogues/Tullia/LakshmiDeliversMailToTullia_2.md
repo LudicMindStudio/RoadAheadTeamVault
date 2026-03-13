@@ -22,7 +22,7 @@ Lakshmi: It's your mail.
 
 Tullia: Ah! Thank you, bye.
 
-Lakshmi: She's shy, but also seem to like games. Interesting...who is next?
+Lakshmi: She's shy, but also seem to like games. Interesting...who's next?
 
 **Options**
 - DialogueOption1Name: Player Option 1
