@@ -36,11 +36,10 @@ She is part of the group of kids in Dolphin Bay. She feels the closest towards C
 	Tullia is alone near her residence and Lakshmi find her.
 		Trigger Start - Lakshmi_Has_Tullias_Mail=True, Lakshmi_Interacts_NPC=True  
 		On Clear - Lakshmi_Has_Delivered_Tullias_Mail=True, Lakshmi_Has_NPCs_Mail=False
-<<<<<<< HEAD
+
 
 [[LakshmiInteractWithTulliaAlone_0]]
 	Tullia is walking in Dolphin Bay by herselfé
 			Trigger Start - Lakshmi_Has_Tullias_Mail=False, Lakshmi_Interacts_Tullia=True
 			On Clear - Lakshmi_ Finds_Tullia_Interesting
-=======
->>>>>>> origin/master
+
