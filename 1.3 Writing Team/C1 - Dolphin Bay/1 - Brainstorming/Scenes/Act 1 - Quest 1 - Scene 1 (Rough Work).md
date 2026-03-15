@@ -1,7 +1,7 @@
 ### EVENT ONE 
 
 Narrator: as you descend, the smell of freshly baked bread fills your nostrils 
-Narrator: the old wooden stairs squeak {>>CL: Should we consider to reserve any narrator commentary about the sounds for in-game sound effects? Vs smells can be said by the narrator. Not as a hard rule, but to make it more interactable. <<}
+Narrator: the old wooden stairs squeak {>>CL: Should we consider to reserve any narrator commentary about the sounds for in-game sound effects? Vs smells can be said by the narrator. Not as a hard rule, but to make it more immersive. <<}
 
 GrandpaDan looks up from his work 
 
@@ -36,7 +36,7 @@ Grandpa Dan: He’s up to mischief! 
 
 Option three: 
 Lakshmi: Is that what we’re calling the stray now? 
-Grandpa Dan: the shorter the better 
+Grandpa Dan: the shorter the better {>>Love the idea for Grandpa Dan to name Leo on the spot. Maybe for clarity Lakshmi can add at the end something like "Oh that's a cute name for the pup." <<}
 RETURN TO DIALOGUE TREE ONE 
 
 Narrator: you hear two quick barks from outside 
@@ -48,7 +48,7 @@ Grandpa Dan leaves quickly 
 
 **Bread**: the hot sourdough melts in your mouth: a nutty wave of cinnamon followed by a sweet maple glow. 
 
-**Grandpa Dan’s Book**: “Once again...welcome to my house. Come freely. Go safely; and leave something of the happiness you bring.” 
+{~~**Grandpa Dan’s Book**~> Greg~~}: “Once again...welcome to my house. Come freely. Go safely; and leave something of the happiness you bring.”{>>It's Greg's chalet btw<<} 
 
 **Tea**: strange leaves bobble on the green surface
 

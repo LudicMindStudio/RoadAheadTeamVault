@@ -10,7 +10,7 @@ By: Corina
 - [ ] Exam questions +  Make sure all exam answers are hinted at in previous dialogue/interactable (fog + emotions is fine) 
 - [ ] Interactable in Chalet
 - [x] Make Greg more idealistic and positively inspiring to contrast with Grandpa Dan 
-- [ ] Intern more related to DB story? 
+- [ ] Intern more related to DB story?  
 - [x] Finish Quest 2 - Scene 6
 - [ ] Add narrator to other parts of the writing 
 - [ ] Add dialogue in case the player interacts with NPCs again
@@ -94,6 +94,12 @@ Lakshmi, Grandpa Dan, Greg. Intern (NAME??). [[Guild Receptionist (Robert)]], [[
     Journal Updated: Thank Grandpa Dan for making your favourite bread.
 
 ---
+[[Act 1 - Quest 1 - Scene 1 (Rough Work)]]
+
+### Interactable Chalet
+
+
+
 ### Quest 1, Scene 2 : Lakshmi Talks to Grandpa Dan
 
 Event
