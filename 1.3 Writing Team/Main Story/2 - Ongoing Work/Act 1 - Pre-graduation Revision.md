@@ -8,7 +8,7 @@ By: Corina
 - [x] Intern Memory - Quest 2 - Scene 1
 - [x] Graduation Ceremony - Quest 2 - Scene 2 (?) 
 - [ ] Exam questions +  Make sure all exam answers are hinted at in previous dialogue/interactable (fog + emotions is fine) 
-- [ ] Interactable in Chalet
+- [x] Interactable in Chalet
 - [x] Make Greg more idealistic and positively inspiring to contrast with Grandpa Dan 
 - [ ] Intern more related to DB story?  
 - [x] Finish Quest 2 - Scene 6
@@ -97,7 +97,6 @@ Lakshmi, Grandpa Dan, Greg. Intern (NAME??). [[Guild Receptionist (Robert)]], [[
 
 ---
 ### Interactable Chalet Top Floor
-
 Table
 	Lakshmi
 		Journaling keeps your mind at bay and spirits sharp!
@@ -117,14 +116,17 @@ Bed
 	   Lakshmi
 	       Do not tempt me.
 
-### Quest 1, Scene 2 : Lakshmi Talks to Grandpa Dan on the bench
+### Quest 1, Dialogue 2 : Lakshmi Talks to Grandpa Dan on the bench
 
 Event
     Lakshmi walks out of Greg's chalet
 Lakshmi
     Today is the day! Now if I go straight from here, Guild Hall should be up ahead.
+Lakshmi
     I have not been in Dolphin Bay often though.. 
-    Bah, I'll figure this out!
+Lakshmi
+    Bah. I'll figure this out!
+### Quest 1, Scene 2 : Lakshmi Talks to Grandpa Dan on the bench
 
 Event 
     If player goes up to Greg.
@@ -153,7 +155,7 @@ Lakshmi
 		    **The Fog**
 		    **The Fog, duh**
 			    Grandpa Dan
-				    [jumps in place] Don't play coy with me --Ayy. my back.
+				    [jumps in place] Don't play coy with me -Ayy. My back.
 				Grandpa Dan
 				    Khum. 
 		[Regardless of choice]
@@ -162,7 +164,7 @@ Lakshmi
 	    **Player choice**
 		    **It's peaceful**
 				 Narrator
-				    The stillness of the moment is oddly... soothing. Birds chirp quietly, keeping company to the dawn of another day.
+				    The stillness of the moment is oddly... soothing. Birds chirp quietly, welcoming the dawn of another day.
 			    Grandpa Dan
 				    That is... an odd way to put it.
 			**It's creepy**
@@ -173,9 +175,9 @@ Lakshmi
 				Narrator 
 					Who knows what else is hiding in there? 
 				Lakshmi
-				    I just... the vibes are not there... The fog is too mysterious.
+				    I just... The fog is too mysterious. Too many unknowns.
 				Grandpa Dan
-				    Not unexpected. 
+				    Not... unexpected. 
 				Grandpa Dan
 				    Still, I had some hope the new generation would be blissfully ignorant of old fears.
 		[Regardless of choice]
@@ -192,19 +194,19 @@ Lakshmi
 		Grandpa Dan
 			Most youth don't nowadays. 
 		Grandpa Dan
-			This fog shrouds your memories in ways you wouldn't expect. *(to double check if makes sense with [[Narrative Goals]])*
+			This fog shrouds your memories in ways you wouldn't expect. *(+to double check if makes sense with [[Narrative Goals]])*
 		Grandpa Dan
 			Maybe it's for the best. Dwelling on past memories won't build a future.
 		**Player choice**
 			**Intensely Disagree**
 				Lakshmi
 					NO! Sharing memories is what will keep us together! How can you say that!
-				 Grandpa Dan: 
+				 Grandpa Dan
 					 ...
 				Lakshmi
 					Shoot! Too brash. Should I apologize? Quick!
-				 [Quick QTE to apologize: press a button before time runs out (to double check if possible with dev team)]{>>this would be possible. but i think we should think more about adding qtes to dialogue. we can meet and discuss how this is typically done and how it would work best in our game<<}
-				 **If player is successful** 
+				 [Quick QTE to apologize: press a button before time runs out (to double check if possible with dev team)]{>>this would be possible. but i think we should think more about adding qtes to dialogue. we can meet and discuss how this is typically done and how it would work best in our game<<}{>>Whatever is easier to implement. The countdown might have an easier tutorial. Freeze the frame with the explanation "some dialogue might be timed"<<}[Or have a 15 sec countdown to answer, see Witcher 3 example: https://youtu.be/k08RRor_zPI?si=WcbkEzBVMHQKSdR0&t=6030 Telltale games example: https://youtu.be/Z1VKe8zfVGs?si=oeSmuQoBLGahs1JO&t=7099]
+				 **If player is successful: Lakshmi apologizes** 
 					 Lakshmi
 						 I... I'm sorry. I shouldn't have raised my voice at you.
 					 Grandpa Dan
@@ -217,7 +219,7 @@ Lakshmi
 						I... 
 					Grandpa Dan
 						Hope to share some of your enthusiasm one day.
-				 **If player is unsuccessful**
+				 **If player is unsuccessful: : Lakshmi does not apologize**
 					 Lakshmi
 						 ...
 					 Grandpa Dan
