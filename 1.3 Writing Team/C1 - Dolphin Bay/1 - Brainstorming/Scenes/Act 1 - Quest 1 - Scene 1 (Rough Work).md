@@ -1,7 +1,7 @@
 ### EVENT ONE 
 
 Narrator: as you descend, the smell of freshly baked bread fills your nostrils 
-Narrator: the old wooden stairs squeak 
+Narrator: the old wooden stairs squeak {>>CL: Should we consider to reserve any narrator commentary about the sounds for in-game sound effects? Vs smells can be said by the narrator. Not as a hard rule, but to make it more interactable. <<}
 
 GrandpaDan looks up from his work 
 

@@ -9,9 +9,9 @@ By: Corina
 - [x] Graduation Ceremony - Quest 2 - Scene 2 (?) 
 - [ ] Exam questions +  Make sure all exam answers are hinted at in previous dialogue/interactable (fog + emotions is fine) 
 - [ ] Interactable in Chalet
-- [ ] Make Greg more idealistic and positively inspiring to contrast with Grandpa Dan 
-- [ ] Intern more related to DB?
-- [ ] Finish Quest 2 - Scene 6
+- [x] Make Greg more idealistic and positively inspiring to contrast with Grandpa Dan 
+- [ ] Intern more related to DB story? 
+- [x] Finish Quest 2 - Scene 6
 - [ ] Add narrator to other parts of the writing 
 - [ ] Add dialogue in case the player interacts with NPCs again
 
@@ -597,7 +597,7 @@ Greg
 Event
     Player goes to see the receptionist.
 Robert
-    Hey Lakshmi! Congrats on becoming a full member! 
+    Hey Lakshmi! Congrats again on becoming a full member! 
 Lakshmi
 	Thanks!
 Robert    
