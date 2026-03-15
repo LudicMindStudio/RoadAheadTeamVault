@@ -301,7 +301,9 @@ Lakshmi
 **Greg**
 	You slept in today. I hope you are well rested.
 **Lakshmi**
-    As much as I can be... haha. Sorry Greg... I must have missed my alarm. Nothing too big is going on today I hope?
+    As much as I can be... haha. 
+**Lakshmi**
+    Sorry Greg... I must have missed my alarm. Nothing too big going on today I hope?
 **Greg**
       I'm afraid you are incorrect, Lakshmi. You have.... 
 **Greg**
@@ -321,13 +323,9 @@ Lakshmi
 			Am-am I ready? I feel so underprepared!
 [Regardless of choice]
 **Greg**
-    You leave much to be desired in terms of discipline. But no matter, you are young. 
-**Lakshmi**
-    Is this a challenge? If so, I accept!
+	You'll start with just a few written questions.
 **Greg**
-	A challenge? Who said anything about a challenge? You'll start with just a few written questions.
-**Greg**
-    Go over to the classroom, take a seat and I'll be over in a minute with your exam.
+    Take a seat and I'll be over in a minute with your exam.
 **Lakshmi**
 	Oki doki!
 
@@ -459,20 +457,31 @@ Lakshmi
 Greg
 	Hum hum!
 Greg
-	You won't always be guided by a hand, you know. Explore the Guild a bit. Get to know the folks.
+	You won't always be guided by the hand, you know. Explore the Guild a bit. Get to know the folks.
 Greg
 	Make sure to deliver the note like you've been taught. Treat it as a real postal delivery.
+Greg
+	Do you remember how to deliver the mail?
+**Player Choice**
+	**Of course...**
+		Greg
+			Mm, you don't sound so sure.
+	**Can you remind me again?**
+[Regardless of choice]
+Greg
+	Okay. First. You greet. Then you tell them your name. Then you thank them for using our services. Lastly, don't forget to say goodbye.
+
 Lakshmi
     Got it!
 Narrator
-	Sharply breathing in, you are filled with resolution. Almost there.
+	Sharply breathing in, you are filled with resolution. It's the real final test.
 
 **Journal update**
     Deliver the mail to the new intern. They should be in the storage room in the Guild.
 ### Quest 2 - Scene 5: Practical Exam Intern Memory
 
 **Intern**
-    Dammit where did that go?
+    Dammit where did it go?
 **Lakshmi**
     Uhmm Hi! Are you the new intern?
 **Intern**
@@ -483,8 +492,38 @@ Narrator
     Wow, really? You’re so lucky. I'll receive your mail then.
 **Lakshmi**
     Ok! Well then... Hello... Ola...vius.
-**Lakshmi**
-	 I'm Lakshmi from the postal guild here to deliver your mail! Thank you for using our services and have a good day!
+**Player Choice** [previous choices should disappear with each question] 
+	Lakshmi
+		What do I say first?
+		**Hello!** 
+		**I'm Lakshmi from the postal guild here to deliver your mail.** 
+		**Thank you for using our services.** 
+		**Have a good day!**
+	Lakshmi
+		 And then?
+		**Hello!** 
+		**I'm Lakshmi from the postal guild here to deliver your mail.** 
+		**Thank you for using our services.** 
+		**Have a good day!**
+	Lakshmi
+		 And then?
+		**Hello!** 
+		**I'm Lakshmi from the postal guild here to deliver your mail.** 
+		**Thank you for using our services.** 
+		**Have a good day!**
+	 Lakshmi
+		 And lastly
+		**Hello!** 
+		**I'm Lakshmi from the postal guild here to deliver your mail.** 
+		**Thank you for using our services.** 
+		**Have a good day!****
+	
+**If player gets 4/4 correct**
+	**Intern**
+		Wow thanks! You're so good Lakshmi!
+**If player gets 3/4 or less correct**
+	**Intern**
+		Emm. Thanks Lakshmi. All good?
 **Event**
     Screen shakes.
 **Lakshmi**
