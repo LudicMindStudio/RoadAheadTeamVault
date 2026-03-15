@@ -469,10 +469,21 @@ Greg
 	**Can you remind me again?**
 [Regardless of choice]
 Greg
-	Okay. First. You greet. Then you tell them your name. Then you thank them for using our services. Lastly, don't forget to say goodbye.
-
-Lakshmi
-    Got it!
+	Listen carefully.
+Greg
+	First. You greet. Then you tell them your name. Then you thank them for using our services. Lastly, don't forget to say goodbye. Capice?
+**Player Choice**
+**Can you repeat it?**
+	Greg
+		Sure. Strain your ears.
+	Greg
+		First. You greet. Then you tell them your name. Then you thank them for using our services. Lastly, don't forget to say goodbye. 
+	Greg
+		Feeling good now?
+	[Dialogue goes back to last player choice]
+**I've got it!**
+Greg
+	Fantastic. Go do good deeds.
 Narrator
 	Sharply breathing in, you are filled with resolution. It's the real final test.
 
