@@ -1,14 +1,10 @@
 ---
 Date_Created: 2026-03-04
 ---
-```
-> PLEASE TITLE - DialogueName_DialogueOptionNumber_DialogueOptionNumber...
-> For Root Dialouge PLEASE TITLE - DialogueName_0 
-```
 
-*Dialogue Root* : [[Cat - Profile2]]
+*Dialogue Root* : [[Cat - Profile]]
 # Characters: Lakshmi, Cat
-## Bundle : LakshmiDeliversMailToCat
+## Bundle : LakshmiDeliversMailToCat_0
 
 Lakshmi: Example words... 
 

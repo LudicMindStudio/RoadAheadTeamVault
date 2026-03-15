@@ -1,10 +1,11 @@
 ---
 tags:
-Date_Created:
-Age:
-Profession: Meditative Guild Member
+  - DolphinBay
+Date_Created: 2026-03-13
+Age: 17
+Profession: Postal worker intern
 ---
-TO DO!!!
+TO DO!!
 # Reference Art Links
 
 Include any links to reference art here 
