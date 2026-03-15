@@ -7,15 +7,16 @@ By: Corina
 - [x] Outside scene with Grandpa Dan - Act 1, Quest 1 - Scene 2
 - [x] Intern Memory - Quest 2 - Scene 1
 - [x] Graduation Ceremony - Quest 2 - Scene 2 (?) 
-- [ ] Exam questions +  Make sure all exam answers are hinted at in previous dialogue/interactable (fog + emotions is fine)
+- [ ] Exam questions +  Make sure all exam answers are hinted at in previous dialogue/interactable (fog + emotions is fine) 
 - [ ] Interactable in Chalet
+- [ ] Make Greg more idealistic and positively inspiring to contrast with Grandpa Dan 
 - [ ] Intern more related to DB?
-- [ ] Add narrator to other parts of the writing 
 - [ ] Finish Quest 2 - Scene 6
+- [ ] Add narrator to other parts of the writing 
 - [ ] Add dialogue in case the player interacts with NPCs again
 
 Overall comments
-* To add to narrative style: how to handle onomatopoeias in dialogue 
+* To add to narrative style: how to handle the narrator and not handle onomatopoeias in dialogue 
 
 ---
 # Context
@@ -564,7 +565,7 @@ Narrator
 Lakshmi
     I did it Greg! Mail delivered.
 Greg
-    Well done Lakshmi! I'm very proud. 
+    Well done Lakshmi! I waited for this day a long time. 
 Greg
     Walk with me.
 **Event**
@@ -576,16 +577,19 @@ Greg
 **Event**
 	NPCs cheer in the background.
 Greg
-    I hope to see great things from you.
+    You might think you are doing a small feat. Bringing letters from town to town. 
+Greg
+    But with each letter, you bring people closer. You keep people connected. And it's what we really need today.
+**Event**
+	More NPCs cheers in the background.
 Lakshmi
     All right! This is so awesome Greg!
 Greg
+	You have your heart in the right place Lakshmi. I know you'll do great.
+Greg
     And now... I'm putting you straight to work.
-**Player choice**
-	==**I need a moment**==
-		Greg: 
-			Good 
-	==**Bring it on!**==
+**Event**
+	NPCs scatter to their usual places.
 Greg
     Go up to the front desk. Robert will have some deliveries for you to make.
 
