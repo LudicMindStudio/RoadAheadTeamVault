@@ -30,6 +30,8 @@ Lakshmi, Grandpa Dan, Greg. Intern (NAME??). [[Guild Receptionist (Robert)]], [[
 
 ---
 # Draft 
+
+[[Act 1 - Quest 1 - Scene 1 (Rough Work)]]
 ### Lakshmi wakes up in Greg's chalet (AK revision, another doc)
 
 
@@ -94,13 +96,28 @@ Lakshmi, Grandpa Dan, Greg. Intern (NAME??). [[Guild Receptionist (Robert)]], [[
     Journal Updated: Thank Grandpa Dan for making your favourite bread.
 
 ---
-[[Act 1 - Quest 1 - Scene 1 (Rough Work)]]
+### Interactable Chalet Top Floor
 
-### Interactable Chalet
+Table
+	Lakshmi
+		Journaling keeps your mind at bay and spirits sharp!
+	Lakshmi
+		Always calms me down when I have many thoughts.
+Mirror
+	Lakshmi
+           Hey there! The new uniform on you is looking-
+	**Player Choice**
+	    **GREAT**
+		    Lakshmi
+			    I knew you had good taste. 
+	    **Meh**        
+		    Lakshmi
+			    It might take a while to get used to it.
+Bed
+	   Lakshmi
+	       Do not tempt me.
 
-
-
-### Quest 1, Scene 2 : Lakshmi Talks to Grandpa Dan
+### Quest 1, Scene 2 : Lakshmi Talks to Grandpa Dan on the bench
 
 Event
     Lakshmi walks out of Greg's chalet
