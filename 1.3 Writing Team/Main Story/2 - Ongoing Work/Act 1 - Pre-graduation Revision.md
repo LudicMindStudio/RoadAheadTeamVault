@@ -96,7 +96,7 @@ Lakshmi, Grandpa Dan, Greg. Intern (NAME??). [[Guild Receptionist (Robert)]], [[
     Journal Updated: Thank Grandpa Dan for making your favourite bread.
 
 ---
-### Interactable Chalet Top Floor
+### Quest 1, Interactable : Chalet Top Floor
 Table
 	Lakshmi
 		Journaling keeps your mind at bay and spirits sharp!
@@ -253,6 +253,10 @@ Lakshmi
 Lakshmi
 	Ah well, I'll do it later. I won't forget it for sure.
 
+If Player wishes to talk to Grandpa Dan again
+	Grandpa Dan
+		Move your feet Lakshmi! Greg is waiting for you at the Guild Hall.
+
 *Notes:*
 * *Opened thread about Fog and memories  [[Narrative Goals#The fog subplot]] [[Narrative Goals#Calamity]]*: *Fog shrouds your memories*
 * *Opened thread: [[Narrative Goals#Lakshmi’s trauma subplot]]: Doesn't remember her parents* 
@@ -262,7 +266,9 @@ Lakshmi
 ### Quest 1, Scene 3: Forest Dialogue
 Lakshmi
     Brr. The forest gives me the creeps. 
+Lakshmi
     I heard kids in the village say there are monsters lurking here... 
+Lakshmi
     No! Lakshmi get a hold of yourself! These are kid's tales, nothing more. 
 
 ### Quest 2, Interactable Receptionist
