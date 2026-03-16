@@ -21,12 +21,12 @@ kanban-plugin: board
 ## Review
 
 - [ ] Revising pre-graduation script - Quest 1, Scene 1: Aaron (2026-03-17)
+- [ ] Make a list of the characters in Dolphin Bay: Arkana
 - [ ] Revising pre-graduation script - Quest 2 - Scene 1-6, Quest 1 - Scene 2-4, Quest 1 - Interactables : Corina (2026-03-17)
 
 
 ## Complete
 
-- [ ] Make a list of the characters in Dolphin Bay (Arkana)
 
 
 
