@@ -17,6 +17,7 @@ By: Corina
 
 Overall comments
 * To add to narrative style: how to handle the narrator and not handle onomatopoeias in dialogue 
+* How to handle complicated dialogue trees (and if we should make those)
 
 ---
 # Context
@@ -310,7 +311,7 @@ Lakshmi
 				It's the primary goal... right?
         **Communication** (Correct Answer) 
 	        Lakshmi
-				All manner of modern technology collapsed after the cataclysm…
+				All manner of instant communication tech collapsed after the cataclysm…
 			Lakshmi
 				Postal workers have such an important job!
 	What is the most common way to travel between villages?
@@ -335,7 +336,7 @@ Lakshmi
 	**Player choice**
 	==Who found the Postal Worker Guild?==
 	**Player choice**
-	
+[End Multiple Choice]
 Lakshmi
 	Wait, that's it?
 **Journal Update**
@@ -347,25 +348,64 @@ Lakshmi
 Lakshmi
     Ok Greg, I've finished the exam. It was...
 **Player choice**
-	Easy peasy
+	**Easy peasy**
 		Greg
 			Now, now, don’t get too cocky.
-	Unfair
+	**Unfair**
 		Greg
 			Hahahaha. Nothing in life is fair.
 [Regardless of choice]
 Greg
 	Let’s see how you did first.
-    `If variable is true` (All answers are correct.)
-        Greg
-	        Great job Lakshmi! You've got all correct. 
-		Lakshmi
-			Whoo hoo!
-    `If variable is true` (One question or more are wrong.)	
+**If all answers are correct.**
+    Greg
+	    Great job Lakshmi! You've got all correct. 
+	Lakshmi
+		Whoo hoo!
+**If one question or more are wrong.**	
 	Greg
 		Hmmm.... You did alright Lakshmi but you can do better.
 	Lakshmi
 	    Darn. I knew I was blanking on a few.
+Greg
+	Let's review.
+[Greg will explain the choice for the wrong answers only]
+**If player got 'The Fog is most receptive to which human aspect?' wrong**
+	Greg
+		About the fog question...
+	Greg
+		Remember this saying well.
+	Greg
+		Where the heart storms, the fog grows.
+	Greg
+		Make sure to remember it. It will help you aid other folks in need.
+	Lakshmi
+		The Fog really is quite powerful...
+**If player got 'What's the primary goal of our influential guild?' wrong**
+	Greg
+		About the Guild question...
+	Greg
+		There is no more technology for instant communication.
+	Greg
+		As postal workers of the Guild, we travel from village to village to deliver mail.
+	Lakshmi
+		Postal workers have such an essential job!
+	Greg
+		Couldn't have said it better myself.
+**If player got 'What is the most common way to travel between villages?' wrong**
+	Greg
+		About the means of travelling question...
+	Greg
+		We mostly travel by foot nowadays.
+	Lakshmi
+		Is it because the Fog got so thick recently?
+	Greg
+		Correct. 
+	Lakshmi
+		Does it make postal worker's job more difficult?
+	Greg
+		Difficult, perhaps. And so much more important.
+[Regardless of choice]
 Greg
 	And your test result is…
 Lakshmi
@@ -381,7 +421,7 @@ Greg
 Greg
 	It’s fine not to know all the answers.
 Lakshmi
-	Hum... so all that work for nothing.
+	Hum... so all that work was for nothing.
 Greg 
 	I won’t lie to you Lakshmi, postal workers face challenges where pure enthusiasm won’t be enough. 
 Greg
@@ -395,7 +435,9 @@ Greg
 **Player choice**
 	Yes
 		Greg
-			Good. Know your limits. Get back to me when you are ready. [End dialogue. If interacts again. Start at Regardless of choice.]
+			Good. Know your limits. 
+		Greg
+			Get back to me when you are ready. [End dialogue. If interacts again. Start at Regardless of choice.]
 	No 	
 [Regardless of choice]
 Greg
