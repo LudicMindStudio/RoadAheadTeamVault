@@ -599,6 +599,7 @@ Narrator
 	I'll should probably talk to Greg about it. A problem for later.
 
 *Note: might need to give a chance for Lakshmi to follow-up about her flashback to Greg. Maybe future quest. Olavius should also get a side quest*
+*Note 2: Open thread: Lakshmi memory abilities. [[Narrative Goals#Memories subplot]] Proper first memory tutorial with gameplay at a later time. Maybe with Olavius again.* 
 ### Quest 2: Scene 6: Graduation
 
 Lakshmi
