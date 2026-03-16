@@ -602,9 +602,9 @@ Narrator
 Intern
 	Hey Lakshmi! It's good to see you around.
 Intern
-	Did you know the Dolphin Bay water pool is in the shape of a dolphin? I know it's hard to see... but it's well named!
+	Did you know the lake outlining the village is in the shape of a dolphin? It's well named!
 Intern
-	It was the reason I came here in the first place... I really like how cozy and close to nature this village is! 
+	It was the reason I came here in the first place... I really like how cozy this village is! 
 Intern
 	I haven't found any dolphins though... Maybe I scared them off? I am pretty clumsy.
 
