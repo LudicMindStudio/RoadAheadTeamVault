@@ -516,7 +516,9 @@ Narrator
 **Intern**
     How come I keep messing up everything... Even the simplest of tasks. 
 **Intern**
-    I'm not cut out to be a guild member... What was I thinking coming here? I can't even fit in. Nobody even remembers my name...
+    I'm not cut out to be a guild member... What was I thinking coming here? There are no more dolphins here anymore... (*link to [[Dolphin Bay Story]]* )
+**Intern**
+    Nobody even remembers my name...
 **Greg**
     Hey intern!
 **Event**
@@ -528,7 +530,7 @@ Narrator
 **Event**
 	Greg leaves the room.
 **Intern**
-    I'll just hide here... For a minute. or forever...
+    I'll just hide here... For a minute. Anyway, I've got the whole night to rearrange the mail...
 **Event**
     Screen blacks out and the player is back in the guild room as Lakshmi. 
 **Intern**
@@ -544,7 +546,7 @@ Narrator
 **Intern**
     Ok phew. I thought I did something wrong again.
 **Lakshmi**
-    No no...You did nothing wrong? Thanks for your help...
+    No no...You did nothing wrong? Thanks for your help-
 **Player's choice**
 	**Octavius**
 		Intern
@@ -576,21 +578,27 @@ Narrator
 **Intern**
     M-my pleasure!
 **Lakshmi**
-    Keep up the good work! I'm sure you'll be a full guild member in no time!
+    Keep up the good work Olavius! I'm sure you'll be a full guild member in no time!
+[If possible to implement it. Change the NPCs name to Olavius from now on.]
 **Intern**
     Really? Do you believe that Lakshmi?
 **Player's choice**
 	**Without a doubt**
 		Intern
 			Oh... I don't know what to say... T-thanks Lakshmi! I'm sure you'll do great things!
-	**On second thought**
+	**With time maybe**
 		Intern
 			Ah... haha. Yeah, I should probably get better at sorting mail first...
 **Lakshmi**
-    Well I better go back to Greg and tell him how I did. Thanks again, see you around.
+    Well I better go back to Greg and tell him how I did. See you around!
 **Journal Update**
     First mail delivered! Let's get back to Greg.
+**Lakshmi**
+    W-what should I do about my flashbacks though? It's more vivid than ever. 
+**Lakshmi**
+	I'll should probably talk to Greg about it. A problem for later.
 
+*Note: might need to give a chance for Lakshmi to follow-up about her flashback to Greg. Maybe future quest. Olavius should also get a side quest*
 ### Quest 2: Scene 6: Graduation
 
 Lakshmi
