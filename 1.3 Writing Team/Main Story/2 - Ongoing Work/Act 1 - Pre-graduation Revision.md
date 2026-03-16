@@ -7,7 +7,7 @@ By: Corina
 [[#Multiple Choice Event]] (previously implemented, only dialogue changed)
 [[#QTE 1 Quest 1, Scene 3 Lakshmi Talks to Grandpa Dan on the bench]]
 [[#Dialogue choices based on wrong player choices on previous event Quest 2, Scene 3 Theoretical Exam - Test Result]]
-# Progress
+# Progress - Done
 - [x] Outside scene with Grandpa Dan - Act 1, Quest 1 - Scene 2
 - [x] Intern Memory - Quest 2 - Scene 1
 - [x] Graduation Ceremony - Quest 2 - Scene 2 (?) 
@@ -36,8 +36,6 @@ Lakshmi, Grandpa Dan, Greg. Intern (NAME??). [[Guild Receptionist (Robert)]], [[
 ---
 ---
 # Draft 
-Multiple choice event + revision event 
-QTE or timed player choices during dialogue
 
 [[Act 1 - Quest 1 - Scene 1 (Rough Work)]]
 ### Quest 1, Interactable : Chalet Top Floor
@@ -60,7 +58,7 @@ Bed
 	   Lakshmi
 	       Do not tempt me.
 
-### Quest 1, Scene 2: Step out of the chalet self-refletion
+### Quest 1, Scene 2: Step out of the chalet self-reflection
 
 Event
     Lakshmi walks out of Greg's chalet
