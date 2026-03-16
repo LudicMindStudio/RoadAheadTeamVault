@@ -91,3 +91,64 @@ These are the player circumstances which cause something to occur. Typically tri
   
 #### Clear
 Clear refers to when a player completes something (a quest, dialogue etc.). Typically, clearing a quest will result in some kind of logic tag
+
+# Style 
+
+## Section Overview 
+
+[[#General Style Notes]]
+[[#Principles of Writing]]
+[[#Writing Dialogue]]
+
+This section of the guide is to ensure a consistency in the style of writing used in the topic. It also provides principles of writing to help guide writing revision. 
+
+Example questions you might find answered: “Do I have the right tone for my dialogue?”, “what reading level is our audience?” etc. 
+## General Style Notes 
+
+**Narrative Tone** - Overall, the tone of the writing is earnest. The world is hopeful and cozy, but also honest about its own tragedies. Magical and mystical events should be treated respectfully and with “realistic” outcomes. For instance, getting lost in the fog can be traumatizing. The world is relatively calm (think a gentle breeze before a loud explosion). 
+
+Writing for objects and character dialogue should be in plain, modern, naturalistic English. By plain we mean accessible to **youth aged 13 and above** (think t for teen) without jargon (unless the intention is to teach). By modern we mean without anarchisms (such as “a fortnight”). By naturalistic we mean that writing should reflect life as we know it, and contractions are welcome. For instance, “I can’t do that” is preferable to “I can not maketh the effort”. 
+
+## Principles of Writing 
+
+The following are not hard rules. Rather, these should be considered exercises to guide writers. The goal is to create high quality writing that is consistent. 
+
+1. **Player experience first** - the player experience has priority over writerly goals, and writing should always serve the player experience. Avoid dialogue that distracts from the game. Playing the game should teach the player about mental health. Have the players make discoveries about the narrative organically. Always ask, “is this serving the game?”.
+2. **Economy of language** - a single piece of dialogue or object description should not exceed 2 sentences (or 4 lines whatever is shorter). Respect the fact that the diegetic day/night cycle is changing quickly, and a player should have several dialogues in a day. 
+3. **Accessible** - Writing must be accessible and engaging to youth aged 13 and above 
+4. **Show Don’t Tell** - Dialogue is a last resort. Prioritize telling the story through gameplay followed by scene descriptions and then events before dialogue. For example, instead of an NPC saying “I’ve been running all morning”, have the player catch the NPC mid run. 
+5. **Keep tone consistent** - To avoid jarring tonal clashes, try to maintain the hopeful, cozy and earnest tone above. Scenes with a particularly strong tone should be saved for memories and location plots forcing the player to experience the tone linearly. 
+6. **Single why** - try to have a single, clear goal for each piece of writing. This is made easier by clear quest outlines. 
+7. **Lakshmi is a blank slate** - allow the player to project onto Lakshmi. In dialogue writing, give the player several fairly neutral responses (in terms of tone), but with significant ramifications. Avoid any dynamic tone (such as snarky, shy etc.). For instance, instead of “I hate apples, yuck!” write “no thank you”. 
+8. **Genuine Relationships** - don’t be afraid of standoffish characters. Relationships with NPCs can take on many shapes from being enemies to friends to lovers or friends to enemies to lovers etc. Try to think of a dynamic shape for NPC relationships. Unlike Lakshmi, NPCs should have strong, distinct characterization in their dialogue. PLEASE NOTE - characters should not be offensive, think grumpy before intimidating. 
+9. **Character history matters** - New things should feel novel, and routines should feel habitual. The dialogue for Lakshmi interacting with the guild receptionist should feel different than the dialogue with a stranger to Dolphin Bay. Keep track of objects or memories in scene descriptions or dialogues in the Character profile and with logic tags if necessary. Alluding to preexisting history in a meaningful way (such as a scary stranger who once wrecked havoc), will bring the world to life 
+10. **All conflict stems from the fog** - All NPCs no matter what they do are ultimately redeemable. Any negative action they take is because of the influence of the fog. No NPC is inherently evil or cruel, rather they are tragic victims of the fog’s influence. 
+11. **Head Canon matters** - players will develop a sense of who Lakshmi and the NPCs are as they play the game. Keep quests and dialogue options consistent with the options chosen previously. For instance, if the player chooses to play Lakshmi more chaotically but then is only offered three different options to complement, their sense of the character will be jarringly broken. 
+
+## Writing Dialogue 
+
+### Writing as the Narrator 
+
+The narrator is a powerful tool writers can implement as a means of describing small actions, sounds and smells that are not implementable as events or specific art assets. 
+#### Rules for writing as the narrator 
+- use the second person tense (eg. you see a bright red light)
+- the narrator is a passive observer without personality 
+- The narrator doesn’t make passing judgements, or comments of any kind 
+- “His outfit looks pretty lame” (wrong use of the narrator)
+- “You notice he wears a plain suit jacket” (right use of the narrator) 
+### Creating Dialogue Options 
+
+It’s important to think of dialogue options as a menu of choices the player can choose from. We want each option to be clear. Consider that players will often return to the original choices. For instance, a player may ask an NPC multiple questions and may want to return to the original set of options. 
+
+Every dialogue option is the right option. While not a hard fast rule, generally, players should be rewarded for the choices they make with a rich response. Try to avoid thinking that the player has only one right option to select 
+#### Principles for naming dialogue options 
+1. Keep options short. A full sentence is often too long 
+2. Description of actions are best 
+3. Use truncated versions of actual dialogue not the full dialogue for dialogue options 
+	For instance, “Respond rudely” is better than “You old geyser, you’ve lost it!” 
+4. Keep the option and the actual dialogue consistent 
+	For instance, if the player is given the option to “be nice”, the following dialogue should not be Lakshmi saying “that’s the ugliest shirt I’ve ever seen”
+
+
+
+
