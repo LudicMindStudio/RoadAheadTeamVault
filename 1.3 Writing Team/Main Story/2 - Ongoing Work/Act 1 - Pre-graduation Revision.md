@@ -586,7 +586,7 @@ Narrator
 	**Without a doubt**
 		Intern
 			Oh... I don't know what to say... T-thanks Lakshmi! I'm sure you'll do great things!
-	**With time maybe**
+	**Maybe with time**
 		Intern
 			Ah... haha. Yeah, I should probably get better at sorting mail first...
 **Lakshmi**
@@ -597,6 +597,16 @@ Narrator
     W-what should I do about my flashbacks though? It's more vivid than ever. 
 **Lakshmi**
 	I'll should probably talk to Greg about it. A problem for later.
+
+**Interaction Intern again**
+Intern
+	Hey Lakshmi! It's good to see you around.
+Intern
+	Did you know the Dolphin Bay water pool is in the shape of a dolphin? I know it's hard to see... but it's well named!
+Intern
+	It was the reason I came here in the first place... I really like how cozy and close to nature this village is! 
+Intern
+	I haven't found any dolphins though... Maybe I scared them off? I am pretty clumsy.
 
 *Note: might need to give a chance for Lakshmi to follow-up about her flashback to Greg. Maybe future quest. Olavius should also get a side quest*
 *Note 2: Open thread: Lakshmi memory abilities. [[Narrative Goals#Memories subplot]] Proper first memory tutorial with gameplay at a later time. Maybe with Olavius again.* 
