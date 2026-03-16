@@ -7,7 +7,7 @@ By: Corina
 - [x] Outside scene with Grandpa Dan - Act 1, Quest 1 - Scene 2
 - [x] Intern Memory - Quest 2 - Scene 1
 - [x] Graduation Ceremony - Quest 2 - Scene 2 (?) 
-- [ ] Exam questions +  Make sure all exam answers are hinted at in previous dialogue/interactable (fog + emotions is fine) 
+- [x] Exam questions +  Make sure all exam answers are hinted at in previous dialogue/interactable (fog + emotions is fine) 
 - [x] Interactable in Chalet
 - [x] Make Greg more idealistic and positively inspiring to contrast with Grandpa Dan 
 - [x] Intern more related to DB story?  
@@ -52,7 +52,7 @@ Bed
 	   Lakshmi
 	       Do not tempt me.
 
-### Quest 1, Dialogue 2 : Lakshmi Talks to Grandpa Dan on the bench
+### Quest 1, Scene 2: Step out of the chalet self-refletion
 
 Event
     Lakshmi walks out of Greg's chalet
@@ -62,7 +62,7 @@ Lakshmi
     I have not been in Dolphin Bay often though.. 
 Lakshmi
     Bah. I'll figure this out!
-### Quest 1, Scene 2 : Lakshmi Talks to Grandpa Dan on the bench
+### Quest 1, Scene 3 : Lakshmi Talks to Grandpa Dan on the bench
 
 Event 
     If player goes up to Greg.
@@ -199,7 +199,7 @@ If Player wishes to talk to Grandpa Dan again
 * *Established Lakshmi's values: individual memories are important*
 * *Might need to establish that the fog is related to strong emotions?*{>>This can be done later, no worries. Having the player figure out and have a deeper understanding of this will take time. Its kind of the whole point of the simplicity of the dolphin bay story<<}
 ---
-### Quest 1, Scene 3: Forest Dialogue
+### Quest 1, Scene 4: Forest Self-reflection (map after Chalet)
 Lakshmi
     Brr. The forest gives me the creeps. 
 Lakshmi
