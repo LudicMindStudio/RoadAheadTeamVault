@@ -211,7 +211,7 @@ If Player wishes to talk to Grandpa Dan again
 * *Established Lakshmi's values: individual memories are important*
 * *Might need to establish that the fog is related to strong emotions?*{>>This can be done later, no worries. Having the player figure out and have a deeper understanding of this will take time. Its kind of the whole point of the simplicity of the dolphin bay story<<}
 ---
-### Quest 1, Scene 4: Forest Self-reflection (map after Chalet)
+### Quest 1, Scene 4: Forest self-reflection (map after Chalet)
 Lakshmi
     Brr. The forest gives me the creeps. 
 Lakshmi

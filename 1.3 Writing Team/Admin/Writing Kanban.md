@@ -16,12 +16,12 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] Revising dialogue of all characters profiles who deliver mail - Cat : Arkana (2026-03-17)
-- [ ] Revising pre-graduation script - Quest 2, Scene 1, Quest 1, Scene 2, Interactibles in Chalet: Corina (2026-03-17)
 
 
 ## Review
 
 - [ ] Revising pre-graduation script - Quest 1, Scene 1: Aaron (2026-03-17)
+- [ ] Revising pre-graduation script - Quest 2 - Scene 1-6, Quest 1 - Scene 2-4, Quest 1 - Interactables : Corina (2026-03-17)
 
 
 ## Complete
