@@ -3,6 +3,10 @@ tags:
 created: 2026-03-06
 ---
 By: Corina
+# Implementers to Review !
+[[#Multiple Choice Event]] (previously implemented, only dialogue changed)
+[[#QTE 1 Quest 1, Scene 3 Lakshmi Talks to Grandpa Dan on the bench]]
+[[#Dialogue choices based on wrong player choices on previous event Quest 2, Scene 3 Theoretical Exam - Test Result]]
 # Progress
 - [x] Outside scene with Grandpa Dan - Act 1, Quest 1 - Scene 2
 - [x] Intern Memory - Quest 2 - Scene 1
@@ -30,7 +34,10 @@ Early game notes: [[Dolphin Bay - Elements to be reviewed]], [[Dolphin Bay - Eve
 Lakshmi, Grandpa Dan, Greg. Intern (NAME??). [[Guild Receptionist (Robert)]], [[Lakshmi (MC)]], [[Old Character Bios]], experienced guild member
 
 ---
+---
 # Draft 
+Multiple choice event + revision event 
+QTE or timed player choices during dialogue
 
 [[Act 1 - Quest 1 - Scene 1 (Rough Work)]]
 ### Quest 1, Interactable : Chalet Top Floor
@@ -142,7 +149,9 @@ Lakshmi
 					 ...
 				Lakshmi
 					Shoot! Too brash. Should I apologize? Quick!
-				 [Quick QTE to apologize: press a button before time runs out (to double check if possible with dev team)]{>>this would be possible. but i think we should think more about adding qtes to dialogue. we can meet and discuss how this is typically done and how it would work best in our game<<}{>>Whatever is easier to implement. The countdown might have an easier tutorial. Freeze the frame with the explanation "some dialogue might be timed"<<}[Or have a 15 sec countdown to answer, see Witcher 3 example: https://youtu.be/k08RRor_zPI?si=WcbkEzBVMHQKSdR0&t=6030 Telltale games example: https://youtu.be/Z1VKe8zfVGs?si=oeSmuQoBLGahs1JO&t=7099]
+#### QTE 1 : Quest 1, Scene 3 : Lakshmi Talks to Grandpa Dan on the bench
+event
+				 #### Quick QTE to apologize: press a button before time runs out (to double check if possible with dev team){>>this would be possible. but i think we should think more about adding qtes to dialogue. we can meet and discuss how this is typically done and how it would work best in our game<<}{>>Whatever is easier to implement. The countdown might have an easier tutorial. Freeze the frame with the explanation "some dialogue might be timed"<<}[Or have a 15 sec countdown to answer, see Witcher 3 example: https://youtu.be/k08RRor_zPI?si=WcbkEzBVMHQKSdR0&t=6030 Telltale games example: https://youtu.be/Z1VKe8zfVGs?si=oeSmuQoBLGahs1JO&t=7099]
 				 **If player is successful: Lakshmi apologizes** 
 					 Lakshmi
 						 I... I'm sorry. I shouldn't have raised my voice at you.
@@ -279,6 +288,7 @@ Lakshmi
     Greg walks away.
 **Lakshmi**
     Bring it on!
+#### Multiple Choice Event
  **Event: Multiple Choice**
     The Fog is most receptive to which human aspect?
     **Player choice**
@@ -369,6 +379,7 @@ Greg
 	    Darn. I knew I was blanking on a few.
 Greg
 	Let's review.
+#### Dialogue choices based on wrong player choices on previous event : Quest 2, Scene 3: Theoretical Exam - Test Result
 [Greg will explain the choice for the wrong answers only]
 **If player got 'The Fog is most receptive to which human aspect?' wrong**
 	Greg
