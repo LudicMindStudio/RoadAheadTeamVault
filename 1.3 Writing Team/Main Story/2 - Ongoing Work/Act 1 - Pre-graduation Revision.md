@@ -151,7 +151,11 @@ Lakshmi
 					Shoot! Too brash. Should I apologize? Quick!
 #### QTE 1 : Quest 1, Scene 3 : Lakshmi Talks to Grandpa Dan on the bench
 event
-				 #### Quick QTE to apologize: press a button before time runs out (to double check if possible with dev team){>>this would be possible. but i think we should think more about adding qtes to dialogue. we can meet and discuss how this is typically done and how it would work best in our game<<}{>>Whatever is easier to implement. The countdown might have an easier tutorial. Freeze the frame with the explanation "some dialogue might be timed"<<}[Or have a 15 sec countdown to answer, see Witcher 3 example: https://youtu.be/k08RRor_zPI?si=WcbkEzBVMHQKSdR0&t=6030 Telltale games example: https://youtu.be/Z1VKe8zfVGs?si=oeSmuQoBLGahs1JO&t=7099]
+				 [Quick QTE to apologize: press a button before time runs out (to double check if possible with dev team)]{>>this would be possible. but i think we should think more about adding qtes to dialogue. we can meet and discuss how this is typically done and how it would work best in our game<<}{>>Whatever is easier to implement. The countdown might have an easier tutorial. Freeze the frame with the explanation "some dialogue might be timed"<<}[Or have a 15 sec countdown to answer, see Witcher 3 example: https://youtu.be/k08RRor_zPI?si=WcbkEzBVMHQKSdR0&t=6030 Telltale games example: https://youtu.be/Z1VKe8zfVGs?si=oeSmuQoBLGahs1JO&t=7099]
+				 **Player Choice**
+					 **Apologize**
+					 **Do not Apologize**
+				[End QTE]
 				 **If player is successful: Lakshmi apologizes** 
 					 Lakshmi
 						 I... I'm sorry. I shouldn't have raised my voice at you.
@@ -416,7 +420,7 @@ Greg
 		Does it make postal worker's job more difficult?
 	Greg
 		Difficult, perhaps. And so much more important.
-[Regardless of choice]
+[End event - Regardless of choice]
 Greg
 	And your test result is…
 Lakshmi
