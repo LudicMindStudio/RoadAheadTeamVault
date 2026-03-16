@@ -10,10 +10,10 @@ By: Corina
 - [ ] Exam questions +  Make sure all exam answers are hinted at in previous dialogue/interactable (fog + emotions is fine) 
 - [x] Interactable in Chalet
 - [x] Make Greg more idealistic and positively inspiring to contrast with Grandpa Dan 
-- [ ] Intern more related to DB story?  
+- [x] Intern more related to DB story?  
 - [x] Finish Quest 2 - Scene 6
 - [x] Add narrator to other parts of the writing 
-- [ ] Add dialogue in case the player interacts with NPCs again
+- [x] Add dialogue in case the player interacts with NPCs again
 
 Overall comments
 * To add to narrative style: how to handle the narrator and not handle onomatopoeias in dialogue 
@@ -279,15 +279,17 @@ Lakshmi
 **Lakshmi**
     Bring it on!
  **Event: Multiple Choice**
-    The Fog is most receptive to what human aspect?
+    The Fog is most receptive to which human aspect?
     **Player choice**
-	        **Hunger**
+	    **Hunger**
 	        Lakshmi
-		           Mm. I'm hungry just thinking about it.
-	        **Emotion** (Correct Answer) 
+			    Mm. I'm hungry just thinking about it.
+			Lakshmi
+				Is this what makes the fog appear?
+	    **Emotion** (Correct Answer) 
 			Lakshmi
 				"Where the heart storms, the fog grows" - is what Greg would say, right?
-	        **Speech**
+	    **Speech**
 			Lakshmi
 				While I wouldn't scream if I ever get lost in the foggy woods myself… 
 			Lakshmi
@@ -309,16 +311,36 @@ Lakshmi
 				All manner of modern technology collapsed after the cataclysm…
 			Lakshmi
 				Postal workers have such an important job!
+	What is the most common way to travel between villages?
+	**Player choice**
+		**By carriages**
+			Lakshmi
+				That's how we got between villages before the fog got so thick... Now it's barely possible to see where you step. (+*double check [[Narrative Goals]]. Insinuating that the fog got worse*)
+			Lakshmi
+				It's still the most common way though to travel. Right?
+		**By foot**
+			Lakshmi
+				The fog got so thick we can only travel by foot. 
+			Lakshmi
+				People rely on postal workers more than ever.
+		**By plane**
+			Lakshmi
+				I heard planes were common before the fog appeared but I've never seen one.
+			Lakshmi
+				It's still the most common way though to travel. Right?
+[Add extra questions if we want]
 	==What is the ranking system in the Guild?==
 	**Player choice**
 	==Who found the Postal Worker Guild?==
 	**Player choice**
 	
-
 Lakshmi
 	Wait, that's it?
 **Journal Update**
 	Exam done. Time to see Greg.
+
+*Update Lore: fog got thicker recently so postal workers can only move by foot between villages.*
+
 ### Quest 2, Scene 3: Theoretical Exam - Test Result
 Lakshmi
     Ok Greg, I've finished the exam. It was...
