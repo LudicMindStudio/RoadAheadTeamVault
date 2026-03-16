@@ -96,6 +96,7 @@ Clear refers to when a player completes something (a quest, dialogue etc.). Typi
 
 ## Section Overview 
 
+###### Jump to section -> 
 [[#General Style Notes]]
 [[#Principles of Writing]]
 [[#Writing Dialogue]]
