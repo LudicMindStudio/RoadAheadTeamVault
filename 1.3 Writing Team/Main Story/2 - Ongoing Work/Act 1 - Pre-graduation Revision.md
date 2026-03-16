@@ -300,13 +300,15 @@ Lakshmi
 			Lakshmi
 		        All economy collapsed after the Calamity. It makes sense for the Guild to create new jobs.
 			 Lakshmi
-				 Right?
+				It's the primary goal... right?
 		**Adventure**
 	        Lakshmi
 				The postal workers are pretty much the only people travelling between villages now.
 			Lakshmi
 				 So exciting!
-        **Communication**
+			Lakshmi
+				It's the primary goal... right?
+        **Communication** (Correct Answer) 
 	        Lakshmi
 				All manner of modern technology collapsed after the cataclysm…
 			Lakshmi
@@ -318,7 +320,7 @@ Lakshmi
 				That's how we got between villages before the fog got so thick... Now it's barely possible to see where you step. (+*double check [[Narrative Goals]]. Insinuating that the fog got worse*)
 			Lakshmi
 				It's still the most common way though to travel. Right?
-		**By foot**
+		**By foot** (Correct Answer) 
 			Lakshmi
 				The fog got so thick we can only travel by foot. 
 			Lakshmi
