@@ -12,7 +12,7 @@ By: Corina
 - [x] Make Greg more idealistic and positively inspiring to contrast with Grandpa Dan 
 - [ ] Intern more related to DB story?  
 - [x] Finish Quest 2 - Scene 6
-- [ ] Add narrator to other parts of the writing 
+- [x] Add narrator to other parts of the writing 
 - [ ] Add dialogue in case the player interacts with NPCs again
 
 Overall comments
@@ -32,70 +32,6 @@ Lakshmi, Grandpa Dan, Greg. Intern (NAME??). [[Guild Receptionist (Robert)]], [[
 # Draft 
 
 [[Act 1 - Quest 1 - Scene 1 (Rough Work)]]
-### Lakshmi wakes up in Greg's chalet (AK revision, another doc)
-
-
-**Event**
-    Cutscene of Lakshmi waking up at the table in her room (see if we can make a parallax image for it or not)
-**Lakshmi**
-    *Yaawwwn...* *Right. I ended up journaling pretty late last night...*
-**Event**
-    Lakshmi stands up and looks to the left and right
-**Lakshmi**
-    *My back is so sore... I better get going, Greg will get me with his slipper if he finds out I slept in. He had something important to tell me. He should be at the **Guild Hall**, as usual.*
-**Event** 
-    Journal updated: Greg will be upset with me if I am late... I should hurry up to the *Guild Hall*.   
-**Event** 
-    Lakshmi Interaction options [in the room]
-    `If variable is true` Table
-        **Lakshmi**
-            *Journaling keeps your mind at bay and spirits sharp! But makes you prone to losing track of time… must have been written in small font.*
-    `If variable is true` Mirror
-        **Lakshmi**
-            *Looking good there! Dressed in uniform since 3 AM*
-	*…*
-	*That does sound pretty distasteful when I put it that way.*
-    `If variable is true` Bed
-        **Lakshmi**
-        *Do not tempt me.*
-**Event**    
-    `If variable is true` Player leaves the room.
-        Lakshmi finds Grandpa Dan downstairs, his back is to her with various breads spread on the counter he stands in front of.
-**Lakshmi**
-    *Grandpa Dan?!*
-**Event**
-    Grandpa Dan jumps in place and turns towards Lakshmi.
-**Grandpa Dan**
-    *Ah! Lakshmi don't scare me like that! That mutt already got the jump on me this morning. My heart can't take much more!*
-**Lakshmi**
-    *Leo? {emote/sfx laughing} Ok grandpa. He just knows you need the energy to get your morning started.*
-**Grandpa Dan**
-       {emote frustrated} [*Yet I've been up since morning.*]{small font}  *Well, if you see that dog, get him home. I made him his favourite biscuits.*
-**Lakshmi**
-    *Ay Ay, cap'n!*
-**Event**
-    Journal Updated: Find Leo. Who should I hurry up to first, Leo or Greg? The answer is *yes*.
-**Grandpa Dan**
-    *Speaking of breakfast, eat quick and run straight to the **Guild Hall**! Greg will skewer you if you are any later!*
-**Event**
-    Grandpa Dan starts walking away towards the door.
-**Lakshmi**
-     *Thanks Grandpa Dan.* 
-**Grandpa Dan**
-     {sfx/emote content}* Ahem right. See you later Lakshmi.
-**Event**
-
-    Grandpa Dan walks out.
-    
-**Event**    
-    Player interaction options
-    `If variable is true` Bread
-    **Lakshmi**
-        *Gotta give it to him, he's so gifted! The crust is the best part! Huh... Is it... maple syrup sour bread? Wow it’s not even my birthday. I should thank him later.*
-**Event** 
-    Journal Updated: Thank Grandpa Dan for making your favourite bread.
-
----
 ### Quest 1, Interactable : Chalet Top Floor
 Table
 	Lakshmi
@@ -471,13 +407,27 @@ Greg
 Greg
 	Listen carefully.
 Greg
-	First. You greet. Then you tell them your name. Then you thank them for using our services. Lastly, don't forget to say goodbye. Capice?
+	First. You greet. 
+Greg
+	Then you tell them your name. 
+Greg
+	Then you thank them for using our services. 
+Greg
+	Lastly, don't forget to say goodbye. 
+Greg
+	Capice?
 **Player Choice**
 **Can you repeat it?**
 	Greg
 		Sure. Strain your ears.
 	Greg
-		First. You greet. Then you tell them your name. Then you thank them for using our services. Lastly, don't forget to say goodbye. 
+		First. You greet. 
+	Greg
+		Then you tell them your name. 
+	Greg
+		Then you thank them for using our services. 
+	Greg
+		Lastly, don't forget to say goodbye. 
 	Greg
 		Feeling good now?
 	[Dialogue goes back to last player choice]
