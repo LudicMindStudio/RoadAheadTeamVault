@@ -21,12 +21,12 @@ kanban-plugin: board
 
 ## Review
 
-- [ ] Make a list of the characters in Dolphin Bay (Arkana)
 - [ ] Revising pre-graduation script - Quest 1, Scene 1: Aaron (2026-03-17)
 
 
 ## Complete
 
+- [ ] Make a list of the characters in Dolphin Bay (Arkana)
 
 
 
