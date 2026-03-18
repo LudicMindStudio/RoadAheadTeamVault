@@ -31,18 +31,18 @@ Cat's father.
 --- 
 # Character Dialogue 
 
-DIALOGUE_0 ONE
-	Brief summary of Dialogue One 
-		Trigger Start - ExampleTag=True
-		On Clear - ExampleTag=True 
+[[IntroToGarp_0]]
+	Garp tells Lakshmi about fishing.
+		Trigger Start - Lakshmi_Interacts_Garp=True  
+		On Clear - Lakshmi_Needs_Another_Crew_Member
 
-DELIVERED MAIL TO NPC
-	Brief summary of DELIVERED MAIL TO NPC
-		Trigger Start - Lakshmi_Has_NPCs_Mail=True, Lakshmi_Interacts_NPC=True  
-		On Clear - Lakshmi_Has_Delivered_NPCs_Mail=True, Lakshmi_Has_NPCs_Mail=False
+[[LakshmiDeliversMailToGarp_0]]
+	Lakshmi delivers fish to Garp for Cat's birthday.
+		Trigger Start - Lakshmi_Has_Garps_Mail=True, Lakshmi_Interacts_Garp=True  
+		On Clear - Lakshmi_Has_Delivered_Garps_Mail=True, Lakshmi_Has_Garps_Mail=False, Lakshmi_Learns_Cats_Birthday
 
 
-[[GarpSaysHello_0]]
+[[GarpSaysHello_0]]  -> example to follow template
 	Sailor garp wishes Lakshmi a good day 
 		Trigger Start - Lakshmi Interacts with Sailor Garp 
 		
