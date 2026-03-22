@@ -244,7 +244,7 @@ Lakshmi
 	Player Overhears Intern talking to themselves
 **Intern** 
     Dammit! Where are those shipment boxes? I'm going to get in trouble again… The guild work is too much.
-### Quest 2, Scene 1: Theoretical Exam - Quest Giver
+### Quest 2, Scene 1: Introduction to Theoretical Exam - Quest Giver
 
 **Greg**
     Good morning, Lakshmi. 
@@ -265,9 +265,22 @@ Lakshmi
 **Greg**
     You've been progressing too quickly and I believe you are ready to become a postal worker!
 
-(Alternative Version)
+{>>I was hoping for a bit more characterization from Greg, so I wrote an alternative version of the dialogue. Take what you like. Happy to chat. <<}(Alternative Version)
 
-Greg: 
+Narrator: Greg lifts his steely eyes from pages of indecipherable characters 
+
+Greg: Remind me of line 14 of the guild code? 
+
+Lakshmi: "guild members are the first of the community to rise" (sigh)
+
+Greg: I shouldn't have to wake you, Lakshmi. Especially not today. 
+
+Narrator: You lift your head inquisitively. 
+
+Greg: I've been writing to the other guilds and their willing to make an exception.
+
+Greg: It's time to make you a full postal worker! If you can pass the exam, that is... 
+
 **Player choice**
 	**I'm so excited!**
 		Lakshmi
@@ -283,7 +296,7 @@ Greg:
 **Lakshmi**
 	Oki doki!
 
-### Quest 2, Scene 2: Theoretical Exam
+### Quest 2, Scene 2: Writing Theoretical Exam 
 **Event**
     Player goes towards the classroom. Sits at a desk.
 **Lakshmi**
@@ -434,13 +447,13 @@ Greg
 Lakshmi
     What's the point of that?
 Greg
-	I was more interested in seeing the way you react to unpredictable situations. 
+	{~~I was more interested in seeing the way you react to~>To test your reaction to~~} unpredictable situations. 
 Greg
 	Today’s exam was out of nowhere, and yet you challenged it face first.
 Greg
 	It’s fine not to know all the answers.
 Lakshmi
-	Hum... so all that work was for nothing.
+	{++I don't have any problem improvising++}{--Hum... so all that work was for nothing.--}
 Greg 
 	I won’t lie to you Lakshmi, postal workers face challenges where pure enthusiasm won’t be enough. 
 Greg
@@ -463,12 +476,12 @@ Greg
     Let’s move on to the next part.
 Lakshmi
     Bring it on!    
-### Quest 2 - Scene 4: Practical Exam Quest Giver
+### Quest 3, Scene 1: Practical Test - Introduction
 
 Greg
     Alright! Now it's time for the... 
     Practical test! 
-    Deliver a little message for the new intern.
+    {--Deliver a little message for the new intern.--}
 **Event**
     Player receives the mail.
 Greg
@@ -478,7 +491,7 @@ Lakshmi
 Greg
 	Hum hum!
 Greg
-	You won't always be guided by the hand, you know. Explore the Guild a bit. Get to know the folks.
+	{>>super!<<}You won't always be guided by the hand, you know. Explore the Guild a bit. Get to know the folks.
 Greg
 	Make sure to deliver the note like you've been taught. Treat it as a real postal delivery.
 Greg
@@ -502,7 +515,7 @@ Greg
 Greg
 	Capice?
 **Player Choice**
-**Can you repeat it?**
+{>>Awesome bit of fun!<<}**Can you repeat it?**
 	Greg
 		Sure. Strain your ears.
 	Greg
@@ -524,7 +537,7 @@ Narrator
 
 **Journal update**
     Deliver the mail to the new intern. They should be in the storage room in the Guild.
-### Quest 2 - Scene 5: Practical Exam Intern Memory
+### Quest 3, Scene 2: Practical Test - Meeting the Intern
 
 **Intern**
     Dammit where did it go?
@@ -541,7 +554,8 @@ Narrator
 **Player Choice** [previous choices should disappear with each question] 
 	Lakshmi
 		What do I say first?
-		**Hello!** 
+		{>>Super fun! I think I'll scramble the options a bit for the player selection each time 
+<<}**Hello!** 
 		**I'm Lakshmi from the postal guild here to deliver your mail.** 
 		**Thank you for using our services.** 
 		**Have a good day!**
@@ -596,6 +610,11 @@ Narrator
     Oh no. Not this again...
 **Event**
     Screen blacks out and the player is now in a different room as the intern. 
+
+### Quest 3, Scene 3: Practical Test - Intern Memory 
+
+([[Intern Memory Brainstorming]])
+Dialogue: {>>I made a modified version of this scene with a bit of gameplay added. You can see it in the intern memory brainstorming document link. Use what you like. <<}
 **Intern**
     Dang-it... I dumped the mail again. Greg will be so pissed.
 **Intern**
@@ -618,6 +637,9 @@ Narrator
     I'll just hide here... For a minute. Anyway, I've got the whole night to rearrange the mail...
 **Event**
     Screen blacks out and the player is back in the guild room as Lakshmi. 
+
+### Quest 3, Scene 3: Practical Test - Meeting Olavius
+
 **Intern**
     Lakshmi!? Are you ok?
 **Lakshmi**
@@ -664,7 +686,7 @@ Narrator
     M-my pleasure!
 **Lakshmi**
     Keep up the good work Olavius! I'm sure you'll be a full guild member in no time!
-[If possible to implement it. Change the NPCs name to Olavius from now on.]
+[If possible to implement it. Change the NPCs name to Olavius from now{>>Will do!<<} on.]
 **Intern**
     Really? Do you believe that Lakshmi?
 **Player's choice**
@@ -695,7 +717,7 @@ Intern
 
 *Note: might need to give a chance for Lakshmi to follow-up about her flashback to Greg. Maybe future quest. Olavius should also get a side quest*
 *Note 2: Open thread: Lakshmi memory abilities. [[Narrative Goals#Memories subplot]] Proper first memory tutorial with gameplay at a later time. Maybe with Olavius again.* 
-### Quest 2: Scene 6: Graduation
+### Quest 3, Scene 4: Practical Test - Graduation
 
 Lakshmi
     I did it Greg! Mail delivered.
