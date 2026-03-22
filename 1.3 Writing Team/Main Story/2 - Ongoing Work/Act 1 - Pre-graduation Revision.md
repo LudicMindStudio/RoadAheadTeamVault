@@ -46,19 +46,19 @@ Table
 		Always calms me down when I have many thoughts.
 Mirror
 	Lakshmi
-           Hey there! The new uniform on you is looking-
+           Hey there! The new uniform{-- on you--} is looking-
 	**Player Choice**
 	    **GREAT**
 		    Lakshmi
 			    I knew you had good taste. 
 	    **Meh**        
 		    Lakshmi
-			    It might take a while to get used to it.
+			    {~~It might take a while to get used to it.~>  This might take awhile to get used to ~~}
 Bed
 	   Lakshmi
-	       Do not tempt me.
+	       {~~Do not~>Don't~~} tempt me.
 
-### Quest 1, Scene 2: Step out of the chalet self-reflection
+### Quest 1, Scene 2{++, Event 1++}: Step out of the chalet self-reflection
 
 Event
     Lakshmi walks out of Greg's chalet
@@ -68,27 +68,27 @@ Lakshmi
     I have not been in Dolphin Bay often though.. 
 Lakshmi
     Bah. I'll figure this out!
-### Quest 1, Scene 3 : Lakshmi Talks to Grandpa Dan on the bench
+### Quest 1, Scene {~~~>2~~}{~~3~>, Event 2~~} : Lakshmi Talks to Grandpa Dan on the bench
 
 Event 
-    If player goes up to Greg.
+    If player goes up to {~~Greg~>Grandpa Dan~~}.
     Descriptive notes: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone bench. [Player can come back to look at the villages as they are unveiled by the fog, with game progression] See previous concept art
 Lakshmi 
 	Wow. What a view...
 Narrator
     A light breeze touches your cheek.
-Grandpa Dan
+{--Grandpa Dan
        ...
 Lakshmi
        Still grumpy?
    Grandpa Dan
-       ...
+       ...--}
    Grandpa Dan
        Sit down a bit with me, will you?
    **Player Choice**
     **Sit Down**
 	    Lakshmi
-		    What got your mood so sour?
+		    {~~What got your mood so sour~> What's come over you~~}?
 	    Grandpa Dan
 		    ...
 	    Grandpa Dan
@@ -106,7 +106,8 @@ Lakshmi
 	    **Player choice**
 		    **It's peaceful**
 				 Narrator
-				    The stillness of the moment is oddly... soothing. Birds chirp quietly, welcoming the dawn of another day.
+				    The stillness of the moment is oddly... soothing. Birds chirp quietly, welcoming the dawn of {>>Great
+<<}another day.
 			    Grandpa Dan
 				    That is... an odd way to put it.
 			**It's creepy**
@@ -118,7 +119,7 @@ Lakshmi
 					Who knows what else is hiding in there? 
 				Lakshmi
 				    I just... The fog is too mysterious. Too many unknowns.
-				Grandpa Dan
+				{>>I my opinion this comes off as a bit too cerebral. Like I could see Greg saying this perhaps more than Grandpa Dan. I would recommend reframing his hope that the youth would see the fog differently <<}Grandpa Dan
 				    Not... unexpected. 
 				Grandpa Dan
 				    Still, I had some hope the new generation would be blissfully ignorant of old fears.
@@ -130,15 +131,16 @@ Lakshmi
 		**Player choice** 
 			**Some**
 				Lakshmi
-					I have visions... When it all started... of my parents. I don't remember much anymore.
+					I have {~~visions~>fragments~~}{>>Or "flashes" - visions to me are of the future 
+<<}... When it all started... of my parents. I don't remember much anymore.
 			**Not at all**
 		[Regardless of choice]
 		Grandpa Dan
-			Most youth don't nowadays. 
+			{>>Really like how this response works for both options<<}Most youth don't nowadays. 
 		Grandpa Dan
 			This fog shrouds your memories in ways you wouldn't expect. *(+to double check if makes sense with [[Narrative Goals]])*
 		Grandpa Dan
-			Maybe it's for the best. Dwelling on past memories won't build a future.
+			Maybe it's for the best{~~. Dwelling on past memories won't build a future.~> not to dwell on the past.~~}
 		**Player choice**
 			**Intensely Disagree**
 				Lakshmi
@@ -174,7 +176,7 @@ event
 						 ...
 					Event
 						 Lakshmi runs away form the scene.
-			**Softly Disagree**
+			{>>Probably should add the option to agree<<}**Softly Disagree**
 				Lakshmi
 					I see your point, Grandpa Dan... but I... think keeping and sharing memories is what will keep us together. To build a strong future. 
 				Lakshmi
@@ -196,10 +198,10 @@ event
 		    Right.{>>grandpa dan seems to be very vocal with his onomatopoeia. I think it can work maybe for just his character if we are committing to it. but as some of my corrections have shown, we should leverage sounds and emotes for conveying emotion and communicating along with the text.<<}
 Event
 	Lakshmi walks away from the scene a bit.
-Lakshmi
+{--Lakshmi
 	Shoot! I forgot to thank him for the bread...
 Lakshmi
-	Ah well, I'll do it later. I won't forget it for sure.
+	Ah well, I'll do it later. I won't forget it for sure.--}
 
 If Player wishes to talk to Grandpa Dan again
 	Grandpa Dan
@@ -216,7 +218,7 @@ Lakshmi
     Brr. The forest gives me the creeps. 
 Lakshmi
     I heard kids in the village say there are monsters lurking here... 
-Lakshmi
+{>>Happy to discuss this, but this strikes me as something the player should motivate. Like if the player chose to calm Lakshmi down she would say this kind of thing <<}Lakshmi
     No! Lakshmi get a hold of yourself! These are kid's tales, nothing more. 
 
 ### Quest 2, Interactable Receptionist
@@ -233,10 +235,10 @@ Lakshmi
     Please please tell me I won't be pulling out weeds today!
 **Receptionist**
     Bahahahaha
-**Receptionist**
+{--**Receptionist**
     Can't promise anything.
 **Lakshmi**
-    That bad... Alright! Thanks!
+    That bad... Alright! Thanks!--}
 ### Quest 2, Interactable Intern
 **Event**
 	Player Overhears Intern talking to themselves
@@ -262,6 +264,10 @@ Lakshmi
     Yes, Lakshmi. I'm sorry for what I am about to say…
 **Greg**
     You've been progressing too quickly and I believe you are ready to become a postal worker!
+
+(Alternative Version)
+
+Greg: 
 **Player choice**
 	**I'm so excited!**
 		Lakshmi
@@ -271,7 +277,7 @@ Lakshmi
 			Am-am I ready? I feel so underprepared!
 [Regardless of choice]
 **Greg**
-	You'll start with just a few written questions.
+	You'll start with {--just--} a few written questions.
 **Greg**
     Take a seat and I'll be over in a minute with your exam.
 **Lakshmi**
