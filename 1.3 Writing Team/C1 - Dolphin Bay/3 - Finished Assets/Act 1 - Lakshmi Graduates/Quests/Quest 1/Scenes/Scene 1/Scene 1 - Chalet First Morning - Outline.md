@@ -1,6 +1,6 @@
 ---
 tags:
-Date_Created:
+Date_Created: 2026-03-23
 ---
 ```
 > PLEASE TITLE - Scene SceneNumber - SceneName Outline
@@ -76,4 +76,7 @@ Lakshmi Wakes Up - Dialogue
 [[Tea - Interactable]]
 	Green tea with loose herbs 
 
+|DIA|[[TestDialogue]]
+
+|DIA|[[TestDialogue2]]
 
