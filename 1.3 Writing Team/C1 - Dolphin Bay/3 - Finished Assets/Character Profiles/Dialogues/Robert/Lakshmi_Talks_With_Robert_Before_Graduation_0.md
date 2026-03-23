@@ -1,9 +1,4 @@
 
-```
-> PLEASE TITLE - DialogueName_DialogueOptionNumber_DialogueOptionNumber...
-> For Root Dialouge PLEASE TITLE - DialogueName_0 
-```
-
 *Dialogue Root* : [[Robert - Profile]]
 # Characters: Lakshmi, Robert
 ## Bundle : Lakshmi_Talks_With_Robert_Main_Story
@@ -15,8 +10,4 @@ Lakshmi: Big day? Good luck? Euhhh. How much am I in trouble on a scale from 1 t
 Robert: Oh, you will be pulling weeds alright.
 
 **Options**
-
-```
-> Leave Options blank if at the end of the dialogue
-```
 
