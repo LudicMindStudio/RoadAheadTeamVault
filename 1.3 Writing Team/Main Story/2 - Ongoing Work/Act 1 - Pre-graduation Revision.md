@@ -41,7 +41,7 @@ Lakshmi, Grandpa Dan, Greg. Intern (NAME??). [[Guild Receptionist (Robert)]], [[
 ### Quest 1, Interactable : Chalet Top Floor
 Table
 	Lakshmi
-		Journaling keeps your mind at bay and spirits sharp!
+		Journaling keeps your mind at bay and spirits sharp{>>I was wondering what you might think of journaling about her past a bit I made a rough draft: [[Journal Rough Work]]<<}!
 	Lakshmi
 		Always calms me down when I have many thoughts.
 Mirror
