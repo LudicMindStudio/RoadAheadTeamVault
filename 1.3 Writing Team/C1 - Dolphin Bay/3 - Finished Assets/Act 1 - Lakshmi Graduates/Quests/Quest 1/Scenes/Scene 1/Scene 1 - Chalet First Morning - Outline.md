@@ -20,7 +20,7 @@ Grandpa Dan Character Profile
 
 Lakshmi's **journal** is open on her desk. 
 
-A basket of **bread** sits on the kitchen counter. Granda Dan is in the kitchen cleaning up. 
+Downstairs: A basket of **bread** sits on the kitchen counter. A glass of **tea** rests on the kitchen table beside **Greg's book**. Granda Dan is in the kitchen cleaning up. 
 ## General Description 
 
 Lakshmi wakes up and realizes she's late. The player is free to explore the Chalet. The player can surprise Grandpa Dan. The player can exit the Chalet through the front door. 
@@ -31,20 +31,19 @@ Trigger Clear - Lakshmi_Left_Chalet=True
 --- 
 # Scene Events
 
-[[Lakshmi Surprises Grandpa Dan - Event Script]]
+[[Event 1 - Grandpa Dan Surprises Lakshmi - Script]]
 	Brief summary of Event One 
-		Trigger Start - Lakshmi_is_DownStairs=True 
-		On Clear - Lakshmi_Surpised_GrandpaDan=True 
+		Trigger Start - Lakshmi_is_MidwayDownStairs=True
+		On Clear - Grandpa_Dan_Surpised_Lakshmi=True 
 		
-
 ---  
 # Scene Dialogues
 
-[[Lakshmi Wakes Up_0 - Dialogue]]
-	Lakshmi wakes up to realize she slept in, so she thinks she better run to the guild hall  
+Lakshmi Wakes Up - Dialogue 
+	|DIA|[[LakshmiWakesUp_0]]
+	Lakshmi dreams of being a grasshopper, she realizes she's late and needs to get to the guildhall 
 		Trigger Start - GameStart=True 
 		On Clear - Lakshmi_Just_Woke_Up=True 
-	
 
 ---
 # Scene Interactables
@@ -68,6 +67,13 @@ Trigger Clear - Lakshmi_Left_Chalet=True
 
 [[Bread - Interactable]]
 	Bread that Grandpa Dan made for Lakshmi 
-		Trigger Start - Lakshmi_Surpised_GrandpaDan=True 
-		On Clear - Lakshmi_Complimented_Bread=True 
+		Trigger Start - Grandpa_Dan_Surpised_Lakshmi=True 
+
+[[Gregs Book - Interactable]]
+	A book Greg left behind 
+		Trigger Start - Grandpa_Dan_Surpised_Lakshmi=True 
+
+[[Tea - Interactable]]
+	Green tea with loose herbs 
+
 

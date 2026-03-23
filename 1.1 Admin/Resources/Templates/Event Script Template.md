@@ -4,7 +4,7 @@ Date_Created:
 Characters:
 ---
 ```
-> PLEASE TITLE - EventName - Event Script
+> PLEASE TITLE - Event - Event Number - EventName -  Script
 ```
 # Event Description
 

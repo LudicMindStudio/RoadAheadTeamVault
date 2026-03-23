@@ -4,7 +4,7 @@ Grasshopper - you unfurl your iridescent wings
 Human - your cheek is sore against the hard book
 Late  
 
-Lakshmi: Oh no, I've got to get to the Guild Hall. 
+Lakshmi: Greg said he needed me in the guild hall today! I better run. 
 
 Narrator: as you descend, the smell of freshly baked bread fills your nostrils 
 Narrator: the old wooden stairs squeak 
@@ -16,7 +16,7 @@ GrandpaDan: Lakshmi? 
 Lakshmi walks towards Grandpa Dan 
   
 Lakshmi: Grandpa! What are you doing here?
-Grandpa Dan: Someone ought to put this kitchen to use. Let me look at ya. 
+Grandpa Dan: Someone ought to put this kitchen to use. Let me look at you. 
 
 Lakshmi approaches Grandpa Dan 
 
