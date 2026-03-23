@@ -12,7 +12,7 @@ Date_Created:
 [[Quest 1 - Visit the Guild Hall - Outline]]
 ## Root Location
 
-[[Grandpa Dan's Chalet - Location Outline]]
+[[Greg's Chalet - Location Outline]]
 ## Character List
 
 Grandpa Dan Character Profile
@@ -24,7 +24,6 @@ A basket of **bread** sits on the kitchen counter. Granda Dan is in the kitchen 
 ## General Description 
 
 Lakshmi wakes up and realizes she's late. The player is free to explore the Chalet. The player can surprise Grandpa Dan. The player can exit the Chalet through the front door. 
-
 ## Quest Logic 
 Trigger Start - Game_Starts=True
 Trigger Clear - Lakshmi_Left_Chalet=True

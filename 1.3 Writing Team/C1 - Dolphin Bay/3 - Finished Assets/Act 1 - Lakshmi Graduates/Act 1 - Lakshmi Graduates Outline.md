@@ -9,7 +9,7 @@ Date_Created: 2026-02-23
 
 ## Brainstorming Links
 
-Brainstorming Document One 
+[[Act 1 - Pre-graduation Revision]]
 Brainstorming Document Two...
 ## Character List
 
@@ -23,7 +23,7 @@ Intern Character Profile
 Lakshmi Saves Dolphin Bay - Main Plot Outline 
 ## General Description
 
-Lakshmi wakes up in Grandpa Dan's  Chalet and has to rush to the Guild Hall. Once there, Greg gives her a surprise quiz followed by a practical field test. Once she completes these tasks, she graduates and becomes a full guild-member! 
+Lakshmi wakes up in Greg's Chalet and has to rush to the Guild Hall. Once there, Greg gives her a surprise quiz followed by a practical field test. Once she completes these tasks, she graduates and becomes a full guild-member! 
 
 --- 
 # Act Quests

@@ -10,7 +10,7 @@ Date_Created:
 Handmade, large oak wardrobe containing Lakshmi's clothes. 
 # Default Interactions
 
-Root Location - [[Grandpa Dan's Chalet - Location Outline]]
+Root Location - [[Greg's Chalet - Location Outline]]
 
 INVENTORY EFFECT
 	Large inventory with a single sock item (small)
