@@ -16,7 +16,7 @@ Lora is a tall woman of colour. She has thickly braided black hair with brown ti
 
 Lora is nosy, kind, non-judgemental, proud and mystical 
 
-A master of the meditative techniques that govern the guild, Lora takes her education very seriously. Using her stoic mind she has become an unparalleled source of technical knowledge (breathing techniques) and local lore. While not judgmental, she is certainly {>>CL : I would kindly and strongly suggest against describing a therapist nosy and mystical. More than happy to hear your thoughts on it!  <<}nosy. 
+A master of the meditative techniques that govern the guild, Lora takes her education very seriously. Using her stoic mind she has become an unparalleled source of technical knowledge (breathing techniques) and local lore. While not judgmental, she is certainly {>>CL : I would kindly and strongly suggest against describing a therapist as nosy and mystical. The easy fix can be to change her occupation. More than happy to hear your thoughts on it!<<}nosy. 
 
 She loves to wander the tidepools and collect shells for the family collection.
 

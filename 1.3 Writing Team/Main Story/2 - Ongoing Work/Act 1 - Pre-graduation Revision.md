@@ -223,6 +223,11 @@ Lakshmi
     Brr. The forest gives me the creeps. 
 Lakshmi
     I heard kids in the village say there are monsters lurking here... 
+Lakshmi
+	This is...
+**Player Choice**
+	**Scary**
+	
 {>>Happy to discuss this, but this strikes me as something the player should motivate. Like if the player chose to calm Lakshmi down she would say this kind of thing <<}{>><<}{>>CL: I like how you reframed it! Plz feel free to add the option<<}Lakshmi
     No! Lakshmi get a hold of yourself! These are kid's tales, nothing more. 
 
