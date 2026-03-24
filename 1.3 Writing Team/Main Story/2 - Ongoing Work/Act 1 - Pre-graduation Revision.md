@@ -34,7 +34,6 @@ Early game notes: [[Dolphin Bay - Elements to be reviewed]], [[Dolphin Bay - Eve
 Lakshmi, Grandpa Dan, Greg. Intern (NAME??). [[Guild Receptionist (Robert)]], [[Lakshmi (MC)]], [[Old Character Bios]], experienced guild member
 
 ---
----
 # Draft 
 
 [[Act 1 - Quest 1 - Scene 1 (Rough Work)]]
