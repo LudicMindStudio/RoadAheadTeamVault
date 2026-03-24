@@ -10,7 +10,7 @@ Example:
 
 (1) |DIA| 
 
-(2) |DIA| TestDialogue 
+(2) |DIA| TestDialogue3 
 
-(3) |DIA|[[Testdialogue]]
+(3) |DIA|[[Testdialogue3]]
 
