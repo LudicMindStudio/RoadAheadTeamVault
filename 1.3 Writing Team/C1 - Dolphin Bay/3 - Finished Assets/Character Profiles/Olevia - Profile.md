@@ -2,34 +2,34 @@
 tags:
   - DolphinBay
 Date_Created: 2026-03-13
-Age: 17
+Age: 18
 Profession: Postal worker intern
 ---
-TO DO!!
+Include any links to reference art here 
 # Reference Art Links
 
-Include any links to reference art here 
+No art reference yet.
 # Description
 
 ## Appearance 
 
-Detailed description of the appearance of the character. What do they physically look like? What do they like to wear? 
+- black hair
+- blue eyes 
 ## Core Characteristics 
 
-Description of the vibe of the character. What makes this character tick? 
+No one really knows her name. Clumsy; drops things and bumbs into things often. She likes to learn. 
 ## Essential History 
 
-Description of any character defining events that occurred before they meet Lakshmi 
+Newbie to the village. Likes the village and what the dolphin history it has. 
 ## Relationships
 
-Brief description of major relationships (lovers, good friends, enemies etc.)
+Met Greg in a village and was inspired to become a postal worker. 
 ## Brainstorming Links
-
-Brainstorming Document One 
-Brainstorming Document Two...
+[[Act 1 - Quest 1 - Scene 1 (Rough Work)]]
+[[Act 1 - Pre-graduation Revision#Quest 3, Scene 2 Practical Test - Meeting the Intern]]
 
 --- 
-# Character Dialogue 
+# Character Dialogue {>>Not sure what to do here -AFP<<}
 
 DIALOGUE_0 ONE
 	Brief summary of Dialogue One 
