@@ -10,15 +10,15 @@
 
 Lakshmi: You need me?
 
-François: {++{sfx: big txt} ++}Of course! {~~Your energies are perfect. ~>We need your energy! ~~}{--With you will become--} {++With your help, we will be ++}BOLDER!
+François: {++{sfx: big txt} ++}Of course! {~~Your energies are perfect. ~>We need your energy! ~~}{--With you will becomee BOLDER.  BOLDER.--}
 
 Lakshmi:{++ Sure,++} I{>>CL: I like to Lakshmi is so chill here it makes me laugh<<} try to stay positive. How can I help?
 
-Francois: THAT. JUST THAT. Tell them all. THE DOLPHINS MUST RETURN!
+Francois: THAT.{++ With your help, we will get the message across! ++} {++The Mayor should know of this injustice! We have to take action! ++}{~~JUST THAT. Tell them all. THE DOLPHINS MUST RETURN!~> ~~}
 
 {>>CL: ping for quest start. Also, great work! Reinforces Lakshmi's occupation and the gameplay in general<<}Lakshmi: Get it to me in writing and I'll happily deliver the message!
 
-Francois (beams){++++}
+Francois {~~(beams)~>Great! Come to my house later on, I'll be there with the letter.~~}
 
 Lakshmi: 
 **Options**

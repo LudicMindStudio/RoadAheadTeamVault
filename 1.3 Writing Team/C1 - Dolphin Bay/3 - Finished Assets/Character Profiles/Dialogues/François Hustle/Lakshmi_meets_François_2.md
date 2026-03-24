@@ -10,11 +10,11 @@
 
 François: Have you not heard? {--Of course not, the fog is everywhere now. EVERYWHERE. --}All the dolphins are gone. They've vanished in less than a fortnight. Even my prince Caspian.
 
-Lakshmi: That sounds really frightening. What could have caused this?
+Lakshmi: That sounds really frightening! What could have caused this?
 
 Francois: {++The wretched fog! 
 
-Francois: ++}They told us the sanctuary was safe. It is our leadership that is to blame!
+Francois: ++}They told us the sanctuary was safe. {~~It is o~> O~~}ur {~~leadership~>Mayor~~} {--that--} is to blame!{++ We need to find the dolphins!++}
 
 Lakshmi:
 **Options**

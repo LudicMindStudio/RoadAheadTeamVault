@@ -14,7 +14,7 @@ François (wipes away tears): IT IS TIME FOR CHANGE! {>>CL: I like to think that
 
 Francois : Say it with me. THE DOLPHINS MUST RETURN!
 
-François (spots Lakshmi): You there! How fortuitous. {~~In our hour of need!~> We need your help! ~~}{>>CL: I changed just a bit the dialogue so he doesnt sound too woo-woo so we can redeem him later lol<<}
+François (spots Lakshmi): You there! How fortuitous. {~~In our hour of need!~> We need your help! ~~}{>>CL: I reframed a bit the dialogue so the player has an easier time to be on board with Francoi's motivation. He seemed juuuust a bit too woo woo to empathize with <<}
 
 Lakshmi:
 **Options**
