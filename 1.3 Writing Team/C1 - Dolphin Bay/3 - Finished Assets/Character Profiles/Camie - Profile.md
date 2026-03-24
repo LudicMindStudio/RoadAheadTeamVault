@@ -40,4 +40,4 @@ Camie is attending the protest with Doran{>>CL: Let's not mention him yet since 
 		On Clear - Lakshmi_Has_Delivered_NPCs_Mail=True, Lakshmi_Has_NPCs_Mail=False, Lakshmi_Has_Muffins = True
 
 
-{>>CL: The easiest way to implement that would be to leave the choice to the player. e.g. If the player tried Camie's goods, maybe they would be more likely to try it out, or not .<<}**Comment from arkana: Would be fun to have Lakshmi take the muffin depending if she tired Camie's baked goods previously or not**
+{>>CL: The easiest way to implement that would be to leave the choice to the player. e.g. If the player tried Camie's goods, maybe they would be more likely to try it out, or not . Feel free to checj out some examples of Player Choices in [[Act 1 - Pre-graduation Revision]]<<}**Comment from arkana: Would be fun to have Lakshmi take the muffin depending if she tired Camie's baked goods previously or not**
