@@ -34,9 +34,9 @@ Lakshmi: No sir.
 Garp: ++}Heck, why not. If you can find me another crew member, why I could get ol'Snapper seaworthy before the tide goes out.
 
 Lakshmi:
-**Options**
-- [[IntroToGarp_1]]:  Aye, aye captain  
-- [[IntroToGarp_2]]: Maybe after I've got this whole mail thing down 
+{>>CL: Maye we should also give a choice to the player to disagree<<}{>>CL: P.s. I added neutral player options + added Lakshmis dialogue inside<<}**Options**
+- [[IntroToGarp_1]]:  {++Accept ++}{--Aye, aye captain --} 
+- [[IntroToGarp_2]]: {++Later ++}{--Maybe after I've got this whole mail thing down --}
 
 
 
