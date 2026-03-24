@@ -671,7 +671,7 @@ Event - Greg searches around
     --}
 Piles of boxes surround the intern. 
 
-**Intern**: Come on Olavius{>>good call for reminding player their name<<}, think. Where is that package? 
+**Intern**: Come on Olevia{>>CL: good call for reminding player their name<<}{>>CL: Also just realized the Intern is female in the game. Agreed with Arkana to change the name for Olevia for the intern<<}, think. Where is that package? 
 
 A gold package shines at the top of the mountain of boxes 
 
@@ -695,7 +695,7 @@ Event - Greg searches around
 
 **Intern**: I'll just hide here... For a minute. Anyway, I've got the whole night to rearrange the mail...
 
-### Quest 3, Scene 3: Practical Test - Meeting Olavius
+### Quest 3, Scene 3: Practical Test - Meeting Olevia
 
 **Intern**
     Lakshmi!? Are you ok?
@@ -720,14 +720,14 @@ Event - Greg searches around
 		Lakshmi
 			It is their name, right?
 		Narrator
-			The intern cracks an awkward smile. You notice the name tag on their shirt: Olavius.
+			The intern cracks an awkward smile. You notice the name tag on their shirt: Olevia.
 		Lakshmi
 			Oopsies.
-	**Olavius** *(correct choice)*
+	**Olevia** *(correct choice)*
 		Intern
 			Aw, thanks Lakshmi!
 		Narrator
-			Olavius' face flushes with relief. They look more relaxed than they did before.
+			Olevia' face flushes with relief. They look more relaxed than they did before.
 	**Olivier**
 		Intern
 			...
@@ -736,14 +736,14 @@ Event - Greg searches around
 		Lakshmi
 			It is their name, right?
 		Narrator
-			The intern cracks an awkward smile. You notice the name tag on their shirt: Olavius.
+			The intern cracks an awkward smile. You notice the name tag on their shirt: Olevia.
 		Lakshmi
 			Oopsies.
 **Intern**
     M-my pleasure!
 **Lakshmi**
-    Keep up the good work Olavius! I'm sure you'll be a full guild member in no time!
-[If possible to implement it. Change the NPCs name to Olavius from now{>>Will do!<<} on.]
+    Keep up the good work Olevia! I'm sure you'll be a full guild member in no time!
+[If possible to implement it. Change the NPCs name to Olevia from now{>>Will do!<<} on.]
 **Intern**
     Really? Do you believe that Lakshmi?
 **Player's choice**
@@ -772,8 +772,8 @@ Intern
 Intern
 	I haven't found any dolphins though... Maybe I scared them off? I am pretty clumsy.
 
-*Note: might need to give a chance for Lakshmi to follow-up about her flashback to Greg. Maybe future quest. Olavius should also get a side quest*
-*Note 2: Open thread: Lakshmi memory abilities. [[Narrative Goals#Memories subplot]] Proper first memory tutorial with gameplay at a later time. Maybe with Olavius again.* 
+*Note: might need to give a chance for Lakshmi to follow-up about her flashback to Greg. Maybe future quest. Olevia should also get a side quest*
+*Note 2: Open thread: Lakshmi memory abilities. [[Narrative Goals#Memories subplot]] Proper first memory tutorial with gameplay at a later time. Maybe with Olevia again.* 
 ### Quest 3, Scene 4: Practical Test - Graduation
 
 Lakshmi
