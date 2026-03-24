@@ -8,19 +8,16 @@ Date_Created:
 
 # Interactable Description
 
-## Root Scene 
-
-[[Scene 1 - Chalet First Morning - Outline]]
-## Object Description
 Bread that Grandpa Dan made for Lakshmi 
+# Scene Interactions
 
-## Object Logic
-Trigger Start - Lakshmi_Surpised_GrandpaDan=True 
-On Clear - Lakshmi_Interacted_Bread=True 
-# Interactable Outline
+Root Scene - [[Scene 1 - Chalet First Morning - Outline]]
 
-[[Lakshimi Talks to Bread_0 - Dialogue]]
-	Lakshmi compliments the bread
+Lakshimi Tastes Bread - Dialogue
+- |DIA|[[LakshmiTastesBread_0]]
+	Lakshmi tastes the bread
+	Trigger Start - Lakshmi_Surpised_GrandpaDan=True 
+	On Clear - Lakshmi_Interacted_Bread=True 
 
 
 

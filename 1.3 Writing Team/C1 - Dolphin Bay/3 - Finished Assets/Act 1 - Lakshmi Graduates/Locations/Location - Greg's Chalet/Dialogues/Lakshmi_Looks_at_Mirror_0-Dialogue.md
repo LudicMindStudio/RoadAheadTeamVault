@@ -6,7 +6,7 @@ Date_Created:
 > PLEASE TITLE - DialogueOptionName_DistanceFromRoot - Dialogue
 ```
 
-*Dialogue Root* : [[Grandpa Dan's Chalet - Location Outline]]
+*Dialogue Root* : [[Greg's Chalet - Location Outline]]
 # Characters: Lakshmi
 ## Bundle : Lakshmi Looks at Mirror_0
 
