@@ -8,7 +8,7 @@
 # Characters: Lakshmi, François Hustle
 ## Bundle : Lakshmi_meets_François_0{>>CL: ok I changed a bit the formatting so theres less copy-paste but the structure is the same<<}
 
-François (sobbing): {>>CL: Im not sure who Francois is talking to here. <<}If only your company was enough, we have had bad years. Horrible years. Nothing like this. 
+François (sobbing): {>>CL: Im not sure who Francois is talking to here.  Or about what.<<}If only your company was enough, we have had bad years. Horrible years. Nothing like this. 
 
 François (wipes away tears): IT IS TIME FOR CHANGE! {>>CL: I like to think that Francois is unaware of the effect he has on the fog. He just angy<<}{--Together we will push back the fog--}! The dolphins must return! 
 
