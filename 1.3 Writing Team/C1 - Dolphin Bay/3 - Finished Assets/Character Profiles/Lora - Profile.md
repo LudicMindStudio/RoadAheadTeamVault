@@ -16,7 +16,7 @@ Lora is a tall woman of colour. She has thickly braided black hair with brown ti
 
 Lora is nosy, kind, non-judgemental, proud and mystical 
 
-A master of the meditative techniques that govern the guild, Lora takes her education very seriously. Using her stoic mind she has become an unparalleled source of technical knowledge (breathing techniques) and local lore. While not judgmental, she is certainly nosy. 
+A master of the meditative techniques that govern the guild, Lora takes her education very seriously. Using her stoic mind she has become an unparalleled source of technical knowledge (breathing techniques) and local lore. While not judgmental, she is certainly {>>CL : I would kindly and strongly suggest against describing the therapist nosy.  <<}nosy. 
 
 She loves to wander the tidepools and collect shells for the family collection.
 
@@ -25,7 +25,7 @@ She also loves to read old literature. She has a fondness for Simone de Beauvoir
 
 Lora and Robert while not founding members joined the guild during the first sea to sea route (connecting over 20 villages). They've stuck around since and have settled nicely in Dolphin Bay. 
 
-Lora had a major falling out with Greg five years ago over his treatment of a new recruit. The recruit is said to have journeyed out into the fog and has been lost forever. 
+{>>CL: Flag for future side-quest<<}Lora had a major falling out with Greg five years ago over his treatment of a new recruit. The recruit is said to have journeyed out into the fog and has been lost forever. 
 ## Relationships
 
  Husband (Robert) and son (Elio). Cold towards Greg. 
