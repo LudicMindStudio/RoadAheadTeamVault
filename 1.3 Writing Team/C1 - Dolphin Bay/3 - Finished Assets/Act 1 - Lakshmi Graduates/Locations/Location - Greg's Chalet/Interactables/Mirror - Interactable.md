@@ -10,7 +10,7 @@ Date_Created:
 Full size mirror  
 # Default Interactions
 
-Root Location - [[Grandpa Dan's Chalet - Location Outline]]
+Root Location - [[Greg's Chalet - Location Outline]]
 
 [[Lakshmi_Looks_at_Mirror_0-Dialogue]]  
 	Lakshmi compliments herself 

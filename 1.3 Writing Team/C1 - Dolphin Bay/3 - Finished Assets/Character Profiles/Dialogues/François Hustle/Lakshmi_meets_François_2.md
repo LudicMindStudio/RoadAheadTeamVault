@@ -8,16 +8,18 @@
 # Characters: Lakshmi, François
 ## Bundle : Lakshmi_meets_François_2
 
-François: Have you not heard? Of course not, the fog is everywhere now. EVERYWHERE. All the dolphins are gone. They've vanished in less than a fortnight. Even my prince Caspian.
+François: Have you not heard? {--Of course not, the fog is everywhere now. EVERYWHERE. --}All the dolphins are gone. They've vanished in less than a fortnight. Even my prince Caspian.
 
 Lakshmi: That sounds really frightening. What could have caused this?
 
-Francois: They told us the sanctuary was safe. It is our leadership that is to blame!
+Francois: {++The wretched fog! 
+
+Francois: ++}They told us the sanctuary was safe. It is our leadership that is to blame!
 
 Lakshmi:
 **Options**
-- [[Lakshmi_meets_François_2_1]]: You need me?
-- [[Lakshmi_meets_François_2_2]]: I really think I need to be going.
+- [[Lakshmi_meets_François_2_1]]: {++Offer help ++}{--You need me?--}{>>CL: Added the Lakshmi dialogue inside options<<}
+- [[Lakshmi_meets_François_2_2]]: {++Leave ++}{--I really think I need to be going.--}
 
 
 

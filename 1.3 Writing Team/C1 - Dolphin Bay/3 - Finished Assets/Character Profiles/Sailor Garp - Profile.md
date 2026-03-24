@@ -1,5 +1,6 @@
 ---
 tags:
+  - DolphinBay
 Date_Created: 2026-02-26
 Age: 50
 Profession: Fisherman
@@ -15,6 +16,7 @@ TO DO!!!
 - Wears a hat (unsure if he has hair under there or not)
 - brown eyes
 - Wears overalls
+- dark skin tone
 ## Core Characteristics 
 
 Remembers all the wildlife he would see prior to the fog. Says that it seems like it all wondered away. Says that he is proud of his daughter for the work that she does. He's happy he's able to share his passion with her. 
