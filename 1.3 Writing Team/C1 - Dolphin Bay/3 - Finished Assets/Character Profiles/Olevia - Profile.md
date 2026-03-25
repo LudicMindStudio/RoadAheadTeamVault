@@ -32,13 +32,13 @@ Met Greg in a village and was inspired to become a postal worker.
 --- 
 # Character Dialogue {>>Not sure what to do here -AFP<<}{>>CL: We jsut need to add the banter dialogue when its unrelated to the quest. e.g. player talks to intern while not being on the quest<<}
 
-DIALOGUE_0 ONE
-	Brief summary of Dialogue One 
+|DIA|[[DIALOGUE_0 InternBanter]]
+	Intern Banter unrelated to the Act 1 - Quest 2 and Quest 3. Can happend whenever. Intern nerds out about Dolphin Bay
 		Trigger Start - ExampleTag=True
 		On Clear - ExampleTag=True 
 
-DELIVERED MAIL TO NPC
-	Brief summary of DELIVERED MAIL TO NPC
+DELIVERED MAIL TO NPC 
+	Act 1 [[Quest 3 - Deliver Mail to Intern - Outline]]
 		Trigger Start - Lakshmi_Has_NPCs_Mail=True, Lakshmi_Interacts_NPC=True  
 		On Clear - Lakshmi_Has_Delivered_NPCs_Mail=True, Lakshmi_Has_NPCs_Mail=False
 

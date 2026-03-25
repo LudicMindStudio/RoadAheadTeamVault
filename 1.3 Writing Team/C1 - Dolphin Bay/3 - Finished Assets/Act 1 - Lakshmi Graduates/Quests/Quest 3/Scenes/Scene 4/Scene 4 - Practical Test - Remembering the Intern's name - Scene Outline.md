@@ -13,21 +13,20 @@ Date_Created:
 [[Quest 3 - Deliver Mail to Intern - Outline]]
 ## Root Location
 
-ROOT LOCATION NAME 
+[[Guild Hall - Location Outline]]
 ## Character List
 
-CHARACTER PROFILE ONE 
-CHARACTER PROFILE TWO... 
+[[Olevia - Profile]]
+Lakshmi
 ## Brainstorming Links
 
-Brainstorming Document One 
-Brainstorming Document Two...
+[[Act 1 - Pre-graduation Revision]]
 ## Setting Specifics  
 
-Detail any changes to the root location that are specific to the scene including environmental conditions such as a specific time of day. 
+Storage room on first floor
 ## General Description 
 
-Provide a brief description of the core action of the scene. 
+Remembering the Intern's name
 ## Scene Logic 
 Trigger Start - ExampleTag=True
 Trigger Clear - ExampleTag=True
@@ -48,7 +47,7 @@ EVENT TWO...
 ---  
 # Scene Dialogues
 
-DIALOGUE_0 ONE
+|DIA|[[DIALOGUE_0 LakshmiThanksIntern]]
 	Brief summary of Dialogue One 
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 

@@ -13,21 +13,20 @@ Date_Created:
 [[Quest 3 - Deliver Mail to Intern - Outline]]
 ## Root Location
 
-ROOT LOCATION NAME 
+[[Guild Hall - Location Outline]]
 ## Character List
 
-CHARACTER PROFILE ONE 
-CHARACTER PROFILE TWO... 
+[[Olevia - Profile]]
+[[Greg - Profile]]
 ## Brainstorming Links
 
-Brainstorming Document One 
-Brainstorming Document Two...
+[[Act 1 - Pre-graduation Revision]]
 ## Setting Specifics  
 
-Detail any changes to the root location that are specific to the scene including environmental conditions such as a specific time of day. 
+Same backroooms. At night. 
 ## General Description 
 
-Provide a brief description of the core action of the scene. 
+Messy with mail scattered on the floor and boxes on the side. 
 ## Scene Logic 
 Trigger Start - ExampleTag=True
 Trigger Clear - ExampleTag=True
@@ -35,40 +34,50 @@ Trigger Clear - ExampleTag=True
 --- 
 # Scene Events
 
-EVENT ONE
+[[EVENT_1 Gold Package Shines]]
 	Brief summary of Event One 
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
 
-EVENT TWO... 
+[[EVENT_2 Top Boxes Fall]]
 	Brief summary of Event Two 
+		Trigger Start - ExampleTag=True 
+		On Clear - ExampleTag=True 
+
+[[EVENT_3 Intern Hides]]
+	Brief summary of Event Two 
+		Trigger Start - ExampleTag=True 
+		On Clear - ExampleTag=True 
+
+[[EVENT_4 Memory Wrap Back]]
+	Lakshmi Leaves Intern's Memory
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
 
 ---  
 # Scene Dialogues
 
-DIALOGUE_0 ONE
+|DIA|[[DIALOGUE_1 InternMemory]]
 	Brief summary of Dialogue One 
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
 
-DIALOGUE_0 TWO... 
+|DIA|[[DIALOGUE_2 InternMemory]]
 	Brief summary of Dialogue Two 
+		Trigger Start - ExampleTag=True 
+		On Clear - ExampleTag=True 
+
+|DIA|[[DIALOGUE_3 InternMemory]]
+	Brief summary of Dialogue Two 
+		Trigger Start - ExampleTag=True 
+		On Clear - ExampleTag=True 
+
+|DIA|[[DIALOGUE_4 InternMemory]]
+	Last Dialogue of Memory
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
 
 ---
 # Scene Interactables
 
-INTERACTABLE ONE
-	Brief summary of Interactable One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-INTERACTABLE TWO
-	Brief summary of Interactable One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-
+NA
