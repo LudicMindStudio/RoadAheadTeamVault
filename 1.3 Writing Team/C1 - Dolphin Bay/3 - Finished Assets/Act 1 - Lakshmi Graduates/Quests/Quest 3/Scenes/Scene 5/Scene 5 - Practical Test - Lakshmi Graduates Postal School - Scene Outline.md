@@ -24,13 +24,15 @@ Brainstorming Document One
 Brainstorming Document Two...
 ## Setting Specifics  
 
-Detail any changes to the root location that are specific to the scene including environmental conditions such as a specific time of day. 
+Second floor, Greg behind his desk. 
+
+It should be day time.
 ## General Description 
 
-Provide a brief description of the core action of the scene. 
+Player is free to explore the Guild Hall in between scenes
 ## Scene Logic 
-Trigger Start - ExampleTag=True
-Trigger Clear - ExampleTag=True
+Trigger Start - LakshmiReadyExam=True
+Trigger Clear - LakshmiTheoryExam=True
 
 --- 
 # Scene Events

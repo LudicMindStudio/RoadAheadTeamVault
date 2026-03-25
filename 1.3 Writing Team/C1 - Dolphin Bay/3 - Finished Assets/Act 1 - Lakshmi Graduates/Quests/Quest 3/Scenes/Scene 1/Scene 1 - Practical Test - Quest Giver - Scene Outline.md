@@ -13,44 +13,35 @@ Date_Created:
 [[Quest 3 - Deliver Mail to Intern - Outline]]
 ## Root Location
 
-ROOT LOCATION NAME 
+[[Guild Hall - Location Outline]]
 ## Character List
 
-CHARACTER PROFILE ONE 
-CHARACTER PROFILE TWO... 
+Greg + Lakshmi 
 ## Brainstorming Links
 
-Brainstorming Document One 
-Brainstorming Document Two...
+[[Act 1 - Pre-graduation Revision]]
 ## Setting Specifics  
 
-Detail any changes to the root location that are specific to the scene including environmental conditions such as a specific time of day. 
+==Detail any changes to the root location that are specific to the scene including environmental conditions such as a specific time of day. ==
 ## General Description 
 
-Provide a brief description of the core action of the scene. 
+==Provide a brief description of the core action of the scene.== 
 ## Scene Logic 
-Trigger Start - ExampleTag=True
-Trigger Clear - ExampleTag=True
+Trigger Start - ==ExampleTag===True
+Trigger Clear - ==ExampleTag===True
 
 --- 
 # Scene Events
 
-EVENT ONE
-	Brief summary of Event One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-EVENT TWO... 
-	Brief summary of Event Two 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
+[[LetterForIntern]]
+	Greg gives Lakshmi a letter.
+		Trigger Start - ==ExampleTag===True 
+		On Clear - ==ExampleTag===True 
 
 ---  
 # Scene Dialogues
 
-|DIA| [[Practical Test - Introduction]] 
-
-DIALOGUE_0 ONE
+|DIA|[[PracticalTestQuestGiver]]
 	Brief summary of Dialogue One 
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
