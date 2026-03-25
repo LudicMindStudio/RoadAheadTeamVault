@@ -9,7 +9,7 @@ Date_Created:
 
 ## Root SCENE
 
-[[Scene 1 - Chalet First Morning - Outline]]
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Scene 1 - Chalet First Morning - Outline]]
 ## General Description
 
 Lakshmi surprises Grandpa Dan (who is immersed in his baking) with her sudden presence. He encourages her to not be late. 
