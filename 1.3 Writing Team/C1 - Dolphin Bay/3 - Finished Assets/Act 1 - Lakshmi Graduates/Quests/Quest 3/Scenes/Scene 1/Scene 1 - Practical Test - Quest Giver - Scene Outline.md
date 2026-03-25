@@ -38,6 +38,11 @@ Trigger Clear - ==ExampleTag===True
 		Trigger Start - ==ExampleTag===True 
 		On Clear - ==ExampleTag===True 
 
+[[JournalUpdate]]
+	Journal Update with current directives
+		Trigger Start - ==ExampleTag===True 
+		On Clear - ==ExampleTag===True 
+
 ---  
 # Scene Dialogues
 
@@ -46,26 +51,10 @@ Trigger Clear - ==ExampleTag===True
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
 
-DIALOGUE_0 TWO... 
-	Brief summary of Dialogue Two 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
 ---
 # Scene Interactables
 
-INTERACTABLE ONE
-	Brief summary of Interactable One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-INTERACTABLE TWO
-	Brief summary of Interactable One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-
-
+NA
 
 **Options**
 - |DIA|[[Scene 1 - Practical Test - Quest Giver - Scene Outline_1]] : Test

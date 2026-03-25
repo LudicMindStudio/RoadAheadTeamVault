@@ -31,25 +31,25 @@ Trigger Clear - LakshmiGraduates=True
 		Trigger Clear - ExampleTag=True 
 
 [[Scene 2 - Practical Test - Meeting the Intern - Scene Outline]]
-	Location 2: Guild Hall - First Floor - Backroom - Location Outline
+	Location 2: Guild Hall - First Floor - StorageRoom - Location Outline
 	Lakshmi meets the intern and greets her
 		Trigger Start - ExampleTag=True 
 		Trigger Clear - ExampleTag=True 
 
 [[Scene 3 - Practical Test - Intern Memory - Scene Outline]]
-	Location 2: Guild Hall - First Floor - Backroom - Location Outline
+	Location 2: Guild Hall - First Floor - StorageRoom - Location Outline
 	Intern's memory 
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
 
 [[Scene 4 - Practical Test - Remembering the Intern's name - Scene Outline]]
-	Location 2: Guild Hall - First Floor - Backroom - Location Outline
+	Location 2: Guild Hall - First Floor - StorageRoom - Location Outline
 	Lakshmi tries to remember the intern's memory 
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
 
 Scene 5 - Practical Test - Lakshmi Graduates Postal School - Scene Outline  
-	Location 1: Guild Hall - Second Floor - Balco - Location Outline
+	Location 1: Guild Hall - Second Floor - Balcony - Location Outline
 	Intern's memory 
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
