@@ -9,38 +9,37 @@ Date_Created:
 
 ## Root Act
 
-ROOT ACT NAME
+[[Act 1 - Lakshmi Graduates Outline]]
 ## Brainstorming Links
 
-Brainstorming Document One 
-Brainstorming Document Two...
+[[Act 1 - Pre-graduation Revision#Quest 3, Scene 1 Practical Test - Introduction|Act 1 - Pre-graduation Revision - Quest 3]]
 ## General Description 
 
 Provide a short description of the nature of the quest and the necessary scenes. 
 
 ## Quest Logic 
-Trigger Start - ExampleTag=True
-Trigger Clear - ExampleTag=True
+Trigger Start - LakshmiPracticalTest =True
+Trigger Clear - LakshmiGraduates=True
 
 --- 
 # Quest Scenes
 
-SCENE ONE
-	Location 1: LOCATION NAME
-	Brief summary of Scene One 
+Scene 1 - Practical Test - Quest Giver - Scene Outline 
+	Location 1: Guild Hall - Second Floor - Location Outline
+	Greg gives the quest and repeats the greeting with Lakshmi
 		Trigger Start - ExampleTag=True 
 		Trigger Clear - ExampleTag=True 
 
-SCENE TWO... 
+Scene 2 - Practical Test - Meeting the Intern - Scene Outline
 	Location 2: LOCATION NAME
-	Brief summary of Scene Two 
+	Lakshmi meets the intern and greets her
 		Trigger Start - ExampleTag=True 
 		Trigger Clear - ExampleTag=True 
 
-CUT SCENE ONE 
-	Brief summary of Cut Scene One 
+Scene 3 - Practical Test - Intern Memory - Scene Outline  
+	Intern's memory 
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
 
-...
+
 

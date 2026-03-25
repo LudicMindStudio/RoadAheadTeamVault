@@ -700,7 +700,7 @@ Event - Greg searches around
 
 **Intern**: I'll just hide here... For a minute. Anyway, I've got the whole night to rearrange the mail...
 
-### Quest 3, Scene 3: Practical Test - Meeting Olevia
+### Quest 3, Scene 4: Practical Test - Meeting Olevia
 
 **Intern**
     Lakshmi!? Are you ok?
@@ -779,7 +779,7 @@ Intern
 
 *Note: might need to give a chance for Lakshmi to follow-up about her flashback to Greg. Maybe future quest. Olevia should also get a side quest*
 *Note 2: Open thread: Lakshmi memory abilities. [[Narrative Goals#Memories subplot]] Proper first memory tutorial with gameplay at a later time. Maybe with Olevia again.* 
-### Quest 3, Scene 4: Practical Test - Graduation
+### Quest 3, Scene 5: Practical Test - Graduation
 
 Lakshmi
     I did it Greg! Mail delivered.
@@ -812,7 +812,7 @@ Greg
 Greg
     Go up to the front desk. Robert will have some deliveries for you to make.
 
-### Quest 3: See Robert in Guild Hall
+### Quest 4, See Robert in Guild Hall
 Event
     Player goes to see the receptionist.
 Robert
