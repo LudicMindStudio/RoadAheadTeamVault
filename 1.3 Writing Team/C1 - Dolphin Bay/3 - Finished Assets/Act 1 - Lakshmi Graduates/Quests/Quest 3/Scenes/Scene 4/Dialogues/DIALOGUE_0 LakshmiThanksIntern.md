@@ -5,7 +5,7 @@ Date_Created: 2026-03-25
 
 *Dialogue Context* : [[Scene 4 - Practical Test - Remembering the Intern's name - Scene Outline]]
 *First Parent* : [[Scene 4 - Practical Test - Remembering the Intern's name - Scene Outline]]
-# Characters: 
+# Characters: Lakshmi, Olevia
 
 ## Bundle : DIALOGUE_0 LakshmiThanksIntern
 
@@ -24,4 +24,6 @@ Intern: Ok phew. I thought I did something wrong again.
 Lakshmi: No no...You did nothing wrong? Thanks for your help-
 
 **Options**
-|DIA|Octavius
+|DIA|[[Octavius]]
+|DIA|[[Olevia]]
+|DIA|[[Olivier]]

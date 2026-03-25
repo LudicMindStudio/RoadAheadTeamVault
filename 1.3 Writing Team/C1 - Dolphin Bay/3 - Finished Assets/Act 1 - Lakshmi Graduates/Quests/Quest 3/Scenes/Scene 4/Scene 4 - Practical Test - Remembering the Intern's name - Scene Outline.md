@@ -34,15 +34,11 @@ Trigger Clear - ExampleTag=True
 --- 
 # Scene Events
 
-EVENT ONE
-	Brief summary of Event One 
+[[EVENT 1 Journal Update]]
+	Journal Update on current tasks at the end of dialogue
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
 
-EVENT TWO... 
-	Brief summary of Event Two 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
 
 ---  
 # Scene Dialogues
@@ -52,22 +48,8 @@ EVENT TWO...
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
 
-DIALOGUE_0 TWO... 
-	Brief summary of Dialogue Two 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
 
 ---
 # Scene Interactables
 
-INTERACTABLE ONE
-	Brief summary of Interactable One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-INTERACTABLE TWO
-	Brief summary of Interactable One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-
+NA
