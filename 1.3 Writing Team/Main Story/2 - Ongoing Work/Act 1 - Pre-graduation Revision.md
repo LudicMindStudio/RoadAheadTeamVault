@@ -34,31 +34,30 @@ Early game notes: [[Dolphin Bay - Elements to be reviewed]], [[Dolphin Bay - Eve
 Lakshmi, Grandpa Dan, Greg. Intern (NAME??). [[Guild Receptionist (Robert)]], [[Lakshmi (MC)]], [[Old Character Bios]], experienced guild member
 
 ---
----
 # Draft 
 
 [[Act 1 - Quest 1 - Scene 1 (Rough Work)]]
 ### Quest 1, Interactable : Chalet Top Floor
 Table
 	Lakshmi
-		Journaling keeps your mind at bay and spirits sharp{>>I was wondering what you might think of journaling about her past a bit I made a rough draft: [[Journal Rough Work]]<<}!
+		Journaling keeps your mind at bay and spirits sharp{>>I was wondering what you might think of journaling about her past a bit I made a rough draft: [[Journal Rough Work]]<<}{>>CL : yep cool! Left some comments<<}!
 	Lakshmi
 		Always calms me down when I have many thoughts.
 Mirror
 	Lakshmi
-           Hey there! The new uniform{-- on you--} is looking-
+           Hey there! The new uniform is looking-
 	**Player Choice**
 	    **GREAT**
 		    Lakshmi
 			    I knew you had good taste. 
 	    **Meh**        
 		    Lakshmi
-			    {~~It might take a while to get used to it.~>  This might take awhile to get used to ~~}
+			      This might take awhile to get used to.
 Bed
 	   Lakshmi
-	       {~~Do not~>Don't~~} tempt me.
+	       Don't tempt me.
 
-### Quest 1, Scene 2{++, Event 1++}: Step out of the chalet self-reflection
+### Quest 1, Scene 2, Event 1: Step out of the chalet self-reflection
 
 Event
     Lakshmi walks out of Greg's chalet
@@ -68,27 +67,22 @@ Lakshmi
     I have not been in Dolphin Bay often though.. 
 Lakshmi
     Bah. I'll figure this out!
-### Quest 1, Scene {~~~>2~~}{~~3~>, Event 2~~} : Lakshmi Talks to Grandpa Dan on the bench
+### Quest 1, Scene 2, Event 2, Event 2 : Lakshmi Talks to Grandpa Dan on the bench
 
 Event 
-    If player goes up to {~~Greg~>Grandpa Dan~~}.
+    If player goes up to Grandpa Dan.
     Descriptive notes: Parallax map of the whole world. Villages are hidden by the fog but you can see bits and pieces. The closest and the least veiled is Dolphin Bay, but that's because it's the closest one, not because it's less affected by the fog. Grandpa Dan is sitting at the lone bench. [Player can come back to look at the villages as they are unveiled by the fog, with game progression] See previous concept art
 Lakshmi 
 	Wow. What a view...
 Narrator
     A light breeze touches your cheek.
-{--Grandpa Dan
-       ...
-Lakshmi
-       Still grumpy?
-   Grandpa Dan
-       ...--}
+
    Grandpa Dan
        Sit down a bit with me, will you?
    **Player Choice**
     **Sit Down**
 	    Lakshmi
-		    {~~What got your mood so sour~> What's come over you~~}?
+		     What's come over you?
 	    Grandpa Dan
 		    ...
 	    Grandpa Dan
@@ -119,7 +113,7 @@ Lakshmi
 					Who knows what else is hiding in there? 
 				Lakshmi
 				    I just... The fog is too mysterious. Too many unknowns.
-				{>>I my opinion this comes off as a bit too cerebral. Like I could see Greg saying this perhaps more than Grandpa Dan. I would recommend reframing his hope that the youth would see the fog differently <<}Grandpa Dan
+				{>>I my opinion this comes off as a bit too cerebral. Like I could see Greg saying this perhaps more than Grandpa Dan. I would recommend reframing his hope that the youth would see the fog differently <<}{>>CL : wdym? Feel free to suggest the changes directly<<}Grandpa Dan
 				    Not... unexpected. 
 				Grandpa Dan
 				    Still, I had some hope the new generation would be blissfully ignorant of old fears.
@@ -131,16 +125,15 @@ Lakshmi
 		**Player choice** 
 			**Some**
 				Lakshmi
-					I have {~~visions~>fragments~~}{>>Or "flashes" - visions to me are of the future 
-<<}... When it all started... of my parents. I don't remember much anymore.
+					I have flashes{>>CL: Ended up with 'flashes' instead of 'fragments.' I wanted more of a direct visual connotation<<}... When it all started... of my parents. I don't remember much anymore.
 			**Not at all**
 		[Regardless of choice]
 		Grandpa Dan
-			{>>Really like how this response works for both options<<}Most youth don't nowadays. 
+			{>>Really like how this response works for both options<<}{>>yayy<<}Most youth don't nowadays. 
 		Grandpa Dan
 			This fog shrouds your memories in ways you wouldn't expect. *(+to double check if makes sense with [[Narrative Goals]])*
 		Grandpa Dan
-			Maybe it's for the best{~~. Dwelling on past memories won't build a future.~> not to dwell on the past.~~}
+			Maybe it's for the best not to dwell on the past.
 		**Player choice**
 			**Intensely Disagree**
 				Lakshmi
@@ -149,34 +142,29 @@ Lakshmi
 					 ...
 				Lakshmi
 					Shoot! Too brash. Should I apologize? Quick!
-#### QTE 1 : Quest 1, Scene 3 : Lakshmi Talks to Grandpa Dan on the bench
-event
-				 [Quick QTE to apologize: press a button before time runs out (to double check if possible with dev team)]{>>this would be possible. but i think we should think more about adding qtes to dialogue. we can meet and discuss how this is typically done and how it would work best in our game<<}{>>Whatever is easier to implement. The countdown might have an easier tutorial. Freeze the frame with the explanation "some dialogue might be timed"<<}[Or have a 15 sec countdown to answer, see Witcher 3 example: https://youtu.be/k08RRor_zPI?si=WcbkEzBVMHQKSdR0&t=6030 Telltale games example: https://youtu.be/Z1VKe8zfVGs?si=oeSmuQoBLGahs1JO&t=7099]
-				 **Player Choice**
-					 **Apologize**
+				**Player Choice**
+					**Apologize**
+						 Lakshmi
+							 I... I'm sorry. I shouldn't have raised my voice at you.
+						 Grandpa Dan
+							 ...
+						Grandpa Dan
+							 You're still young. 
+						Grandpa Dan
+							Go see Greg, he is waiting for you. 
+						Grandpa Dan
+							I... 
+						Grandpa Dan
+							Hope to share some of your enthusiasm one day.
 					 **Do not Apologize**
-				[End QTE]
-				 **If player is successful: Lakshmi apologizes** 
-					 Lakshmi
-						 I... I'm sorry. I shouldn't have raised my voice at you.
-					 Grandpa Dan
-						 ...
-					Grandpa Dan
-						 You're still young. 
-					Grandpa Dan
-						Go see Greg, he is waiting for you. 
-					Grandpa Dan
-						I... 
-					Grandpa Dan
-						Hope to share some of your enthusiasm one day.
-				 **If player is unsuccessful: : Lakshmi does not apologize**
-					 Lakshmi
-						 ...
-					 Grandpa Dan
-						 ...
-					Event
-						 Lakshmi runs away form the scene.
-			{>>Probably should add the option to agree<<}**Softly Disagree**
+						 Lakshmi
+							 ...
+						 Grandpa Dan
+							 ...
+						Event
+							 Lakshmi runs away form the scene.
+			{>>Probably should add the option to agree<<}{>>CL: Good call. done
+<<}**Softly Disagree**
 				Lakshmi
 					I see your point, Grandpa Dan... but I... think keeping and sharing memories is what will keep us together. To build a strong future. 
 				Lakshmi
@@ -191,17 +179,34 @@ event
 					I... 
 				Grandpa Dan
 					Hope to share some of your enthusiasm one day.
+			**Agree**
+				Lakshmi
+					I see your point, Grandpa Dan...
+				Lakshmi
+					And I want to create new memories with everyone.
+				Lakshmi
+					With you too.
+				Grandpa Dan
+					Hum...
+				Grandpa Dan
+					It was not how I was seeing it. 
+				Grandpa Dan
+					Unlike me, you really cherish memories.
+				Lakshmi
+					I should go. Greg will get impatient otherwise.
+				Grandpa Dan
+					See you later Lakshmi. 
+				Grandpa Dan
+					I... 
+				Grandpa Dan
+					Hope to share some of your enthusiasm one day.
 	**Walk Away**
 	    Lakshmi
 		    Sorry Gramps, I am in a hurry. You know how Greg gets when he is angsty. Maybe later?
 		Grandpa Dan
-		    Right.{>>grandpa dan seems to be very vocal with his onomatopoeia. I think it can work maybe for just his character if we are committing to it. but as some of my corrections have shown, we should leverage sounds and emotes for conveying emotion and communicating along with the text.<<}
+		    Right.{>>grandpa dan seems to be very vocal with his onomatopoeia. I think it can work maybe for just his character if we are committing to it. but as some of my corrections have shown, we should leverage sounds and emotes for conveying emotion and communicating along with the text.<<}{>>CL: Cool<<}
 Event
 	Lakshmi walks away from the scene a bit.
-{--Lakshmi
-	Shoot! I forgot to thank him for the bread...
-Lakshmi
-	Ah well, I'll do it later. I won't forget it for sure.--}
 
 If Player wishes to talk to Grandpa Dan again
 	Grandpa Dan
@@ -218,7 +223,12 @@ Lakshmi
     Brr. The forest gives me the creeps. 
 Lakshmi
     I heard kids in the village say there are monsters lurking here... 
-{>>Happy to discuss this, but this strikes me as something the player should motivate. Like if the player chose to calm Lakshmi down she would say this kind of thing <<}Lakshmi
+Lakshmi
+	This is...
+**Player Choice**
+	**Scary**
+	
+{>>Happy to discuss this, but this strikes me as something the player should motivate. Like if the player chose to calm Lakshmi down she would say this kind of thing <<}{>><<}{>>CL: I like how you reframed it! Plz feel free to add the option<<}Lakshmi
     No! Lakshmi get a hold of yourself! These are kid's tales, nothing more. 
 
 ### Quest 2, Interactable Receptionist
@@ -235,10 +245,7 @@ Lakshmi
     Please please tell me I won't be pulling out weeds today!
 **Receptionist**
     Bahahahaha
-{--**Receptionist**
-    Can't promise anything.
-**Lakshmi**
-    That bad... Alright! Thanks!--}
+
 ### Quest 2, Interactable Intern
 **Event**
 	Player Overhears Intern talking to themselves
@@ -246,7 +253,7 @@ Lakshmi
     Dammit! Where are those shipment boxes? I'm going to get in trouble again… The guild work is too much.
 ### Quest 2, Scene 1: Introduction to Theoretical Exam - Quest Giver
 
-**Greg**
+{--**Greg**
     Good morning, Lakshmi. 
 **Greg**
 	You slept in today. I hope you are well rested.
@@ -263,9 +270,9 @@ Lakshmi
 **Greg**
     Yes, Lakshmi. I'm sorry for what I am about to say…
 **Greg**
-    You've been progressing too quickly and I believe you are ready to become a postal worker!
+    You've been progressing too quickly and I believe you are ready to become a postal worker!--}
 
-{>>I was hoping for a bit more characterization from Greg, so I wrote an alternative version of the dialogue. Take what you like. Happy to chat. <<}(Alternative Version)
+{>>I was hoping for a bit more characterization from Greg, so I wrote an alternative version of the dialogue. Take what you like. Happy to chat. <<}{>>CL: I like it!<<}(Alternative Version)
 
 Narrator: Greg lifts his steely eyes from pages of indecipherable characters 
 
@@ -290,7 +297,7 @@ Greg: It's time to make you a full postal worker! If you can pass the exam, that
 			Am-am I ready? I feel so underprepared!
 [Regardless of choice]
 **Greg**
-	You'll start with {--just--} a few written questions.
+	You'll start with  a few written questions.
 **Greg**
     Take a seat and I'll be over in a minute with your exam.
 **Lakshmi**
@@ -447,13 +454,13 @@ Greg
 Lakshmi
     What's the point of that?
 Greg
-	{~~I was more interested in seeing the way you react to~>To test your reaction to~~} unpredictable situations. 
+	To test your reaction to unpredictable situations. 
 Greg
 	Today’s exam was out of nowhere, and yet you challenged it face first.
 Greg
 	It’s fine not to know all the answers.
 Lakshmi
-	{++I don't have any problem improvising++}{--Hum... so all that work was for nothing.--}
+	I don't have any problem improvising
 Greg 
 	I won’t lie to you Lakshmi, postal workers face challenges where pure enthusiasm won’t be enough. 
 Greg
@@ -481,7 +488,7 @@ Lakshmi
 Greg
     Alright! Now it's time for the... 
     Practical test! 
-    {--Deliver a little message for the new intern.--}
+    
 **Event**
     Player receives the mail.
 Greg
@@ -614,8 +621,37 @@ Narrator
 ### Quest 3, Scene 3: Practical Test - Intern Memory 
 
 ([[Intern Memory Brainstorming]])
-Dialogue: {>>I made a modified version of this scene with a bit of gameplay added. You can see it in the intern memory brainstorming document link. Use what you like. <<}
-**Intern**
+Dialogue: {>>I made a modified version of this scene with a bit of gameplay added. You can see it in the intern memory brainstorming document link. Use what you like. 
+
+Piles of boxes surround the intern. 
+
+**Intern**: Come on Olavius, think. Where is that package? 
+
+A gold package shines at the top of the mountain of boxes 
+
+**Intern**: Are you kidding me! How am I going to get up there? 
+
+As soon as the player reaches the top box with the parcel, the top few boxes fall and the intern FALLS to the ground. 
+
+**Narrator**: The parcel crunches under your weight. It starts to ooze liquid. 
+
+**Intern**: Greg is going to be so pissed. 
+
+**Intern**: I'm not cut out to be a guild member...
+
+Event - the intern hides suddenly behind her pile of boxes 
+
+**Greg**: WHAT HAPPENED IN HERE?!
+
+Event - Greg searches around 
+
+**Greg**: GET WHATS HER NAME IN HERE STAT! 
+
+**Intern**: I'll just hide here... For a minute. Anyway, I've got the whole night to rearrange the mail...
+
+
+<<}{>>CL: awesome addition! Let's use yours<<}
+{--**Intern**
     Dang-it... I dumped the mail again. Greg will be so pissed.
 **Intern**
     How come I keep messing up everything... Even the simplest of tasks. 
@@ -636,9 +672,35 @@ Dialogue: {>>I made a modified version of this scene with a bit of gameplay adde
 **Intern**
     I'll just hide here... For a minute. Anyway, I've got the whole night to rearrange the mail...
 **Event**
-    Screen blacks out and the player is back in the guild room as Lakshmi. 
+    Screen blacks out and the player is back in the guild room as Lakshmi. }
+    --}
+Piles of boxes surround the intern. 
 
-### Quest 3, Scene 3: Practical Test - Meeting Olavius
+**Intern**: Come on Olevia{>>CL: good call for reminding player their name<<}{>>CL: Also just realized the Intern is female in the game. Agreed with Arkana to change the name for Olevia for the intern<<}, think. Where is that package? 
+
+A gold package shines at the top of the mountain of boxes 
+
+**Intern**: Are you kidding me! How am I going to get up there? 
+
+As soon as the player reaches the top box with the parcel, the top few boxes fall and the intern FALLS to the ground. 
+
+**Narrator**: The parcel crunches under your weight. It starts to ooze liquid. 
+
+**Intern**: Greg is going to be so pissed. 
+
+**Intern**: I'm not cut out to be a guild member...
+
+Event - the intern hides suddenly behind her pile of boxes 
+
+**Greg**: WHAT HAPPENED IN HERE?!
+
+Event - Greg searches around 
+
+**Greg**: GET WHATS HER NAME IN HERE STAT! 
+
+**Intern**: I'll just hide here... For a minute. Anyway, I've got the whole night to rearrange the mail...
+
+### Quest 3, Scene 4: Practical Test - Remembering the Intern's name
 
 **Intern**
     Lakshmi!? Are you ok?
@@ -663,14 +725,14 @@ Dialogue: {>>I made a modified version of this scene with a bit of gameplay adde
 		Lakshmi
 			It is their name, right?
 		Narrator
-			The intern cracks an awkward smile. You notice the name tag on their shirt: Olavius.
+			The intern cracks an awkward smile. You notice the name tag on their shirt: Olevia.
 		Lakshmi
 			Oopsies.
-	**Olavius** *(correct choice)*
+	**Olevia** *(correct choice)*
 		Intern
 			Aw, thanks Lakshmi!
 		Narrator
-			Olavius' face flushes with relief. They look more relaxed than they did before.
+			Olevia' face flushes with relief. They look more relaxed than they did before.
 	**Olivier**
 		Intern
 			...
@@ -679,14 +741,14 @@ Dialogue: {>>I made a modified version of this scene with a bit of gameplay adde
 		Lakshmi
 			It is their name, right?
 		Narrator
-			The intern cracks an awkward smile. You notice the name tag on their shirt: Olavius.
+			The intern cracks an awkward smile. You notice the name tag on their shirt: Olevia.
 		Lakshmi
 			Oopsies.
 **Intern**
     M-my pleasure!
 **Lakshmi**
-    Keep up the good work Olavius! I'm sure you'll be a full guild member in no time!
-[If possible to implement it. Change the NPCs name to Olavius from now{>>Will do!<<} on.]
+    Keep up the good work Olevia! I'm sure you'll be a full guild member in no time!
+[If possible to implement it. Change the NPCs name to Olevia from now{>>Will do!<<} on.]
 **Intern**
     Really? Do you believe that Lakshmi?
 **Player's choice**
@@ -715,9 +777,9 @@ Intern
 Intern
 	I haven't found any dolphins though... Maybe I scared them off? I am pretty clumsy.
 
-*Note: might need to give a chance for Lakshmi to follow-up about her flashback to Greg. Maybe future quest. Olavius should also get a side quest*
-*Note 2: Open thread: Lakshmi memory abilities. [[Narrative Goals#Memories subplot]] Proper first memory tutorial with gameplay at a later time. Maybe with Olavius again.* 
-### Quest 3, Scene 4: Practical Test - Graduation
+*Note: might need to give a chance for Lakshmi to follow-up about her flashback to Greg. Maybe future quest. Olevia should also get a side quest*
+*Note 2: Open thread: Lakshmi memory abilities. [[Narrative Goals#Memories subplot]] Proper first memory tutorial with gameplay at a later time. Maybe with Olevia again.* 
+### Quest 3, Scene 5: Practical Test - Graduation
 
 Lakshmi
     I did it Greg! Mail delivered.
@@ -750,7 +812,7 @@ Greg
 Greg
     Go up to the front desk. Robert will have some deliveries for you to make.
 
-### Quest 3: See Robert in Guild Hall
+### Quest 4, See Robert in Guild Hall
 Event
     Player goes to see the receptionist.
 Robert

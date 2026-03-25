@@ -3,8 +3,8 @@ Date_Created: 2026-03-23
 ---
 
 
-*Dialogue Context* : [[LakshmiWakesUp_0_1]]
-*First Parent* : [[LakshmiWakesUp_0_1]]
+*Dialogue Context* : [[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Dialogues/LakshmiWakesUp/LakshmiWakesUp_0_1]]
+*First Parent* : [[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Dialogues/LakshmiWakesUp/LakshmiWakesUp_0_1]]
 # Characters: Lakshmi, Narrator
 
 ## Bundle : LakshmiWakesUp_0_1_1
@@ -13,4 +13,4 @@ Narrator: Your cheek is sore against the hard book
 
 **Options**
 
-- |DIA|[[LakshmiWakesUp_0_1_1_1]] : Late
+- |DIA|[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Dialogues/LakshmiWakesUp/LakshmiWakesUp_0_1_1_1]] : Late

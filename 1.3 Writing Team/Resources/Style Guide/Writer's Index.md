@@ -54,7 +54,7 @@ These are events in the game are thematically related to the [[#Fog]]. They shou
 *see the relationships between terms at [[Writer Document Hierarchy]]*
 
 #### Plot 
-This is the main action of the game. Writing related to the plot concerns broad sweeping actions which will advance Lakshmi’s learning. Writing documents consistent of [[Plot Outline Template|plot outlines]] and [[Brainstorm Template|plot brainstorming]]. The plot is specific to the [[#Villages|village]] (or between village locations). It consists of a main quest (described by the main plot outline) and several side quests (described by side plot outlines). Unlike side-quests, the player must complete the main quest in order to advance. Typically side-quests have fewer acts. 
+This is the main action of the game. Writing related to the plot concerns broad sweeping actions which will advance Lakshmi’s learning. Writing documents consistent of [[Plot Outline Template|plot outlines]] and [[Brainstorm Template|plot brainstorming]]. The plot is specific to the [[#Villages|village]] (or between village locations). It consists of a main quest (described by the main plot outline) and several side quests (described by side plot outlines). Unlike side-quests, the player must complete the main quest in order to advance. Typically side-quests have fewer{-- acts--}.{++ scenes++}{>>CL to AK: to be more consistent with the narrative terms higherarchy <<} 
 
 (see examples of our [[Narrative Goals#Game Plots|Plots]])
 #### Lore 
@@ -64,7 +64,7 @@ Background history of the world that may not be directly exposed to the player i
 These are the broad settings where the action takes place. Village Description documents cover all of the plots, character and visual descriptions necessary to construct the village. (see [[#Villages (narrative)]]).
 
 #### Acts 
-Each act represents a *key beat* or *turning point* in the overall plot. If the plot was a typical story the act structure might be as follows: introduction, rising action, climax, conclusion. Acts are described by [[Act Outline Template|act outlines]] . 
+{>>CL to AK: It seems like acts should be the "main action" of the game - what progresses the story. The technical term. While plots might be more related to the brainstorming - part of narrative terms.<<}Each act represents a *key beat* or *turning point* in the overall plot. If the plot was a typical story the act structure might be as follows: introduction, rising action, climax, conclusion. Acts are described by [[Act Outline Template|act outlines]] . 
 #### Quests 
 Quests are *tasks* that are assigned to the player, and often advance the act Writing for quests typically include the scenes involved as well as the initiation and completion conditions. Each quest is described in a [[Quest Outline Template|quest outline]]. 
 #### Locations 

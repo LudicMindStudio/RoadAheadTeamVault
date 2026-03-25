@@ -4,19 +4,21 @@
 > For Root Dialouge PLEASE TITLE - DialogueName_0 
 ```
 
-*Dialogue Root* : Root Dialogue Name/Root Event/Root Scene/Root Location...
+*Dialogue Root* : [[Lakshmi_meets_François_0]]
 # Characters: Lakshmi, NPC1...
 ## Bundle : DialogueOptionName
 
-François: Of course! Your energies are perfect. With you will become BOLDER!
+Lakshmi: You need me?
 
-Lakshmi: I try to stay positive. How can I help?
+François: {++{sfx: big txt} ++}Of course! {~~Your energies are perfect. ~>We need your energy! ~~}{--With you will becomee BOLDER.  BOLDER.--}
 
-Francois: THAT. JUST THAT. Tell them all. THE DOLPHINS MUST RETURN!
+Lakshmi:{++ Sure,++} I{>>CL: I like to Lakshmi is so chill here it makes me laugh<<} try to stay positive. How can I help?
 
-Lakshmi: Get it to me in writing and I'll happily deliver the message!
+Francois: THAT.{++ With your help, we will get the message across! ++} {++The Mayor should know of this injustice! We have to take action! ++}{~~JUST THAT. Tell them all. THE DOLPHINS MUST RETURN!~> ~~}
 
-Francois (beams)
+{>>CL: ping for quest start. Also, great work! Reinforces Lakshmi's occupation and the gameplay in general<<}Lakshmi: Get it to me in writing and I'll happily deliver the message!
+
+Francois {~~(beams)~>Great! Come to my house later on, I'll be there with the letter.~~}
 
 Lakshmi: 
 **Options**
