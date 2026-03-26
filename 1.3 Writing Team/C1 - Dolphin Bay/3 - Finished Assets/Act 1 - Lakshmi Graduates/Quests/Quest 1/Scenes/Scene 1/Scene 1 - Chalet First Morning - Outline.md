@@ -31,7 +31,7 @@ Trigger Clear - Lakshmi_Left_Chalet=True
 --- 
 # Scene Events
 
-[[Event 1 - Grandpa Dan Surprises Lakshmi - Script]]
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Events/Event 1 - Grandpa Dan Surprises Lakshmi - Script|Event 1 - Grandpa Dan Surprises Lakshmi - Script]]
 	Brief summary of Event One 
 		Trigger Start - Lakshmi_is_MidwayDownStairs=True
 		On Clear - Grandpa_Dan_Surpised_Lakshmi=True 
@@ -75,8 +75,4 @@ Lakshmi Wakes Up - Dialogue
 
 [[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Interactables/Tea - Interactable]]
 	Green tea with loose herbs 
-
-|DIA|[[TestDialogue]]
-
-|DIA|[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Dialogues/TestDialogue2]]
 
