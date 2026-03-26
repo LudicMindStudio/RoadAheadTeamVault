@@ -17,11 +17,7 @@ Example:
 
 (1) |DIA| 
 
-<<<<<<< HEAD
-(2) |DIA| TestDialogue3 
-=======
 (2) |DIA|TestDialogue 
->>>>>>> origin/master
 
 (3) |DIA|[[Testdialogue3]]
 
