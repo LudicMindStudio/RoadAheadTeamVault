@@ -13,21 +13,21 @@ Date_Created:
 [[Quest 3 - Deliver Mail to Intern - Outline]]
 ## Root Location
 
-ROOT LOCATION NAME 
+[[Guild Hall - Location Outline]]
 ## Character List
 
-CHARACTER PROFILE ONE 
-CHARACTER PROFILE TWO... 
+[[Olevia - Profile]] - Intern
+
+Lakshmi 
 ## Brainstorming Links
 
-Brainstorming Document One 
-Brainstorming Document Two...
+[[Act 1 - Pre-graduation Revision]]
 ## Setting Specifics  
 
-Detail any changes to the root location that are specific to the scene including environmental conditions such as a specific time of day. 
+Storage Room on the first floor of Guild Hall. Specifics left for implementers/artists.
 ## General Description 
 
-Provide a brief description of the core action of the scene. 
+Lakshmi meets the Intern and learns their name. The intern seems distressed and is pacing around the room.
 ## Scene Logic 
 Trigger Start - ExampleTag=True
 Trigger Clear - ExampleTag=True
@@ -35,40 +35,31 @@ Trigger Clear - ExampleTag=True
 --- 
 # Scene Events
 
-EVENT ONE
-	Brief summary of Event One 
+[[Event 1 - Lakshmi Greets The Intern Correct Order Game]]
+	Lakshmi Greets The Intern Correct Order Game
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
 
-EVENT TWO... 
-	Brief summary of Event Two 
+[[Event 2 - Screen Transition to Memory]]
+	Lakshmi Enters Intern's Memory
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
 
 ---  
 # Scene Dialogues
 
-DIALOGUE_0 ONE
-	Brief summary of Dialogue One 
+|DIA|[[DIALOGUE_0 MeetIntern]]
+	Lakshmi greets the intern and delivers first mail for practical test to graduate postal guild
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
 
-DIALOGUE_0 TWO... 
-	Brief summary of Dialogue Two 
+|DIA|[[MemoryInternIntro]]
+	Before Lakshmi enters intern's memory
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
 
 ---
 # Scene Interactables
 
-INTERACTABLE ONE
-	Brief summary of Interactable One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-INTERACTABLE TWO
-	Brief summary of Interactable One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
+NA
 

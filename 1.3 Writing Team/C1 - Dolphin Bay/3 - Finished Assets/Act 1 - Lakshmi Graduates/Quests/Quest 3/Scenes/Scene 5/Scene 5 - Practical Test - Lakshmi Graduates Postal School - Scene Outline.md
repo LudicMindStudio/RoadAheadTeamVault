@@ -13,15 +13,14 @@ Date_Created:
 [[Quest 3 - Deliver Mail to Intern - Outline]]
 ## Root Location
 
-ROOT LOCATION NAME 
+[[Guild Hall - Location Outline]]
 ## Character List
 
-CHARACTER PROFILE ONE 
-CHARACTER PROFILE TWO... 
+Lakshmi
+[[Greg - Profile]]
 ## Brainstorming Links
 
-Brainstorming Document One 
-Brainstorming Document Two...
+[[Act 1 - Pre-graduation Revision]]
 ## Setting Specifics  
 
 Second floor, Greg behind his desk. 
@@ -37,25 +36,12 @@ Trigger Clear - LakshmiTheoryExam=True
 --- 
 # Scene Events
 
-EVENT ONE
-	Brief summary of Event One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-EVENT TWO... 
-	Brief summary of Event Two 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
+NA
 
 ---  
 # Scene Dialogues
 
-DIALOGUE_0 ONE
-	Brief summary of Dialogue One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-DIALOGUE_0 TWO... 
+|DIA|[[DIALOGUE_0 Lakshmi Graduation]]
 	Brief summary of Dialogue Two 
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
@@ -63,14 +49,5 @@ DIALOGUE_0 TWO...
 ---
 # Scene Interactables
 
-INTERACTABLE ONE
-	Brief summary of Interactable One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-INTERACTABLE TWO
-	Brief summary of Interactable One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
+NA
 

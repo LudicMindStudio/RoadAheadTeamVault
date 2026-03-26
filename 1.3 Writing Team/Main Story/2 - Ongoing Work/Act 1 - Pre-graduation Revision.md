@@ -557,7 +557,7 @@ Narrator
 **Intern**
     Wow, really? You’re so lucky. I'll receive your mail then.
 **Lakshmi**
-    Ok! Well then... Hello... Ola...vius.
+    Ok! Well then... Hello... Ole...via.
 **Player Choice** [previous choices should disappear with each question] 
 	Lakshmi
 		What do I say first?
@@ -771,7 +771,7 @@ Event - Greg searches around
 Intern
 	Hey Lakshmi! It's good to see you around.
 Intern
-	Did you know the lake outlining the village is in the shape of a dolphin? It's well named!
+	Did you know the lake outlining the village is in the shape of a dolphin? It's appropriately named!
 Intern
 	It was the reason I came here in the first place... I really like how cozy this village is! 
 Intern
