@@ -1,20 +1,13 @@
 ---
-Date_Created: 2026-03-25
+Date_Created: 2026-03-27
 ---
 
 
-*Dialogue Context* : [[Scene 1 - Practical Test - Quest Giver - Scene Outline]]
-*First Parent* : [[Scene 1 - Practical Test - Quest Giver - Scene Outline]]
+*Dialogue Context* : [[Event 1 - ReadyForPracticalTest - Script]]
+*First Parent* : [[Event 1 - ReadyForPracticalTest - Script]]
 # Characters: 
 
-## Bundle : PracticalTestQuestGiver
-
-  
-Greg: Alright! Now it's time for the...
-
-Greg: Practical test! 
-
-Event : [[LetterForIntern]]
+## Bundle : DIALOGUE_2  PracticalTestGiver
 
 Greg: Deliver this to the new intern. They should be in the storage room.
 
@@ -30,7 +23,5 @@ Greg: Do you remember how to deliver the mail?
 
 **Options**
 
-|DIA|[[Of course...]]
-|DIA|[[Can you remind me again]]
-
-
+- |DIA|[[DIALOGUE_2  PracticalTestGiver_1]] : Of course...
+- |DIA|[[DIALOGUE_2  PracticalTestGiver_3]] : Can you remind me again?

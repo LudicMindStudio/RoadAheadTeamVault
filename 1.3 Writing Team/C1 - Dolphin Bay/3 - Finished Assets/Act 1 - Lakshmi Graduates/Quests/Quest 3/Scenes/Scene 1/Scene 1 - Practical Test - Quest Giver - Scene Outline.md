@@ -16,40 +16,34 @@ Date_Created:
 [[Guild Hall - Location Outline]]
 ## Character List
 
-Greg + Lakshmi 
+[[Greg - Profile]]
+
+Lakshmi 
 ## Brainstorming Links
 
 [[Act 1 - Pre-graduation Revision]]
 ## Setting Specifics  
 
-==Detail any changes to the root location that are specific to the scene including environmental conditions such as a specific time of day. ==
+Second Floor. Greg behind his desk.
 ## General Description 
 
-==Provide a brief description of the core action of the scene.== 
+Greg Tells Lakshmi to deliver letter for intern as part of the practical test to become postal worker.
 ## Scene Logic 
-Trigger Start - ==ExampleTag===True
-Trigger Clear - ==ExampleTag===True
+Trigger Start - LakshmiInteractsGregPracticalTest=True 
+On Clear - LakshmiFinishesPracticalTest=TrCue 
 
 --- 
 # Scene Events
 
-[[LetterForIntern]]
-	Greg gives Lakshmi a letter.
-		Trigger Start - ==ExampleTag===True 
-		On Clear - ==ExampleTag===True 
-
-[[JournalUpdate]]
-	Journal Update with current directives
-		Trigger Start - ==ExampleTag===True 
-		On Clear - ==ExampleTag===True 
+[[Event 1 - ReadyForPracticalTest - Script]]
+	Lakshmi goes up to Greg to take the Practical test
+		Trigger Start - LakshmiInteractsGregPracticalTest=True
+		On Clear - LakshmiFinishesPracticalTest=True 
 
 ---  
 # Scene Dialogues
 
-|DIA|[[PracticalTestQuestGiver]]
-	Brief summary of Dialogue One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
+NA
 
 ---
 # Scene Interactables
