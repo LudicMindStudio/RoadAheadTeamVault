@@ -48,7 +48,7 @@ Trigger Clear - LakshmiGraduates=True
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
 
-Scene 5 - Practical Test - Lakshmi Graduates Postal School - Scene Outline  
+[[Scene 5 - Practical Test - Lakshmi Graduates Postal School - Scene Outline]]
 	Location 1: Guild Hall - Second Floor - Balcony - Location Outline
 	Intern's memory 
 		Trigger Start - ExampleTag=True 

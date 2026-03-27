@@ -30,11 +30,13 @@ It should be day time.
 
 Player is free to explore the Guild Hall in between scenes
 ## Scene Logic 
-Trigger Start - LakshmiReadyExam=True
-Trigger Clear - LakshmiTheoryExam=True
+Trigger Start - LakshmiTalksGregPracticalTestDone=True
+Trigger Clear - LakshmiReadyGraduate=True
 
 --- 
 # Scene Events
+
+
 
 NA
 

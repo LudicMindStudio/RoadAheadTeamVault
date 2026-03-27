@@ -809,8 +809,17 @@ Greg
     And now... I'm putting you straight to work.
 **Event**
 	NPCs scatter to their usual places.
-Greg
-    Go up to the front desk. Robert will have some deliveries for you to make.
+
+Greg: Go up to the front desk. Robert will have some deliveries for you to make.
+
+Lakshmi: Alright!
+
+Greg: Go out and do good deeds.
+
+Narrator: Your lungs fill with air. 
+
+Narrator: The adventure begins.
+
 
 ### Quest 4, See Robert in Guild Hall
 Event

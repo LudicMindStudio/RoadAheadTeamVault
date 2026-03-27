@@ -34,7 +34,7 @@ Trigger Clear - OleviaMailDelivered=True
 --- 
 # Scene Events
 
-[[Event 1 - Lakshmi Thanks Intern and Remember Their Name - Script]]
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 3/Scenes/Scene 4/Events/Event 1 - Lakshmi Thanks Intern and Remember Their Name - Script]]
 
 ---  
 # Scene Dialogues
