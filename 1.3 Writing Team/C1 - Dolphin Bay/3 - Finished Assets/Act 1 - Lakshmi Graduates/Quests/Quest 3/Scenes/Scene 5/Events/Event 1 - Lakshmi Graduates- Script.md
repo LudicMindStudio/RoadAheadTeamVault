@@ -16,8 +16,8 @@ Characters:
 Greg makes a speech and Lakshmi graduates as apostal worker
 ## Event Logic
 
-Trigger Start - ExampleTag=True
-On Clear - ExampleTag=True
+Trigger Start - LakshmiTalksGregPracticalTestDone=True
+On Clear - LakshmiGraduates=True
 
 --- 
 # Event Script
