@@ -7,7 +7,7 @@ Date_Created: 2026-03-27
 *First Parent* : [[Event 1 - ReadyForPracticalTest - Script]]
 # Characters: 
 
-## Bundle : DIALOGUE_2  PracticalTestGiver
+## Bundle : PracticalTestGiver2
 
 Greg: Deliver this to the new intern. They should be in the storage room.
 
@@ -23,5 +23,5 @@ Greg: Do you remember how to deliver the mail?
 
 **Options**
 
-- |DIA|[[DIALOGUE_2  PracticalTestGiver_1]] : Of course...
-- |DIA|[[DIALOGUE_2  PracticalTestGiver_3]] : Can you remind me again?
+- |DIA|[[PracticalTestGiver2_1]] : Of course...
+- |DIA|[[PracticalTestGiver2_2]] : Can you remind me again?

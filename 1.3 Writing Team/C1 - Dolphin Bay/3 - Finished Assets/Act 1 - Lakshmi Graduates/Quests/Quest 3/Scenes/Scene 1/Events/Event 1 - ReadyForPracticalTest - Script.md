@@ -22,7 +22,7 @@ On Clear - LakshmiFinishesPracticalTest=TrCue
 --- 
 # Event Script
 
-|DIA|[[DIALOGUE_1  PracticalTestGiver]]
+|DIA|[[PracticalTestGiver]]
 	Greg announces next quest
 	On Clear - ExampleTag=True
 
@@ -34,8 +34,8 @@ INVENTORY EFFECT - Intern Letter in Inventory
 	S item. Description: Letter to be delivered to the new intern. 
 	On Clear - LetterInternAcquired=True
 
-|DIA|[[DIALOGUE_2  PracticalTestGiver]]
+|DIA|[[PracticalTestGiver2]]
 	Greg Tells Lakshmi to go see intern with letter
-	On Clear - ExampleTag=True
+	On Clear - ShowInternLetter=True
 
 

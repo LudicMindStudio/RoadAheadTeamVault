@@ -4,7 +4,7 @@ Date_Created: 2026-03-25
 
 
 *Dialogue Context* : [[Scene 2 - Practical Test - Meeting the Intern - Scene Outline]]
-*First Parent* : [[DIALOGUE_1_LakshmiSucceedsGreetingLetterIntern]]
+*First Parent* : [[discDIALOGUE_1_LakshmiSucceedsGreetingLetterIntern]]
 # Characters: ## Bundle : DIALOGUE_1_LakshmiSucceedsGreetingLetterIntern
 
 ## Bundle : MemoryInternIntro

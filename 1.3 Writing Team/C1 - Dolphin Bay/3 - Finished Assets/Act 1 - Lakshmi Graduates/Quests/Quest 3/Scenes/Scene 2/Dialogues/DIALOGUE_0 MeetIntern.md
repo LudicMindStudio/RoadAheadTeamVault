@@ -21,6 +21,6 @@ Intern: Wow, really? You’re so lucky. I'll receive your mail then.
 
 Lakshmi: Ok! Well then... Hello... Ole...via.
 
-Event: [[Event 1 - Lakshmi Greets The Intern Correct Order Game]]
+Event: [[Event 1.1 - Lakshmi Greets The Intern Correct Order Game]]
 
 **Options**

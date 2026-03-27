@@ -13,32 +13,33 @@ Characters:
 [[Scene 2 - Practical Test - Meeting the Intern - Scene Outline]]
 ## General Description
 
-One line summary of the event 
+Lakshmi fumbles to greet the intern.
 ## Event Logic
 
-Trigger Start - ExampleTag=True
-On Clear - ExampleTag=True
+Trigger Start - LakshmiInteractsIntern=True
+Trigger Clear - LakshmiGreetsIntern=True
 
 --- 
 # Event Script
 
-Lakshmi chooses greeting options in order - Lakshmi
-	Player chooses greeting options in order (out of 4). Previous choices should disappear with each choice.
+|DIA|[[DIALOGUE_1 HiIntern]]
+	Brief summary of dialogue 
 	On Clear - ExampleTag=True
 
-|DIA|[[DIALOGUE_1_LakshmiGivesLetterIntern]]
-	Lakshmi gives letter
+
+ACTION DESCRIPTION ONE - ACTOR 
+	Brief summary of Action One
 	On Clear - ExampleTag=True
 
-|DIA|[[DIALOGUE_1_LakshmiSucceedsGreetingLetterIntern]]
-	If player gets 4/4 correct
-	On Clear - LakshmiSucceedsGreetingLetterIntern=True
+ENVIRONMENTAL DESCRIPTION ONE
+	Brief summary of changing environment 
+	On Clear - ExampleTag=True
 
-|DIA|[[DIALOGUE_1_LakshmiFailsGreetingLetterIntern]]
-	If player gets 3/4 or less correct
-	On Clear - LakshmiFailsGreetingLetterIntern=True
+DIALOGUE_0 ONE 
+	Brief summary of dialogue 
+	On Clear - ExampleTag=True
 
-Remove Letter from Inventory
-	Letter for Intern removed from inventory
+INVENTORY EFFECT ONE
+	Description of the inventory size (S/M/L) and contents (item names)
 	On Clear - ExampleTag=True
 

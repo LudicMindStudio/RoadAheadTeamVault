@@ -7,7 +7,7 @@ Date_Created: 2026-03-27
 *First Parent* : [[Event 1 - ReadyForPracticalTest - Script]]
 # Characters: 
 
-## Bundle : DIALOGUE_1  PracticalTestGiver
+## Bundle : PracticalTestGiver
 
 Greg: Alright! Now it's time for the...
 
