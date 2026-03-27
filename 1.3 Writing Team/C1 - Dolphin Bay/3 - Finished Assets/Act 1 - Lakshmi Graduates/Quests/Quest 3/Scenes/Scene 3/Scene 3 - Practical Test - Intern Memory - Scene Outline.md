@@ -23,59 +23,23 @@ Date_Created:
 [[Act 1 - Pre-graduation Revision]]
 ## Setting Specifics  
 
-Same backroooms. At night. 
+Same backroooms. Set in the past (maybe a month ago). At **night**. Messy with mail scattered on the floor and boxes on the side. 
 ## General Description 
 
-Messy with mail scattered on the floor and boxes on the side. 
+The intern is fumbling with mail on the floor and hides from Greg because youngsters hate confrontation.
 ## Scene Logic 
-Trigger Start - ExampleTag=True
-Trigger Clear - ExampleTag=True
+Trigger Start - InternMemoryStart=True
+Trigger Clear - InternMemoryEnd=True
 
 --- 
 # Scene Events
 
-[[EVENT_1 Gold Package Shines]]
-	Brief summary of Event One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-[[EVENT_2 Top Boxes Fall]]
-	Brief summary of Event Two 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-[[EVENT_3 Intern Hides]]
-	Brief summary of Event Two 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-[[EVENT_4 Memory Wrap Back]]
-	Lakshmi Leaves Intern's Memory
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
+[[Event 1 - Intern Looks Around - Script]]
 
 ---  
 # Scene Dialogues
 
-|DIA|[[DIALOGUE_1 InternMemory]]
-	Brief summary of Dialogue One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-|DIA|[[DIALOGUE_2 InternMemory]]
-	Brief summary of Dialogue Two 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-|DIA|[[DIALOGUE_3 InternMemory]]
-	Brief summary of Dialogue Two 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-|DIA|[[DIALOGUE_4 InternMemory]]
-	Last Dialogue of Memory
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
+NA
 
 ---
 # Scene Interactables

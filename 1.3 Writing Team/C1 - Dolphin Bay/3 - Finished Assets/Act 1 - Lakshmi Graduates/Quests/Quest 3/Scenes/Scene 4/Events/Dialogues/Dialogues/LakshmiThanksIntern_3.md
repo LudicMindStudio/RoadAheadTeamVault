@@ -1,13 +1,13 @@
 ---
-Date_Created: 2026-03-25
+Date_Created: 2026-03-27
 ---
 
 
-*Dialogue Context* : [[DIALOGUE_0 LakshmiThanksIntern]]
-*First Parent* : [[DIALOGUE_0 LakshmiThanksIntern]]
+*Dialogue Context* : [[LakshmiThanksIntern]]
+*First Parent* : [[LakshmiThanksIntern]]
 # Characters: Lakshmi, Olevia
 
-## Bundle : Olivier
+## Bundle : LakshmiThanksIntern_3
 
 Intern: ...
 
@@ -19,7 +19,4 @@ Narrator: The intern cracks an awkward smile. You notice the name tag on their s
 
 Lakshmi: Oopsies.
 
-|DIA|[[DIALOGUE_1 LakshmiThanksIntern]]
-
 **Options**
-NA

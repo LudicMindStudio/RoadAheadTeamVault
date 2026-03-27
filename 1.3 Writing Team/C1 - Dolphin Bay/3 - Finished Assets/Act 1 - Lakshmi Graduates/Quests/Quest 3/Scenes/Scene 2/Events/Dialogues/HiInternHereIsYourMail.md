@@ -1,13 +1,13 @@
 ---
-Date_Created: 2026-03-25
+Date_Created: 2026-03-27
 ---
 
 
-*Dialogue Context* : [[Scene 2 - Practical Test - Meeting the Intern - Scene Outline]]
-*First Parent* : [[Scene 2 - Practical Test - Meeting the Intern - Scene Outline]]
-# Characters: 
+*Dialogue Context* : [[Event 1 - LakshmiGreetsTheIntern - Script]]
+*First Parent* : [[Event 1 - LakshmiGreetsTheIntern - Script]]
+# Characters: Lakshmi, Intern (Olveia)
 
-## Bundle : MeetIntern
+## Bundle : HiInternHereIsYourMail
 
 Intern: Dammit where did it go?
 
@@ -19,8 +19,6 @@ Lakshmi: Well, I'm in the middle of my postal guild graduation testing and have 
 
 Intern: Wow, really? You’re so lucky. I'll receive your mail then.
 
-Lakshmi: Ok! Well then... Hello... Ola...vius.
-
-
+Lakshmi: Ok! Well then... Hello... Ole...via.
 
 **Options**

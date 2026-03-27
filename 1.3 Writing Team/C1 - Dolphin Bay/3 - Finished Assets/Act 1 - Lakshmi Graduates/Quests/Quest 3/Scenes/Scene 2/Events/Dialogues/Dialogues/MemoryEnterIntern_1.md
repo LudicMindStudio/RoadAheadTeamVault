@@ -1,13 +1,13 @@
 ---
-Date_Created: 2026-03-25
+Date_Created: 2026-03-27
 ---
 
 
-*Dialogue Context* : [[MemoryInternIntro]]
-*First Parent* : [[MemoryInternIntro]]
-# Characters: ## Bundle : DIALOGUE_1_LakshmiSucceedsGreetingLetterIntern
+*Dialogue Context* : [[MemoryEnterIntern]]
+*First Parent* : [[MemoryEnterIntern]]
+# Characters: ## Bundle : MemoryEnterIntern
 
-## Bundle : YES
+## Bundle : MemoryEnterIntern_1
 
 Lakshmi: I am feeling perfect!
 
@@ -17,7 +17,4 @@ Lakshmi: You worry too much... Ol-
 
 Lakshmi: Oh no. Not this again...
 
-Event: 
-
 **Options**
-NA

@@ -30,35 +30,17 @@ Storage Room on the first floor of Guild Hall. Specifics left for implementers/a
 Lakshmi meets the Intern and learns their name. The intern seems distressed and is pacing around the room.
 ## Scene Logic 
 Trigger Start - LakshmiInteractsIntern=True
-Trigger Clear - LakshmiGreetsIntern=True
+Trigger Clear - InternMemoryEnter=True
 
 --- 
 # Scene Events
 
-[[Event 1 - Lakshmi Greets The Intern Correct Order Game]]
-
-[[Event 1.1 - Lakshmi Greets The Intern Correct Order Game]]
-	Lakshmi Greets The Intern Correct Order Game
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-[[Event 2.1 - Screen Transition to Memory]]
-	Lakshmi Enters Intern's Memory
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
+[[Event 1 - LakshmiGreetsTheIntern - Script]]
 
 ---  
 # Scene Dialogues
 
-|DIA|[[DIALOGUE_0 MeetIntern]]
-	Lakshmi greets the intern and delivers first mail for practical test to graduate postal guild
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-|DIA|[[MemoryInternIntro]]
-	Before Lakshmi enters intern's memory
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
+NA
 
 ---
 # Scene Interactables
