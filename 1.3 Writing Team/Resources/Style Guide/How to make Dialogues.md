@@ -1,11 +1,11 @@
 
-A dialogue consists of a **dialogue chain** , **dialogues** and **dialogue options**. 
+A dialogue consists of a **dialogue chain** , **dialogue text** and **dialogue options**. 
 
-**Dialogue chain** is the dialogue as a whole. Dialogue chains are named in upper camel case (eg.CamelCase), when you make a new dialogue chain all of the dialogue options including the root (first dialogue) will be stored in a folder matching the dialogue name. Be sure to have a folder labled dialogues in the scene you are working on. 
+**Dialogue chain** is the dialogue as a whole. Dialogue chains are named in upper camel case (eg.CamelCase), when you make a new dialogue chain all of the dialogue options including the root (first dialogue) will be stored in a folder matching the dialogue chain name. Be sure to have a folder labled dialogues in the scene you are working on. 
 
-**Dialogues** these are the chunks of text with a character name followed by whatever that character is saying 
+**Dialogue text** these are the chunks of text with a character name followed by whatever that character is saying 
 
-**Dialogue Options** these are the options available to the player following the initial dialogue. They consist of a bundle_name and a display name. The bundle name is named automatically. Each number corresponds to a dialogue option, and underscores indicate the depth of nesting. (eg. SampleDialogue_1_2_3 - is the third option of the second option of the first dialogue option on the root dialogue). The display name is important. It is the text the player will see and potentially select if they like that option. 
+**Dialogue Options** these are the options available to the player following the initial dialogue. They consist of a bundle_name and a display name. The bundle name is named automatically. Each number corresponds to a dialogue option, and underscores indicate the depth of nesting. (eg. SampleDialogue_1_2_3 - is the third option of the second option of the first dialogue option on the root dialogue). The display name is important. It is the text the player will see and potentially select if they like that option. See [[Writer's Index]] -> Style for more information on how to write dialogues. 
 #### Steps to making a dialogue 
 
 (1) Make a new dialogue chain in the scene outline, event script, interactable or character profile
