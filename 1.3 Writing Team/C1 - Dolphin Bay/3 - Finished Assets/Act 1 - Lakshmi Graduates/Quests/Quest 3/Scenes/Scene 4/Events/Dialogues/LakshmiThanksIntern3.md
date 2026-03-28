@@ -13,6 +13,6 @@ Lakshmi : Well I better go back to Greg and tell him how I did. See you around!
 
 Lakshmi: {sfx: italic} W-what should I do about my flashbacks though? It's more vivid than ever. 
 
-Lakshmi: I'll should probably talk to Greg about it. A problem for later.
+Lakshmi: {sfx: italic} I'll should probably talk to Greg about it. A problem for later.
 
 **Options**

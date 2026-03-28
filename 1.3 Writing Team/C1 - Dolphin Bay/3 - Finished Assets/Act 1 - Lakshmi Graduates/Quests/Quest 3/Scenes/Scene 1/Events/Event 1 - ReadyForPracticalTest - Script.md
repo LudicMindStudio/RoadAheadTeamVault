@@ -10,14 +10,14 @@ Characters:
 
 ## Root Scene
 
-[[Quest 3 - Deliver Mail to Intern - Outline]]
+[[Scene 1 - Practical Test - Quest Giver - Scene Outline]]
 ## General Description
 
 Lakshmi goes up to Greg to take the Practical test
 ## Event Logic
 
 Trigger Start - LakshmiInteractsGregPracticalTest=True 
-On Clear - LakshmiFinishesPracticalTest=TrCue 
+On Clear - LakshmHasInternLetter=TrCue 
 
 --- 
 # Event Script

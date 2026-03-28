@@ -17,7 +17,7 @@ Lakshmi fumbles to greet the intern.
 ## Event Logic
 
 Trigger Start - LakshmiInteractsIntern=True
-Trigger Clear - LakshmiFinishesGreetingIntern=True
+Trigger Clear - InternMemoryEnter=True
 
 --- 
 # Event Script

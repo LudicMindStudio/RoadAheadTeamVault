@@ -10,7 +10,7 @@ Characters:
 
 ## Root Scene
 
-[[Quest 3 - Deliver Mail to Intern - Outline]]
+[[Scene 4 - Practical Test - Remembering the Intern's name - Scene Outline]]
 ## General Description
 
 Lakshmi tries to thank the intern for steadying her while she had a flashback (intern memory) and tries to recall their name.
@@ -23,7 +23,7 @@ On Clear - OleviaMailDelivered=True
 # Event Script
 
 |DIA|[[LakshmiThanksIntern]]
-	Lakshmi tries to remember the interns name to thank them
+	Lakshmi tries to remember the interns name to thank her
 		On Clear - InternNameIs=True 
 
 Change NPC Intern name to Olevia from now on

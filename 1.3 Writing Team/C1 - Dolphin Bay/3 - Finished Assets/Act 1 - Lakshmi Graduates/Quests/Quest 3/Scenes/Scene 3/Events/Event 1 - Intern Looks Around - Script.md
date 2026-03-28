@@ -24,7 +24,7 @@ On Clear - InternMemoryEnd=True
 
 Intern Looks around - Intern 
 	Intern looks around the mess of the room, searching for a package
-	On Clear - ExampleTag=True
+	On Clear - InternTurns=True
 
 |DIA|[[InternSearchesPackage]]
 
