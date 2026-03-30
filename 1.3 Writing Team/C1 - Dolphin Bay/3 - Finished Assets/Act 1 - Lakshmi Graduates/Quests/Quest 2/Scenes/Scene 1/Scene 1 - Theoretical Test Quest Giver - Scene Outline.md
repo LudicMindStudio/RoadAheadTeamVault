@@ -45,10 +45,10 @@ Trigger Clear - TheoreticalTestReady=True
 |DIA|[[ReceptionistRobertSaysHi]]
 	Robert greets Lakshmi and tells her to go see Greg
 		Trigger Start - LakshmiTalksGregTheoreticalTest=True 
-		On Clear - TheoreticalTestReady=True 
+		On Clear - ReceptionistRobertSaysHiClear=True 
 
 |DIA|[[InternMumbles]]
 	Player overhears the intern talking to herself
 		Trigger Start - LakshmiTalksGregTheoreticalTest=True 
-		On Clear - TheoreticalTestReady=True 
+		On Clear - InternMumblesClear=True 
 

@@ -28,16 +28,16 @@ Trigger Clear - LakshmiTheoreticalTestClear=True
 	Location 1: [[Guild Hall - Location Outline]]
 	Lakshmi goes to see Greg in Guild Hall and he tells her she has to take the test to graduate as a postal worker
 		Trigger Start - LakshmiTalksGregTheoreticalTest=True 
-		Trigger Clear - ExampleTag=True 
+		Trigger Clear - TheoreticalTestReady=True 
 
 [[Scene 2 - Writing Theoretical Test - Scene Outline]]
 	Location 2: [[Guild Hall - Location Outline]]
 	Lakshmi writes her theoretical test
-		Trigger Start - ExampleTag=True 
-		Trigger Clear - ExampleTag=True 
+		Trigger Start - TheoreticalTestStartLakshmiSitsTable=True 
+		Trigger Clear - TheoreticalTestDone=True 
 
 [[Scene 3 - Test Result Review - Scene Outline]]
 	Location 3: [[Guild Hall - Location Outline]]
 	Greg reviews Lakshmis mistakes on theoretical exam 
-		Trigger Start - ExampleTag=True 
+		Trigger Start - LakshmiTalksGregTheoreticalTestReview=True 
 		Trigger Clear - LakshmiTheoreticalTestClear=True 
