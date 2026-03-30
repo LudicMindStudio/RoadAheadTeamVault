@@ -16,7 +16,7 @@ Characters:
 Lakshmi goes up to Greg to take the Practical test
 ## Event Logic
 
-Trigger Start - LakshmiInteractsGregPracticalTest=True 
+Trigger Start - LakshmiTalksGregPracticalTest=True 
 On Clear - LakshmHasInternLetter=TrCue 
 
 --- 
