@@ -14,12 +14,12 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] Revising dialogue of guild hall members : Aaron (2026-03-17)
-- [ ] Formatting pre-graduation script - Quest 2 & 3: Corina 
 - [ ] Formatting pre-graduation script - Quest 1 Aaron
 
 ## Review
 
 - [ ] Revising & Formatting dialogue of all characters profiles who deliver mail: Arkana + Corina
+- [ ] Formatting pre-graduation script - Quest 2 & 3: Corina 
 
 ## Complete
 
