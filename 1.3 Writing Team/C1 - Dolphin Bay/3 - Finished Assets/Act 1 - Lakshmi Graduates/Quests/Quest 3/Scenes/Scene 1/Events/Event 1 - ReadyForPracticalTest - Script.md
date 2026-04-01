@@ -38,4 +38,4 @@ INVENTORY EFFECT - Intern Letter in Inventory
 	Greg Tells Lakshmi to go see intern with letter
 	On Clear - ShowInternLetter=True
 
-|DIA|[[Testdialouge]]  
+|DIA|[[PracticalTestGiver3]]
