@@ -115,6 +115,7 @@ Only for Lakshmi:
 -Jumping
 -Swimming
 -Pushing
+-Grabbing onto ledge
 
 NOTE: animation sheet
 

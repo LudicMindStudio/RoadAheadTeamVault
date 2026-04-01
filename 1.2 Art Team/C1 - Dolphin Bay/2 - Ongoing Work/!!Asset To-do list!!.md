@@ -21,7 +21,20 @@ Polish
 - [ ] Greg*
 - [ ] Grandpa dan*
 
+Villagers
+- [ ] Francois
+- [ ] Cat
+- [ ] Gatz
+- [ ] Tulia
+- [ ] Old Sailor Garp
+
+Guild Hall
+ - [ ] Receptionist Robert
+ - [ ] Meditative Guild member Lora
+ - [ ] Intern
+
 Generic NPCs
+
 
 - [ ] Male NPC*
 - [ ] Male NPC var*
@@ -31,6 +44,9 @@ Generic NPCs
 - [ ] Male child NPC var*
 - [x] Female Child NPC*
 - [ ] Female Child NPC var*
+
+
+---
 
 
 Liam's Memory

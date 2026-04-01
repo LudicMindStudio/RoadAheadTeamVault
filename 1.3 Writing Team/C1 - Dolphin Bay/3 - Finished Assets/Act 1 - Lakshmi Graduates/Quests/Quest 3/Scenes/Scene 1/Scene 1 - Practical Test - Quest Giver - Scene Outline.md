@@ -29,13 +29,13 @@ Second Floor. Greg behind his desk.
 
 Greg Tells Lakshmi to deliver letter for intern as part of the practical test to become postal worker.
 ## Scene Logic 
-Trigger Start - LakshmiInteractsGregPracticalTest=True 
-{>>Not a big deal, but I think when this scene finishes, Lakshmi hasn't finished the practical test. She's been given the practical test. So something like "lakshmi has practical test = true" is a bit better. That way we could have custom interactions with the guild members where they're all like "the intern is in the mailroom!" etc<<}{>>CL: done. changed var<<}On Clear - LakshmHasInternLetter=True
+Trigger Start - LakshmiTalksGregPracticalTest=True 
+{>>Not a big deal, but I think when this scene finishes, Lakshmi hasn't finished the practical test. She's been given the practical test. So something like "lakshmi has practical test = true" is a bit better. That way we could have custom interactions with the guild members where they're all like "the intern is in the mailroom!" etc<<}{>>CL: done. changed var<<}Trigger Clear - LakshmHasInternLetter=True
 
 --- 
 # Scene Events
 
-[[Event 1 - ReadyForPracticalTest - Script]]
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 3/Scenes/Scene 1/Events/Event 1 - ReadyForPracticalTest - Script|Event 1 - ReadyForPracticalTest - Script]]
 	Lakshmi goes up to Greg to take the Practical test
 		Trigger Start - LakshmiInteractsGregPracticalTest=True
 		On Clear - LakshmHasInternLetter=True 

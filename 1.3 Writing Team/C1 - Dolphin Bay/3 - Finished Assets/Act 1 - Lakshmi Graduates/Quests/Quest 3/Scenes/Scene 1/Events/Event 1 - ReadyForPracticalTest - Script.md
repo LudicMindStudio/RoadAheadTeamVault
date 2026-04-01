@@ -10,21 +10,21 @@ Characters:
 
 ## Root Scene
 
-[[Quest 3 - Deliver Mail to Intern - Outline]]
+[[Scene 1 - Practical Test - Quest Giver - Scene Outline]]
 ## General Description
 
 Lakshmi goes up to Greg to take the Practical test
 ## Event Logic
 
-Trigger Start - LakshmiInteractsGregPracticalTest=True 
-On Clear - LakshmiFinishesPracticalTest=TrCue 
+Trigger Start - LakshmiTalksGregPracticalTest=True 
+On Clear - LakshmHasInternLetter=TrCue 
 
 --- 
 # Event Script
 
 |DIA|[[PracticalTestGiver]]
 	Greg announces next quest
-	On Clear - ExampleTag=True
+	On Clear - GregSaysHiLakshmi=True
 
 ACTION - Intern Letter Tossed On Desk - Greg
 	Sealed letter for intern appears on desk as if it was tossed
@@ -36,6 +36,6 @@ INVENTORY EFFECT - Intern Letter in Inventory
 
 |DIA|[[PracticalTestGiver2]]
 	Greg Tells Lakshmi to go see intern with letter
-	On Clear - ShowInternLetter=True
+	On Clear - LakshmHasInternLetter=True
 
 |DIA|[[PracticalTestGiver3]]

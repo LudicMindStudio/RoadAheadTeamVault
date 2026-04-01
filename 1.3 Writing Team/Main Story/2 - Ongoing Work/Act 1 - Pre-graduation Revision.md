@@ -231,7 +231,7 @@ Lakshmi
 {>>Happy to discuss this, but this strikes me as something the player should motivate. Like if the player chose to calm Lakshmi down she would say this kind of thing <<}{>><<}{>>CL: I like how you reframed it! Plz feel free to add the option<<}Lakshmi
     No! Lakshmi get a hold of yourself! These are kid's tales, nothing more. 
 
-### Quest 2, Interactable Receptionist
+### Quest 2, Dialogue Receptionist
 
 **Receptionist**
        Welcome to the post guild! 
@@ -246,7 +246,7 @@ Lakshmi
 **Receptionist**
     Bahahahaha
 
-### Quest 2, Interactable Intern
+### Quest 2, Dialogue Intern
 **Event**
 	Player Overhears Intern talking to themselves
 **Intern** 
@@ -366,7 +366,7 @@ Greg: It's time to make you a full postal worker! If you can pass the exam, that
 				People rely on postal workers more than ever.
 		**By plane**
 			Lakshmi
-				I heard planes were common before the fog appeared but I've never seen one.
+				I heard planes were common before the fog appeared but I've never seen one. *(new characterization lakshmi + [[Narrative Goals]])*
 			Lakshmi
 				It's still the most common way though to travel. Right?
 [Add extra questions if we want]
@@ -474,15 +474,18 @@ Greg
 **Player choice**
 	Yes
 		Greg
+		    Let’s move on to the next part.
+		Lakshmi
+			Bring it on!
+		Greg
+			Come see me when you are ready.
+	No
+		Greg
 			Good. Know your limits. 
 		Greg
-			Get back to me when you are ready. [End dialogue. If interacts again. Start at Regardless of choice.]
-	No 	
+			Get back to me when you are ready. 
 [Regardless of choice]
-Greg
-    Let’s move on to the next part.
-Lakshmi
-    Bring it on!    
+
 ### Quest 3, Scene 1: Practical Test - Introduction
 
 Greg
@@ -809,8 +812,17 @@ Greg
     And now... I'm putting you straight to work.
 **Event**
 	NPCs scatter to their usual places.
-Greg
-    Go up to the front desk. Robert will have some deliveries for you to make.
+
+Greg: Go up to the front desk. Robert will have some deliveries for you to make.
+
+Lakshmi: Alright!
+
+Greg: Go out and do good deeds.
+
+Narrator: Your lungs fill with air. 
+
+Narrator: The adventure begins.
+
 
 ### Quest 4, See Robert in Guild Hall
 Event
