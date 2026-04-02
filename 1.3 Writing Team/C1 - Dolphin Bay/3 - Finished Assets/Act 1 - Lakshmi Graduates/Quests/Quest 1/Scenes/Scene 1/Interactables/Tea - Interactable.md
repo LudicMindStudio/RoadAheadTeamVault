@@ -15,10 +15,10 @@ A green tea with loose herbs floating on the top
 ```
 # Scene Interactions
 
-Root Scene - [[Scene 1 - Chalet First Morning - Outline]]
+Root Scene - [[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Scene 1 - Chalet First Morning - Outline]]
 
 Look at Tea - Dialogue 
-- |DIA|[[LookAtTea_0]]
+- |DIA|[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Dialogues/LookAtTea/LookAtTea_0]]
 	Description of the tea 
 
 

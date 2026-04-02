@@ -12,7 +12,7 @@ Date_Created: 2026-03-23
 [[Quest 1 - Visit the Guild Hall - Outline]]
 ## Root Location
 
-[[Greg's Chalet - Location Outline]]
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Locations/Location - Greg's Chalet/Greg's Chalet - Location Outline]]
 ## Character List
 
 Grandpa Dan Character Profile
@@ -31,7 +31,7 @@ Trigger Clear - Lakshmi_Left_Chalet=True
 --- 
 # Scene Events
 
-[[Event 1 - Grandpa Dan Surprises Lakshmi - Script]]
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Events/Event 1 - Grandpa Dan Surprises Lakshmi - Script|Event 1 - Grandpa Dan Surprises Lakshmi - Script]]
 	Brief summary of Event One 
 		Trigger Start - Lakshmi_is_MidwayDownStairs=True
 		On Clear - Grandpa_Dan_Surpised_Lakshmi=True 
@@ -40,7 +40,7 @@ Trigger Clear - Lakshmi_Left_Chalet=True
 # Scene Dialogues
 
 Lakshmi Wakes Up - Dialogue 
-	|DIA|[[LakshmiWakesUp_0]]
+	|DIA|[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Dialogues/LakshmiWakesUp/LakshmiWakesUp_0]]
 	Lakshmi dreams of being a grasshopper, she realizes she's late and needs to get to the guildhall 
 		Trigger Start - GameStart=True 
 		On Clear - Lakshmi_Just_Woke_Up=True 
@@ -48,35 +48,31 @@ Lakshmi Wakes Up - Dialogue
 ---
 # Scene Interactables
 
-[[Mirror - Interactable]]
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Locations/Location - Greg's Chalet/Interactables/Mirror - Interactable]]
 	Lakshmi realizes she was in uniform since late last night
 		Trigger Start - Lakshmi_Just_Woke_Up=True  
 		On Clear - Lakshmi_Saw_Uniform_Mirror=True 
 			
 
-[[Journal - Interactable]]
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Interactables/Journal - Interactable]]
 	Lakshmi's journal she left open 
 		Trigger Start - Lakshmi_Just_Woke_Up=True 
 		On Clear - Lakshmi_Read_Journal=True 
 		
 
-[[Bed - Interactable]]
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Interactables/Bed - Interactable]]
 	Lakshmi is tempted by the bed  
 		Trigger Start - Lakshmi_Just_Woke_Up=True 
 		On Clear - Lakshmi_Tempted_By_Bed=True 
 
-[[Bread - Interactable]]
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Interactables/Bread - Interactable]]
 	Bread that Grandpa Dan made for Lakshmi 
 		Trigger Start - Grandpa_Dan_Surpised_Lakshmi=True 
 
-[[Gregs Book - Interactable]]
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Interactables/Gregs Book - Interactable]]
 	A book Greg left behind 
 		Trigger Start - Grandpa_Dan_Surpised_Lakshmi=True 
 
-[[Tea - Interactable]]
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Interactables/Tea - Interactable]]
 	Green tea with loose herbs 
-
-|DIA|[[TestDialogue]]
-
-|DIA|[[TestDialogue2]]
 

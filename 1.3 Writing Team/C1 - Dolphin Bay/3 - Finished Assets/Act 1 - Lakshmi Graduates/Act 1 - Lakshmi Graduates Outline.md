@@ -38,8 +38,8 @@ Quest 2 - Pass the Exam - Outline
 		Trigger Start - Lakshmi_Visited_Hall=True 
 		Trigger Clear - Lakshmi_Passed_Quiz=True 
 
-Quest 3 - Deliver Mail to Intern - Outline
-	Lakshmi has to complete a practical test  
+[[Quest 3 - Deliver Mail to Intern - Outline]]
+	Lakshmi has to complete a practical test by delivering mail to the Intern  
 		Trigger Start - Lakshmi_Passed_Quiz=True 
 		Trigger Clear - Lakshmi_Graduated=True 
 
