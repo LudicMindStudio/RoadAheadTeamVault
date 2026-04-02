@@ -17,11 +17,4 @@ Tullia: Oh...Thank you, bye.
 Lakshmi: Alright. Maybe I should work on my approach depending on who I deliver mail to. Who's next?
 
 **Options**
-- DialogueOption1Name: Player Option 1
-- DialogueOption2Name: Player Option 2
-- DialogueOption3Name: Player Option 3
-
-```
-> Leave Options blank if at the end of the dialogue
-```
-
+- 
