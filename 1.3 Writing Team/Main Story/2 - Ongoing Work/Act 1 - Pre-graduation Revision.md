@@ -100,8 +100,7 @@ Narrator
 	    **Player choice**
 		    **It's peaceful**
 				 Narrator
-				    The stillness of the moment is oddly... soothing. Birds chirp quietly, welcoming the dawn of {>>Great
-<<}another day.
+				    The stillness of the moment is oddly... soothing. Birds chirp quietly, welcoming the dawn of another day.
 			    Grandpa Dan
 				    That is... an odd way to put it.
 			**It's creepy**
@@ -113,7 +112,7 @@ Narrator
 					Who knows what else is hiding in there? 
 				Lakshmi
 				    I just... The fog is too mysterious. Too many unknowns.
-				{>>I my opinion this comes off as a bit too cerebral. Like I could see Greg saying this perhaps more than Grandpa Dan. I would recommend reframing his hope that the youth would see the fog differently <<}{>>CL : wdym? Feel free to suggest the changes directly<<}Grandpa Dan
+				Grandpa Dan
 				    Not... unexpected. 
 				Grandpa Dan
 				    Still, I had some hope the new generation would be blissfully ignorant of old fears.
@@ -125,11 +124,11 @@ Narrator
 		**Player choice** 
 			**Some**
 				Lakshmi
-					I have flashes{>>CL: Ended up with 'flashes' instead of 'fragments.' I wanted more of a direct visual connotation<<}... When it all started... of my parents. I don't remember much anymore.
+					I have flashes... When it all started... of my parents. I don't remember much anymore.
 			**Not at all**
 		[Regardless of choice]
 		Grandpa Dan
-			{>>Really like how this response works for both options<<}{>>yayy<<}Most youth don't nowadays. 
+			Most youth don't nowadays. 
 		Grandpa Dan
 			This fog shrouds your memories in ways you wouldn't expect. *(+to double check if makes sense with [[Narrative Goals]])*
 		Grandpa Dan

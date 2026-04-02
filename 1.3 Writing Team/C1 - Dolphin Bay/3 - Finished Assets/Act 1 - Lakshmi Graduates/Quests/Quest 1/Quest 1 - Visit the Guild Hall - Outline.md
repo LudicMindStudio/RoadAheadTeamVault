@@ -34,8 +34,9 @@ Trigger Clear - Lakshmi_Visited_GuildHall=True (Lakshmi enters the Guildhall)
 		Trigger Start - Lakshmi=True 
 		Trigger Clear - Lakshmi_Left_Chalet=True
 
-Scene 2 - Navigate Chalet Woods - Scene Outline
-	Location: Greg's Chalet Exterior - Location Outline 
+
+[[Scene 2 - Outdoor Reflections - Scene Outline]]
+	Location: [[Greg's Chalet Exterior - Location Outline]]
 	Lakshmi can sit down with Grandpa Dan to contemplate the fog 
 		Trigger Start - Lakshmi_Left_Chalet=True
 		Trigger Clear - Lakshmi_Enters_EasternDolphinBay=True 
