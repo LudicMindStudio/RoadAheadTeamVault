@@ -7,7 +7,7 @@ Profession: Kid
 ---
 TO FINISH
 # Reference Art Links
-![[Pasted image 20260304153212.png]]
+![[Cat_ConceptArt.png]]
 # Description
 
 ## Appearance 
