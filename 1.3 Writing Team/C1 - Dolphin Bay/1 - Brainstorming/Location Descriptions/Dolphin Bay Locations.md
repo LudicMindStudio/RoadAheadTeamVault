@@ -26,7 +26,7 @@ The town square is well defined by the sea wall entrenched along the coast. The 
 
 ![[dolphinbay_town.png]]
 #### Buildings
-The decor of the town is bright and colourful. the buildings have thin walls and plenty of windows. most of the town has been paved with stones but plenty of space has been left for greenery. 
+The decor of the town is bright and colourful. the buildings have thin walls and plenty of windows. most of the town has been paved with stones but plenty of space has been left for greenery and the grass can grow on parts of the road. 
 
 **Guild hall** (Centre, see GH on map)
 The guild hall is well ornamented. it stands out as a building with a useful service to the towns folk, but also as a prideful centre piece.
