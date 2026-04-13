@@ -26,23 +26,38 @@ The town square is well defined by the sea wall entrenched along the coast. The 
 
 ![[dolphinbay_town.png]]
 #### Buildings
-The decor of the town is bright and colourful. the buildings have thin walls and plenty of windows. most of the town has been paved with stones but plenty of space has been left for greenery. 
+The decor of the town is bright and colourful. the buildings have thin walls and plenty of windows. most of the town has been paved with stones but plenty of space has been left for greenery and the grass can grow on parts of the road. 
 
-**Guild hall**
+**Guild hall** (Centre, see GH on map)
 The guild hall is well ornamented. it stands out as a building with a useful service to the towns folk, but also as a prideful centre piece.
 
-**Fish market**
+NPC: [[Greg - Profile]], [[Lora - Profile]], [[Olevia - Profile]], [[Robert - Profile]]
+
+**Dolphin statue** (East side) [[Dolphin Bay (Eastern side)]]
+The dolphin statue is in the heart of the town's activities (besides the fish market, the general goods store, etc.). It's the symbol of the village. The protestants will be mainly gathered around it to reinforce their cause.  
+
+NPC: [[François Hustle - Profile]], [[Camie - Profile]]
+
+**Kid's playground** (East side) [[Dolphin Bay (Eastern side)]]
+The kids - Cat, Tulia and others - can be found at the kid's playground. It should be close to dolphin statue (and the protestants), as the kids will overhear their conversations.
+
+NPC: [[Cat - Profile]], [[Tullia - Profile]]
+
+**Fish market** (East side) [[Dolphin Bay (Eastern side)]]
 4 or so market stalls can be seen all surrounding the dolphin bay water fountain statue
 
-**Docks**
+**Docks** (Centre)
 Along the shoreline of the centre island, the circumference of the island is surrounded in docks. A few smaller vessels are docked and come in and out. No larger ships have been used in a while.
 
-**General goods store**
+NPCs: [[Sailor Garp - Profile]]
 
-**Library**
+{>>CL: I suggest to remove the last 3 items since we dont have any immediate plans to integrate them in the DB story + no appropriate NPCs (at least for this sprint)<<}
+{--**General goods store**--}
+
+{--**Library**
 
 **Inn**
-
+--}
 
 ## Dolphin Sanctuary
 The Sanctuary is a bit outside the town but a small path goes right to it. The main sanctuary building is a large barn house like structure with half of it opening onto the water. There is a large line of buoys out in the water near the structure that signifies the boundaries of the sanctuary. On the land side of the sanctuary a similar boundary is made out of fences to keep some land animals safe.
