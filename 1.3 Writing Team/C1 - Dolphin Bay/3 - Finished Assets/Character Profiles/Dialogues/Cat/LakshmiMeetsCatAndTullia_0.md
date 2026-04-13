@@ -8,9 +8,9 @@ Date_Created: 2026-03-04
 
 Cat: Hey you! Careful you almost ran over a baby snail.
 
-Lakshmi: I'm so sorry! I didn't notice. I'm Lakshmi, a new postal worker. I'm just trying to figure out where to go next.
+Lakshmi: I'm so sorry! I didn't notice. I'm a new postal worker. I'm just trying to figure out where to go next.
 
-Cat: Oh I see. Watch your steps,  beautiful creatures live with us int his world. I'm Cat and this is Tullia.
+Cat: Oh I see. Watch your steps,  beautiful creatures live with us int his world. 
 
 Tullia: Hi.
 

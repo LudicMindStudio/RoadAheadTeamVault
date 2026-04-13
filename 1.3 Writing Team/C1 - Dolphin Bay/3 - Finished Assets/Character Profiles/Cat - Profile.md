@@ -7,7 +7,7 @@ Profession: Kid
 ---
 TO FINISH
 # Reference Art Links
-![[Pasted image 20260304153212.png]]
+![[Cat_ConceptArt.png]]
 # Description
 
 ## Appearance 
@@ -33,13 +33,18 @@ Cat has grown up hearing stories about the ocean as her father is a sailor.
 		Trigger Start - Lakshmi_comes_near_the_group=True, Lakshmi_Has_Met_Cat_and_Tullia = False
 		On Clear - Lakshmi_Has_Met_Cat_and_Tullia =True
 
+<<<<<<< HEAD
+[[LakshmiMeetsCat_0]]
+	Lakshmi chats with Cat about the ocean.
+		Trigger Start - Lakshmi_Interacts_Cat =True
+=======
 [[LakshmiMeetsCat_0]] {>>CL Cat and Francois both seem to had the same idea of sending mail to the dolphin sanctuary (?) organization. Maybe we need another idea for Cat. Im happy to chat! But that's going into quest making. You can leave it vague for now just ot get a sense that Cat is the leader of the kids <<}
 	ADD Description
 		Trigger Start - Lakshmi_comes_near_the_group=True, Lakshmi_Has_Met_Cat_and_Tullia = False
+>>>>>>> origin/master
 		On Clear - Lakshmi_Has_Met_Cat_and_Tullia =True
 	
-		
 [[LakshmiDeliversMailToCat_0]]
-	Brief summary of DELIVERED MAIL TO NPC
-		Trigger Start - Lakshmi_Has_Cats_Mail=True, Lakshmi_Interacts_NPC=True  
-		On Clear - Lakshmi_Has_Delivered_Cats_Mail=True, Lakshmi_Has_NPCs_Mail=False
+	Lakshmi delivers mail to Cat and learns that she is waiting for an answer from the mayor.
+		Trigger Start - Lakshmi_Has_Cats_Mail=True, Lakshmi_Interacts_Cat=True  
+		On Clear - Lakshmi_Has_Delivered_Cats_Mail=True, Lakshmi_Has_NPCs_Mail=False, Lakshmi_Learns_Cats_Mayor_Quest=True

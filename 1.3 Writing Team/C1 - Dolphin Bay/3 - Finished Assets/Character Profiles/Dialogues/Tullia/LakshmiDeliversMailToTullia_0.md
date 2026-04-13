@@ -1,10 +1,6 @@
 ---
 Date_Created: 2026-03-09
 ---
-```
-> PLEASE TITLE - DialogueName_DialogueOptionNumber_DialogueOptionNumber...
-> For Root Dialouge PLEASE TITLE - DialogueName_0 
-```
 
 *Dialogue Root* : [[Tullia - Profile]]
 # Characters: Lakshmi, Tullia

@@ -6,17 +6,15 @@ Date_Created: 2026-03-04
 # Characters: Lakshmi, Cat
 ## Bundle : LakshmiDeliversMailToCat_0
 
-Lakshmi: Example words... 
+Lakshmi: Hi there!
 
-NPC: Example words...
-...
+Cat: Hey! What is that in your hands?
+
+Lakshmi: You've got mail.
+
+Cat: Oh. It might be the letter I've been waiting for from the mayor.
 
 **Options**
-- DialogueOption1Name: Player Option 1
-- DialogueOption2Name: Player Option 2
-- DialogueOption3Name: Player Option 3
+- [[LakshmiDeliversMailToCat_1]] Give mail
 
-```
-> Leave Options blank if at the end of the dialogue
-```
 
