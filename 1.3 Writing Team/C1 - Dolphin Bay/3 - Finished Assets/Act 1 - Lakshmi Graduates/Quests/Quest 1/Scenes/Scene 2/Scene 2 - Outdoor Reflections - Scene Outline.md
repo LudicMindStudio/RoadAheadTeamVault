@@ -42,35 +42,13 @@ Trigger Clear - LakshmiLeavesChaletExterior=True
 
 [[Event 2 - Sitting Down with Grandpa - Script]]
 	Lakshmi chats with Grandpa Dan
-		Trigger Start - Lakshmi passes by Grandpa Dan sitting on the bench = True 
-		On Clear - LakshmiInsultsGrandpaDan=True (Option #)
-				-LakshmiSupportsFogMemories (Option # and Option #)
-				-LakshmiWantsNewMemories (Option #)
+	Trigger Start - Lakshmi passes by Grandpa Dan sitting on the bench = True 
+	On Clear: 
+	- LakshmiInsultsGrandpaDan=True (FogChat_0_2, FogChat_0_1_1_1_3_2)
+	-LakshmiSupportsFogMemories=True (FogChat_0_1_1_1_2 and FogChat_0_1_1_1_3_1)
+	-LakshmiWantsNewMemories=True (FogChat_0_1_1_1_1)
 
----  
-# Scene Dialogues
-
-DIALOGUE_0 ONE
-	Brief summary of Dialogue One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-DIALOGUE_0 TWO... 
-	Brief summary of Dialogue Two 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
----
-# Scene Interactables
-
-INTERACTABLE ONE
-	Brief summary of Interactable One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
-INTERACTABLE TWO
-	Brief summary of Interactable One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
-
+[[Event 3 - Forest Sounds - Script ]]
+	Lakshmi thinks about the forest 
+	Trigger start - Lakshmi enters Forest to Chalet 
 

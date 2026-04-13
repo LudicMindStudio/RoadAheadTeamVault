@@ -18,8 +18,8 @@ Lakshmi chats with Grandpa Dan about the fog
 
 Trigger Start - Lakshmi passes by Grandpa Dan sitting on the bench = True 
 On Clear:
-	- LakshmiInsultsGrandpaDan=True (FogChat_0_2, 
-	-LakshmiSupportsFogMemories=True (FogChat_0_1_1_1_2 and Option #)
+	- LakshmiInsultsGrandpaDan=True (FogChat_0_2, FogChat_0_1_1_1_3_2)
+	-LakshmiSupportsFogMemories=True (FogChat_0_1_1_1_2 and FogChat_0_1_1_1_3_1)
 	-LakshmiWantsNewMemories=True (FogChat_0_1_1_1_1)
 
 --- 
@@ -33,15 +33,17 @@ Environmental Description - Parallax Map
 	On Clear - ExampleTag=True
 
 |DIA|[[FogChat_0]]
-	Brief summary of dialogue 
-	On Clear - ExampleTag=True
+	Lakshmi chats with Grandpa Dan about the fog. She can ignore him or spur new spirit in him. 
+	On Clear:
+	- LakshmiInsultsGrandpaDan=True (FogChat_0_2, FogChat_0_1_1_1_3_2)
+	-LakshmiSupportsFogMemories=True (FogChat_0_1_1_1_2 and FogChat_0_1_1_1_3_1)
+	-LakshmiWantsNewMemories=True (FogChat_0_1_1_1_1)
 
 Action - Grandpa Dan turns
 	Granpda goes from looking at the beach to looking at Lakshmi 
 	Trigger Start - After narrator's line (a light breeze touches your cheek)
 
 Action - Grandpa Dan jumps  
-
 
 Action - Sit Down with Granpda
 	Lakshmi sits down with Grandpa Dan, simutaneous with FogChat

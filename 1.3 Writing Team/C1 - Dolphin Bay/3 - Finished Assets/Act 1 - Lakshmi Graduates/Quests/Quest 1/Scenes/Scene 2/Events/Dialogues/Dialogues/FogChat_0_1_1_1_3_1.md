@@ -9,7 +9,7 @@ Date_Created: 2026-04-01
 
 ## Bundle : FogChat_0_1_1_1_3_1
 
-Lakshmi: I... I'm sorry. I shouldn't have raised my voice at you.
+Lakshmi: I... I'm sorry. I shouldn't have raised my voice.
 
 Grandpa Dan: You're still young. 
 
