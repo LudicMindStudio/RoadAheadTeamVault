@@ -1,27 +1,27 @@
 
-*Dialogue Root* : [[Sailor Garp - Profile]]
+*Dialogue Root* : [[Garp - Profile]]
 # Characters: Lakshmi, Garp
 ## Bundle : IntroToGarp_0
 
-Garp: {--You aren't coming--} {++Are you ++}here to fish{++ kid++} {--eh--}?
+Garp:  Are you here to fish kid ?
 
-Lakshmi: Not really. {~~I'm not big on the waiting~>I don't feel like sitting in the same spot for hours. ~~}
+Lakshmi: Not really. I don't feel like sitting in the same spot for hours. 
 
-Garp: {++Hahahaha. ++}
-{++
-Garp: ++}It's an acquired taste. {++
+Garp: Hahahaha. 
 
-Garp: ++}{>>CL: Im not sure I get what you mean. Is it harder to fish these days?<<}Especially these days with the fog keeping the critters away. {++
+Garp: It's an acquired taste. 
 
-Garp: ++}You learn something {--though,--} about yourself{++ though.++} 
+Garp: Especially these days with the fog keeping the critters away. 
+
+Garp: You learn something  about yourself though. 
 
 Lakshmi: Like what?
 
-Garp: What you can control and what you can't and how to tell the difference. {++
+Garp: What you can control and what you can't and how to tell the difference. 
 
-Garp: ++}Although, I'll tell ya one thing{++.++}{--,--} {++
+Garp: Although, I'll tell ya one thing. 
 
-Garp: ++}I've been fixing about ol' Snapper. Or {>>CL: I love lady snapper<<}Lady Snapper if you ask Cat.{++++} And I think I've got one or two more seafaring days left in me.
+Garp: I've been fixing about ol' Snapper. Or Lady Snapper if you ask Cat. And I think I've got one or two more seafaring days left in me.
 
 Lakshmi: Would you take me? I've always wanted to try.
 
@@ -29,14 +29,15 @@ Garp: You know your knots?
 
 Lakshmi: No sir.
 
-{>>CL: Awesome! Flagging for future side quest<<}Garp: Well you're honest. {++
+{>>CL: Awesome! Flagging for future side quest<<}Garp: Well you're honest. 
 
-Garp: ++}Heck, why not. If you can find me another crew member, why I could get ol'Snapper seaworthy before the tide goes out.
+Garp: Heck, why not. If you can find me another crew member, why I could get ol'Snapper seaworthy before the tide goes out.
 
 Lakshmi:
-{>>CL: Maye we should also give a choice to the player to disagree<<}{>>CL: P.s. I added neutral player options + added Lakshmis dialogue inside<<}**Options**
-- [[IntroToGarp_1]]:  {++Accept ++}{--Aye, aye captain --} 
-- [[IntroToGarp_2]]: {++Later ++}{--Maybe after I've got this whole mail thing down --}
+**Options**
+- [[IntroToGarp_1]]: Accept  
+- [[IntroToGarp_2]]: Later 
+- [[IntroToGarp_3]]: Refuse
 
 
 

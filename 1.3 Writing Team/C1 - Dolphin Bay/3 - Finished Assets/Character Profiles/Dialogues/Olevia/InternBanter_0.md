@@ -7,7 +7,7 @@ Date_Created: 2026-03-25
 *First Parent* : [[Olevia - Profile]]
 # Characters: 
 
-## Bundle : DIALOGUE_0 InternBanter
+## Bundle : InternBanter_0
 
 Intern: Hey Lakshmi! It's good to see you around.
 

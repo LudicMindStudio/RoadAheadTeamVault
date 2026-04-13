@@ -29,7 +29,7 @@ He is married to fellow guild member Lora Cruz, and they have one son: Elio. Eli
 ## Brainstorming Links
 
 [[Guild Receptionist (Robert)]]
-Dialogue Change!!{>>CL: Arkana, would you help me format it plz!! the dialogue was revised<<} : [[Act 1 - Pre-graduation Revision#Quest 2, Interactable Receptionist|Robert Dialgue before Graduation]] + [[Act 1 - Pre-graduation Revision#Quest 3 See Robert in Guild Hall|Robert Dialogue after graduation]]
+Dialogue Change!!{>>CL: Arkana, would you help me format it plz!! the dialogue was revised<<}{>>AFP:I would love to help! Not sure with what tho haha...Are you saying that you want me to create different subfiles depending on the options available?<<} : [[Act 1 - Pre-graduation Revision#Quest 2, Interactable Receptionist|Robert Dialgue before Graduation]] + [[Act 1 - Pre-graduation Revision#Quest 3 See Robert in Guild Hall|Robert Dialogue after graduation]]
 
 --- 
 # Character Dialogue 

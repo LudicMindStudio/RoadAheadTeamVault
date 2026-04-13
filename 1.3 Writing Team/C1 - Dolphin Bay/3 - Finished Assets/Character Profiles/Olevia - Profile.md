@@ -32,7 +32,7 @@ Met Greg in a village and was inspired to become a postal worker.
 --- 
 # Character Dialogue {>>Not sure what to do here -AFP<<}{>>CL: We jsut need to add the banter dialogue when its unrelated to the quest. e.g. player talks to intern while not being on the quest<<}
 
-|DIA|[[DIALOGUE_0 InternBanter]]
+|DIA|[[InternBanter_0]]
 	Intern Banter unrelated to the Act 1 - Quest 2 and Quest 3. Can happend whenever. Intern nerds out about Dolphin Bay
 		Trigger Start - ExampleTag=True
 		On Clear - ExampleTag=True 

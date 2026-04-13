@@ -23,7 +23,7 @@ Francois became an affluent member of the community thanks to his fish stall (wh
 Protest Leader. Angry that the dolphins are no longer in dolphin bay. Was a large sponsor in the dolphin programs in the town. Always enjoyed watching them from afar. Now he feels betrayed and that his wealth was misused. Was never actually close to the dolphins, but loved them from a distance.
 ## Relationships
 
-Wife, Julia.
+Wife, Julia (not to implement)
 ## Brainstorming Links
 
 [[Francois Hustle]]
@@ -31,12 +31,12 @@ Wife, Julia.
 --- 
 # Character Dialogue 
 
-[[Lakshmi_meets_François_0]] 
+[[IntroToFrancois_0]] 
 	Lakshmi sees a group of protestors and Francois at the front of the pack standing on a small crate
 		Trigger Start - Lakshmi_Passes_By_Pack=True
 		On Clear - Lakshmi_Learns_François_Mission1=True, Lakshmi_Leanrs_Francois_Mission3=False
 
-[[Lakshmi_Delivers_Mail_To_François_0]]
+[[Lakshmi_Delivers_Mail_To_Francois_0]]
 	Lakshmi .... (ADD DESCRIPTION)
 		Trigger Start - Lakshmi_Has_François_Mail=True, Lakshmi_Interacts_François=True  
 		On Clear - Lakshmi_Has_Delivered_François_Mail=True, Lakshmi_Has_François_Mail=False

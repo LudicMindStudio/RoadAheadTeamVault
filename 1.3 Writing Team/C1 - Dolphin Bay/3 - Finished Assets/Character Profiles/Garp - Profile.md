@@ -5,7 +5,7 @@ Date_Created: 2026-02-26
 Age: 50
 Profession: Fisherman
 ---
-TO DO!!!
+
 # Reference Art Links
 
 [[GarpConcept1.jpg]]
@@ -42,12 +42,4 @@ Cat's father.
 	Lakshmi delivers fish to Garp for Cat's birthday.
 		Trigger Start - Lakshmi_Has_Garps_Mail=True, Lakshmi_Interacts_Garp=True  
 		On Clear - Lakshmi_Has_Delivered_Garps_Mail=True, Lakshmi_Has_Garps_Mail=False, Lakshmi_Learns_Cats_Birthday
-
-
-[[GarpSaysHello_0]]  -> example to follow template
-	Sailor garp wishes Lakshmi a good day 
-		Trigger Start - Lakshmi Interacts with Sailor Garp 
-		
-
-
 

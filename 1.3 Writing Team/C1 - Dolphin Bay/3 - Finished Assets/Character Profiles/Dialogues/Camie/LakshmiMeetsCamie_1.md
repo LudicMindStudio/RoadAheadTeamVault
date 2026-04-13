@@ -1,10 +1,10 @@
-*Dialogue Root* : [[LakshmiMeetsCamie_0]]
+*Dialogue Root* : [[IntroToCamie_0]]
 # Characters: Lakshmi, Camie
 ## Bundle : LakshmiMeetsCamie_1
 
-Lakshmi: WOW. THOSE ARE INCREDIBLE! {++
+Lakshmi: WOW. THOSE ARE INCREDIBLE! 
 
-Camie: The best in town sweetheart!++}
+Camie: The best in town sweetheart!
 
 **Options**
 

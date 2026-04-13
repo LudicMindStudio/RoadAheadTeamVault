@@ -2,7 +2,7 @@
 Date_Created: 2026-03-09
 ---
 
-*Dialogue Root* : [[LakshmiMeetsCatAndTullia_0]]
+*Dialogue Root* : [[IntroToCatAndTullia_0]]
 # Characters: Lakshmi, Cat & Tullia
 ## Bundle : LakshmiMeetsCatAndTullia_1
 
