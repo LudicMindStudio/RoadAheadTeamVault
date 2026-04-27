@@ -22,20 +22,9 @@ On Clear - OleviaMailDelivered=True
 --- 
 # Event Script
 
-|DIA|[[LakshmiThanksIntern]]
-	Lakshmi tries to remember the interns name to thank her
-		On Clear - InternNameIs=True 
-
-Change NPC Intern name to Olevia from now on
-	Change NPC Intern name to Olevia from now on
-	On Clear - InternIsOlevia=True
-
-|DIA|[[LakshmiThanksIntern2]]
-	Lakshmi cheers up the intern 
-	On Clear - HangInThereOlevia=True 
-
-|DIA|[[LakshmiThanksIntern3]]
-	Lakshmi goes to see Greg. Thinks to herself that she should do something about the memory flashbacks.
-	On Clear - OleviaMailDelivered=True 
+|DIA|[[LakshmiThanksIntern_0]]
+	Remember the interns name to thank her. Play has the option to encourage Olevia
+		On Clear - InternHasName=True 
+		On Clear - LakshmiEncouragedIOlvia=True 
 
 

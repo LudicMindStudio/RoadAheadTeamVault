@@ -33,7 +33,7 @@ Lakshmi wakes up in Greg's Chalet and has to rush to the Guild Hall. Once there,
 		Trigger Start - Lakshmi_Wakes_Up=True 
 		Trigger Clear - Lakshmi_Visited_Hall=True 
 
-Quest 2 - Pass the Exam - Outline
+[[Quest 2 - Theoretical Exam - Outline]]
 	Lakshmi talks to Greg and he gives her a quiz to complete 
 		Trigger Start - Lakshmi_Visited_Hall=True 
 		Trigger Clear - Lakshmi_Passed_Quiz=True 

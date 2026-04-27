@@ -22,7 +22,7 @@ Trigger Clear - InternMemoryEnter=True
 --- 
 # Event Script
 
-|DIA|[[HiInternHereIsYourMail]]
+|DIA|[[HiInternHereIsYourMail_0]]
 	Lakshmi interacts with intern to deliver mail
 	On Clear - HiInternHereIsYourMail=True
 
@@ -46,7 +46,7 @@ Screen Shakes
 	Lakshmi feels sick, the screen shakes
 	On Clear - LakshmiFeelsSickShakeScreen=True
 
-|DIA|[[MemoryEnterIntern]] 
+|DIA|[[MemoryEnterIntern_0]]]] 
 	Lakshmi feels a bit sick and feels herself being pulled into a memory again (first time in game)
 	On Clear - InternMemoryPull=True
 

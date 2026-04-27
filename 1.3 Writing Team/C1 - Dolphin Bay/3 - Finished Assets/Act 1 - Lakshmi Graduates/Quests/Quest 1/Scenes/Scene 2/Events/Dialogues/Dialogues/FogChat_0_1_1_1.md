@@ -20,5 +20,5 @@ Grandpa Dan: Maybe it's for the best not to dwell on the past.
 **Options**
 
 - |DIA|[[FogChat_0_1_1_1_1]] : Agree
-- |DIA|[[FogChat_0_1_1_1_2]] : Softely Disagree
+- |DIA|[[FogChat_0_1_1_1_2]] : Softly Disagree
 - |DIA|[[FogChat_0_1_1_1_3]] : Strongly Disagree

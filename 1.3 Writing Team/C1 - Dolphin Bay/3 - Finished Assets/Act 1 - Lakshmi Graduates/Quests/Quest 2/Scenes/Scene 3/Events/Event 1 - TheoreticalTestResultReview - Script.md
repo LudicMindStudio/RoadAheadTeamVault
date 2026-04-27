@@ -22,7 +22,7 @@ On Clear - TheoreticalTestClear=True
 --- 
 # Event Script
 
-|DIA|[[LakshmiSaysTheoreticalTestDone]]
+|DIA|[[LakshmiSaysTheoreticalTestDone_0]]
 	Greg tells Lakshmi she has to take an exam to graduate as a postal worker 
 	On Clear - TheoreticalTestGiver=True
 
@@ -39,7 +39,7 @@ Theoretical Test Review
 	Question 3 Incorrect: |DIA|[[TheoreticalTestQuestion3Review]]
 	On Clear - TheoreticalTestReview=True
 
-|DIA|[[GregInspiringMonologue]]
+|DIA|[[GregInspiringMonologue_0]]
 	Greg tells Lakshmi she has to take an exam to graduate as a postal worker 
 	On Clear - GregInspiringMonologue=True
 

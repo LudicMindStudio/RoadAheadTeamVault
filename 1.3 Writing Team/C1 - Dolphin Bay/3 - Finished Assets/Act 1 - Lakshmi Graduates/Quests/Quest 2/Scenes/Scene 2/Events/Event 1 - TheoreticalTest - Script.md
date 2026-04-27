@@ -47,9 +47,9 @@ Greg walks away from Lakshmi - GREG
 
 MultipleChoiceEvent
 	Three Multiple choice questions are presented like dialogue options, one after the other. We want to save what the correct choices are. Result options are 3/3, 2/3 or 1/3. We ALSO want to keep track which questions are INCORRECT. It will be important for dialogue options in Scene 3 - Event 1
-	Question 1: |DIA|[[TheoreticalTestQuestion1]]
-	Question 2: |DIA|[[TheoreticalTestQuestion2]]
-	Question 3: |DIA|[[TheoreticalTestQuestion3]]
+	Question 1: |DIA|[[TheoreticalTestQuestion1_0]]
+	Question 2: |DIA|[[TheoreticalTestQuestion2_0]]
+	Question 3: |DIA|[[TheoreticalTestQuestion3_0]]
 
 |DIA|[[TheoreticalTestDone]]
 	On Clear - TheoreticalTestDone=True

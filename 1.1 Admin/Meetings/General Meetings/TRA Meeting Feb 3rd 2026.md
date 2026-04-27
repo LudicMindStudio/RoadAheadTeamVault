@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
 created: 2026-01-27
 meeting date:
 ---
