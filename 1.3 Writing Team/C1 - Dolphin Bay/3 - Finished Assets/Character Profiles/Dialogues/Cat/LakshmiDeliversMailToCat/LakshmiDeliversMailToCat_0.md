@@ -12,9 +12,9 @@ Cat: Hey! What is that in your hands?
 
 Lakshmi: You've got mail.
 
-Cat: Oh. It might be the letter I've been waiting for from the mayor.
+Cat: It's from the mayor. It has to be! 
 
 **Options**
-- [[LakshmiDeliversMailToCat_1]] Give mail
+- [[LakshmiDeliversMailToCat_1]]: Give mail
 
 

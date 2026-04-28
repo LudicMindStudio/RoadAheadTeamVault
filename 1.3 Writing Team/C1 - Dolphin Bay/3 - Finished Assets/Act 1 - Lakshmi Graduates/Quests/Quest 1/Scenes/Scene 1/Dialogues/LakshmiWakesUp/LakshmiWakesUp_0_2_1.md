@@ -10,7 +10,7 @@ Date_Created: 2026-03-23
 ## Bundle : LakshmiWakesUp_0_2_1
 
   
-Narrator: You unfurl your iridescent wings. 
+Narrator: You unfurl your iridescent wings. What am I? 
 
 
 **Options**

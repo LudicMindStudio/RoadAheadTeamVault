@@ -9,7 +9,7 @@ Date_Created: 2026-03-23
 
 ## Bundle : LakshmiWakesUp_0_1_1
 
-Narrator: Your cheek is sore against the hard book
+Narrator: Your cheek is sore against the hard book. What am I? 
 
 **Options**
 
