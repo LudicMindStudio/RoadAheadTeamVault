@@ -10,9 +10,9 @@ Date_Created: 2026-03-23
 ## Bundle : LakshmiWakesUp_0_2
 
   
-Narrator: Your cheek is sore against the hard book. 
+Narrator: Your cheek is sore against the hard book. What am I? 
 
 **Options**
 
-- |DIA|[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Dialogues/LakshmiWakesUp/LakshmiWakesUp_0_2_1]] : Grasshopper
-- |DIA|[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Dialogues/LakshmiWakesUp/LakshmiWakesUp_0_2_2]] : Late
+- |DIA|[[LakshmiWakesUp_0_2_1]] : Grasshopper
+- |DIA|[[LakshmiWakesUp_0_2_2]] : Late
