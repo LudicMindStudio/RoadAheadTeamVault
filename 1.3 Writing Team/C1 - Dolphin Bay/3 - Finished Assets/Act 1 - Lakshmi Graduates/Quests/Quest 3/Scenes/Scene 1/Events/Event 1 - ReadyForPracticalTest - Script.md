@@ -34,8 +34,6 @@ INVENTORY EFFECT - Intern Letter in Inventory
 	S item. Description: Letter to be delivered to the new intern. 
 	On Clear - LetterInternAcquired=True
 
-|DIA|[[PracticalTestGiver2]]
+|DIA|[[PracticalTestGiver2_0]]
 	Greg Tells Lakshmi to go see intern with letter
 	On Clear - LakshmHasInternLetter=True
-
-|DIA|[[PracticalTestGiver3]]

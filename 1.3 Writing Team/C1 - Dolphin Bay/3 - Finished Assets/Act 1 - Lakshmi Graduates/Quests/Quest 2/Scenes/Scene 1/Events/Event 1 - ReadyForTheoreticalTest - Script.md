@@ -22,7 +22,7 @@ On Clear - TheoreticalTestReady=True
 --- 
 # Event Script
 
-|DIA|[[LakshmiSaysHiGreg]]
+|DIA|[[LakshmiSaysHiGreg_0]]
 	Greg tells Lakshmi she has to take an exam to graduate as a postal worker 
 	On Clear - TheoreticalTestGiver=True
 

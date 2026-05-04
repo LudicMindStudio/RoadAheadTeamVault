@@ -35,9 +35,8 @@ Dialogue Change!!{>>CL: Arkana, would you help me format it plz!! the dialogue w
 # Character Dialogue 
 
 [[Lakshmi_Talks_With_Robert_Before_Graduation_0]]
-	It's Lakshmi's graduation exam day. He greets her as she enters the guild hall. He's behind a desk.
+	Robert gives a hint as to the right exam response 
 		Trigger Start - Lakshmi_Interacts_Robert=True
-		On Clear - Lakshmi_Has_To_Find_Greg=True 
 
 [[Lakshmi_Talks_With_Robert_After_Graduation­_0]]
 	Fraternisation between Robert and Lakshmi. 
