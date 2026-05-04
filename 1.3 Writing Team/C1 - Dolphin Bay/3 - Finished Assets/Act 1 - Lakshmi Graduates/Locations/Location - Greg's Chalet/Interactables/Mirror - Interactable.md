@@ -23,7 +23,7 @@ Root Location - [[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - 
 
 Root Scene - [[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Scene 1 - Chalet First Morning - Outline]] 
 
-[[Lakshmi Talks to Mirror_0 - Dialogue]] 
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Interactables/Dialogue/Lakshmi Talks to Mirror/Lakshmi Talks to Mirror_0 - Dialogue]] 
 	Lakshmi realizes she was in uniform since late last night
 	Trigger Start - Lakshmi_Just_Woke_Up=True  
 	On Clear - Lakshmi_Saw_Uniform_Mirror=True 
