@@ -19,6 +19,6 @@ Trigger Start - Lakshmi_Just_Woke_Up=True
 On Clear - Lakshmi_Read_Journal=True 
 # Interactable Outline
 
-[[Lakshmi Talks to Journal_0 - Dialogue]]
+[[LakshmiTalkstoJournal_0]]
 	Lakshmi reads her journal entry 
 

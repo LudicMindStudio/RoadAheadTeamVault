@@ -12,7 +12,7 @@ Date_Created: 2206-03-23
 [[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Scene 1 - Chalet First Morning - Outline]]
 ## General Description
 
-Lakshmi is surprised to learn that Grandpa Dan has stopped by to bake her some bread. He encourages her not to be late. 
+Lakshmi is surprised to learn that Grandpa Dan has stopped by to bake her some bread. He encourages her not to be late. (-26.8,-0.2,28.33)
 ## Event Logic
 
 Trigger Start - Lakshmi_is_MidwayDownStairs=True
