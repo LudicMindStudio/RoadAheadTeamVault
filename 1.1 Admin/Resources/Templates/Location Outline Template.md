@@ -14,12 +14,17 @@ Include any links to reference art here
 
 Brainstorming Document One 
 Brainstorming Document Two...
-## General Description 
-Provide a brief description of the purpose and vibe of the location. 
+
+## Purpose 
+
+What do people do here? Why does this location exist? 
+## Vibe and visual description 
+
+What is this location look like? What does it feel like to be here? 
 ## Floor By Floor Layout 
 Provide a detailed visual description each floor including the position of key interactables, possible event triggers, doors and stairs. 
 
-Level One Description: ....
+Floor One Description: ....
 ### Floor Design Links
 
 Floor Design Link One... 
@@ -33,24 +38,22 @@ Door (North) to LOCATION TWO OUTLINE
 
 INTERACTABLE ONE
 	Brief summary of Interactable One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
+		Conditions-...
 
 INTERACTABLE TWO
 	Brief summary of Interactable One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
+		Conditions-...
 
 --- 
 # Location Events
 
 EVENT ONE
 	Brief summary of Event One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
+		(START) -
+		(END) -
 
 EVENT TWO... 
 	Brief summary of Event Two 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
+		(START) -
+		(END) -
 
