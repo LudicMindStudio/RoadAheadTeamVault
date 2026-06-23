@@ -5,22 +5,22 @@ Date_Created:
 ```
 > PLEASE TITLE - (Side-)Quest QuestNumber - QuestName - Outline
 ```
+
+# Brainstorming 
+
+Use this space to draft notes about the quest or include links to brainstorming documents 
 # Quest Description
 
 ## Root Act
 
 ROOT ACT NAME
-## Brainstorming Links
-
-Brainstorming Document One 
-Brainstorming Document Two...
 ## General Description 
 
 Provide a short description of the nature of the quest and the necessary scenes. 
+## Quest Conditions
 
-## Quest Logic 
-Trigger Start - ExampleTag=True
-Trigger Clear - ExampleTag=True
+(START) - 
+(CLEAR) - 
 
 --- 
 # Quest Scenes
@@ -28,19 +28,19 @@ Trigger Clear - ExampleTag=True
 SCENE ONE
 	Location 1: LOCATION NAME
 	Brief summary of Scene One 
-		Trigger Start - ExampleTag=True 
-		Trigger Clear - ExampleTag=True 
+		(START) - 
+		(CLEAR) - 
 
 SCENE TWO... 
 	Location 2: LOCATION NAME
 	Brief summary of Scene Two 
-		Trigger Start - ExampleTag=True 
-		Trigger Clear - ExampleTag=True 
+		(START) - 
+		(CLEAR) - 
 
 CUT SCENE ONE 
 	Brief summary of Cut Scene One 
-		Trigger Start - ExampleTag=True 
-		On Clear - ExampleTag=True 
+		(START) - 
+		(CLEAR) - 
 
 ...
 
