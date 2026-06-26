@@ -33,10 +33,19 @@ Cat has grown up hearing stories about the ocean as her father is a sailor.
 		Trigger Start - Lakshmi_comes_near_the_group=True, Lakshmi_Has_Met_Cat_and_Tullia = False
 		On Clear - Lakshmi_Has_Met_Cat_and_Tullia =True
 
+
+[[LakshmiMeetsCat_0]]
+	Lakshmi chats with Cat about the ocean.
+		Trigger Start - Lakshmi_Interacts_Cat =True
+
+[[LakshmiMeetsCat_0]] {>>CL Cat and Francois both seem to had the same idea of sending mail to the dolphin sanctuary (?) organization. Maybe we need another idea for Cat. Im happy to chat! But that's going into quest making. You can leave it vague for now just ot get a sense that Cat is the leader of the kids <<}
+	ADD Description
+
 [[IntroToCat_0]] {>>CL Cat and Francois both seem to had the same idea of sending mail to the dolphin sanctuary (?) organization. Maybe we need another idea for Cat. Im happy to chat! But that's going into quest making. You can leave it vague for now just ot get a sense that Cat is the leader of the kids <<}{>>Maybe it's interesting that they are both waiting for a response? They are the leaders of different "associations" who share a somewhat common goal.
 <<}
 	Cat talks about her interest in the ocean life. 
 		Trigger Start - Lakshmi_Interacts_Cat=True, Lakshmi_Has_Met_Cat_and_Tullia = False
+
 		On Clear - Lakshmi_Has_Met_Cat_and_Tullia =True
 	
 [[LakshmiDeliversMailToCat_0]]
