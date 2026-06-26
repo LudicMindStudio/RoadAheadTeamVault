@@ -6,7 +6,8 @@ kanban-plugin: board
 
 ## To do
 
-- [ ] HOLD - Interactable in Guild Hall: ______ (when developping locations)
+- [ ] [HOLD] - Interactable in Guild Hall: ______ (when developping locations)
+- [ ] Decide NPCs for demo : 5 Main + 15 Side
 
 
 ## In Progress
@@ -42,6 +43,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,null,true,true,true]}
+{"kanban-plugin":"board","list-collapse":[false,false,true,true,true,true]}
 ```
 %%
