@@ -6,8 +6,7 @@ kanban-plugin: board
 
 ## To do
 
-- [ ] [HOLD] - Interactable in Guild Hall: ______ (when developping locations)
-- [ ] Decide NPCs for demo : 5 Main + 15 Side
+- [ ] Decide NPCs for demo : 5 Main + 15 Side [[2. DB NPC Relationships]]
 
 
 ## In Progress
@@ -25,14 +24,15 @@ kanban-plugin: board
 - [ ] Revising & Formatting dialogue of all characters profiles who deliver mail: Arkana + Corina
 
 
-## Review
+## HOLD
 
-
-
-## Review
-
+- [ ] [HOLD] - Interactable in Guild Hall: ______ (when developping locations)
 - [ ] Revising & Formatting dialogue of all characters profiles who deliver mail: Arkana + Corina
 - [ ] Formatting pre-graduation script - Quest 2 & 3: Corina
+
+
+## Review
+
 
 
 ## <<<<<<< HEAD
