@@ -19,7 +19,7 @@ Loves animals and playing games. The leader amongst the dolphin bay kids
 - bandana in her hair
 - tank top and shorts
 ## Concept Art
-[[LakshmiMeetsCatAndTullia_0]]
+[[IntroToCatAndTullia_0]]
 
 # Dialogue
 

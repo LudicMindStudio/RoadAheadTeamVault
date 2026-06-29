@@ -14,29 +14,27 @@ Detailed description of the object the player is interacting with
 Root Location - LOCATION NAME
 
 DIALOGUE_0 ONE 
+	(Actors) ...
 	Brief summary of dialogue 
-	Trigger Interactable - ExampleTag=True
-	On Clear - ExampleTag=True
+	Conditions -...
 
 OR 
 
 INVENTORY EFFECT
 	Description of the inventory size (S/M/L) and contents (item names)
-	On Clear - ExampleTag=True
+	Conditions -...
 
 OR 
 
 ACTION DESCRIPTION ONE
 	Brief summary of Action One 
-	Trigger Interactable - ExampleTag=True
-	On Clear - ExampleTag=True
+	Conditions -...
 
 OR 
 
 ENVIRONMENTAL DESCRIPTION ONE
 	Brief summary of changing environment 
-	Trigger Interactable - ExampleTag=True
-	On Clear - ExampleTag=True
+	Conditions -...
 
 ...
 
@@ -48,20 +46,21 @@ ENVIRONMENTAL DESCRIPTION ONE
 Root Scene - SCENE NAME ONE
 
 DIALOGUE_0 ONE 
+	(Actors) ...
 	Brief summary of dialogue 
-	On Clear - ExampleTag=True
+	Conditions -...
 
 OR 
 
 ACTION DESCRIPTION ONE
 	Brief summary of Action One 
-	On Clear - ExampleTag=True
+	Conditions -...
 
 OR 
 
 ENVIRONMENTAL DESCRIPTION ONE
 	Brief summary of changing environment 
-	On Clear - ExampleTag=True
+	Conditions -...
 
 ```
 > Leave blank if there are no scene specific interactions 

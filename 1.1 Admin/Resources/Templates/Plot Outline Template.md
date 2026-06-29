@@ -16,11 +16,11 @@ Summarize each of the acts which make up the plot
 
 ACT ONE OUTLINE 
 	Brief summary of Act one
-		Trigger Start - ExampleTag=True 
-		Trigger Clear - ExampleTag=True 
+		(START) - 
+		(CLEAR) -
 
 ACT TWO OUTLINE 
 	Brief summary of Act two
-		Trigger Start - ExampleTag=True 
-		Trigger Clear - ExampleTag=True 
+		(START) -
+		(CLEAR) -
 

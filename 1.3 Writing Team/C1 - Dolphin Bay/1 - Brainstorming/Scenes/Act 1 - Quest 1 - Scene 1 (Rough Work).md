@@ -1,4 +1,10 @@
 ### EVENT ONE 
+Narrator: cold drops of dew flick off your shoulders. Amber light fills your myriad eyes. You push effortlessly off the blade. What am I? 
+Grasshopper - you unfurl your iridescent wings 
+Human - your cheek is sore against the hard book
+Late  
+
+Lakshmi: Greg said he needed me in the guild hall today! I better run. 
 
 Narrator: as you descend, the smell of freshly baked bread fills your nostrils 
 Narrator: the old wooden stairs squeak 
@@ -9,8 +15,8 @@ GrandpaDan: Lakshmi? 
 
 Lakshmi walks towards Grandpa Dan 
   
-Lakshmi: Good morning grandpa 
-Grandpa Dan: No time for pleasantries Lakshmi. Let me get a look at you. Big day. 
+Lakshmi: Grandpa! What are you doing here?
+Grandpa Dan: Someone ought to put this kitchen to use. Let me look at you. 
 
 Lakshmi approaches Grandpa Dan 
 
@@ -35,7 +41,7 @@ Lakshmi: Not since last night 
 Grandpa Dan: He’s up to mischief! 
 
 Option three: 
-Lakshmi: Is that what we’re calling the stray now? 
+Lakshmi: Is that what we’re calling the pup now? 
 Grandpa Dan: the shorter the better {>>Love the idea for Grandpa Dan to name Leo on the spot. Maybe for clarity Lakshmi can add at the end something like "Oh that's a cute name for the pup." <<}
 RETURN TO DIALOGUE TREE ONE 
 
@@ -48,7 +54,7 @@ Grandpa Dan leaves quickly 
 
 **Bread**: the hot sourdough melts in your mouth: a nutty wave of cinnamon followed by a sweet maple glow. 
 
-{~~**Grandpa Dan’s Book**~> Greg~~}: “Once again...welcome to my house. Come freely. Go safely; and leave something of the happiness you bring.”{>>It's Greg's chalet btw<<} 
+**Greg's Book**: “You have power over your mind - not outside events. Realize this, and you will find strength..” 
 
 **Tea**: strange leaves bobble on the green surface
 

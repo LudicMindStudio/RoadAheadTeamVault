@@ -4,7 +4,7 @@ Date_Created:
 Characters:
 ---
 ```
-> PLEASE TITLE - EventName - Event Script
+> PLEASE TITLE - Event - Event Number - EventName -  Script
 ```
 # Event Description
 
@@ -14,27 +14,28 @@ ROOT SCENE NAME
 ## General Description
 
 One line summary of the event 
-## Event Logic
+## Event Conditions 
 
-Trigger Start - ExampleTag=True
-On Clear - ExampleTag=True
+(START) -
 
 --- 
 # Event Script
 
-ACTION DESCRIPTION ONE - ACTOR 
+ACTION DESCRIPTION ONE  
+	(Actors) ...
 	Brief summary of Action One
-	On Clear - ExampleTag=True
+	Conditions-...
 
 ENVIRONMENTAL DESCRIPTION ONE
 	Brief summary of changing environment 
-	On Clear - ExampleTag=True
+	Conditions-...
 
 DIALOGUE_0 ONE 
+	(Actors) ...
 	Brief summary of dialogue 
-	On Clear - ExampleTag=True
+	Conditions-...
 
 INVENTORY EFFECT ONE
 	Description of the inventory size (S/M/L) and contents (item names)
-	On Clear - ExampleTag=True
+	Conditions-...
 

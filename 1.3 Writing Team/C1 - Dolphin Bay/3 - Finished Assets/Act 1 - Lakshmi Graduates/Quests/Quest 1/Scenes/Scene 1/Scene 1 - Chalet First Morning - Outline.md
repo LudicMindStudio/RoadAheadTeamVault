@@ -1,6 +1,6 @@
 ---
 tags:
-Date_Created:
+Date_Created: 2026-03-23
 ---
 ```
 > PLEASE TITLE - Scene SceneNumber - SceneName Outline
@@ -12,7 +12,7 @@ Date_Created:
 [[Quest 1 - Visit the Guild Hall - Outline]]
 ## Root Location
 
-[[Grandpa Dan's Chalet - Location Outline]]
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Locations/Location - Greg's Chalet/Greg's Chalet - Location Outline]]
 ## Character List
 
 Grandpa Dan Character Profile
@@ -20,11 +20,10 @@ Grandpa Dan Character Profile
 
 Lakshmi's **journal** is open on her desk. 
 
-A basket of **bread** sits on the kitchen counter. Granda Dan is in the kitchen cleaning up. 
+Downstairs: A basket of **bread** sits on the kitchen counter. A glass of **tea** rests on the kitchen table beside **Greg's book**. Granda Dan is in the kitchen cleaning up. 
 ## General Description 
 
 Lakshmi wakes up and realizes she's late. The player is free to explore the Chalet. The player can surprise Grandpa Dan. The player can exit the Chalet through the front door. 
-
 ## Quest Logic 
 Trigger Start - Game_Starts=True
 Trigger Clear - Lakshmi_Left_Chalet=True
@@ -32,43 +31,48 @@ Trigger Clear - Lakshmi_Left_Chalet=True
 --- 
 # Scene Events
 
-[[Lakshmi Surprises Grandpa Dan - Event Script]]
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Events/Event 1 - Grandpa Dan Surprises Lakshmi - Script|Event 1 - Grandpa Dan Surprises Lakshmi - Script]]
 	Brief summary of Event One 
-		Trigger Start - Lakshmi_is_DownStairs=True 
-		On Clear - Lakshmi_Surpised_GrandpaDan=True 
+		Trigger Start - Lakshmi_is_MidwayDownStairs=True
+		On Clear - Grandpa_Dan_Surpised_Lakshmi=True 
 		
-
 ---  
 # Scene Dialogues
 
-[[Lakshmi Wakes Up_0 - Dialogue]]
-	Lakshmi wakes up to realize she slept in, so she thinks she better run to the guild hall  
+Lakshmi Wakes Up - Dialogue 
+	|DIA|[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Dialogues/LakshmiWakesUp/LakshmiWakesUp_0]]
+	Lakshmi dreams of being a grasshopper, she realizes she's late and needs to get to the guildhall 
 		Trigger Start - GameStart=True 
 		On Clear - Lakshmi_Just_Woke_Up=True 
-	
 
 ---
 # Scene Interactables
 
-[[Mirror - Interactable]]
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Locations/Location - Greg's Chalet/Interactables/Mirror - Interactable]]
 	Lakshmi realizes she was in uniform since late last night
 		Trigger Start - Lakshmi_Just_Woke_Up=True  
 		On Clear - Lakshmi_Saw_Uniform_Mirror=True 
 			
 
-[[Journal - Interactable]]
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Interactables/Journal - Interactable]]
 	Lakshmi's journal she left open 
 		Trigger Start - Lakshmi_Just_Woke_Up=True 
 		On Clear - Lakshmi_Read_Journal=True 
 		
 
-[[Bed - Interactable]]
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Interactables/Bed - Interactable]]
 	Lakshmi is tempted by the bed  
 		Trigger Start - Lakshmi_Just_Woke_Up=True 
 		On Clear - Lakshmi_Tempted_By_Bed=True 
 
-[[Bread - Interactable]]
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Interactables/Bread - Interactable]]
 	Bread that Grandpa Dan made for Lakshmi 
-		Trigger Start - Lakshmi_Surpised_GrandpaDan=True 
-		On Clear - Lakshmi_Complimented_Bread=True 
+		Trigger Start - Grandpa_Dan_Surpised_Lakshmi=True 
+
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Interactables/Gregs Book - Interactable]]
+	A book Greg left behind 
+		Trigger Start - Grandpa_Dan_Surpised_Lakshmi=True 
+
+[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Interactables/Tea - Interactable]]
+	Green tea with loose herbs 
 
