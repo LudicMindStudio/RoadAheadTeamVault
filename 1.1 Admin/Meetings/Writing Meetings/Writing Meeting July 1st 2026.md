@@ -42,20 +42,23 @@ How has everyone been? What stood out from the June 22 meeting?
 **Camie** baker, protester sympathizer, Lakshmi's peer
 **Cat** kid leader, Garp's daughter, wildlife protector
 **Garp** fisherman, Cat's father, old Dolphin Bay
+**Lora**   
 
 **Gordon**  Map maker, guild logistics 
 **Robert**  Guild receptionist, 
-**Lora**  Yogi, 42. Divination via chicken bones.
+
 **Tullia**  Cat's shadow. Shy. 
 **Doran**  Builder. Anxious.
 **Gatz**  Poet / graffiti artist. 
 **Mysterious Man**  Grumpy. Lobster traps. 
 **Quinn**  Grocer. 
 **Deputy**  Greg's right hand. 
-**Leaf**  Pushover protester.
+**Leaf**  Surfer, himbo
 **Felix**  Stranded visitor. 
 **Lisa** Old granny.
 **Dr. Lamborghini**  Pre-Calamity researcher.
+**Biologist** Sushi chef
+**Biologist** Musician 
 **Libby**  Doran's wife, building designer. 
 **Julia**  Francois's wife. 
 **Elio**  smarty-pants, Robert & Lora's kid
