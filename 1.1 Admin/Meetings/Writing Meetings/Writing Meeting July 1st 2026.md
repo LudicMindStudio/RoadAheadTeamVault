@@ -39,18 +39,18 @@ How has everyone been? What stood out from the June 22 meeting?
 **Francois**
 **Olevia**
 
-**Camie** baker, protester sympathizer, Lakshmi's peer
-**Cat** kid leader, Garp's daughter, wildlife protector
-**Garp** fisherman, Cat's father, old Dolphin Bay
-**Lora**   
+**Camie** baker, protester sympathizer, Lakshmi's peer *Arkana*
+**Cat** kid leader, Garp's daughter, wildlife protector *Arkana*
+**Garp** fisherman, Cat's father, old Dolphin Bay *Aaron*
+**Lora** *Aaron*
 
-**Gordon**  Map maker, guild logistics 
-**Robert**  Guild receptionist, 
 
-**Tullia**  Cat's shadow. Shy. 
-**Doran**  Builder. Anxious.
-**Gatz**  Poet / graffiti artist. 
-**Mysterious Man**  Grumpy. Lobster traps. 
+**Warren**  Map maker, guild logistics *Aaron*
+**Robert**  Guild receptionist, *Aaron*
+**Tullia**  Cat's shadow. Shy.  *Arkana*
+**Doran**  Builder. Carpenter *Aaron*
+**Gatz**  Poet / graffiti artist. *Aaron*
+**Mysterious Man**  Grumpy. Lobster traps. *Trent* 
 **Quinn**  Grocer. 
 **Deputy**  Greg's right hand. 
 **Leaf**  Surfer, himbo
