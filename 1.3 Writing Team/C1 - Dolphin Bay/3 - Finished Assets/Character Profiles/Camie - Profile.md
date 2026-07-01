@@ -29,7 +29,7 @@ Camie is attending the protest with the rest of the protesters. Like tp go with 
 --- 
 # Character Dialogue 
 
-[[IntroToCamie_0]]
+[[LakshmiMeetsCamie_0]]
 	Lakshmi walks around where a protest is happening and Camie is there standing a bit in the back.
 		Trigger Start -  Camie_Interacts_Lakshmi=True  
 		On Clear - LakshmiMeetsCamie_1 - LakshmiTriesBuns = True, LakshmiMeetsCamie_2 - LakshmiDeclinesBuns = True,
