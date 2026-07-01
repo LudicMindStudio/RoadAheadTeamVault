@@ -56,7 +56,7 @@ How has everyone been? What stood out from the June 22 meeting?
 **Leaf**  Surfer, himbo
 **Felix**  Stranded visitor. 
 **Lisa** Old granny.
-**Dr. Lamborghini**  Pre-Calamity researcher.
+**Dr. Lamborghini**   Pre-Calamity researcher.
 **Biologist** Sushi chef
 **Biologist** Musician 
 **Libby**  Doran's wife, building designer. 
