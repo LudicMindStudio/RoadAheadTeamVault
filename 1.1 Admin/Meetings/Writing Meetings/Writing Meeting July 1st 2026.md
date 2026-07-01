@@ -33,17 +33,17 @@ How has everyone been? What stood out from the June 22 meeting?
 
 ## Who's Writing Who
 
-**Lakshmi**
-**Greg**
-**Dan**
-**Francois**
-**Olevia**
+**Lakshmi** *Trent*
+**Greg** *Corina*
+**Dan** *Corina*
+**Francois** *Aaron*
+**Olevia** *Corina*
 
 **Camie** baker, protester sympathizer, Lakshmi's peer *Arkana*
 **Cat** kid leader, Garp's daughter, wildlife protector *Arkana*
 **Garp** fisherman, Cat's father, old Dolphin Bay *Aaron*
 **Lora** *Aaron*
-
+**Biologist** Musician *Trent*
 
 **Warren**  Map maker, guild logistics *Aaron*
 **Robert**  Guild receptionist, *Aaron*
@@ -51,19 +51,17 @@ How has everyone been? What stood out from the June 22 meeting?
 **Doran**  Builder. Carpenter *Aaron*
 **Gatz**  Poet / graffiti artist. *Aaron*
 **Mysterious Man**  Grumpy. Lobster traps. *Trent* 
-**Quinn**  Grocer. 
-**Deputy**  Greg's right hand. 
-**Leaf**  Surfer, himbo
-**Felix**  Stranded visitor. 
-**Lisa** Old granny.
-**Dr. Lamborghini**  Pre-Calamity researcher.
-**Biologist** Sushi chef
-**Biologist** Musician 
-**Libby**  Doran's wife, building designer. 
-**Julia**  Francois's wife. 
-**Elio**  smarty-pants, Robert & Lora's kid
-**Oliver**  orphan child
-**Sammy** — turtle kid
+**Quinn**  Barkeep, Inn. *Nina*
+**Leaf**  Surfer, himbo *Aaron*
+**Felix**  Stranded visitor. *Trent*
+**Lisa** Old granny. Gardener *Arkana*
+**Dr. Lamborghini**  Pre-Calamity researcher. *Trent*
+**Biologist** Sushi chef *Trent*
+**Libby**  Doran's wife, Gardener *Aaron*
+**Julia**  Francois's wife. Inn Owner *Aaron*
+**Elio**  smarty-pants, Robert & Lora's kid *Arkana*
+**Oliver**  orphan child *Trent*
+**Sammy** — turtle kid *Arkana*
 
 ---
 
@@ -94,7 +92,7 @@ How has everyone been? What stood out from the June 22 meeting?
 
 For your characters:
 - Who they were before the dolphin crisis
-- Objects, events, hobbies, or activities that they look forward.
+- Objects, events, hobbies, or activities, community events that they look forward.
 - Ways that the character talks to lakshmi, how their relationship could grow. 
 - Who they are getting mail from and whats it about?
 - What they think about the current state of dolphin bay (will INFORM specifics, make stuff up and we can adapt it later) 
