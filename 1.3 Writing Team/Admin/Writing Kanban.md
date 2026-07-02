@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## To do
 
-- [ ] Decide NPCs for demo : 5 Main + 15 Side [[2. DB NPC Relationships]]
+- [ ] Decide NPCs for demo : 5 Main + 15 Side [[2. DB NPC Relationships]] -> Meeting [[Writing Meeting June 17th 2026]]
 
 
 ## In Progress
