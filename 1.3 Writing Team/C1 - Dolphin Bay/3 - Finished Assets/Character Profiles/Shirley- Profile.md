@@ -23,10 +23,10 @@ Include any links to reference art here
 
 ## Key Information 
 
-| Age                 | 39                  |
-| ------------------- | ------------------- |
-| Profession          | Head gardener       |
-| Relationship Status | Married ([[Doran]]) |
+| Age                 | 42              |
+| ------------------- | --------------- |
+| Profession          | Head gardener   |
+| Relationship Status | Married (Doran) |
 ## Appearance 
 
 42 years old latinx women. She's short and voluptuous with a short, wide neck and large chin. She's like a snow man (composed of three compressed spheres). He facial features are large and do a lot of the talking: big lips. big eyes, bigger eyelashes. She has a beauty mark on her left cheek. Her curly hair is massive and falls down her shoulders 
@@ -38,28 +38,24 @@ Shirley is a passionate and loving member of the community. However, she's overl
 
 She has an eye for the dramatic and loves dance and music. She will sing to the plants as she works. She has a way of singing songs from her childhood that will make your heart stop. She believes her songs help the plants grow and taste delicious. 
 
-She finds her responsibilities quite stressful and prefers to be left alone during work hours. The weight of Lisa's legacy weighs heavy on her shoulders. 
-
 Shirley is also a formidable explorer as is always on the lookout for new seeds or plants to try in the woods around the bay. Although she's absolutely terrified of the fog, she stubbornly keeps venturing out. 
 
-Shirley works as the head gardener for the village and overseas numerous beds throughout the village. Her pride is her greenhouse which houses some of her most exotic finds from her many adventures. 
-
+Shirley works as the head gardener for the village and overseas numerous beds throughout the village. Her pride is her greenhouse which houses some of her most exotic finds from her many adventures. She finds her responsibilities quite stressful and prefers to be left alone during work hours. The weight of Lisa's legacy weighs heavy on her shoulders. 
 
 ## Essential History 
 
-She lost her first child and never had children after. 
+Shirley and Doran had grown up in the bay but they didn't know each other. They were quarantined together during the calamity and quickly fell in love. They tired to have children, but their first child died as an enfant, and they've never tired since. 
 
-Inherited the lead gardener from Lisa. She still works with Lisa on the essential gardens, but they often disagree (even though there's a lot of mutual respect). They have had famous large arguements in the past. 
+Shirley inherited the lead gardener role from Lisa when she retired. She still works with Lisa with odd tasks, and they often disagree (even though there's a lot of mutual respect). They sometimes can be heard shouting about plant locations. 
+
+Shirley has a particularly needy Fiddle-Leaf Fig which she's named Sergio. She awoke one morning to find Sergio almost completely stripped of leaves, and has been nursing it back to health ever since. 
  
 ## Relationships
 
-While Leaf gets along well with the sanctuary workers, he's most attached to Garp. They share a love of the ocean. Garp isn't encouraging of Leaf's surfing, but he secretly admires Leaf's skill. 
+Doran absolutely adores Shirley and has been known to work incredibly hard fashioning her all kinds of innovative raised garden beds. 
 
-Lora, will not a close friend, will frequently flirt with Leaf. She respects his soulful side. 
+Doran and Shirley get along swimmingly with Francois and Juliette and t
 
-Leaf really looks up to François Hustle. His people skills and braininess are all very impressive. Not to mention, Francois tells a mean story. 
-
-Leaf doesn't get along with Cat who has no patience for his slow style of teaching. She's a failed surfing and swimming student. He prefers Oliver and kids who know how to chill out. 
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
