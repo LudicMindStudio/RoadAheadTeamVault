@@ -44,12 +44,12 @@ Leaf doesn't get along with Cat who has no patience for his slow style of teachi
 
 Use this space to describe generally what the NPC does during their day (optional table below)
 
-|           | LOCATION              | ACTIVITY                                                 | SPECIAL NOTES |
-| --------- | --------------------- | -------------------------------------------------------- | ------------- |
-| MORNING   | Leaf's Dojo-Casa      | Workout out, offering hair cuts and reading by the water |               |
-| AFTERNOON | Dolphin Bay Sanctuary | Working                                                  |               |
-| EVENING   | Coast                 | Surfing, teaching surfing lessons                        |               |
-| SPECIAL   |                       |                                                          |               |
+|           | LOCATION              | ACTIVITY                                             | SPECIAL NOTES |
+| --------- | --------------------- | ---------------------------------------------------- | ------------- |
+| MORNING   | Leaf's Dojo-Casa      | Workout, offering hair cuts and reading by the water |               |
+| AFTERNOON | Dolphin Bay Sanctuary | Working                                              |               |
+| EVENING   | Coast                 | Surfing, teaching surfing lessons                    |               |
+| SPECIAL   |                       |                                                      |               |
 
 --- 
 # Character Quests
