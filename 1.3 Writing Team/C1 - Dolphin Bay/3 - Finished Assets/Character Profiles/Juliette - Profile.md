@@ -8,27 +8,18 @@ Date_Created:
 
 # Character Brainstorming 
 
-Loves to dance 
-ADORED by her husband 
-EXTREMELY PICKY 
-Has a rose she's quite attached to 
-VERY HONEST 
-
-Inherited the lead gardener from Lisa. She still works with Lisa on the essential gardens, but they often disagree (even though there's a lot of mutual respect). They have had famous large arguements in the past. 
-
-She gets along really well with Francois who also knows how to sing. 
-
-Sings songs with the musician 
-
 # Reference Art  
 
-Include any links to reference art here 
+![[Pasted image 20260707170535.png|324]]
 # Description
 
 ## Key Details 
 
-
-
+| Age                 | 40                             |
+| ------------------- | ------------------------------ |
+| Profession          | Inn manager/Village Accountant |
+| Relationship Status | Married (Francois)             |
+|                     | Child (Elio)                   |
 ## Appearance 
 
 40 years old. Caucasian women. Juliette is tall and thin with long legs. She is beautiful, but her features betray a certain vanity like Yzma (Emperor's New Groove). Similarly, she has a round, pronounced chin about the size and shape a mandarin. She has large lips and small eyes with long lashes. She's always tanned, although her lipstick never matches well, so the tan (although natural) looks fake. 
@@ -38,12 +29,18 @@ Her hair is almost always tucked into a fashionable scarf.  She frequently wears
 
 Juliette comes from a rich family and behaves as an elegant woman of high society. She is often serious. She loves to read, but finds most fiction boring. She prefers history and non-fiction. She's quite intelligent, but not very sociable unless she's hosting. She prefers her own thoughts to the conversation of others. 
 
-She owns a pet rat Edris, who she cares for very much, and she allows Edris to be replaced by a new Edris every few years without acknowledging the replacement. Her current Edris is old. 
+She owns a pet rat "Edris", who she cares for very much, and she allows Edris to be replaced by a new Edris every few years without acknowledging the replacement. Her current Edris is old. 
 
 Juliette runs the local inn. Which she likes because she doesn't have many visitors, and she prefers of course to be reading (especially by the beach). She also works as the manager of the village's ledger which records the quantities of grain, stored water etc. the village has access to at any given time. She works closely with her husband on such matters. She is largely considered the real brains behind Francois' leadership. 
 ## Essential History 
 
-Juliette ran away from home when she was 20 years old because her family was forcing her into a marriage she despised. She found Dolphin Bay before the clamity and started her small business 
+Juliette ran away from home when she was 20 years old because her family was forcing her into a marriage she despised. She found Dolphin Bay before the calamity and started her small business. Francois swept her off her feet, and they've been married for almost 15 years. 
+
+Juliette gets along swimmingly with Sanctuary Scientist (musician). They love to discuss classical music and exchange books. 
+
+Gatz and Juliette have fruitful discussions, but they rarely agree, and she finds his art distasteful. 
+
+Juliette once wrote a manuscript about her youth and her voyage to dolphin bay. There exist three copies 
 
 ## Relationships
 

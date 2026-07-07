@@ -4,17 +4,6 @@
 
 # Character Brainstorming 
 
-Loves to dance 
-ADORED by her husband 
-EXTREMELY PICKY 
-Has a rose she's quite attached to 
-VERY HONEST 
-
-Inherited the lead gardener from Lisa. She still works with Lisa on the essential gardens, but they often disagree (even though there's a lot of mutual respect). They have had famous large arguements in the past. 
-
-She gets along really well with Francois who also knows how to sing. 
-
-Sings songs with the musician 
 
 # Reference Art  
 
@@ -38,7 +27,7 @@ Shirley is a passionate and loving member of the community. However, she's overl
 
 She has an eye for the dramatic and loves dance and music. She will sing to the plants as she works. She has a way of singing songs from her childhood that will make your heart stop. She believes her songs help the plants grow and taste delicious. 
 
-Shirley is also a formidable explorer as is always on the lookout for new seeds or plants to try in the woods around the bay. Although she's absolutely terrified of the fog, she stubbornly keeps venturing out. 
+Shirley is also a formidable explorer as she is always on the lookout for new seeds or plants to try in the woods around the bay. Although she's absolutely terrified of the fog, she stubbornly keeps venturing out. 
 
 Shirley works as the head gardener for the village and overseas numerous beds throughout the village. Her pride is her greenhouse which houses some of her most exotic finds from her many adventures. She finds her responsibilities quite stressful and prefers to be left alone during work hours. The weight of Lisa's legacy weighs heavy on her shoulders. 
 
@@ -54,18 +43,20 @@ Shirley has a particularly needy Fiddle-Leaf Fig which she's named Sergio. She a
 
 Doran absolutely adores Shirley and has been known to work incredibly hard fashioning her all kinds of innovative raised garden beds. 
 
-Doran and Shirley get along swimmingly with Francois and Juliette and t
+Shirley gets along quite will with Francois who also talks a lot and sings well. 
+
+Garp is always getting under Shirley's skin (which is pretty easy to do). 
 
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
 
-|           | LOCATION              | ACTIVITY                                                 | SPECIAL NOTES |
-| --------- | --------------------- | -------------------------------------------------------- | ------------- |
-| MORNING   | Leaf's Dojo-Casa      | Workout out, offering hair cuts and reading by the water |               |
-| AFTERNOON | Dolphin Bay Sanctuary | Working                                                  |               |
-| EVENING   | Coast                 | Surfing, teaching surfing lessons                        |               |
-| SPECIAL   |                       |                                                          |               |
+|           | LOCATION                | ACTIVITY                                   | SPECIAL NOTES         |
+| --------- | ----------------------- | ------------------------------------------ | --------------------- |
+| MORNING   | Garden beds around town | Watering                                   |                       |
+| AFTERNOON | Greenhouse              | Working                                    |                       |
+| EVENING   | Doran + Shirley Home    | Dancing, eating, being merry               |                       |
+| SPECIAL   | Delivery day            | Helping the guild distribute fresh veggies | every Tuesday morning |
 
 --- 
 # Character Quests
