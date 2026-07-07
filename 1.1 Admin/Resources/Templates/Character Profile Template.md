@@ -1,8 +1,6 @@
 ---
 tags:
 Date_Created:
-Age:
-Profession:
 ---
 ```
 > PLEASE TITLE - CharacterName - Profile
@@ -15,6 +13,13 @@ Use this space to draft ideas of the character or link in brainstorming document
 
 Include any links to reference art here 
 # Description
+
+## Key Information 
+
+| Age                 |     |
+| ------------------- | --- |
+| Profession          |     |
+| Relationship Status |     |
 
 ## Appearance 
 
@@ -30,7 +35,7 @@ Description of any character defining events that occurred before they meet Laks
 Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
 ## Character Behavior 
 
-Use this space to describe generally what the NPC does and/or the below table.
+Use this space to describe generally what the NPC does during their day (optional table below)
 
 |           | LOCATION | ACTIVITY | SPECIAL NOTES |
 | --------- | -------- | -------- | ------------- |
@@ -56,7 +61,7 @@ INTRODUCTION TO NPC
 DELIVERED MAIL TO NPC
 	Brief summary of DELIVERED MAIL TO NPC
 		Conditions - (START) Lakshmi must have mail for NPC
-## Essential Reactions 
+## Misc Reactions 
 
 EXAMPLE INTERACTION 
 	Brief summary of interaction 

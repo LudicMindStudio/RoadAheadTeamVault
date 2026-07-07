@@ -7,6 +7,16 @@ kanban-plugin: board
 ## To do
 
 - [ ] Decide NPCs for demo : 5 Main + 15 Side [[2. DB NPC Relationships]] -> Meeting [[Writing Meeting June 17th 2026]]
+- [ ] Francois Character Template UPDATE
+- [ ] Garp Character Template UPDATE
+- [ ] Lora Character Template UPDATE
+- [ ] Warren Character Template UPDATE 
+- [ ] Robert character template UPDATE 
+- [ ] Doran character template UPDATE 
+- [ ] Gatz character template UPDATE 
+- [x] Leaf character template UPDATE 
+- [ ] Libby/Shirley character template 
+- [ ] Julia character template 
 
 
 ## In Progress
