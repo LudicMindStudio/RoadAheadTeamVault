@@ -10,7 +10,7 @@ Date_Created: 2026-07-07
 
 [[Doran]]
 -He believes in freedom and political activism in these distressing times. 
--
+-He is built like a triangle. He has a thick neck, shoulders and chest, but his lower legs are thin and weak. He sports a thick beard and a warm red nose. His eyes are sunken with dark rings. He tends to wear a thick red wool jacket and often sports his belt with various construction tools. 
 # Reference Art  
 
 Include any links to reference art here 
@@ -18,14 +18,14 @@ Include any links to reference art here
 
 ## Key Information 
 
-| Age                 |     |
-| ------------------- | --- |
-| Profession          |     |
-| Relationship Status |     |
+| Age                 | 45                 |
+| ------------------- | ------------------ |
+| Profession          | Builder, Carpenter |
+| Relationship Status | Married (Shirley)  |
 
 ## Appearance 
 
-Detailed description of the appearance of the character. What do they physically look like? What do they like to wear? 
+He is built like a triangle. He has a thick neck, shoulders and chest, but his lower legs are thin and weak. He sports a thick beard and a warm red nose. His eyes are sunken with dark rings. He tends to wear a thick red wool jacket and often sports his belt with various construction tools. 
 ## Core Characteristics
 
 Description of the vibe of the character. What makes this character tick? 
