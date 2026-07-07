@@ -1,6 +1,24 @@
+# Obsidian workspace (machine-specific — splits, open tabs, window positions)
 .obsidian/workspace.json
-*.gdrive
-.obsidian
-.obsidian/plugins/obsidian-git/obsidian_askpass.sh
-Utitled 1.base
+.obsidian/workspace-mobile.json
+
+# Dialogue plugin — build/dev artifacts (not needed at runtime)
+.obsidian/plugins/obsidian-dialogue-plugin/node_modules/
+.obsidian/plugins/obsidian-dialogue-plugin/temp_debug_files/
+.obsidian/plugins/obsidian-dialogue-plugin/main.ts
+.obsidian/plugins/obsidian-dialogue-plugin/esbuild.config.mjs
+.obsidian/plugins/obsidian-dialogue-plugin/tsconfig.json
+.obsidian/plugins/obsidian-dialogue-plugin/version-bump.mjs
+.obsidian/plugins/obsidian-dialogue-plugin/versions.json
+.obsidian/plugins/obsidian-dialogue-plugin/package.json
+.obsidian/plugins/obsidian-dialogue-plugin/package-lock.json
+
+# Stray nested .obsidian configs (artifact from opening plugins/ as vault)
+.obsidian/plugins/.obsidian/
+
+# Stale git conflicts from Obsidian Git plugin
 conflict-files-obsidian-git.md
+
+# Other
+*.gdrive
+Utitled 1.base

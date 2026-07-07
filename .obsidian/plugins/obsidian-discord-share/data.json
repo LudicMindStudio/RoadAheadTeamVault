@@ -1,0 +1,57 @@
+{
+  "version": "1.0.0",
+  "discordWebhookURL": [
+    {
+      "description": "obsidian-links",
+      "url": "https://discord.com/api/webhooks/1513722779000770571/1fkEzbWa58anAVk9ZVXmbZYklIdfMS90UN8Ni4pqNwoclWMKk2GEnRg-SeXCluX5Gcil"
+    }
+  ],
+  "attachmentsFolder": "",
+  "attachmentFormats": [
+    "apng",
+    "avif",
+    "gif",
+    "jpg",
+    "jpeg",
+    "jpe",
+    "jif",
+    "jfif",
+    "png",
+    "pdf",
+    "webp"
+  ],
+  "localSuggestionsLimit": 10,
+  "showPreviewInLocalModal": true,
+  "customBotUsername": "Obsidian",
+  "customBotAvatarURL": "",
+  "useNoteTitleForEmbed": false,
+  "embedDefaultValues": {
+    "embedDefaultTitle": "",
+    "embedDefaultColor": "",
+    "embedDefaultURL": "",
+    "embedDefaultAuthor": {
+      "name": "",
+      "iconURL": "",
+      "url": ""
+    },
+    "embedDefaultDescription": "",
+    "embedDefaultThumbnail": "",
+    "embedDefaultFields": [],
+    "embedDefaultImage": "",
+    "embedDefaultFooter": {
+      "text": "",
+      "iconURL": ""
+    }
+  },
+  "embedPropertyOverrides": {
+    "embedTitlePropertyOverride": "",
+    "embedColorPropertyOverride": "",
+    "embedURLPropertyOverride": "",
+    "embedAuthorPropertyOverride": "",
+    "embedDescriptionPropertyOverride": "",
+    "embedThumbnailPropertyOverride": "",
+    "embedFieldsPropertyOverride": "",
+    "embedImagePropertyOverride": "",
+    "embedFooterPropertyOverride": ""
+  }
+}
