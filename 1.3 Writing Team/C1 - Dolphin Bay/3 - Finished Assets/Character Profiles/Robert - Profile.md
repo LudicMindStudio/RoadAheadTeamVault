@@ -1,45 +1,73 @@
 ---
 tags:
-  - DolphinBay
-Date_Created: 2026-03-13
-Age: 34
-Profession: Guild receptionist
+Date_Created: 2026-07-07
 ---
+```
+> PLEASE TITLE - CharacterName - Profile
+```
 
-# Reference Art Links
-![[Pasted image 20260313132401.png]]
-(I think the younger looking one would be great  as it would be easier to differentiate him from Grandpa dan and Greg)
+# Character Brainstorming 
+
+[[Robert - ProfileDRAFT]]
+# Reference Art  
+
+Include any links to reference art here 
 # Description
+
+## Key Information 
+
+| Age                 |                  |     |
+| ------------------- | ---------------- | --- |
+| Profession          |                  |     |
+| Relationship Status | Married (Lora) ) |     |
+|                     | Elio (child)     |     |
 
 ## Appearance 
 
-- no facial hair
-- kind eyes 
-- wears glasses
-## Core Characteristics 
+Detailed description of the appearance of the character. What do they physically look like? What do they like to wear? 
+## Core Characteristics
 
-Chatty and friendly. Laid back and knows how to make jokes of any situation.
+Description of the vibe of the character. What makes this character tick? 
 ## Essential History 
 
 Description of any character defining events that occurred before they meet Lakshmi 
 ## Relationships
 
-He is married to fellow guild member Lora Cruz, and they have one son: Elio. Elio's confrontational style often conflicts with the softer laid back parenting of Robert and Lora. 
+Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
 
-## Brainstorming Links
+(CLOSE WITH HIS SON)
+## Character Behavior 
 
-[[Guild Receptionist (Robert)]]
-Dialogue Change!!{>>CL: Arkana, would you help me format it plz!! the dialogue was revised<<}{>>AFP:I would love to help! Not sure with what tho haha...Are you saying that you want me to create different subfiles depending on the options available?<<} : [[Act 1 - Pre-graduation Revision#Quest 2, Interactable Receptionist|Robert Dialgue before Graduation]] + [[Act 1 - Pre-graduation Revision#Quest 3 See Robert in Guild Hall|Robert Dialogue after graduation]]
+Use this space to describe generally what the NPC does during their day (optional table below)
+
+|           | LOCATION | ACTIVITY | SPECIAL NOTES |
+| --------- | -------- | -------- | ------------- |
+| MORNING   |          |          |               |
+| AFTERNOON |          |          |               |
+| EVENING   |          |          |               |
+| SPECIAL   |          |          |               |
+
+--- 
+# Character Quests
+
+CHARACTER SIDE QUEST 1 LINK
 
 --- 
 # Character Dialogue 
 
-[[Lakshmi_Talks_With_Robert_Before_Graduation_0]]
-	Robert gives a hint as to the right exam response 
-		Trigger Start - Lakshmi_Interacts_Robert=True
+## Essential Reactions 
 
-[[Lakshmi_Talks_With_Robert_After_Graduation­_0]]
-	Fraternisation between Robert and Lakshmi. 
-		Trigger Start - Lakshmi_Interacts_Robert=True  
-		On Clear - Lakshmi_Likes_Joking_Around_With_Robert=True
+INTRODUCTION TO NPC 
+	Brief summary of intro conversation 
+	Conditions - (START) First interaction with NPC 
+
+DELIVERED MAIL TO NPC
+	Brief summary of DELIVERED MAIL TO NPC
+		Conditions - (START) Lakshmi must have mail for NPC
+## Misc Reactions 
+
+EXAMPLE INTERACTION 
+	Brief summary of interaction 
+		Conditions -
+
 

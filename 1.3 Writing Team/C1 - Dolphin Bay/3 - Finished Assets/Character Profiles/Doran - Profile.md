@@ -37,7 +37,9 @@ He's extremely literal and he loves trivia (his memory is impeccable).
 
 Absolute rascal of a kid. Always burning things and starting fights and he really didn't connect with his Dad (mother was out of the picture) until long into adulthood. 
 
-Cared for his father during quarantine.  His dad was a friend of Lisa and her partner. His dad passed away peacefully. Meeting Shirley at this time was a tremendous boon, and Doran always showers her in affection. 
+Cared for his father during quarantine.  His dad was a friend of Lisa and her partner. His dad passed away peacefully during quaratine. Meeting Shirley at this time was a tremendous boon, and Doran always showers her in affection. 
+
+Doran built or repaired nearly all the structures in town by this point. He is cherished for his hard work, but he yearns to find an apprentice to take on some of the tasks. 
 ## Relationships
 
 Totally adores Shirley 
