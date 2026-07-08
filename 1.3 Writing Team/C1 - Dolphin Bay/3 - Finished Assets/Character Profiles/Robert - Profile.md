@@ -10,7 +10,6 @@ Date_Created: 2026-07-07
 
 [[Robert - ProfileDRAFT]]
 
-(CLOSE WITH HIS SON)? 
 # Reference Art  
 
 Include any links to reference art here 
@@ -53,12 +52,12 @@ Robert and Elio are building a diorama together of Inca empire and the high Ande
 
 Use this space to describe generally what the NPC does during their day (optional table below)
 
-|           | LOCATION   | ACTIVITY       | SPECIAL NOTES |
-| --------- | ---------- | -------------- | ------------- |
-| MORNING   | Home       | Yoga/Mediation |               |
-| AFTERNOON | Guild Hall | Working        |               |
-| EVENING   |            |                |               |
-| SPECIAL   |            |                |               |
+|           | LOCATION              | ACTIVITY       | SPECIAL NOTES |
+| --------- | --------------------- | -------------- | ------------- |
+| MORNING   | Home                  | Yoga/Mediation |               |
+| AFTERNOON | Guild Hall            | Working        |               |
+| EVENING   | Abandoned ampitheatre | Shadow Boxing  |               |
+| SPECIAL   |                       |                |               |
 
 --- 
 # Character Quests
