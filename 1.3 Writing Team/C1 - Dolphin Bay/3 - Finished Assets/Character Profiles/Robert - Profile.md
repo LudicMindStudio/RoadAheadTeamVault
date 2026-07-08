@@ -25,13 +25,20 @@ Include any links to reference art here
 |                     | Elio (child)                                              |     |
 ## Appearance 
 
-Robert is a tall, well built man. He has an immaculate long nose (which ends in a sharp point), a well groomed moustache and gelled orange hair. He sports 
+Robert is a tall, well built man. He has an immaculate long nose (which ends in a sharp point), a well groomed moustache and gelled orange hair. He sports small stylish spectacles (square with gold frames). His left eye is visibly larger than his right. He dresses fashionably every day with a button up shirt, a colourful patterned scarf and a vest (the jacket rests on his chair). His clothes are spotless and his shoes shiny. 
 ## Core Characteristics
 
-Description of the vibe of the character. What makes this character tick? 
+He's the very best that British gentlemanly has to offer. He's quick witted, dashing and loyal. He never complains about at thing, and is always happy to see you. 
+He's a great listener and the perfect person to confess to. Although he's quite reserved about himself and his secrets. 
+He prefers not to take on much responsibility unless it's an absolute emergency. He's here to support not to lead. 
+
+He has a passion for fashion, boxing and rowing. He adores simple pleasantries and always manages to make excellent tea. 
+
 ## Essential History 
 
-Description of any character defining events that occurred before they meet Lakshmi 
+Robert served as a field medic during peace keeping missions for the UK. After his was  and fled to Dolphin Bay for some therapeutic reprieve. He met Lora will attending yoga classes of the master yogi "Yanis". They still practice yoga and meditation together every evening. 
+
+
 ## Relationships
 
 Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
