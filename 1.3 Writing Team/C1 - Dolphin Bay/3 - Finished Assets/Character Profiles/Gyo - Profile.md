@@ -8,24 +8,31 @@ Profession: Dolphin Behavioral Researcher (Sanctuary)
 ---
 
 # Reference Art Links
+[
 
-*None yet*
+![Brock - Pokémon Wiki - Neoseeker](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.5ko2A1VQF1etKIuR3o8TIwAAAA%3Fpid%3DApi&f=1&ipt=22689c102368b77069408b7b9dee7aa5d01d2e5e71b127390d800226d194bd35)![Brock - Pokémon Wiki - Neoseeker](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.staticneo.com%2Fw%2Fpokemon%2F7%2F71%2FDP-Brock.png&f=1&nofb=1&ipt=6483819c0310ccc9f3a74852575ee8d0c9bf24b6fd4e3a38dd0522046dea6e23)
 
+
+MIXED WITH 
+
+
+![Dave The Diver Save Location On PC And Steam](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.qTbUf-5KCE3iO6sBhQ_UlQHaEK%3Fr%3D0%26pid%3DApi&f=1&ipt=93b2194145f166152823900b8feb450b2048811658977664b045a515d0da84b2)
 # Description
 
 ## Appearance
 
-Stocky, warm-faced. Always wears a bandana (often patterned, sometimes mismatched with his apron). A well-worn chef's apron over durable clothes. Has a good knife on his waist at all times — not a weapon, a tool. His hands are always moving — gesturing while he talks, adjusting his bandana, picking things up and putting them down. Smells faintly of fish no matter how recently he washed.
+Stocky, warm-faced. Always wears a bandana (often patterned, sometimes mismatched with his apron). A well-worn chef's apron over durable clothes. Has a good knife on his waist at all times, a tool sturdy lightly ornamented tool. His hands are always moving, gesturing while he talks, adjusting his bandana, picking things up and putting them down. Smells faintly of fish no matter how recently he washed.
 
 ## Core Characteristics
 
-Gyo is the sanctuary's creative half. His research domain is feeding and behavioral observation — how food preparation affects dolphin mood, how presentation changes engagement, whether the ritual of a meal matters as much as the nutrition. He treats cooking as an experimental science and every meal as a data point.
+Gyo is the sanctuary's creative half. His research domain is feeding and behavioral observation, how food preparation affects dolphin mood, how presentation changes engagement, whether the ritual of a meal matters as much as the nutrition. He knows how to keep the dolphins coming back. He treats cooking as an experimental science and every meal as his data point.
 
-He is warm, talkative, and de-escalating by nature. Where Anita meets conflict with data, Gyo meets it with a joke and an open hand. He's the one who tells Francois to calm down, who smooths things over with the fish suppliers, who makes sure the sanctuary still has friends even when the town is angry. But he's not a pushover — he's genuinely charismatic, just non-confrontational.
+He is warm, talkative, and de-escalating by nature. Where Anita meets conflict with data, Gyo meets it with a joke and an open hand. 
+He's does this by [trying to get Francois to calm down], who [smooths things over with the fish suppliers], who [makes sure the sanctuary still has friends even when the town is angry]. But he's not a pushover, he's genuinely charismatic, just non-confrontational.
 
-His worry is Anita. He watches her burn herself on her research, convinced the next breakthrough is one experiment away, and he can't stop her because he doesn't want to. He believes in her. He's just afraid she'll break before she gets there.
+He worries about Anita. He watches her burn herself on her research, convinced the next breakthrough is one experiment away. He's worried she'll go too far. He believes in her and knows she wont risk that for him, but also that hes the one who has to help her know when enough is enough. 
 
-Has a quieter suspicion that the fog is involved in the dolphins leaving — that this might be beyond their control. He doesn't voice this to Anita because she won't hear it, but he feels it. Intuition, not data. He's a wise enough man to trust his gut.
+He has a  suspicion that the fog is involved in the dolphins leaving, that this might be beyond their control. Intuition, not data. He's a wise enough man to trust his gut.
 
 ## Essential History
 
