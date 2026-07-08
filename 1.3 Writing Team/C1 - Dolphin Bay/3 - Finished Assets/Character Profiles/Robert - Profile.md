@@ -9,6 +9,8 @@ Date_Created: 2026-07-07
 # Character Brainstorming 
 
 [[Robert - ProfileDRAFT]]
+
+(CLOSE WITH HIS SON)? 
 # Reference Art  
 
 Include any links to reference art here 
@@ -16,11 +18,11 @@ Include any links to reference art here
 
 ## Key Information 
 
-| Age                 |                  |     |
-| ------------------- | ---------------- | --- |
-| Profession          |                  |     |
-| Relationship Status | Married (Lora) ) |     |
-|                     | Elio (child)     |     |
+| Age                 | 35                                                |     |
+| ------------------- | ------------------------------------------------- | --- |
+| Profession          | Receptionist/mail room manager/village ambassador |     |
+| Relationship Status | Married (Lora) )                                  |     |
+|                     | Elio (child)                                      |     |
 
 ## Appearance 
 
@@ -35,7 +37,6 @@ Description of any character defining events that occurred before they meet Laks
 
 Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
 
-(CLOSE WITH HIS SON)
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)

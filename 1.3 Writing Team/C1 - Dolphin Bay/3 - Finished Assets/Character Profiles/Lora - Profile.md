@@ -1,7 +1,7 @@
 ---
 tags:
 Date_Created: 2026-03-15
-Age: 42
+Age: 40
 Profession: Yogi, Meditation Instructor
 ---
 # Reference Art Links
