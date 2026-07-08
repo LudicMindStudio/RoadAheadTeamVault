@@ -8,22 +8,26 @@ Date_Created: 2026-07-08
 
 # Character Brainstorming 
 
-Use this space to draft ideas of the character or link in brainstorming documents 
+[[Gatz]] 
 # Reference Art  
 
-Include any links to reference art here 
+
+![[Pasted image 20260708193457.png|356]]
+(just for the cap!)
 # Description
 
 ## Key Information 
 
-| Age                 | 19              |
+| Age                 | 20              |
 | ------------------- | --------------- |
 | Profession          | Artist, teacher |
 | Relationship Status | Single          |
 
 ## Appearance 
 
-Detailed description of the appearance of the character. What do they physically look like? What do they like to wear? 
+Japanese. Young adult. He's slim and average height with strong shoulders. He's clean shaven with moppy hair tucked into his fashionable cap. His face is triangular going from a wide forehead to a small mouth with a pointed chin. He has long arms with particularly long fingers. 
+
+He always wears hugely oversized joggers or billowing pants with a tight fitting white t-shirt (and his cap). If he's teaching he'll wear a gold-fish themed tie. He also carries a fashionable black leather bag with his art supplies and teaching tools. Don't forget about his large sneakers with a bri
 ## Core Characteristics
 
 Description of the vibe of the character. What makes this character tick? 
