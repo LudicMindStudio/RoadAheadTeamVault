@@ -28,29 +28,34 @@ Include any links to reference art here
 He is built like a triangle. He has a thick neck, shoulders and chest, but his lower legs are thin and weak. He sports a thick beard and a warm red nose. His eyes are sunken with dark rings. He tends to wear a thick red wool jacket and often sports his belt with various construction tools. 
 ## Core Characteristics
 
-Move between two poles either being quiet and humble or load and boasting. He's stubborn like Shirley and expects a high level of order. 
+Move between two poles either being quiet and humble or load and boasting. He's stubborn like Shirley and expects a high level of order (and control). He doesn't drink or smoke and he never will again. 
 
+He's a faintly sad, serious man when he's working, and his carpentry reflects a real artistry if not a melancholic one. At night he carves beautiful creations in his workshop. 
 
-
-
+He's extremely literal and he loves trivia (his memory is impeccable). 
 ## Essential History 
 
 Absolute rascal of a kid. Always burning things and starting fights and he really didn't connect with his Dad (mother was out of the picture) until long into adulthood. 
 
-Cared for his father during quarantine. Stevens was a friend of Lisa and her partner. He passed away peacefully. However, the pain of his death still haunts him. Meeting Shirley at this time was a tremendous boon, and he always showers her in affection. 
+Cared for his father during quarantine.  His dad was a friend of Lisa and her partner. His dad passed away peacefully. Meeting Shirley at this time was a tremendous boon, and Doran always showers her in affection. 
 ## Relationships
 
-Gets along well with Greg and Francois. He's not much of a talker, but he's a big drinker. 
+Totally adores Shirley 
+
+Gets along well with Greg and Francois. Francois never fails to throw a good bit of trivia his way. 
+
+Detests all the kids (although Elio is acceptable)
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
 
-|           | LOCATION | ACTIVITY | SPECIAL NOTES |
-| --------- | -------- | -------- | ------------- |
-| MORNING   |          |          |               |
-| AFTERNOON |          |          |               |
-| EVENING   |          |          |               |
-| SPECIAL   |          |          |               |
+|           | LOCATION                            | ACTIVITY | SPECIAL NOTES |
+| --------- | ----------------------------------- | -------- | ------------- |
+| MORNING   | Coastal promenade                   | Jogging  |               |
+| AFTERNOON | VARIOUS                             |          |               |
+|           | Building a village gazebo right now | Working  | can change    |
+| EVENING   | Workshop                            | Carving  |               |
+| SPECIAL   |                                     |          |               |
 
 --- 
 # Character Quests

@@ -19,10 +19,10 @@ Date_Created: 2026-07-06
 | ------------------- | ------------------------------ |
 | Profession          | Inn manager/Village Accountant |
 | Relationship Status | Married (Francois)             |
-|                     | Child (Elio)                   |
+|                     | Child (Tullia)                 |
 ## Appearance 
 
-40 years old. Caucasian women. Juliette is tall and thin with long legs. She is beautiful, but her features betray a certain vanity like Yzma (Emperor's New Groove). Similarly, she has a round, pronounced chin about the size and shape of a mandarin. She has large lips and small eyes with long lashes. She's always tanned, although her lipstick never matches well, so the tan (although natural) looks fake. 
+40 years old. Caucasian women. Juliette is tall and thin with long legs. She is beautiful, but her features betray a certain vanity like Yzma (Emperor's New Groove). Similarly, she has a round, pronounced chin about the size and shape of a Ping-Pong ball. She has large lips and small eyes with long lashes. She's always tanned, although her lipstick never matches well, so the tan (although natural) looks fake. 
 
 Her hair is almost always tucked into a fashionable scarf.  She frequently wears a dress of black and white stripes and pearl earrings. She's often spotted with her pet rat Edris on her shoulder. She wears fashionable sandals with shell buckles. 
 ## Core Characteristics
@@ -40,12 +40,12 @@ Juliette gets along swimmingly with Sanctuary Scientist (musician). They love to
 
 Gatz and Juliette have fruitful discussions, but they rarely agree, and she finds his art distasteful. 
 
-Juliette once wrote a manuscript about her youth and her voyage to dolphin bay. Elio is strictly forbidden from reading it, and the only copy remains hidden in a secret compartment under the sink. 
+Juliette once wrote a manuscript about her youth and her voyage to dolphin bay. Tullia is strictly forbidden from reading it, and the only copy remains hidden in a secret compartment under the sink. 
 ## Relationships
 
 Juliette is married to Francois whom she has a close bond. He fills her with energy, and they dance the tango. She likes to tell him stories about great queens of the past, and he compares her to them. 
 
-Juliette is more tolerant of Elio's behavior, and recognizes his neurodivergence (similar to her own brother). However, neither parent has much time to spend with their child. The three of them like to spend time at the beach together (although she tends to do her own thing)
+Juliette is a frequent critique of Tullia. She does occasionally share some of her treasured novels with her. Tulia will always remembers nights spent reading them outload. On the whole, neither parent have much time to spend with their child.  The three of them do like to spend time at the beach together (although she tends to do her own thing)
 
 ## Character Behavior 
 
