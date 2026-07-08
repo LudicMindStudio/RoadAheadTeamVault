@@ -18,15 +18,14 @@ Include any links to reference art here
 
 ## Key Information 
 
-| Age                 | 35                                                |     |
-| ------------------- | ------------------------------------------------- | --- |
-| Profession          | Receptionist/mail room manager/village ambassador |     |
-| Relationship Status | Married (Lora) )                                  |     |
-|                     | Elio (child)                                      |     |
-
+| Age                 | 35                                                        |     |
+| ------------------- | --------------------------------------------------------- | --- |
+| Profession          | Receptionist/mail room manager/village ambassador/surgeon |     |
+| Relationship Status | Married (Lora) )                                          |     |
+|                     | Elio (child)                                              |     |
 ## Appearance 
 
-Detailed description of the appearance of the character. What do they physically look like? What do they like to wear? 
+Robert is a tall, well built man. He has an immaculate long nose (which ends in a sharp point), a well groomed moustache and gelled orange hair. He sports 
 ## Core Characteristics
 
 Description of the vibe of the character. What makes this character tick? 

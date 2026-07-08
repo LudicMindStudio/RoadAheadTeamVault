@@ -35,14 +35,16 @@ He's a faintly sad, serious man when he's working, and his carpentry reflects a 
 He's extremely literal and he loves trivia (his memory is impeccable). 
 ## Essential History 
 
-Absolute rascal of a kid. Always burning things and starting fights and he really didn't connect with his Dad (mother was out of the picture) until long into adulthood. 
+Absolute rascal of a kid. Always burning things and starting fights and he really didn't connect with his Dad (Warren) until long into adulthood. Doran's mother left when Doran was young, and he still blames Warren. 
 
-Cared for his father during quarantine.  His dad was a friend of Lisa and her partner. His dad passed away peacefully during quaratine. Meeting Shirley at this time was a tremendous boon, and Doran always showers her in affection. 
+Cared for his father during quarantine, he was sick but made a full recovery. Shirley and Doran took care of him together, and they quickly bonded. 
 
 Doran built or repaired nearly all the structures in town by this point. He is cherished for his hard work, but he yearns to find an apprentice to take on some of the tasks. 
 ## Relationships
 
 Totally adores Shirley 
+
+He has tremendous respect for his father, but they keep their distance. 
 
 Gets along well with Greg and Francois. Francois never fails to throw a good bit of trivia his way. 
 
