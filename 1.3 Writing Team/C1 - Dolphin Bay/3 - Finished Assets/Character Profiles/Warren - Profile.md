@@ -52,25 +52,28 @@ Warren had grown up with a deep crush on his neighbor Alfred. They spent only a 
 
 Warren, Greg, Alfred and Lisa all grew up together in the bay. Warren worked as a bush pilot for most of his life before retiring and returning to the bay (to settle with Alfred). He has kept all the letters of their correspondence while he worked up north. 
 
+He lives in a small home right next to the guildhall where he does his logistical work, and walks it over when he's finished. 
+
 ## Relationships
 
 Doran - the two are still repairing their relationship, but they tend to understand each other better than anyone else 
 
-Garp - his best friend, the two love to get out on the boat together and watch a good sunset 
+Garp - his best friend, the two love to get out on the boat together and watch a good sunset or sunrise 
 
 Lisa - his confidant, he loves her with all his heart and would have no idea how to get on without her. At the moment, she's become very worried about his Alfred driven fog trips, and this makes Warren quite upset 
 
-Francois - He's earned Warren's respect through his hard work and grounded nature, but Warren never trusts him completely and never invites him out hunti
+Francois - He's earned Warren's respect through his hard work and grounded nature, but Warren never trusts him completely and never invites him out hunting 
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
 
-|           | LOCATION | ACTIVITY | SPECIAL NOTES |
-| --------- | -------- | -------- | ------------- |
-| MORNING   |          |          |               |
-| AFTERNOON |          |          |               |
-| EVENING   |          |          |               |
-| SPECIAL   |          |          |               |
+|           | LOCATION          | ACTIVITY                                | SPECIAL NOTES |
+| --------- | ----------------- | --------------------------------------- | ------------- |
+| MORNING   | Dockside          | Chatting with Garp/catching the sunrise |               |
+| AFTERNOON | Home office       | Working                                 |               |
+| EVENING   | Outskirts of town | Looking for Alfred                      |               |
+| SPECIAL   | In the woods      | Hunting trip                            |               |
+
 
 --- 
 # Character Quests
