@@ -42,16 +42,25 @@ He loves animals, especially his cat "Bobby Boy". He also likes watching the dol
 
 He also love hunting and trapping. He occasionally goes off into the woods with Doran for some bonding time. 
 
+Loves clamato juice
+
 ## Essential History 
 
-Roxanne left Warren when she found out that he was a closeted gay man. 
+Warren was a closeted gay man who had married young and had one child (Doran) before he told his wife. She took Doran to raise on her own, and Warren left dolphin bay for work. 
 
-Warren had grown up with a deep crush on his neighbor Alfred. They spent only a few summers together as lovers before the calamity claimed his life. However, recently Warren has heard the voice and silhouette of Alfred in the fog, and he has been searching for him ever since. He has a large 
+Warren had grown up with a deep crush on his neighbor Alfred. They spent only a few summers together as lovers before the calamity claimed his life. However, recently, Warren has overserved the voice and silhouette of Alfred in the fog, and he has been searching for him ever since. 
 
-Warren, Greg, Alfred and Lisa all grew up together in the bay. Warren worked as a bush pilot for most of his life before retiring and returning to the bay (to settle with Alfred). 
+Warren, Greg, Alfred and Lisa all grew up together in the bay. Warren worked as a bush pilot for most of his life before retiring and returning to the bay (to settle with Alfred). He has kept all the letters of their correspondence while he worked up north. 
+
 ## Relationships
 
-Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
+Doran - the two are still repairing their relationship, but they tend to understand each other better than anyone else 
+
+Garp - his best friend, the two love to get out on the boat together and watch a good sunset 
+
+Lisa - his confidant, he loves her with all his heart and would have no idea how to get on without her. At the moment, she's become very worried about his Alfred driven fog trips, and this makes Warren quite upset 
+
+Francois - He's earned Warren's respect through his hard work and grounded nature, but Warren never trusts him completely and never invites him out hunti
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
