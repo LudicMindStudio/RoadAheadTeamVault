@@ -35,20 +35,25 @@ He's a faintly sad, serious man when he's working, and his carpentry reflects a 
 He's extremely literal and he loves trivia (his memory is impeccable). 
 ## Essential History 
 
-Absolute rascal of a kid. Always burning things and starting fights and he really didn't connect with his Dad (Warren) until long into adulthood. Doran's mother left when Doran was young, and he still blames Warren. 
+Absolute rascal of a kid. Always burning things and starting fights and he really didn't connect with his Dad (Warren) until long into adulthood. Doran's mother left when Doran was young, and he still blames Warren. He once had a problem with substances, but he was successfully rehabilitated. 
 
 Cared for his father during quarantine, he was sick but made a full recovery. Shirley and Doran took care of him together, and they quickly bonded. 
 
 Doran built or repaired nearly all the structures in town by this point. He is cherished for his hard work, but he yearns to find an apprentice to take on some of the tasks. 
 ## Relationships
 
-Totally adores Shirley 
+Shirley - absolutely adores her, kisses the ground of which she walks 
 
-He has tremendous respect for his father, but they keep their distance. 
+Warren - tremendous respect, tremendous distance, they sometimes go hunting together 
 
-Gets along well with Greg and Francois. Francois never fails to throw a good bit of trivia his way. 
+Greg - probably his closest friend. He built Greg Lakshmi's bed, and he discretely looks out for her. 
+
+Robert - not very close but they love to spare from time to time for sport 
+
+Francois - Never fails to throw a good bit of trivia his way, he gets along fabulously 
 
 Detests all the kids (although Elio is acceptable)
+
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
