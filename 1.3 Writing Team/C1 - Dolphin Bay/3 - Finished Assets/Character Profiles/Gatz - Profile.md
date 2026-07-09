@@ -25,7 +25,7 @@ Date_Created: 2026-07-08
 
 ## Appearance 
 
-Japanese. Young adult. He's slim and average height with strong shoulders. He's clean shaven with moppy hair tucked into his fashionable cap. His face is triangular going from a wide forehead to a small mouth with a pointed chin. He has long arms with particularly long fingers. 
+Japanese descent. Young adult. He's slim and average height with strong shoulders. He's clean shaven with moppy hair tucked into his fashionable cap. His face is triangular going from a wide forehead to a small mouth with a pointed chin. He has long arms with particularly long fingers. 
 
 He always wears hugely oversized joggers or billowing pants with a tight fitting white t-shirt (and his cap). If he's teaching he'll wear a gold-fish themed tie. He also carries a fashionable black leather bag with his art supplies and teaching tools over his shoulder and a skateboard (lime green wheels, black with custom paint job of green mutants on the back) under his armpit. Don't forget about his large sneakers with a bright yellow and white colour wave. 
 ## Core Characteristics
@@ -42,14 +42,27 @@ He loves to work as an artisan helping paint things all kinds of wacky colours, 
 
 He goes for long walks along the seaside at night. 
 
-He has a pet zebrafish named "Proudhon"
+He has a pet zebrafish named "Proudhon". 
 
 ## Essential History 
 
-Description of any character defining events that occurred before they meet Lakshmi 
+Gatz returned to his family home after college and stayed their during the calamity. His family was sick of him, so he hit the road and traveled to Dolphin Bay. He found people at the bay valued his work more and has decided to stick around. Meeting Leaf was a big part of that. 
+
+He painted a stunning portrait of Shirley which remains in her greenhouse, and they have been close ever since. He loves to hear her sing. 
+
+Ever since 
 ## Relationships
 
-Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
+Leaf - Gatz's best friend. He always listens to his poetry and says something original after to show he really liked it. They skate together. 
+Quinn - Love to hang out all together 
+
+Juliette - Gatz has a secret crush on her. He's always ruined when she rejects his opinion on things 
+
+Francois - feels very conflicted. He's jealous of him and his marriage with Juliette, but Francois takes his philosophy seriously and they always have really great conversations (even if they don't often agree)
+
+Shirley - feels like he could be her own son. She frets over him and grows a special herb in the greenhouse for Proudhon to eat 
+
+Anita - basically his mortal enemy, she reminds him the most of his old village and she has repeatedly rejected his offers to help at the sanctuary 
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
