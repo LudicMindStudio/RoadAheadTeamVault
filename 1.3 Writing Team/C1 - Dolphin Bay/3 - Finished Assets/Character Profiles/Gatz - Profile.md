@@ -34,7 +34,7 @@ Gatz is a serious, idealistic artist type. He considers art to be the highest ca
 
 He's pretentious often talking about the world as if he's lived for a million years, and he thinks he knows better than everyone else. 
 
-He's a serious virtue ethicist, so he's always around to give a hand to those in need with all kinds of village tasks. He prizes egality and freedom above all else, and he will speak up for those he thinks are being treated poorly. 
+He's a serious virtue ethicist, so he's always around to give a hand to those in need with all kinds of village tasks. He prizes egality and freedom above all else, and he will speak up for those he thinks are being treated poorly. This doesn't always make him the most ideal worker. 
 
 He also loves root beer and skateboarding. 
 
@@ -50,7 +50,9 @@ Gatz returned to his family home after college and stayed their during the calam
 
 He painted a stunning portrait of Shirley which remains in her greenhouse, and they have been close ever since. He loves to hear her sing. 
 
-Ever since 
+Ever since communication with the dolphins have started to go missing, Gatz has started to tag the town at night with the names of the missing dolphins. The culprit remains unknown. 
+
+He's also started a community movie night where he screens wacky films in the library archives on a film projector. These happen once a month. The villagers don't really understand the movies, but they like the social aspect of it. 
 ## Relationships
 
 Leaf - Gatz's best friend. He always listens to his poetry and says something original after to show he really liked it. They skate together. 
@@ -58,7 +60,7 @@ Quinn - Love to hang out all together
 
 Juliette - Gatz has a secret crush on her. He's always ruined when she rejects his opinion on things 
 
-Francois - feels very conflicted. He's jealous of him and his marriage with Juliette, but Francois takes his philosophy seriously and they always have really great conversations (even if they don't often agree)
+Francois - feels very conflicted. He's envious of him and his marriage with Juliette, but Francois takes his philosophy seriously and they always have really great conversations (even if they don't often agree)
 
 Shirley - feels like he could be her own son. She frets over him and grows a special herb in the greenhouse for Proudhon to eat 
 
@@ -67,12 +69,13 @@ Anita - basically his mortal enemy, she reminds him the most of his old village 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
 
-|           | LOCATION | ACTIVITY | SPECIAL NOTES |
-| --------- | -------- | -------- | ------------- |
-| MORNING   |          |          |               |
-| AFTERNOON |          |          |               |
-| EVENING   |          |          |               |
-| SPECIAL   |          |          |               |
+|           | LOCATION    | ACTIVITY          | SPECIAL NOTES |
+| --------- | ----------- | ----------------- | ------------- |
+| MORNING   | HOME        | feeding proudhorn |               |
+| AFTERNOON | Old library | teaching          |               |
+| EVENING   | HOME/yard   | making art        |               |
+| SPECIAL   | NIGHT       | painting names    |               |
+|           | Old library | movie night       | once a month  |
 
 --- 
 # Character Quests
