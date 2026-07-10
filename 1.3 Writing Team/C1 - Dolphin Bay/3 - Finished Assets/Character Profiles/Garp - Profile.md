@@ -8,22 +8,28 @@ Date_Created: 2026-07-10
 
 # Character Brainstorming 
 
-Garp - ProfileArchive 
+[[Garp - ProfileArchive]]
 # Reference Art  
 
-Include any links to reference art here 
+![[Pasted image 20260710154139.png|335]]
+(although he's not quite looking so swanky and polished)
 # Description
 
 ## Key Information 
 
-| Age                 |     |
-| ------------------- | --- |
-| Profession          |     |
-| Relationship Status |     |
+| Age                 | 55                 |
+| ------------------- | ------------------ |
+| Profession          | Fisherman, trapper |
+| Relationship Status | Widowed (Alexi)    |
+|                     | Cat (Daughter)     |
 
 ## Appearance 
 
-Detailed description of the appearance of the character. What do they physically look like? What do they like to wear? 
+Think aged rocker. He's a tall, thin man (the tallest in Dolphin Bay) of Greek descent. He has long curly white hair and a well kept fuzzy beard. His bright green eyes have a magic twinkle, and he's quite tanned (which contrasts nicely with his white hair. He looks a bit older than he is, with lots of wrinkles (especially around the eyes and throat) - he's been a daily smoker pretty much his whole life. He has a long face and spaced eyes (a bit like a horse). 
+
+He wears his patched overalls and fishing jacket (with flies and such). His fishing rod is painted a bright yellow with blue stars. He also sports a captains hat with the slogan "Fresh Catch". He has long rubber boots. He wears a plane t-shirt under the overalls.   
+
+
 ## Core Characteristics
 
 Description of the vibe of the character. What makes this character tick? 
