@@ -1,6 +1,6 @@
 ---
 tags:
-Date_Created:
+Date_Created: 2026-07-10
 ---
 ```
 > PLEASE TITLE - CharacterName - Profile
@@ -24,22 +24,22 @@ Include any links to reference art here
 
 ## Appearance 
 
-Francois Hustle gives pirate vibes (think more like the cook). He's a tall, slightly overweight guy (with a large round tummy) and big arms. His lower right arm is missing, and the stump has a finely made leather strap attached to a metal rod with two tongs (the rod has a lock, so that the tongs can be open or closed). He has small kind eyes (almost hidden under his bushy eyebrows) and a big mouth with a noble little nose, and a scar that runs under his chin. He always has his hair in a pony tail. Right now his sporting quite a bit of stubble (just not around his scar). 
+Francois Hustle gives pirate vibes (think more like the cook). He's a tall, slightly overweight guy (with a large round tummy) and big arms. His lower right arm is missing, and the stump has a finely made leather strap attached to a metal rod with two tongs (the rod has a lock, so that the tongs can be open or closed). He has small kind eyes (almost hidden under his bushy eyebrows) and a big mouth with a noble little nose, and a scar that runs under his chin. He always has his hair in a pony tail. Right now he's sporting quite a bit of stubble (just not around his scar). 
 
-He's always wearing his Hawaiian button up shirts (some chest hair protruding) and his swimming suit brightly coloured orange bathing suit. He also sports beach shoes (the mesh kind that dry quickly). 
+He's always wearing his Hawaiian button up shirts (some chest hair protruding) and his brightly coloured orange bathing suit. He also sports beach shoes (the mesh kind that dry quickly). 
 ## Core Characteristics
 
 The Francois everyone knows: 
 
-Francois is the ultimate people person - he loves to chat! He almost immediately sets you at ease (he's kind and he loves to joke). He listens deeply to the villagers as a friend, and as a mayor, where he's a man of action. He's got a great brain for problem solving, and figuring out how to bring the talents of the villagers together in times of crisis. This also makes him a fantastic negotiator. 
+Francois is the ultimate people person - he loves to chat! He almost immediately sets you at ease (he's kind and he loves to joke). He listens deeply to the villagers as a friend, and as a mayor - where he's a man of action. He's got a great brain for problem solving, and figuring out how to bring the talents of the villagers together in times of crisis. This also makes him a fantastic negotiator. 
 
 Francois is also an anxious guy. He worries constantly about the villagers; about their individual problems and about the future of the village. Every year he's in full panic about some kind of emergency, and yet as Juliette reminds him, they somehow get through it. 
 
 He rarely thinks of himself, and he's found ways of helping even with labour (despite his disability). 
 
-When he's free he's a passionate beach guy, and he loves to snorkle. When he's found a new spot, he'll guide the villagers on a little snorkeling expedition. For the more advanced, he teaches diving lessons. 
+When he's free he's a passionate beach guy, and he loves to snorkel. When he's found a new spot, he'll guide the villagers on a little snorkeling expedition. For the more advanced, he teaches diving lessons. 
 
-Warning, don't play poker with him. You'll lose all of your money. 
+Warning, don't play poker with him. You'll lose all of your money.  
 
 The Francois of the present: 
 
@@ -65,17 +65,21 @@ Juliette - his grounding anchor, partner in running the village, the calculation
 
 Tulia - fully attentive when he has the time, but he rarely does. She feels like she has to compete for the spotlight of his attention. Beach days are magical (Juliette will be reading so they spend time one on one). 
 
-Garp - share a love for the sea, and chat about being dads, kids grew up very close, 
+Garp - share a love for the sea, and chat about being dads, kids grew up very close, Francois refuses to go sailing with Garp, and there's always distance between the two. He loves to smoke Garp's homegrown tobacco with him. 
+
+Greg - get along fabulously, love to play cards (especially with Lora), but they disagree about external outreach. Francois is an isolationist, and isn't interested in really expanding the guilds efforts to connect to the new world 
+
+Anita - MORTAL ENEMY! Although previously, he was a very reliable observer of the dolphins and contributed much to her research.  
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
 
-|           | LOCATION | ACTIVITY | SPECIAL NOTES |
-| --------- | -------- | -------- | ------------- |
-| MORNING   |          |          |               |
-| AFTERNOON |          |          |               |
-| EVENING   |          |          |               |
-| SPECIAL   |          |          |               |
+|           | LOCATION | ACTIVITY                     | SPECIAL NOTES                            |
+| --------- | -------- | ---------------------------- | ---------------------------------------- |
+| MORNING   | BEACH    | Snorkeling, dolphin watching | Depends if he's found a good spot        |
+| AFTERNOON | AROUND   | Doing his rounds             | Hustle speaks to every villager everyday |
+| EVENING   | HOME     | Hosting                      | Always people over at the Hustles!       |
+| SPECIAL   | BEACH    | smoking                      | Smoking a pipe with Garp/EVENING         |
 
 --- 
 # Character Quests
