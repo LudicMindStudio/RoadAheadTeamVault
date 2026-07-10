@@ -65,7 +65,7 @@ Juliette - his grounding anchor, partner in running the village, the calculation
 
 Tulia - fully attentive when he has the time, but he rarely does. She feels like she has to compete for the spotlight of his attention. Beach days are magical (Juliette will be reading so they spend time one on one). 
 
-Garp - share a love for the sea, and chat about being dads, kids grew up very close, Francois refuses to go sailing with Garp, and there's always distance between the two. He loves to smoke Garp's homegrown tobacco with him. 
+Garp - shares a love for the sea, and chat about being dads, kids grew up very close, Francois refuses to go sailing with Garp, and there's always distance between the two. He loves to smoke Garp's homegrown tobacco with him. 
 
 Greg - get along fabulously, love to play cards (especially with Lora), but they disagree about external outreach. Francois is an isolationist, and isn't interested in really expanding the guilds efforts to connect to the new world 
 
