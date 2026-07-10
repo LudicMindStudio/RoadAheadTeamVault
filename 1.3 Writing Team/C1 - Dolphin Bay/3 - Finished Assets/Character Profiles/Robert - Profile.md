@@ -1,45 +1,85 @@
 ---
 tags:
-  - DolphinBay
-Date_Created: 2026-03-13
-Age: 34
-Profession: Guild receptionist
+Date_Created: 2026-07-07
 ---
+```
+> PLEASE TITLE - CharacterName - Profile
+```
 
-# Reference Art Links
-![[Pasted image 20260313132401.png]]
-(I think the younger looking one would be great  as it would be easier to differentiate him from Grandpa dan and Greg)
+# Character Brainstorming 
+
+[[Robert - ProfileDRAFT]]
+
+# Reference Art  
+
+Include any links to reference art here 
 # Description
 
+## Key Information 
+
+| Age                 | 35                                                        |     |
+| ------------------- | --------------------------------------------------------- | --- |
+| Profession          | Receptionist/mail room manager/village ambassador/surgeon |     |
+| Relationship Status | Married (Lora) )                                          |     |
+|                     | Elio (child)                                              |     |
 ## Appearance 
 
-- no facial hair
-- kind eyes 
-- wears glasses
-## Core Characteristics 
+Robert is a tall, well built man. He has an immaculate long nose (which ends in a sharp point), a well groomed moustache and perfect orange hair (medium cut). He sports small stylish spectacles (square with gold frames). His left eye is visibly larger than his right. He dresses fashionably every day with a button up shirt, a colourful patterned scarf and a vest (the jacket rests on his chair). His clothes are spotless and his shoes shiny. 
+## Core Characteristics
 
-Chatty and friendly. Laid back and knows how to make jokes of any situation.
+He's the very best that British gentlemanly has to offer. He's quick witted, dashing and loyal. He never complains about at thing, and is always happy to see you. 
+He's a great listener and the perfect person to confess to. Although he's quite reserved about himself and his secrets. 
+He prefers not to take on much responsibility unless it's an absolute emergency. He's here to support not to lead. 
+
+He has a passion for fashion, boxing and rowing. He adores simple pleasantries and always manages to make excellent tea. 
+
 ## Essential History 
 
-Description of any character defining events that occurred before they meet Lakshmi 
+Robert served as a field medic during peace keeping missions for the UK. He was deemed unfit for duty after a particularly harrowing experience abroad and he fled to Dolphin Bay for some therapeutic reprieve. He met Lora while attending yoga classes of the master yogi "Yanis". They still practice yoga and meditation together every morning. 
+
+Robert's past was revealed when he had to perform an emergency surgery to save Cat's life during her birth. While he managed to save Cat, he could not save the mother. 
+
 ## Relationships
 
-He is married to fellow guild member Lora Cruz, and they have one son: Elio. Elio's confrontational style often conflicts with the softer laid back parenting of Robert and Lora. 
+Robert doesn't have the easiest time with Francois. He finds him too brash. 
 
-## Brainstorming Links
+Given the recent coldness between Lora and Greg, Robert is a rather unfortunate mediator of the conflict which arises. He's still good friends with Greg. 
 
-[[Guild Receptionist (Robert)]]
-Dialogue Change!!{>>CL: Arkana, would you help me format it plz!! the dialogue was revised<<}{>>AFP:I would love to help! Not sure with what tho haha...Are you saying that you want me to create different subfiles depending on the options available?<<} : [[Act 1 - Pre-graduation Revision#Quest 2, Interactable Receptionist|Robert Dialgue before Graduation]] + [[Act 1 - Pre-graduation Revision#Quest 3 See Robert in Guild Hall|Robert Dialogue after graduation]]
+He likes to talk fashion with Gatz, and he's always curious what Juliette is reading. 
+
+Robert and Elio are building a diorama together of Inca empire and the high Andes. He doesn't understand his son's behavior as well as Lora. Elio's rudeness is particularly annoying for Robert. 
+## Character Behavior 
+
+Use this space to describe generally what the NPC does during their day (optional table below)
+
+|           | LOCATION              | ACTIVITY       | SPECIAL NOTES |
+| --------- | --------------------- | -------------- | ------------- |
+| MORNING   | Home                  | Yoga/Mediation |               |
+| AFTERNOON | Guild Hall            | Working        |               |
+| EVENING   | Abandoned ampitheatre | Shadow Boxing  |               |
+| SPECIAL   |                       |                |               |
+
+--- 
+# Character Quests
+
+CHARACTER SIDE QUEST 1 LINK
 
 --- 
 # Character Dialogue 
 
-[[Lakshmi_Talks_With_Robert_Before_Graduation_0]]
-	Robert gives a hint as to the right exam response 
-		Trigger Start - Lakshmi_Interacts_Robert=True
+## Essential Reactions 
 
-[[Lakshmi_Talks_With_Robert_After_Graduation­_0]]
-	Fraternisation between Robert and Lakshmi. 
-		Trigger Start - Lakshmi_Interacts_Robert=True  
-		On Clear - Lakshmi_Likes_Joking_Around_With_Robert=True
+INTRODUCTION TO NPC 
+	Brief summary of intro conversation 
+	Conditions - (START) First interaction with NPC 
+
+DELIVERED MAIL TO NPC
+	Brief summary of DELIVERED MAIL TO NPC
+		Conditions - (START) Lakshmi must have mail for NPC
+## Misc Reactions 
+
+EXAMPLE INTERACTION 
+	Brief summary of interaction 
+		Conditions -
+
 
