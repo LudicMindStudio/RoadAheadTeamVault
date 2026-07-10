@@ -16,7 +16,7 @@ Profession: Kid
 - bandana in her hair
 - tank top and shorts
 ## Core Characteristics 
-Cat (short for [[Francois Hustle - Profile]]Caterina) Everyone calls her Cat because she can be soft and kind but when needed she can be fierce. That's why she's the leader.  She has developed a love for animals and has been actively working to protect the wildlife around Dolphin Bay. She appreciates the beauty and complexity of all creatures (big or small). She is protective over her hometown. 
+Cat (short for [[Francois Hustle - ProfileArchive]]Caterina) Everyone calls her Cat because she can be soft and kind but when needed she can be fierce. That's why she's the leader.  She has developed a love for animals and has been actively working to protect the wildlife around Dolphin Bay. She appreciates the beauty and complexity of all creatures (big or small). She is protective over her hometown. 
 ## Essential History 
 She is protective over her hometown and finds the protesters' work more harmful than helpful. 
 ## Relationships

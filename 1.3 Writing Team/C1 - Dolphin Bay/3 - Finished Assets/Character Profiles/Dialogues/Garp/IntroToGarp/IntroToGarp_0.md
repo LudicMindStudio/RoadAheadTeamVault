@@ -1,5 +1,5 @@
 
-*Dialogue Root* : [[Garp - Profile]]
+*Dialogue Root* : [[Garp - ProfileArchive]]
 # Characters: Lakshmi, Garp
 ## Bundle : IntroToGarp_0
 
