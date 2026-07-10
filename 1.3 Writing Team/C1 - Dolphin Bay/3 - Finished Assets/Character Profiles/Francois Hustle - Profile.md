@@ -1,43 +1,73 @@
 ---
 tags:
-  - DolphinBay
-Date_Created: 2026-03-13
-Age: 43
-Profession: Fish vendor
+Date_Created:
 ---
+```
+> PLEASE TITLE - CharacterName - Profile
+```
 
-# Reference Art Links
+# Character Brainstorming 
+
+[[Francois Hustle - ProfileArchive]]
+# Reference Art  
 
 Include any links to reference art here 
 # Description
 
+## Key Information 
+
+| Age                 | 38                                    |
+| ------------------- | ------------------------------------- |
+| Profession          | Mayor, diving coach, snorkeling guide |
+| Relationship Status | Married (Juliette)                    |
+|                     | Tullia (Child)                        |
+
 ## Appearance 
 
-Short man,  sharp ears and a toothy grin complete with a tooth pick. He always wears his leather shop keeper apron. 
+Francois Hustle gives pirate vibes (think more like the cook). He's a tall, slightly overweight guy (with a large round tummy) and big arms. His lower right arm is missing, and the stump has a finely made leather strap attached to a metal rod with two tongs (the rod has a lock, so that the tongs can be open or closed). He has small kind eyes (almost hidden under his bushy eyebrows) and a big mouth with a noble little nose, and a scar that runs under his chin. He always has his hair in a pony tail. Right now his sporting quite a bit of stubble (just not around his scar). 
 
-## Core Characteristics 
+He's always wearing his Hawaiian button up shirts (some chest hair protruding) and his swimming suit brightly coloured orange bathing suit. He also sports beach shoes (the mesh kind that dry quickly). 
+## Core Characteristics
 
-Francois became an affluent member of the community thanks to his fish stall (which he manages with his wife Julia). To keep the sanctuary alive, he frequently donated fish from the stall. He often drives a tough bargain, so his generous donations to the dolphin community always seemed a bit out of character. 
+Francois is the ultimate people person. He almost immediately sets you at ease (he kind and loves to joke)
 ## Essential History 
 
-Protest Leader. Angry that the dolphins are no longer in dolphin bay. Was a large sponsor in the dolphin programs in the town. Always enjoyed watching them from afar. Now he feels betrayed and that his wealth was misused. Was never actually close to the dolphins, but loved them from a distance.
+Description of any character defining events that occurred before they meet Lakshmi 
 ## Relationships
 
-Wife, Julia (not to implement)
-## Brainstorming Links
+Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
+## Character Behavior 
 
-[[Francois Hustle]]
+Use this space to describe generally what the NPC does during their day (optional table below)
+
+|           | LOCATION | ACTIVITY | SPECIAL NOTES |
+| --------- | -------- | -------- | ------------- |
+| MORNING   |          |          |               |
+| AFTERNOON |          |          |               |
+| EVENING   |          |          |               |
+| SPECIAL   |          |          |               |
+
+--- 
+# Character Quests
+
+CHARACTER SIDE QUEST 1 LINK
 
 --- 
 # Character Dialogue 
 
-[[IntroToFrancois_0]] 
-	Lakshmi sees a group of protestors and Francois at the front of the pack standing on a small crate
-		Trigger Start - Lakshmi_Passes_By_Pack=True
-		On Clear - Lakshmi_Learns_François_Mission1=True, Lakshmi_Leanrs_Francois_Mission3=False
+## Essential Reactions 
 
-[[Lakshmi_Delivers_Mail_To_Francois_0]]
-	Lakshmi .... (ADD DESCRIPTION)
-		Trigger Start - Lakshmi_Has_François_Mail=True, Lakshmi_Interacts_François=True  
-		On Clear - Lakshmi_Has_Delivered_François_Mail=True, Lakshmi_Has_François_Mail=False
+INTRODUCTION TO NPC 
+	Brief summary of intro conversation 
+	Conditions - (START) First interaction with NPC 
+
+DELIVERED MAIL TO NPC
+	Brief summary of DELIVERED MAIL TO NPC
+		Conditions - (START) Lakshmi must have mail for NPC
+## Misc Reactions 
+
+EXAMPLE INTERACTION 
+	Brief summary of interaction 
+		Conditions -
+
 

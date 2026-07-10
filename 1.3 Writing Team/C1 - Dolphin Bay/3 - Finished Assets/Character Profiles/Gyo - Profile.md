@@ -46,7 +46,7 @@ He's not as convinced as Anita that the answer is just around the corner. He's m
 
 **[Anita - Profile]]** — His wife. His partner in everything. He worries about her constantly and expresses it through jokes and fresh sushi. They have the kind of marriage where a single look communicates an entire conversation.
 
-**[[Francois Hustle - Profile]]** — Came out after Anita got cornered. Tried to talk Francois down. Couldn't. Respects Francois's passion even if he thinks it's misdirected. Might quietly understand where the anger comes from.
+**[[Francois Hustle - ProfileArchive]]** — Came out after Anita got cornered. Tried to talk Francois down. Couldn't. Respects Francois's passion even if he thinks it's misdirected. Might quietly understand where the anger comes from.
 
 **Gordon (Guild map maker)** — Probably the one who coordinates fish deliveries to the sanctuary. They'd have a working relationship — Gordon sends supplies, Gyo sends back observations or data notes.
 

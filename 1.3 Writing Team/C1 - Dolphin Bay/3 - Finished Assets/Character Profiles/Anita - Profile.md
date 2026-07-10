@@ -35,7 +35,7 @@ When Francois came to the sanctuary demanding answers about Fin, Anita tried to 
 
 **[Gyo - Profile]]** — Her husband of decades. Her opposite in every way that matters and her perfect complement. He's warm where she's clinical, talkative where she's terse, creative where she's empirical. They finish each other's sentences and jab each other constantly. He worries she over-exerts herself. She tells him to stop worrying.
 
-**[[Francois Hustle - Profile]]** — The source of the town's anger. She doesn't understand why he's so upset — she tried to help him. She hasn't processed that her attempt at reassurance was the thing that broke everything.
+**[[Francois Hustle - ProfileArchive]]** — The source of the town's anger. She doesn't understand why he's so upset — she tried to help him. She hasn't processed that her attempt at reassurance was the thing that broke everything.
 
 **[[Sammy - Profile]]** — One of the few people in town who defends the sanctuary. "Too bad no one believes them." Anita doesn't know this kid exists, but he's out there on her side.
 
