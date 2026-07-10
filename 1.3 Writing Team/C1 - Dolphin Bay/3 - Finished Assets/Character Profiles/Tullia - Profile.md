@@ -20,19 +20,21 @@ Use this space to draft ideas of the character or link in brainstorming document
 | Relationship Status |         |
 
 ## Appearance 
-
- - long braided hair
+- long braided hair
 - dark eyes
 - white t-shirt
 ## Core Characteristics
-
 Description of the vibe of the character. What makes this character tick? 
+- Tullia (mean shy is romanian) Follows Cat around. Stays behind her during interactions with other characters. Does not talk much to Lakshmi as she is rather shy but is curious as to what Lakshmi and everyone in the city is up to. She stays in the background but hears and sees a lot of what is going on in Dolphin Bay. 
 ## Essential History 
-
-Description of any character defining events that occurred before they meet Lakshmi 
+- Tullia is wary of strangers. She is strongly attached to Cat. Nothing in particular happened but her to be that way. She's been hanging with Cat since they are babies and Tullia learned to trust Cat. 
 ## Relationships
-
 Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
+- She is part of the group of kids in Dolphin Bay. She feels the closest towards Cat. She will rarely be on her own except sometimes at night, she will come out and watch fireflies in a wooded area in Dolphin Bay. She prefers nightime as people are quieter, but nature seems to be louder. She will not start a conversation and if prompted she prefers to keep conversations short. She is quiet, but knows a lot about what is going on around her though she prefers to keep it for herself though she might offer you some information if she 
+
+## Brainstorming Links
+[[Little Girl 2 (Tullia)]]
+
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
@@ -54,13 +56,16 @@ CHARACTER SIDE QUEST 1 LINK
 
 ## Essential Reactions 
 
-INTRODUCTION TO NPC 
-	Brief summary of intro conversation 
-	Conditions - (START) First interaction with NPC 
+[[LakshmiInteractWithTulliaAlone_0]]
+	Tullia is walking in Dolphin Bay by herself
+			Trigger Start - Lakshmi_Has_Tullias_Mail=False, Lakshmi_Interacts_Tullia=True
+			On Clear - Lakshmi_ Finds_Tullia_Interesting = True
 
-DELIVERED MAIL TO NPC
-	Brief summary of DELIVERED MAIL TO NPC
-		Conditions - (START) Lakshmi must have mail for NPC
+
+[[LakshmiDeliversMailToTullia_0]]
+	Tullia is alone near her residence and Lakshmi find her.
+		Trigger Start - Lakshmi_Has_Tullias_Mail=True, Lakshmi_Interacts_NPC=True  
+		On Clear - Lakshmi_Has_Delivered_Tullias_Mail=True, Lakshmi_Has_NPCs_Mail=False
 ## Misc Reactions 
 
 EXAMPLE INTERACTION 
@@ -68,34 +73,4 @@ EXAMPLE INTERACTION
 		Conditions -
 
 
-
-
-
-## Core Characteristics 
-
-Description of the vibe of the character. What makes this character tick? 
-Tullia (mean shy is romanian) Follows Cat around. Stays behind her during interactions with other characters. Does not talk much to Lakshmi as she is rather shy but is curious as to what Lakshmi is up to. 
-## Essential History 
-
-Tullia is wary of strangers. 
-## Relationships
-
-She is part of the group of kids in Dolphin Bay. She feels the closest towards Cat. 
-## Brainstorming Links
-[[Little Girl 2 (Tullia)]]
-
 --- 
-# Character Dialogue 
-
-
-[[LakshmiDeliversMailToTullia_0]]
-	Tullia is alone near her residence and Lakshmi find her.
-		Trigger Start - Lakshmi_Has_Tullias_Mail=True, Lakshmi_Interacts_NPC=True  
-		On Clear - Lakshmi_Has_Delivered_Tullias_Mail=True, Lakshmi_Has_NPCs_Mail=False
-
-
-[[LakshmiInteractWithTulliaAlone_0]]
-	Tullia is walking in Dolphin Bay by herself
-			Trigger Start - Lakshmi_Has_Tullias_Mail=False, Lakshmi_Interacts_Tullia=True
-			On Clear - Lakshmi_ Finds_Tullia_Interesting = True
-
