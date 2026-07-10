@@ -43,20 +43,29 @@ Warning, don't play poker with him. You'll lose all of your money.
 
 The Francois of the present: 
 
-He hasn't been sleeping. He's full of boundless energy, and optimism. He doesn't worry about the village future or the villagers. 
+He hasn't been sleeping. He's full of boundless energy, and optimism. He doesn't worry about the village future or the villagers. His talking is forced, rapid and he doesn't take much time to listen. 
+
 He feels chosen to help the dolphins as they helped him, and he knows that helping the dolphin will save everyone. 
+
 He's also easily triggered and his optimism is immediately replaced by intense suspicion. He might start to think you're out to get him or the dolphins. 
+
 He knows a secret that will save the village, he just can't explain it. 
-Where as Juliette was typically a grounding force for him, now she often sends him 
 
-
-
+Where as Juliette was typically a grounding force for him, now she often sends him spiraling. Tullia is able to talk to him (she takes his new world seriously), but this obviously takes quite the strain on her. Right now she just prefers ignoring him, and spending time with Cat. 
 ## Essential History 
 
-Description of any character defining events that occurred before they meet Lakshmi 
+Hustle was a captain of large cargo ships, and he was out at sea near Dolphin Bay when a bout of fog rushed his ship. This led to an internal explosion that sank the cargo ship and badly injured his right arm (which he later lost). A dolphin named "Fin" saved him and brought him to shore. To his knowledge, none of his crew survived (perhaps some did...). 
+
+Juliette and the other villagers found him and nursed him back to health. He's never forgotten and he has dedicated his life to his new home. 
+
+Fin only recently stopped showing up. Little does he know - she's pregnant. Her sudden disappearance interrupted his sleep, and his ongoing psychosis really started to take root. He quickly went to the dolphin sanctuary for answers, and has felt sorely rejected, he is now convinced that they are intentionally targeting him and the dolphins. 
 ## Relationships
 
-Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
+Juliette - his grounding anchor, partner in running the village, the calculation to his action, she has always been honest with him 
+
+Tulia - fully attentive when he has the time, but he rarely does. She feels like she has to compete for the spotlight of his attention. Beach days are magical (Juliette will be reading so they spend time one on one). 
+
+Garp - share a love for the sea, and chat about being dads, kids grew up very close, 
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
