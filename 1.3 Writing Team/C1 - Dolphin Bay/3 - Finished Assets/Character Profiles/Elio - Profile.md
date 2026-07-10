@@ -8,10 +8,10 @@ Date_Created: 2026-07-10
 
 ## Key Information 
 
-| Age                 | 12                                          |
-| ------------------- | ------------------------------------------- |
-| Profession          | kid                                         |
-| Relationship Status | part of the group of kids. Closer to Sammy. |
+| Age                 | 12                                               |
+| ------------------- | ------------------------------------------------ |
+| Profession          | kid                                              |
+| Relationship Status | part of the group of kids. Protective over Sammy |
 ## Appearance 
 - Blond hair
 - Bright orange t-shirt

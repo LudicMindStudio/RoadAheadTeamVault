@@ -4,18 +4,18 @@ Date_Created:
 ---
 
 # Character Brainstorming 
+[[Little Boy 1 (Sammy)]]
 
-Use this space to draft ideas of the character or link in brainstorming documents 
 # Reference Art  
 
-Include any links to reference art here 
+-![[Pasted image 20260710154902.png|152]]![[Pasted image 20260710154935.png|195]]![[Pasted image 20260710155049.png|197]]
 # Description
 
 ## Key Information 
 
-| Age                 |     |
+| Age                 | 8   |
 | ------------------- | --- |
-| Profession          |     |
+| Profession          | kid |
 | Relationship Status |     |
 
 ## Appearance 
@@ -23,9 +23,9 @@ Include any links to reference art here
 - blue t-shirt with a turtle on it
 - bucket hat 
 - White shorts
-## Core Characteristics
 
-Description of the vibe of the character. What makes this character tick? 
+## Core Characteristics
+Loves sea animal especially turtles. He has one at home and cares for it very well. His family rescued it. He likes to show off his turtle, Abby. When it rains, Sammy goes outside in the grass and digs worms to feed his turtle. He talks about Abby as his pride and joy. When he is older, he hopes he will be able to open a turtle sanctuary to care for more hurt turtles. 
 ## Essential History 
 
 Description of any character defining events that occurred before they meet Lakshmi 
@@ -67,10 +67,7 @@ EXAMPLE INTERACTION
 		Conditions -
 
 
-# Content
-Sammy. 9 years old. Loves sea animal especially turtles. He has one at home and cares for it very well. His family rescued it. He likes to show off his turtle, Abby. When it rains, Sammy goes outside in the grass and digs worms to feed his turtle. He talks about Abby as his pride and joy. When he is older, he hopes he will be able to open a turtle sanctuary to care for more hurt turtles. 
-
-# Dialogue
+# Dialogue to digest
 
 **Event**
 	Sammy is in front of his house looking for worms and bugs while Lakshmi arrives at his front door.
