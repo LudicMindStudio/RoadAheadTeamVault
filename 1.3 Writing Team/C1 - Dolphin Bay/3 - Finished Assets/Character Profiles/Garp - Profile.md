@@ -59,19 +59,20 @@ Leaf - he's almost like family, he's always helping out, and often sleeping over
 
 Oliver - sitting by the dock with Garp is probably where he feels most at peace 
 
-Shirley - not on the best of terms, she strongly disapproves of his lax parenting 
+Shirley - not on the best of terms, she strongly disapproves of his lax parenting, Garp finds it pretty entertaining to tease her 
 
+Francois - more friends through their kids, they'll complain about parenting while smoking tobacco, do have a shared love of the sea  
 
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
 
-|           | LOCATION | ACTIVITY | SPECIAL NOTES |
-| --------- | -------- | -------- | ------------- |
-| MORNING   |          |          |               |
-| AFTERNOON |          |          |               |
-| EVENING   |          |          |               |
-| SPECIAL   |          |          |               |
+|           | LOCATION        | ACTIVITY                          | SPECIAL NOTES |
+| --------- | --------------- | --------------------------------- | ------------- |
+| MORNING   | Beach           | Setting traps, collecting oysters |               |
+| AFTERNOON | Fishing Hole    | Fishing                           |               |
+| EVENING   | HOME (backyard) | Repairing his boat                |               |
+| SPECIAL   | Warf            | Smoking                           | around sunset |
 
 --- 
 # Character Quests
