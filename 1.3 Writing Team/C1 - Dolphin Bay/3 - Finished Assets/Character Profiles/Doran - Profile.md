@@ -28,9 +28,11 @@ Include any links to reference art here
 He is built like a triangle. He has a thick neck, shoulders and chest, but his lower legs are thin and weak. He sports a thick beard and a warm red nose. His eyes are sunken with dark rings. He tends to wear a thick red wool jacket and often sports his belt with various construction tools. 
 ## Core Characteristics
 
-Move between two poles either being quiet and humble or load and boasting. He's stubborn like Shirley and expects a high level of order (and control). He doesn't drink or smoke and he never will again. 
+Hands on guy who tends to take things very literally. Fairness is very important to him. He's stubborn like Shirley and expects a high level of order (and control). 
 
-He's a faintly sad, serious man when he's working, and his carpentry reflects a real artistry if not a melancholic one. At night he carves beautiful creations in his workshop. 
+Moves between two poles either being quiet and humble or load and boasting. He's really a loud 
+
+He's a faintly sad, serious man when he's working. At night he works on various carpentry projects of the villagers 
 
 He's extremely literal and he loves trivia (his memory is impeccable). 
 ## Essential History 
@@ -48,11 +50,11 @@ Warren - tremendous respect, tremendous distance, they sometimes go hunting toge
 
 Greg - probably his closest friend. He built Greg Lakshmi's bed, and he discretely looks out for her. 
 
-Robert - not very close but they love to spare from time to time for sport 
+Robert - not very close but they love to spar from time to time for sport 
 
 Francois - Never fails to throw a good bit of trivia his way, he gets along fabulously 
 
-Detests all the kids (although Elio is acceptable)
+Kids - not a fan of their chaos, BUT he does like giving piggyback rides if they are very insistent 
 
 ## Character Behavior 
 
