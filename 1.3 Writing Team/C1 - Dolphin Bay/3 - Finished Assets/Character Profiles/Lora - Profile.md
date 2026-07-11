@@ -17,7 +17,7 @@ Include any links to reference art here
 
 ## Key Information 
 
-| Age                 |     |
+| Age                 | 36  |
 | ------------------- | --- |
 | Profession          |     |
 | Relationship Status |     |
