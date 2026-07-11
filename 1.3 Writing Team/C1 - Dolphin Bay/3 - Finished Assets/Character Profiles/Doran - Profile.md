@@ -18,7 +18,7 @@ Include any links to reference art here
 
 ## Key Information 
 
-| Age                 | 45                 |
+| Age                 | 43                 |
 | ------------------- | ------------------ |
 | Profession          | Builder, Carpenter |
 | Relationship Status | Married (Shirley)  |

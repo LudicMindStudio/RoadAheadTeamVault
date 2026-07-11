@@ -45,10 +45,23 @@ Garp likes when its oyster season and he's won the oyster shucking contest every
 
 Garp and Alexi were high school sweethearts. They both followed in the tracks of the older kids of the bay (Warren, Lisa, Alfred) and together they got up to no good. Garp and Alexi were hardcore ravers by their late teens, and they lived the full rock and roll lifestyle before returning to the bay. Alexi passed away during Cat's childbirth. Alexi had painted their walls and furniture all kinds of bright colors and Garp still has all her art hanging as she left it. Her ashes remain in their earn, waiting to be scattered. 
 
+Garp's sister Merci came to visit a few months ago. She's an extreme isolationist, but also a legendary diver. She's after a rare Batomorph (ray) and has been exploring local bays. 
+
+Garp's been having troubles recently finding good catches, and he's concerned about feeding the village. He brought his concerns to Francois, and was surprised to hear that Francois thought it had something to do with the sanctuary. 
 
 ## Relationships
 
-Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
+Cat - she's given total freedom, she has to be home by dark (but the rule isn't strongly enforced) 
+
+Warren -  good friend, they both spend time together when feeling more social then usual 
+
+Leaf - he's almost like family, he's always helping out, and often sleeping over 
+
+Oliver - sitting by the dock with Garp is probably where he feels most at peace 
+
+Shirley - not on the best of terms, she strongly disapproves of his lax parenting 
+
+
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)

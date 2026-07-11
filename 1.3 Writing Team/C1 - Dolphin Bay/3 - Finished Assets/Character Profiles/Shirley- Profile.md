@@ -12,7 +12,7 @@ Include any links to reference art here
 
 ## Key Information 
 
-| Age                 | 42              |
+| Age                 | 39              |
 | ------------------- | --------------- |
 | Profession          | Head gardener   |
 | Relationship Status | Married (Doran) |
