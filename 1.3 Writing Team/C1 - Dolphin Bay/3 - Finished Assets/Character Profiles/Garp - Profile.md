@@ -11,8 +11,6 @@ Date_Created: 2026-07-10
 [[Garp - ProfileArchive]]
 # Reference Art  
 
-![[Pasted image 20260710154139.png|335]]
-(although he's not quite looking so swanky and polished)
 # Description
 
 ## Key Information 
@@ -25,27 +23,29 @@ Date_Created: 2026-07-10
 
 ## Appearance 
 
-Think aged rocker. He's a tall, thin man (the tallest in Dolphin Bay) of Greek descent. He has long curly white hair and a well kept fuzzy beard. His bright green eyes have a magic twinkle, and he's quite tanned (which contrasts nicely with his white hair. He looks a bit older than he is, with lots of wrinkles (especially around the eyes and throat) - he's been a daily smoker pretty much his whole life. He has a long face and spaced eyes (a bit like a horse). 
+He's a tall, thin man (the tallest in Dolphin Bay) of Greek descent. He has long curly white hair and a well kept fuzzy beard. His bright green eyes have a magic twinkle, and he's quite tanned (which contrasts nicely with his white hair. He looks a bit older than he is, with lots of wrinkles (especially around the eyes and throat) - he's been a daily smoker pretty much his whole life. He has a long face and spaced eyes (a bit like a horse). 
 
 He wears his patched overalls and fishing jacket (with flies and such). His fishing rod is painted a bright yellow with blue stars. He also sports a captains hat with the slogan "Fresh Catch". He has long rubber boots. He wears a plain t-shirt under the overalls. He has a bracelet of wooden beads each also cut in vague star shapes.  
 
 ## Core Characteristics
 
-Garp is a laid back guy. He's partied hard, and now he's living for the little things. He's peaceful by the water. Although, you get the sense that he would listen to heavy metal and he's stores always have a bit of an edge to them. 
+Think aged rocker. He's partied hard, and now he's living for the little things. He's peaceful by the water. An absolute legend on the harmonica. He isn't afraid to talk about hard truths, and definitely has some bite to him still. 
 
-He loves being by the water, and being outdoors. He dreams of ice fishing, and wonders what it might be like. 
+He loves being by the water, and being outdoors. He dreams of ice fishing, and wonders what it might be like. He comes from a fishing family, although he never thought he'd end up doing what they did. 
 
-He lets Cat do here own thing (if not a little bit neglectful) and in general doesn't think much of the others. All he really cares about is that his routine is uninterrupted. For instance, he grows his own tabaco and smokes a pipe every evening.
+He lets Cat do her own thing (if not a little bit neglectful) and in general doesn't think much of the others. All he really cares about is that his routine is uninterrupted. For instance, he grows his own tabaco and smokes a pipe every evening.
 
-He takes Cat on sailing trips from time to time, and this is primarily how they bond. On the trips they will lie on the deck of the sailing boat and tell stories about an imaginary world they've created together. The main character is named "Crab-Maid" and she's like a mermaid only part carb instead. She crushes bad guys in her powerful claws, but isn't loved by the sea community. Garp will often think of their world, and new stories for Cat while he fishes. 
+He takes Cat on sailing trips from time to time, and this is primarily how they bond. On the trips they will lie on the deck of the sailing boat and tell stories about an imaginary world they've created together. The main character is named "Crab-Maid" and she's like a mermaid only part crab instead. She crushes bad guys in her powerful claws, but isn't loved by the sea community. Garp will often think of their world, and new stories for Cat while he fishes. 
 
-Right now, he's also obsessed with fixing his old boat "Crab-Queen". He works tirelessly on it when he has free time.   
+Right now, he's also obsessed with fixing his old boat "Crab-Queen". He works tirelessly on it when he has free time. He promises himself he'll scatter his wife's ashes out deep in the ocean just as the boat is fixed. 
 
 Garp likes when its oyster season and he's won the oyster shucking contest every year in a row. 
 
 ## Essential History 
 
-Description of any character defining events that occurred before they meet Lakshmi 
+Garp and Alexi were high school sweethearts. They both followed in the tracks of the older kids of the bay (Warren, Lisa, Alfred) and together they got up to no good. Garp and Alexi were hardcore ravers by their late teens, and they lived the full rock and roll lifestyle before returning to the bay. Alexi passed away during Cat's childbirth. Alexi had painted their walls and furniture all kinds of bright colors and Garp still has all her art hanging as she left it. Her ashes remain in their earn, waiting to be scattered. 
+
+
 ## Relationships
 
 Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
