@@ -37,9 +37,9 @@ He loves being by the water, and being outdoors. He dreams of ice fishing, and w
 
 He lets Cat do here own thing (if not a little bit neglectful) and in general doesn't think much of the others. All he really cares about is that his routine is uninterrupted. For instance, he grows his own tabaco and smokes a pipe every evening.
 
-He takes Cat on sailing trips from time to time, and this is primarily how they bond. On the trips they will lie on the deck of the sailing boat and tell stories about an imaginary world they've created together. The main character is named "Crab Maid" and she's like a mermaid only part carb instead. She crushes bad guys in her powerful claws, but isn't loved by the sea community. Garp will often think of their world, and new stories for Cat while he fishes. 
+He takes Cat on sailing trips from time to time, and this is primarily how they bond. On the trips they will lie on the deck of the sailing boat and tell stories about an imaginary world they've created together. The main character is named "Crab-Maid" and she's like a mermaid only part carb instead. She crushes bad guys in her powerful claws, but isn't loved by the sea community. Garp will often think of their world, and new stories for Cat while he fishes. 
 
-Right now, he's also obsessed with fixing his old boat "Ol Sna"
+Right now, he's also obsessed with fixing his old boat "Crab-Queen". He works tirelessly on it when he has free time.   
 
 Garp likes when its oyster season and he's won the oyster shucking contest every year in a row. 
 
