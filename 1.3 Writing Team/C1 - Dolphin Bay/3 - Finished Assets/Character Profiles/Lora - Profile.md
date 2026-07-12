@@ -19,7 +19,7 @@ Include any links to reference art here
 
 | Age                 | 36                              |
 | ------------------- | ------------------------------- |
-| Profession          | Meditation Instructor, mechanic |
+| Profession          | Meditation Instructor, engineer |
 | Relationship Status | Robert (Married)                |
 |                     | Elio (Child)                    |
 
@@ -30,9 +30,19 @@ Lora is a tall women of colour. She has thickly braided black hair interwoven wi
 She wears an undersized, hand made wool sweater over her guild uniform. A large shell pendent falls from a leather necklace around her neck. Her glasses are large and made of a bamboo frame. 
 ## Core Characteristics
 
-Lora is proud and mystical. She takes her spiritual pursuit seriously and has no qualms telling people exactly what she thinks. 
+Lora is smart, proud and mystical. She takes her spiritual pursuit seriously and has no qualms telling people exactly what she thinks. In this way, she is shameless. 
 
+She is also a deeply empathic person. She's comfortable with silences, but also knows what to say to get you talking. Sometimes it feels like she can read your mind. She isn't judgy or pushy, but she will be honest if she detects self-deception in you.
 
+Her empathy does take a toll on her. She feels a real sense of pain if her words or actions have psychically hurt the other. She occasionally needs days of absolute isolation to recover her spiritual energy. 
+
+Guild members know that they can always turn to Lora for support, but she has a firm no disturbance policy for her meditation and other spiritual practices. When it comes to build business, she insists on consensus decision making, and does not tolerate Greg pressuring his workers into anything. The Greg of the past was much more i
+
+She has a set of orca teeth which she uses to future divination. Before using the teeth to predict the future of others, she needs their clear consent. 
+
+Lora is an exceptionally gifted engineer, and she's always happy to collaborate with Doran and Francois to assist in making new mechanical systems to enhance the lives of the villagers. Her engineering mind has been essential for forming the irrigation networks that keep the gardens of dolphin bay thriving. 
+
+She loves to play cards 
 ## Essential History 
 
 Description of any character defining events that occurred before they meet Lakshmi 
