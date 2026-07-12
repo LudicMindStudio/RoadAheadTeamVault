@@ -45,10 +45,24 @@ Lora is an exceptionally gifted engineer, and she's always happy to collaborate 
 She loves to play cards. 
 ## Essential History 
 
-Lora was a gifted astronautical engineer. However, when she found out her work on satellite technology was being used for military purposes, she quit and traveled the world. Her long journey eventually led her to the yogi "Saanvi" (and Robert). She became Saanvi' chosen pupil, and she keeps in her possession transcriptions of their final conversations before his passing during the calamity - his final work.  
+Lora was a gifted astronautical engineer. However, when she found out her work on satellite technology was being used for military purposes, she quit and traveled the world. Her long journey eventually led her to the yogi "Saanvi" (and Robert). She became Saanvi' chosen pupil, and she keeps in her possession transcriptions of their final conversations before his passing during the calamity - his final work.  She still receives and answers letters from his followers around the world. 
+
+Lora had a major falling out with Greg five years ago over his treatment of a new recruit. The recruit is said to have journeyed out into the fog and has been lost forever. 
+
+Lora has two younger brothers, both of whom are still alive and write to her. Her youngest brother Emanuel has ASD. 
 ## Relationships
 
-Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
+Robert - lets her take the lead, is always supportive of her initiatives 
+
+Elio - because of Emmanuel, Lora is much more understanding and tolerant of Elio's behavior. She accepts that his reality is different and does her best to build an environment devoid of the textures and sounds that repel him. 
+
+Anita - best friend, they both are often too busy to see each other, but when they do (or when they're collaborating) they feel like sisters 
+
+Francois - loves his action driven spirit, and happily collaborates with him, finds his selflessness a bit distressing 
+
+Greg - long history, definitely cold right now, she will not accommodate any more pressure on Lakshmi 
+
+
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
