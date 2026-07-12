@@ -43,13 +43,15 @@ Robert's past was revealed when he had to perform an emergency surgery to save C
 
 ## Relationships
 
-Robert doesn't have the easiest time with Francois. He finds him too brash. 
+Francois - would like to get along, but finds him a bit brash and unpolished 
 
-Given the recent coldness between Lora and Greg, Robert is a rather unfortunate mediator of the conflict which arises. He's still good friends with Greg. 
+Greg - Given the recent coldness between Lora and Greg, Robert is a rather unfortunate mediator of the conflict which arises. He's still good friends with Greg. 
 
-He likes to talk fashion with Gatz, and he's always curious what Juliette is reading. 
+Gatz - He likes to talk fashion with Gatz
 
-Robert and Elio are building a diorama together of Inca empire and the high Andes. He doesn't understand his son's behavior as well as Lora. Elio's rudeness is particularly annoying for Robert. 
+Juliette - Loves to stop by and sea what she's reading, she doesn't mind his intrusions 
+
+Elio - Robert and Elio are building a diorama together of Inca empire and the high Andes. He doesn't understand his son's behavior as well as Lora. Elio's rudeness is particularly annoying for Robert. 
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)

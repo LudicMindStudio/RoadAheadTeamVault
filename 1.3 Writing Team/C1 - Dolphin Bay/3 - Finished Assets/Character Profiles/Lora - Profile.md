@@ -62,17 +62,16 @@ Francois - loves his action driven spirit, and happily collaborates with him, fi
 
 Greg - long history, definitely cold right now, she will not accommodate any more pressure on Lakshmi 
 
-
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
 
-|           | LOCATION | ACTIVITY | SPECIAL NOTES |
-| --------- | -------- | -------- | ------------- |
-| MORNING   |          |          |               |
-| AFTERNOON |          |          |               |
-| EVENING   |          |          |               |
-| SPECIAL   |          |          |               |
+|           | LOCATION          | ACTIVITY                                               | SPECIAL NOTES |
+| --------- | ----------------- | ------------------------------------------------------ | ------------- |
+| MORNING   | HOME              | Yoga, meditation                                       |               |
+| AFTERNOON | Library or office | Meditation, training others                            |               |
+| EVENING   | Sanctuary         | Taking Elio to see the dolphins, saying hello to Anita |               |
+| SPECIAL   |                   |                                                        |               |
 
 --- 
 # Character Quests

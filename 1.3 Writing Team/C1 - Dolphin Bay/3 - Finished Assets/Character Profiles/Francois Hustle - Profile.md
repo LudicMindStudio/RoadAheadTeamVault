@@ -33,7 +33,9 @@ The Francois everyone knows:
 
 Francois is the ultimate people person - he loves to chat! He almost immediately sets you at ease (he's kind and he loves to joke). He listens deeply to the villagers as a friend, and as a mayor - where he's a man of action. He's got a great brain for problem solving, and figuring out how to bring the talents of the villagers together in times of crisis. This also makes him a fantastic negotiator. 
 
-Francois is also an anxious guy. He worries constantly about the villagers; about their individual problems and about the future of the village. Every year he's in full panic about some kind of emergency, and yet as Juliette reminds him, they somehow get through it. 
+His talents rest in his ability to connect. He can instantly predict a shared interest, see how an unlooked detail is actually the cause of the problem etc. 
+
+Francois is also an anxious guy. He worries constantly about the villagers; about their individual problems and about the future of the village. His connection brain can see negative patterns just as easily as positive ones. Every year he's in full panic about some kind of emergency, and yet as Juliette reminds him, they somehow get through it. 
 
 He rarely thinks of himself, and he's found ways of helping even with labour (despite his disability). 
 
@@ -45,11 +47,9 @@ The Francois of the present:
 
 He hasn't been sleeping. He's full of boundless energy, and optimism. He doesn't worry about the village future or the villagers. His talking is forced, rapid and he doesn't take much time to listen. 
 
-He feels chosen to help the dolphins as they helped him, and he knows that helping the dolphin will save everyone. 
+He feels chosen to help the dolphins as they helped him, and he knows that helping the dolphin will save everyone. His connection brain is working on overdrive. Whereas he could rely on the accuracy of his connections before, now, he's bringing things together that just don't work. This leads him to think a secret that will save the village, he just can't explain it. 
 
 He's also easily triggered and his optimism is immediately replaced by intense suspicion. He might start to think you're out to get him or the dolphins. 
-
-He knows a secret that will save the village, he just can't explain it. 
 
 Where as Juliette was typically a grounding force for him, now she often sends him spiraling. Tullia is able to talk to him (she takes his new world seriously), but this obviously takes quite the strain on her. Right now she just prefers ignoring him, and spending time with Cat. 
 ## Essential History 
