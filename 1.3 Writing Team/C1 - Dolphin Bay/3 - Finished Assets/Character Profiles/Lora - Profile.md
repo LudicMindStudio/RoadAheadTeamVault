@@ -17,17 +17,22 @@ Include any links to reference art here
 
 ## Key Information 
 
-| Age                 | 36  |
-| ------------------- | --- |
-| Profession          |     |
-| Relationship Status |     |
+| Age                 | 36                              |
+| ------------------- | ------------------------------- |
+| Profession          | Meditation Instructor, mechanic |
+| Relationship Status | Robert (Married)                |
+|                     | Elio (Child)                    |
 
 ## Appearance 
 
-Detailed description of the appearance of the character. What do they physically look like? What do they like to wear? 
+Lora is a tall women of colour. She has thickly braided black hair interwoven with brown highlights. She has small dark brown eyes (which are somewhat difficult to see through her thick lenses).  
+
+She wears an undersized, hand made wool sweater over her guild uniform. A large shell pendent falls from a leather necklace around her neck. Her glasses are large and made of a bamboo frame. 
 ## Core Characteristics
 
-Description of the vibe of the character. What makes this character tick? 
+Lora is proud and mystical. She takes her spiritual pursuit seriously and has no qualms telling people exactly what she thinks. 
+
+
 ## Essential History 
 
 Description of any character defining events that occurred before they meet Lakshmi 
