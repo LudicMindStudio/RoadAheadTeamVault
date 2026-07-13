@@ -43,10 +43,9 @@ Gatz and Juliette have fruitful discussions, but they rarely agree, and she find
 Juliette once wrote a manuscript about her youth and her voyage to dolphin bay. Tullia is strictly forbidden from reading it, and the only copy remains hidden in a secret compartment under the sink. 
 ## Relationships
 
-Juliette is married to Francois whom she has a close bond. He fills her with energy, and they dance the tango. She likes to tell him stories about great queens of the past, and he compares her to them. 
+Francois - Juliette is married to Francois whom she has a close bond. He fills her with energy. She likes to tell him stories about great queens of the past, and he compares her to them. 
 
-Juliette is a frequent critique of Tullia. She does occasionally share some of her treasured novels with her. Tulia will always remembers nights spent reading them outload. On the whole, neither parent have much time to spend with their child.  The three of them do like to spend time at the beach together (although she tends to do her own thing)
-
+Tullia - Juliette is a frequent critique of Tullia. She does occasionally share some of her treasured novels with her. Tulia will always remembers nights spent reading them outload. On the whole, neither parent have much time to spend with their child.  The three of them do like to spend time at the beach together (although she tends to do her own thing). 
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)

@@ -33,13 +33,13 @@ Before the calamity, Leaf was traveling the world working as a barber (mostly wo
 These days he offers surfing lessons to the kids, and is developing a language to communicate with the dolphins. He's pretty convinced that mermaids are real, and has pretty much had confirmation straight from the dolphins. His favorite dolphin is named "Penguin" (not his choice). 
 ## Relationships
 
-While Leaf gets along well with the sanctuary workers, he's most attached to Garp. They share a love of the ocean. Garp isn't encouraging of Leaf's surfing, but he secretly admires Leaf's skill. 
+Garp - While Leaf gets along well with the sanctuary workers, he's most attached to Garp. They share a love of the ocean. Garp isn't encouraging of Leaf's surfing, but he secretly admires Leaf's skill. 
 
-Lora, while not a close friend, will frequently flirt with Leaf. She respects his soulful side. 
+Lora - Lora, while not a close friend, will frequently flirt with Leaf. She respects his soulful side. 
 
-Leaf really looks up to François Hustle. His people skills and braininess are all very impressive. Not to mention, Francois tells a mean story. 
+Francois - Leaf really looks up to François Hustle. His people skills and braininess are all very impressive. Not to mention, Francois tells a mean story. 
 
-Leaf doesn't get along with Cat who has no patience for his slow style of teaching. She's a failed surfing and swimming student. He prefers Oliver and kids who know how to chill out. 
+Cat - Leaf doesn't get along with Cat who has no patience for his slow style of teaching. She's a failed surfing and swimming student. He prefers Oliver and kids who know how to chill out. 
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)

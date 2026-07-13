@@ -18,7 +18,7 @@ Include any links to reference art here
 
 ## Key Information 
 
-| Age                 | 45                 |
+| Age                 | 43                 |
 | ------------------- | ------------------ |
 | Profession          | Builder, Carpenter |
 | Relationship Status | Married (Shirley)  |
@@ -28,11 +28,13 @@ Include any links to reference art here
 He is built like a triangle. He has a thick neck, shoulders and chest, but his lower legs are thin and weak. He sports a thick beard and a warm red nose. His eyes are sunken with dark rings. He tends to wear a thick red wool jacket and often sports his belt with various construction tools. 
 ## Core Characteristics
 
-Move between two poles either being quiet and humble or load and boasting. He's stubborn like Shirley and expects a high level of order (and control). He doesn't drink or smoke and he never will again. 
+Hands on guy who tends to take things very literally. Fairness is very important to him. He's stubborn like Shirley and expects a high level of order (and control). He has a gigantic heart. 
 
-He's a faintly sad, serious man when he's working, and his carpentry reflects a real artistry if not a melancholic one. At night he carves beautiful creations in his workshop. 
+Moves between two poles either being quiet and humble or load and boasting (early morning mostly). He's really a loud man, who's been told to be quiet. 
 
-He's extremely literal and he loves trivia (his memory is impeccable). 
+He's faintly sad and serious when he's working. At night he works on various carpentry projects for the villagers which reflect a high degree of thoughtfulness. For instance, he built Lisa a bed with a guard rail, spring powered head and tea holder so she can read in bed in comfort. 
+
+He loves trivia (his memory is impeccable). 
 ## Essential History 
 
 Absolute rascal of a kid. Always burning things and starting fights and he really didn't connect with his Dad (Warren) until long into adulthood. Doran's mother left when Doran was young, and he still blames Warren. He once had a problem with substances, but he was successfully rehabilitated. 
@@ -46,13 +48,13 @@ Shirley - absolutely adores her, kisses the ground of which she walks
 
 Warren - tremendous respect, tremendous distance, they sometimes go hunting together 
 
-Greg - probably his closest friend. He built Greg Lakshmi's bed, and he discretely looks out for her. 
+Francois - his best friend. Francois always has trivia for him. The two love to talk about their personal projects together 
 
-Robert - not very close but they love to spare from time to time for sport 
+Greg - a close friend. He built Greg Lakshmi's bed, and he discretely looks out for her. 
 
-Francois - Never fails to throw a good bit of trivia his way, he gets along fabulously 
+Robert - not very close but they love to spar from time to time for sport 
 
-Detests all the kids (although Elio is acceptable)
+Kids - not a fan of their chaos, BUT he does like giving piggyback rides if they are very insistent 
 
 ## Character Behavior 
 
@@ -63,7 +65,7 @@ Use this space to describe generally what the NPC does during their day (optiona
 | MORNING   | Coastal promenade                   | Jogging  |               |
 | AFTERNOON | VARIOUS                             |          |               |
 |           | Building a village gazebo right now | Working  | can change    |
-| EVENING   | Workshop                            | Carving  |               |
+| EVENING   | Workshop                            | Crafting |               |
 | SPECIAL   |                                     |          |               |
 
 --- 
