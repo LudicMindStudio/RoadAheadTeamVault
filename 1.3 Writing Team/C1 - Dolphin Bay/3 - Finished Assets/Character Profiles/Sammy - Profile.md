@@ -13,7 +13,7 @@ Date_Created:
 
 ## Key Information 
 
-| Age                 | 8            |
+| Age                 | 6            |
 | ------------------- | ------------ |
 | Profession          | kid          |
 | Relationship Status | Son of Camie |
@@ -31,18 +31,22 @@ Loves sea animal especially turtles. He has one at home and cares for it very we
 Sammy lives with his mom, but has grown close to Elio's parents as the two boys spend a lot of time together. Elio is protective over Sammy and treats him as a younger brother. 
 ## Relationships
 
-Camie - Sammy loves his mom, especially the little treats she leaves for him. Sammy will often help his mom 
-Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
+Camie - Sammy loves his mom, especially the little treats she leaves for him. Sammy will often help his mom close up in the evening. Sammy likes when his mom teaches him how to make treats that he can feed his turtle. 
+
+Elio - Sammy appreciates greatly Elio's friendship. 
+
+Tullia - Sammy finds Tullia interesting. He appreciates her presence.
+
+Cat - Sammy admires Cat's spirit. 
+ 
 ## Character Behavior 
 
-Use this space to describe generally what the NPC does during their day (optional table below)
-
-|           | LOCATION | ACTIVITY | SPECIAL NOTES |
-| --------- | -------- | -------- | ------------- |
-| MORNING   |          |          |               |
-| AFTERNOON |          |          |               |
-| EVENING   |          |          |               |
-| SPECIAL   |          |          |               |
+|           | LOCATION | ACTIVITY                 | SPECIAL NOTES |
+| --------- | -------- | ------------------------ | ------------- |
+| MORNING   | At home  | takes care of his turtle |               |
+| AFTERNOON | Docks    | walks round              |               |
+| EVENING   | Bakery   | cleans up                |               |
+| SPECIAL   | At home  | digs up worms            | When it rains |
 
 --- 
 # Character Quests
