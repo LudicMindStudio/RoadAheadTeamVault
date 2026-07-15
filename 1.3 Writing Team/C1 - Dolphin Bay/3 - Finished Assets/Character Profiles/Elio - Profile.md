@@ -11,7 +11,7 @@ Date_Created: 2026-07-10
 
 ## Key Information 
 
-| Age                 | 12                     |     |
+| Age                 | 10                     |     |
 | ------------------- | ---------------------- | --- |
 | Profession          | kid                    |     |
 | Relationship Status | Child of Robert & Lora |     |

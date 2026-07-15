@@ -13,10 +13,11 @@ Date_Created:
 
 ## Key Information 
 
-| Age                 | 6            |
-| ------------------- | ------------ |
-| Profession          | kid          |
-| Relationship Status | Son of Camie |
+| Age                 | 8              |
+| ------------------- | -------------- |
+| Profession          | kid            |
+| Relationship Status | Son of Garp    |
+|                     | brother of Cat |
 
 ## Appearance 
 - Brown hair
@@ -25,17 +26,17 @@ Date_Created:
 - White shorts
 
 ## Core Characteristics
-Loves sea animal especially turtles. He has one at home and cares for it very well. His mom, Camie helped him rescue it. He likes to show off his turtle, Abby. When it rains, Sammy goes outside in the grass and digs worms to feed his turtle. He talks about Abby as his pride and joy. When he is older, he hopes he will be able to open a turtle sanctuary to care for more hurt turtles. 
+Loves sea animal especially turtles. He has one at home and cares for it very well. His dad, Garp and his sister, Car helped him rescue it. He likes to show off his turtle, Abby. When it rains, Sammy goes outside in the grass and digs worms to feed his turtle. He talks about Abby as his pride and joy. When he is older, he hopes he will be able to open a turtle sanctuary to care for more hurt turtles. 
 ## Essential History 
 
-Sammy lives with his mom, but has grown close to Elio's parents as the two boys spend a lot of time together. Elio is protective over Sammy and treats him as a younger brother. 
+Sammy lives with his dad and sister, but has grown close to Elio's parents as the two boys spend a lot of time together. Elio is protective over Sammy and treats him as a younger brother. 
 ## Relationships
 
-Camie - Sammy loves his mom, especially the little treats she leaves for him. Sammy will often help his mom close up in the evening. Sammy likes when his mom teaches him how to make treats that he can feed his turtle. 
+Garp - 
 
-Elio - Sammy appreciates greatly Elio's friendship. 
+Elio - Sammy appreciates greatly Elio's friendship. It seems like Cat and Elio sometimes fight to be the better older "sibiling".
 
-Tullia - Sammy finds Tullia interesting. He appreciates her presence.
+Tullia - Sammy often sees Tullia as she hangs out with his sister but he doesn't talk to her much. 
 
 Cat - Sammy admires Cat's spirit. 
  
@@ -45,7 +46,7 @@ Cat - Sammy admires Cat's spirit.
 | --------- | -------- | ------------------------ | ------------- |
 | MORNING   | At home  | takes care of his turtle |               |
 | AFTERNOON | Docks    | walks round              |               |
-| EVENING   | Bakery   | cleans up                |               |
+| EVENING   |          |                          |               |
 | SPECIAL   | At home  | digs up worms            | When it rains |
 
 --- 
