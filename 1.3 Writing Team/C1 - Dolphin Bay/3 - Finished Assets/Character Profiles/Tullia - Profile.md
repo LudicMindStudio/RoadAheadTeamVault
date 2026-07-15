@@ -13,10 +13,11 @@ Profession: Kid
 
 ## Key Information 
 
-| Age                 | 13   |
-| ------------------- | ---- |
-| Profession          | teen |
-| Relationship Status |      |
+| Age                 | 13                              |
+| ------------------- | ------------------------------- |
+| Profession          | teen                            |
+| Relationship Status | daughter of Juliette & Francois |
+|                     | BFF with Cat                    |
 
 ## Appearance 
 - long braided hair
@@ -26,7 +27,7 @@ Profession: Kid
 Description of the vibe of the character. What makes this character tick? 
 - Tullia (mean shy is romanian) Follows Cat around. Stays behind her during interactions with other characters. Does not talk much to Lakshmi as she is rather shy but is curious as to what Lakshmi and everyone in the city is up to. She stays in the background but hears and sees a lot of what is going on in Dolphin Bay. 
 ## Essential History 
-- Tullia is wary of strangers. She lives with her mom, Camie. She is strongly attached to Cat. She's been hanging out with Cat since they are babies and Tullia learned to trust Cat. 
+- Tullia is wary of strangers. She lives with her mom, Juliette and her dad, Francois. She is strongly attached to Cat. She's been hanging out with Cat since they are babies and Tullia learned to trust Cat. 
 ## Relationships
 Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
 - She is part of the group of kids in Dolphin Bay. She feels the closest towards Cat. She will rarely be on her own except sometimes at night, she will come out and watch fireflies in a wooded area in Dolphin Bay. She prefers nightime as people are quieter, but nature seems to be louder. She will not start a conversation and if prompted she prefers to keep conversations short. She is quiet, but knows a lot about what is going on around her. She tells everything only to Cat, but might offer others some information if you give her her favorite treat -- strawberry mochi. 

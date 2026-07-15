@@ -19,8 +19,6 @@ Date_Created: 2026-07-10
 - black shoes
 - wears sunglasses
 - He gives off Sun vibes 
-
-Detailed description of the appearance of the character. What do they physically look like? What do they like to wear? 
 ## Core Characteristics
 
 Elio is the dominant one in a a conversation. He has a hard time letting other people talk about their ideas. He acts this way because he is fed up with the way adults act around him. He wants people to truly care about the animals and not protesting to fuel their discontentment. He wants to be heard and for his town to become more harmonized than polarized.  Loves fun facts about animals. 
@@ -28,6 +26,7 @@ Elio is the dominant one in a a conversation. He has a hard time letting other p
 
 Description of any character defining events that occurred before they meet Lakshmi 
 ## Relationships
+
 
 Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
 ## Character Behavior 

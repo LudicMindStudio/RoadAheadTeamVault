@@ -2,9 +2,6 @@
 tags:
 Date_Created: 2026-07-06
 ---
-```
-> PLEASE TITLE - CharacterName - Profile
-```
 
 # Character Brainstorming 
 
