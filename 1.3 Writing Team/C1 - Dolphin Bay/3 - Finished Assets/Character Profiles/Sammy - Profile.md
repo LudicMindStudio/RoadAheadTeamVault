@@ -13,10 +13,10 @@ Date_Created:
 
 ## Key Information 
 
-| Age                 | 8   |
-| ------------------- | --- |
-| Profession          | kid |
-| Relationship Status |     |
+| Age                 | 8            |
+| ------------------- | ------------ |
+| Profession          | kid          |
+| Relationship Status | Son of Camie |
 
 ## Appearance 
 - Brown hair
@@ -25,12 +25,13 @@ Date_Created:
 - White shorts
 
 ## Core Characteristics
-Loves sea animal especially turtles. He has one at home and cares for it very well. His family rescued it. He likes to show off his turtle, Abby. When it rains, Sammy goes outside in the grass and digs worms to feed his turtle. He talks about Abby as his pride and joy. When he is older, he hopes he will be able to open a turtle sanctuary to care for more hurt turtles. 
+Loves sea animal especially turtles. He has one at home and cares for it very well. His mom, Camie helped him rescue it. He likes to show off his turtle, Abby. When it rains, Sammy goes outside in the grass and digs worms to feed his turtle. He talks about Abby as his pride and joy. When he is older, he hopes he will be able to open a turtle sanctuary to care for more hurt turtles. 
 ## Essential History 
 
-Sammy lives with his two parents, but they 
+Sammy lives with his mom, but has grown close to Elio's parents as the two boys spend a lot of time together. Elio is protective over Sammy and treats him as a younger brother. 
 ## Relationships
 
+Camie - Sammy loves his mom, especially the little treats she leaves for him. Sammy will often help his mom 
 Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
 ## Character Behavior 
 
@@ -83,7 +84,7 @@ EXAMPLE INTERACTION
 	Choices:
 		1. _What are you doing exactly?_
 			*Sammy*
-				_I'm just picking worms and bugs for my turtle. My parents built a little sanctuary for Abby in the back._
+				_I'm just picking worms and bugs for my turtle. My mom built a little sanctuary for Abby in the back._
 			*Lakshmi*
 				_Abby?_
 			*Sammy*
