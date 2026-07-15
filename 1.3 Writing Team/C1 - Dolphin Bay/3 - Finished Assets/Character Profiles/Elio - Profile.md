@@ -3,15 +3,19 @@ tags:
   - dolphin-bay
 Date_Created: 2026-07-10
 ---
+# Character Brainstorming 
+[[Little Boy 3 (Elio)]]
+# Reference Art  
 
 # Description
 
 ## Key Information 
 
-| Age                 | 12                                               |
-| ------------------- | ------------------------------------------------ |
-| Profession          | kid                                              |
-| Relationship Status | part of the group of kids. Protective over Sammy |
+| Age                 | 12                     |     |
+| ------------------- | ---------------------- | --- |
+| Profession          | kid                    |     |
+| Relationship Status | Child of Robert & Lora |     |
+|                     |                        |     |
 ## Appearance 
 - Blond hair
 - Bright orange t-shirt
@@ -24,7 +28,7 @@ Date_Created: 2026-07-10
 Elio is the dominant one in a a conversation. He has a hard time letting other people talk about their ideas. He acts this way because he is fed up with the way adults act around him. He wants people to truly care about the animals and not protesting to fuel their discontentment. He wants to be heard and for his town to become more harmonized than polarized.  Loves fun facts about animals. 
 ## Essential History 
 
-Description of any character defining events that occurred before they meet Lakshmi 
+Elio always seems to be in a good mood. 
 ## Relationships
 
 
