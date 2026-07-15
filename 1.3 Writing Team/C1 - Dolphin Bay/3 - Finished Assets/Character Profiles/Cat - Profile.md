@@ -15,11 +15,11 @@ Profession: Kid
 
 ## Key Information 
 
-| Age                 |     |
-| ------------------- | --- |
-| Profession          |     |
-| Relationship Status |     |
-
+| Age                 | 15               |
+| ------------------- | ---------------- |
+| Profession          | Teen             |
+| Relationship Status | Daughter of Garp |
+|                     | Sister of Sammy  |
 ## Appearance 
 
 - she has thick red hair
@@ -27,10 +27,10 @@ Profession: Kid
 - bandana in her hair
 - tank top and shorts
 ## Core Characteristics
-Cat (short for Caterina) Everyone calls her Cat because she can be soft and kind but when needed she can be fierce. That's why she's the leader.  She has developed a love for animals and has been actively working to protect the wildlife around Dolphin Bay. She appreciates the beauty and complexity of all creatures (big or small). She is protective over her hometown. 
+Cat (short for Caterina) Everyone calls her Cat because she can be soft and kind but when needed she can be fierce. That's why she's the leader.  She has developed a love for animals and has been actively working to protect the wildlife around Dolphin Bay. She appreciates the beauty and complexity of all creatures (big or small). She is protective over her hometown. She encourages her brother in his dream of building a turtle sanctuary. She has started to built a little one in their backyard. 
 ## Essential History 
 
-She is protective over her hometown and finds the protesters' work more harmful than helpful. 
+She lost her mom when her younger brother was born. It's been hard on her but she grew closer to her father, Garp as well as h
 ## Relationships
 Cat has grown up hearing stories about the ocean as her father is a sailor.
 ## Character Behavior 

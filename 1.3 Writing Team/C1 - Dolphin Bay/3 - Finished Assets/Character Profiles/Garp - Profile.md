@@ -15,7 +15,7 @@ Date_Created: 2026-07-10
 
 ## Key Information 
 
-| Age                 | 55                 |
+| Age                 | 47                 |
 | ------------------- | ------------------ |
 | Profession          | Fisherman, trapper |
 | Relationship Status | Widowed (Alexi)    |

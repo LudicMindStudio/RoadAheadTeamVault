@@ -36,7 +36,7 @@ He has a passion for fashion, boxing and rowing. He adores simple pleasantries a
 
 Robert served as a field medic during peace keeping missions for the UK. He was deemed unfit for duty after a particularly harrowing experience abroad and he fled to Dolphin Bay for some therapeutic reprieve. He met Lora while attending yoga classes of the master yogi "Saanvi". They still practice yoga and meditation together every morning. 
 
-Robert's past was revealed when he had to perform an emergency surgery to save Cat's life during her birth. While he managed to save Cat, he could not save the mother. 
+Robert's past was revealed when he had to perform an emergency surgery to save Sammy's life during her birth. While he managed to save Sammy, he could not save the mother. 
 
 ## Relationships
 
