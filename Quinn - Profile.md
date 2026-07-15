@@ -22,10 +22,10 @@ Wears red as a signature color. ex: red jacket over regular gray shirt, black pa
 Pale skin and skinny figure
 ## Core Characteristics 
 
-Quinn works at Camie’s bakery. Usually stays behind the counter taking care of transactions and serving food. They don’t particularly take on any big roles around town and they like to keep to themselves. Like a fly on the wall, they observe people coming and going. On slower days they just stare out the bakery window, daydreaming and waiting for the time to pass. 
+Quinn is quiet and introverted. They may come off as distant and guarded, but are very friendly during interactions. They care a lot about the world and the people around them. They spend most of their time working at Camie’s bakery. Usually behind the counter, taking care of transactions and serving food. They don’t particularly take on any big roles around town and like to keep to themselves. Like a fly on the wall, they observe people coming and going. On slower days they stare out the bakery window, daydreaming and waiting for the time to pass. 
 ## Essential History 
 
-Description of any character defining events that occurred before they meet Lakshmi 
+Quinn didn’t grow up in dolphin bay, they were sent there by their dad, as a means to give them a  They try to keep a low profile and not step on anyone’s toes. Always feeling a bit out of place, but trying to make peace with their reality.
 ## Relationships
 
 Brief description of major relationships (lovers, good friends, enemies etc.)
