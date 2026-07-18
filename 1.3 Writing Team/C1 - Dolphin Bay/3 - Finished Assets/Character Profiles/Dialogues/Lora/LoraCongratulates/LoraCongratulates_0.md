@@ -3,7 +3,7 @@ Date_Created: 2026-03-15
 ---
 
 
-*Dialogue Context* : [[Lora - Profile]]
+*Dialogue Context* : [[Lora - ProfileDRAFT]]
 *First Parent* : {{PREV}}
 # Characters: Lora, Lakshmi, Narrator
 

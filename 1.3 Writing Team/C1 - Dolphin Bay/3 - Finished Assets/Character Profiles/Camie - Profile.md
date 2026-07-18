@@ -5,17 +5,25 @@ Date_Created: 2026-03-13
 Age: 27
 Profession: Baker
 ---
+# Character Brainstorming 
 
-# Reference Art Links
+[[Camie]]
+# Reference Art  
 
 Include any links to reference art here 
 # Description
+
+## Key Information 
+
+| Age                 |       |
+| ------------------- | ----- |
+| Profession          | baker |
+| Relationship Status |       |
 
 ## Appearance 
 
 Camie is 5ft tall with bright pink hair and several custom wooden earrings. She wears a hand sewn hide jacket over a simple shirt with baggy pants and a big belt. She's got a wide friendly face and generally round, kind features. 
 ## Core Characteristics 
-
 Camie is the local baker. They approach their craft with much artistry, and are inspired by aquatic life to create new experimental loaves (like a sea-weed loaf). Camie is also deeply sensitive to the dolphin cause, and concerned that the organization of their society is perpetuating ongoing issues. 
 ## Essential History 
 
@@ -23,11 +31,26 @@ She's also a little worried about everyone getting rallied up, and wants to cont
 ## Relationships
 
 Camie is attending the protest with the rest of the protesters. Like tp go with her best friend, Doran (not to implement))
-## Brainstorming Links
-[[Camie]]
+## Character Behavior 
+
+Use this space to describe generally what the NPC does during their day (optional table below)
+
+|           | LOCATION | ACTIVITY | SPECIAL NOTES |
+| --------- | -------- | -------- | ------------- |
+| MORNING   |          |          |               |
+| AFTERNOON |          |          |               |
+| EVENING   |          |          |               |
+| SPECIAL   |          |          |               |
+
+--- 
+# Character Quests
+
+CHARACTER SIDE QUEST 1 LINK
 
 --- 
 # Character Dialogue 
+
+## Essential Reactions 
 
 [[LakshmiMeetsCamie_0]]
 	Lakshmi walks around where a protest is happening and Camie is there standing a bit in the back.
@@ -38,4 +61,13 @@ Camie is attending the protest with the rest of the protesters. Like tp go with 
 	Lakshmi goes up to Camie who is getting to a protest.
 		Trigger Start - Lakshmi_Has_NPCs_Mail=True, Lakshmi_Interacts_NPC=True  
 		On Clear - Lakshmi_Has_Delivered_NPCs_Mail=True, Lakshmi_Has_NPCs_Mail=False, Lakshmi_Has_Muffins = True
+
+## Misc Reactions 
+
+EXAMPLE INTERACTION 
+	Brief summary of interaction 
+		Conditions -
+
+
+
 

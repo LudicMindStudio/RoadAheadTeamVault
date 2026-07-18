@@ -12,7 +12,7 @@ Include any links to reference art here
 
 ## Key Information 
 
-| Age                 | 42              |
+| Age                 | 39              |
 | ------------------- | --------------- |
 | Profession          | Head gardener   |
 | Relationship Status | Married (Doran) |
@@ -41,11 +41,11 @@ Shirley has a particularly needy Fiddle-Leaf Fig which she's named Sergio. She a
  
 ## Relationships
 
-Doran absolutely adores Shirley and has been known to work incredibly hard fashioning her all kinds of innovative raised garden beds. 
+Doran - absolutely adores Shirley and has been known to work incredibly hard fashioning her all kinds of innovative raised garden beds. 
 
-Shirley gets along quite will with Francois who also talks a lot and sings well. 
+Francois - loves the guy, even though he's not the best singer - he always sings with her, he's game to play along 
 
-Garp is always getting under Shirley's skin (which is pretty easy to do). 
+Garp - Garp is always getting under Shirley's skin (which is pretty easy to do). 
 
 ## Character Behavior 
 

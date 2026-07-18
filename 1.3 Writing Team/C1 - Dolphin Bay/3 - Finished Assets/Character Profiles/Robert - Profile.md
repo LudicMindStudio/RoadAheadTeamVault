@@ -2,9 +2,6 @@
 tags:
 Date_Created: 2026-07-07
 ---
-```
-> PLEASE TITLE - CharacterName - Profile
-```
 
 # Character Brainstorming 
 
@@ -28,26 +25,30 @@ Robert is a tall, well built man. He has an immaculate long nose (which ends in 
 ## Core Characteristics
 
 He's the very best that British gentlemanly has to offer. He's quick witted, dashing and loyal. He never complains about at thing, and is always happy to see you. 
+
 He's a great listener and the perfect person to confess to. Although he's quite reserved about himself and his secrets. 
+
 He prefers not to take on much responsibility unless it's an absolute emergency. He's here to support not to lead. 
 
 He has a passion for fashion, boxing and rowing. He adores simple pleasantries and always manages to make excellent tea. 
 
 ## Essential History 
 
-Robert served as a field medic during peace keeping missions for the UK. He was deemed unfit for duty after a particularly harrowing experience abroad and he fled to Dolphin Bay for some therapeutic reprieve. He met Lora while attending yoga classes of the master yogi "Yanis". They still practice yoga and meditation together every morning. 
+Robert served as a field medic during peace keeping missions for the UK. He was deemed unfit for duty after a particularly harrowing experience abroad and he fled to Dolphin Bay for some therapeutic reprieve. He met Lora while attending yoga classes of the master yogi "Saanvi". They still practice yoga and meditation together every morning. 
 
-Robert's past was revealed when he had to perform an emergency surgery to save Cat's life during her birth. While he managed to save Cat, he could not save the mother. 
+Robert's past was revealed when he had to perform an emergency surgery to save Sammy's life during her birth. While he managed to save Sammy, he could not save the mother. 
 
 ## Relationships
 
-Robert doesn't have the easiest time with Francois. He finds him too brash. 
+Francois - would like to get along, but finds him a bit brash and unpolished 
 
-Given the recent coldness between Lora and Greg, Robert is a rather unfortunate mediator of the conflict which arises. He's still good friends with Greg. 
+Greg - Given the recent coldness between Lora and Greg, Robert is a rather unfortunate mediator of the conflict which arises. He's still good friends with Greg. 
 
-He likes to talk fashion with Gatz, and he's always curious what Juliette is reading. 
+Gatz - He likes to talk fashion with Gatz
 
-Robert and Elio are building a diorama together of Inca empire and the high Andes. He doesn't understand his son's behavior as well as Lora. Elio's rudeness is particularly annoying for Robert. 
+Juliette - Loves to stop by and sea what she's reading, she doesn't mind his intrusions 
+
+Elio - Robert and Elio are building a diorama together of Inca empire and the high Andes. He doesn't understand his son's behavior as well as Lora. Elio's rudeness is particularly annoying for Robert. 
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)

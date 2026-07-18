@@ -16,7 +16,7 @@ Date_Created: 2026-07-08
 
 ## Key Information 
 
-| Age                 | 69                    |
+| Age                 | 64                    |
 | ------------------- | --------------------- |
 | Profession          | Cartographer,  hunter |
 | Relationship Status | Single                |
@@ -58,7 +58,7 @@ He lives in a small home right next to the guildhall where he does his logistica
 
 Doran - the two are still repairing their relationship, but they tend to understand each other better than anyone else 
 
-Garp - his best friend, the two love to get out on the boat together and watch a good sunset or sunrise 
+Garp - a good friend, the two love to get out on the boat together and watch a good sunset or sunrise 
 
 Lisa - his confidant, he loves her with all his heart and would have no idea how to get on without her. At the moment, she's become very worried about his Alfred driven fog trips, and this makes Warren quite upset 
 
