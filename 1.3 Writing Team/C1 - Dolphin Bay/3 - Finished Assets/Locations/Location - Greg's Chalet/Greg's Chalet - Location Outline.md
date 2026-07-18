@@ -27,11 +27,11 @@ Door (South) to Grandpa Dan Chalet Exterior
 ---
 # Location Interactables
 
-[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Locations/Location - Greg's Chalet/Interactables/Mirror - Interactable]]
+[[Mirror - Interactable]]
 	Lakshmi looks at the mirror
 		On Clear - Lakshmi_Interacted_Mirror=True 
 
-[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Locations/Location - Greg's Chalet/Interactables/Wardrobe - Interactable]]
+[[Wardrobe - Interactable]]
 	Find socks in wardrobe
 		On Clear - Lakshmi_Found_Socks=True 
 

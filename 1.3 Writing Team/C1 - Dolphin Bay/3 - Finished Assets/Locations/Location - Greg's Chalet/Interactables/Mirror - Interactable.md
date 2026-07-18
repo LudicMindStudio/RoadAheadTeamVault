@@ -10,9 +10,9 @@ Date_Created:
 Full size mirror  
 # Default Interactions
 
-Root Location - [[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Locations/Location - Greg's Chalet/Greg's Chalet - Location Outline]]
+Root Location - [[Greg's Chalet - Location Outline]]
 
-[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Locations/Location - Greg's Chalet/Dialogues/Lakshmi_Looks_at_Mirror_0-Dialogue]]  
+[[Lakshmi_Looks_at_Mirror_0-Dialogue]]  
 	Lakshmi compliments herself 
 	On Clear - Lakshmi_Interacted_Mirror=True
 
