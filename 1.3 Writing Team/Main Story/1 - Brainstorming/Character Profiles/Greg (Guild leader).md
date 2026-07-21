@@ -16,10 +16,10 @@ Include any links to reference art here
 
 ## Key Information 
 
-| Age                 | 59                                                                 |
-| ------------------- | ------------------------------------------------------------------ |
-| Profession          | Leader of the chapter where the main character is a postal carrier |
-| Relationship Status |                                                                    |
+| Age                 | 59            |
+| ------------------- | ------------- |
+| Profession          | Guild Leader  |
+| Relationship Status | Father figure |
 
 ## Appearance 
 
