@@ -15,10 +15,10 @@ Include any links to reference art here
 
 ## Key Information 
 
-| Age                 |       |
-| ------------------- | ----- |
-| Profession          | baker |
-| Relationship Status |       |
+| Age                 | 29     |
+| ------------------- | ------ |
+| Profession          | baker  |
+| Relationship Status | Single |
 
 ## Appearance 
 
@@ -30,7 +30,7 @@ Camie is the local baker. They approach their craft with much artistry, and are 
 She's also a little worried about everyone getting rallied up, and wants to contribute a warm loving presence to keep everything calm. That doesn't mean she isn't angry about the dolphins though! She's no stranger to protests. 
 ## Relationships
 
-Camie is attending the protest with the rest of the protesters. Like tp go with her best friend, Doran (not to implement))
+Camie is attending the protest with the rest of the protesters. 
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)

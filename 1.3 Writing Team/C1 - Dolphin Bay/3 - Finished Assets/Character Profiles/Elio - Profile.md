@@ -18,7 +18,7 @@ Include any links to reference art here
 ## Appearance 
 - Orange hair
 - Bright yellow t-shirt
-- brown ey
+- brown eyes
 - black shorts
 - black shoes
 - wears sunglasses
@@ -31,8 +31,9 @@ Elio is the dominant one in a a conversation. He has a hard time letting other p
 Elio always seems to be in a good mood. 
 ## Relationships
 
+Sammy - Elio grew close to Sammy. They get along well. Elio encourages Sammy to be more assertive, but Sammy 
 
-Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
+
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
