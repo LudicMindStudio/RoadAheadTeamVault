@@ -6,19 +6,19 @@ Date_Created: 2026-07-10
 # Character Brainstorming 
 [[Little Boy 3 (Elio)]]
 # Reference Art  
-
+Include any links to reference art here 
 # Description
 
 ## Key Information 
 
-| Age                 | 10                     |     |
-| ------------------- | ---------------------- | --- |
-| Profession          | kid                    |     |
-| Relationship Status | Child of Robert & Lora |     |
-|                     |                        |     |
+| Age                 | 10                     |
+| ------------------- | ---------------------- |
+| Profession          | kid                    |
+| Relationship Status | Child of Robert & Lora |
 ## Appearance 
-- Blond hair
-- Bright orange t-shirt
+- Orange hair
+- Bright yellow t-shirt
+- brown ey
 - black shorts
 - black shoes
 - wears sunglasses
