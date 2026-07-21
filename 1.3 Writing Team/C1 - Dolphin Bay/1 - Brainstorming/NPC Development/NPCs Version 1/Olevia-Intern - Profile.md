@@ -26,12 +26,13 @@ Include any links to reference art here
 Detailed description of the appearance of the character. What do they physically look like? What do they like to wear? 
 ## Core Characteristics
 
-Olevia is an newbie awkward duck who really wants to become a good postal worker. They cannot wait for their exam invitation, so they work extra hard to impress Greg. In contrast to Lakshmi, Olevia is passive and forgettable (hence everyone forgetting their name). They love to daydream and loathe to interact with people. 
+Olevia is an newbie awkward duck who really wants to become a good postal worker. They cannot wait for their exam invitation, so they work extra hard to impress Greg. In contrast to Lakshmi, Olevia is passive and forgettable (hence everyone forgetting their name). They love to daydream and loathe meeting new people. 
 
 ## Essential History 
 
-Description of any character defining events that occurred before they meet Lakshmi 
+Description of any character defining events that occurred before they meet Lakshmi.
 
+Olevia moved from their hometown to Dolphin Bay to become a postal worker. They have arrived a week ago or so before the fog got so thick, Dolphin Bay got completely isolated from other villages. Is a bit homesick. Really en
 
 ## Relationships
 
