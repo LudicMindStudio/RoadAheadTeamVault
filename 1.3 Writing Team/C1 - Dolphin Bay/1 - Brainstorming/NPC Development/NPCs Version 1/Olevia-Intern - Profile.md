@@ -26,10 +26,13 @@ Include any links to reference art here
 Detailed description of the appearance of the character. What do they physically look like? What do they like to wear? 
 ## Core Characteristics
 
-Description of the vibe of the character. What makes this character tick? 
+Olevia is an newbie awkward duck who really wants to become a good postal worker. They cannot wait for their exam invitation, so they work extra hard to impress Greg. In contrast to Lakshmi, Olevia is passive and forgettable (hence everyone forgetting their name). They love to daydream and loathe to interact with people. 
+
 ## Essential History 
 
 Description of any character defining events that occurred before they meet Lakshmi 
+
+
 ## Relationships
 
 Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
@@ -58,7 +61,9 @@ INTRODUCTION TO NPC
 	Brief summary of intro conversation 
 	Conditions - (START) First interaction with NPC 
 
-DELIVERED MAIL TO NPC
+
+
+*DELIVERED MAIL TO NPC
 	Brief summary of DELIVERED MAIL TO NPC
 		Conditions - (START) Lakshmi must have mail for NPC
 ## Misc Reactions 
