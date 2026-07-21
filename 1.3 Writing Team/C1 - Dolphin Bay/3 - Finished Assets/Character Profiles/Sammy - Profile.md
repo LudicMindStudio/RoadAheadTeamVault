@@ -13,7 +13,7 @@ Date_Created:
 
 ## Key Information 
 
-| Age                 | 8              |
+| Age                 | 9              |
 | ------------------- | -------------- |
 | Profession          | kid            |
 | Relationship Status | Son of Garp    |
@@ -26,13 +26,17 @@ Date_Created:
 - White shorts
 
 ## Core Characteristics
-Loves sea animal especially turtles. He has one at home and cares for it very well. His dad, Garp and his sister, Car helped him rescue it. He likes to show off his turtle, Abby. When it rains, Sammy goes outside in the grass and digs worms to feed his turtle. He talks about Abby as his pride and joy. When he is older, he hopes he will be able to open a turtle sanctuary to care for more hurt turtles. 
+Loves sea animal especially turtles. He has one at home and cares for it very well. His dad, Garp and his sister, Cat helped him rescue it. He likes to show off his turtle, Abby. When it rains, Sammy goes outside in the grass and digs worms to feed his turtle. He talks about Abby as his pride and joy. When he is older, he hopes he will be able to open a turtle sanctuary to care for more hurt turtles. 
 ## Essential History 
 
 Sammy lives with his dad and sister, but has grown close to Elio's parents as the two boys spend a lot of time together. Elio is protective over Sammy and treats him as a younger brother. 
 ## Relationships
 
 Garp - 
+
+Robert - 
+
+Lora -
 
 Elio - Sammy appreciates greatly Elio's friendship. It seems like Cat and Elio sometimes fight to be the better older "sibiling".
 
@@ -45,7 +49,7 @@ Cat - Sammy admires Cat's spirit.
 |           | LOCATION | ACTIVITY                 | SPECIAL NOTES |
 | --------- | -------- | ------------------------ | ------------- |
 | MORNING   | At home  | takes care of his turtle |               |
-| AFTERNOON | Docks    | walks round              |               |
+| AFTERNOON |          |                          |               |
 | EVENING   |          |                          |               |
 | SPECIAL   | At home  | digs up worms            | When it rains |
 
