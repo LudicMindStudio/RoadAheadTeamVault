@@ -32,7 +32,7 @@ Loves sea animal especially turtles. He has one at home and cares for it very we
 Sammy lives with his dad and sister, but has grown close to Elio's parents as the two boys spend a lot of time together. Elio is protective over Sammy and treats him as a younger brother. 
 ## Relationships
 
-Garp - His dad and him share the love of sea, but they don't spend too much time together. 
+Garp - His dad and him share the love of sea, but they don't spend too much time together. They spend their evening in close vicinity but they don't talk much
 
 Robert - Sammy has a lot of respect towards Robert. He knows that he wouldn't be alive if it weren't for him.
 
@@ -50,7 +50,7 @@ Cat - Sammy admires Cat's spirit.
 | --------- | ---------------------------- | ------------------------------------ | ------------- |
 | MORNING   | At home                      | takes care of his turtle             |               |
 | AFTERNOON | Around the docks and village | Hangs out                            |               |
-| EVENING   | At home                      | Works on the mini sanctuary with Car |               |
+| EVENING   | At home                      | Works on the mini sanctuary with Cat |               |
 | SPECIAL   | At home                      | digs up worms                        | When it rains |
 
 --- 

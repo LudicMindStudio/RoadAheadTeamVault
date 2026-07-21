@@ -41,12 +41,13 @@ Sammy - Cat used to be very close with her brother, but these days he's been spe
 
 ## Character Behavior 
 
-|           | LOCATION                         | ACTIVITY                               | SPECIAL NOTES |
-| --------- | -------------------------------- | -------------------------------------- | ------------- |
-| MORNING   | Docks                            | Helps her dad prepare to go fishing    |               |
-| AFTERNOON | Around the village and the docks | Hangs out until her dad's return       |               |
-| EVENING   | At home                          | Build mini turtle sanctuary with Sammy |               |
-| SPECIAL   |                                  |                                        |               |
+|           | LOCATION                         | ACTIVITY                                        | SPECIAL NOTES |
+| --------- | -------------------------------- | ----------------------------------------------- | ------------- |
+| MORNING   | Beach                            | helps her dad setting traps, collecting oysters |               |
+| AFTERNOON | Around the village and the docks | Hangs out                                       |               |
+| EVENING   | At home                          | Builds mini turtle sanctuary with Sammy         |               |
+| SPECIAL   |                                  |                                                 |               |
+
 
 --- 
 # Character Quests

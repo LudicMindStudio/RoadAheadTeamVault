@@ -35,21 +35,18 @@ Sammy - Tullia likes Abby, but doesn't speak much to Sammy
 
 Elio - Tullia finds Elio too blunt. 
 
-Juliette - 
+Juliette - Juliette shared her love of reading with Tullia. If it is not to read together, they rarely spend time together. 
 
-Francois - 
-
+Francois - Tullia's personality is very different from her Dad. She doesn't agree with his way of doing things and prefers to stay away from everything regarding the protests. 
 
 ## Character Behavior 
 
-Use this space to describe generally what the NPC does during their day (optional table below)
-
-|           | LOCATION    | ACTIVITY          | SPECIAL NOTES |
-| --------- | ----------- | ----------------- | ------------- |
-| MORNING   |             |                   |               |
-| AFTERNOON |             |                   |               |
-| EVENING   | local inn   | helps out her mom |               |
-| SPECIAL   | wooden area | watches fireflies | alone         |
+|           | LOCATION    | ACTIVITY                     | SPECIAL NOTES |
+| --------- | ----------- | ---------------------------- | ------------- |
+| MORNING   |             |                              |               |
+| AFTERNOON |             |                              |               |
+| EVENING   | wooden area | watches fireflies or reading | alone         |
+| SPECIAL   | Beach       | Reading under the sun        | With Juliette |
 
 --- 
 # Character Quests
