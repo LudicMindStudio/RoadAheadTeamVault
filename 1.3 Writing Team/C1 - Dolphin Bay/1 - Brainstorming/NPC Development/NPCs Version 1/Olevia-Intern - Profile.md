@@ -32,7 +32,7 @@ Olevia is an newbie awkward duck who really wants to become a good postal worker
 
 Description of any character defining events that occurred before they meet Lakshmi.
 
-Olevia moved from their hometown to Dolphin Bay to become a postal worker. They have arrived a week ago or so before the fog got so thick, Dolphin Bay got completely isolated from other villages. Is a bit homesick. Really en
+Olevia moved from their hometown to Dolphin Bay to become a postal worker. They have arrived a week ago or so before the fog got so thick, Dolphin Bay got completely isolated from other villages. Is a bit homesick. Really enjoys learning the history and background of villages and typically spends time in bookstores or hangs out with the librarian.
 
 ## Relationships
 
