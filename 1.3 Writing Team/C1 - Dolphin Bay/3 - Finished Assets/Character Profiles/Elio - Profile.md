@@ -28,11 +28,12 @@ Include any links to reference art here
 Elio is the dominant one in a a conversation. He has a hard time letting other people talk about their ideas. He acts this way because he is fed up with the way adults act around him. He wants people to truly care about the animals and not protesting to fuel their discontentment. He wants to be heard and for his town to become more harmonized than polarized.  Loves fun facts about animals. 
 ## Essential History 
 
-Elio always seems to be in a good mood. 
+TO DO
 ## Relationships
 
-Sammy - Elio grew close to Sammy. They get along well. Elio encourages Sammy to be more assertive, but Sammy prefers to 
+Sammy - Elio grew close to Sammy. They get along well. 
 
+TO DO
 
 ## Character Behavior 
 

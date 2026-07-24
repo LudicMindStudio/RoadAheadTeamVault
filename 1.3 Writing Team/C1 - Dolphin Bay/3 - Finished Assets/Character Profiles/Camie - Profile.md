@@ -44,7 +44,7 @@ Use this space to describe generally what the NPC does during their day (optiona
 
 --- 
 # Character Quests
-
+[[Camie - Side Quest Brainstorm]]
 CHARACTER SIDE QUEST 1 LINK
 
 --- 

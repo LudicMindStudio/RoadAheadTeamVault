@@ -51,7 +51,7 @@ Sammy - Cat used to be very close with her brother, but these days he's been spe
 
 --- 
 # Character Quests
-
+[[CAT- Side Quest Brainstorm]]
 CHARACTER SIDE QUEST 1 LINK
 
 --- 

@@ -51,29 +51,38 @@ He may not be as driven as Anita that the answer is just around the corner, but 
 
 [[Leaf - Profile]] 
 
-**[[Sammy - Profile]]** — Would like this kid if he ever met him. A boy who wants to open a turtle sanctuary? Gyo would see a kindred spirit.
+[[Sammy - Profile]] — Would like this kid if he ever met him. A boy who wants to open a turtle sanctuary? Gyo would see a kindred spirit.
+
+---
+
+## Daily Schedule
+
+See the [[18-sanctuary-production-plan]] in the project planning folder for the full time-blocked schedule. Key anchors:
+- **07:00** — Morning feeding rounds (Anchor 1)
+- **12:00** — Lunch with Anita — best player conversation window (Anchor 2)
+- **17:00** — Wind down, reads, tinkers in the kitchen
+
+State variants: fish shortage (protest active) adds rationing at 08:00.
 
 ---
 
 # Character Dialogue
 
+All dialogue files are at `Dialogues/Gyo/`.
+## [[OpenIntroduction_Gyo_0]] — First Meeting
+*Lakshmi's first meeting with Gyo in the sanctuary kitchen.*
+- `Requires: Lakshmi_Visits_Sanctuary_First=True`
+- `Sets: Lakshmi_Met_Gyo=True`
 
-OPENING_INTRODUCTION
-  Brief summary: Lakshmi's first meeting with Gyo at the sanctuary
-    Trigger Start - Lakshmi_Visits_Sanctuary_First=True
-    On Clear - Lakshmi_Met_Gyo=True
+## [[GyoFeeding_0]] — Feeding Research
+*Gyo explains his sushi experiments and presentation-based feeding methodology.*
+- `Requires: Lakshmi_Met_Gyo=True`
 
-ABOUT_HIS_RESEARCH
-  Brief summary: Gyo explains the sushi experiments
-    Trigger Start - Lakshmi_Met_Gyo=True, Lakshmi_Asks_About_Research=True
-    On Clear - Lakshmi_Knows_About_Feeding_Research=True
+## [[GyoFrancoisConfrontation_0]] — The Confrontation
+*Gyo's version of the night Francois came to the sanctuary.*
+- `Requires: Lakshmi_Sees_Gyos_Worry=True`
 
-ABOUT_ANITA
-  Brief summary: Gyo opens up slightly about worrying for Anita
-    Trigger Start - Lakshmi_Met_Anita=True, Lakshmi_Knows_About_Research=True
-    On Clear - Lakshmi_Sees_Gyos_Worry=True
-
-INTUITION_ABOUT_FOG
-  Brief summary: Gyo mentions his suspicion that the fog is involved
-    Trigger Start - Lakshmi_Sees_Gyos_Worry=True, Lakshmi_Asks_About_Fog=True
-    On Clear - Lakshmi_Hears_Fog_Theory=True
+## [[GyoFogIntuition_0]] — Fog Theory
+*Gyo shares his intuition that the dolphins left because of the fog.*
+- `Requires: Lakshmi_Sees_Gyos_Worry=True`
+- `Sets: Lakshmi_Hears_Fog_Theory=True`
