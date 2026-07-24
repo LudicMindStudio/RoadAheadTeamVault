@@ -12,7 +12,7 @@ Date_Created: 2026-03-23
 [[Quest 1 - Visit the Guild Hall - Outline]]
 ## Root Location
 
-[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Locations/Location - Greg's Chalet/Greg's Chalet - Location Outline]]
+[[Greg's Chalet - Location Outline]]
 ## Character List
 
 Grandpa Dan Character Profile
@@ -48,7 +48,7 @@ Lakshmi Wakes Up - Dialogue
 ---
 # Scene Interactables
 
-[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Locations/Location - Greg's Chalet/Interactables/Mirror - Interactable]]
+[[Mirror - Interactable]]
 	Lakshmi realizes she was in uniform since late last night
 		Trigger Start - Lakshmi_Just_Woke_Up=True  
 		On Clear - Lakshmi_Saw_Uniform_Mirror=True 

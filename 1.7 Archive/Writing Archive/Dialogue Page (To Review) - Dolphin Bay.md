@@ -4,14 +4,10 @@ tags:
 created:
   "{ date }":
 ---
-<<<<<<< HEAD
 # Goal: 
 Review the dialogue and add feedback with the ___ plugin (WIP). 
-=======
-Goal: Review the dialogue and add feedback with the ___ plugin (WIP). 
 
 # NOT IN USE YET!!!!
->>>>>>> origin/master
 # Progress
 - [x] Not Assigned
 - [ ] Started

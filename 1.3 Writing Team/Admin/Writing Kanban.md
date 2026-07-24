@@ -45,10 +45,6 @@ kanban-plugin: board
 
 
 
-## <<<<<<< HEAD
-
-
-
 
 
 %% kanban:settings

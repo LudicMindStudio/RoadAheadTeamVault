@@ -2,11 +2,7 @@
 Date_Created: 2026-03-09
 ---
 
-<<<<<<<< HEAD:1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Character Profiles/Dialogues/Cat/IntroToCatAndTullia_1_2.md
 *Dialogue Root* : [[IntroToCatAndTullia_1]]
-========
-*Dialogue Root* : [[LakshmiMeetsCatAndTullia_0]]
->>>>>>>> origin/master:1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Character Profiles/Dialogues/Cat/LakshmiMeetsCatAndTullia/LakshmiMeetsCatAndTullia_1_2.md
 # Characters: Lakshmi, Cat & Tullia
 ## Bundle : IntroToCatAndTullia_1_2
 
