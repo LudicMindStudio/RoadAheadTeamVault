@@ -31,7 +31,7 @@ The decor of the town is bright and colourful. the buildings have thin walls and
 **Guild hall** (Centre, see GH on map)
 The guild hall is well ornamented. it stands out as a building with a useful service to the towns folk, but also as a prideful centre piece.
 
-NPC: [[Greg - Profile]], [[Lora - Profile]], [[Olevia - Profile]], [[Robert - ProfileDRAFT]]
+NPC: [[Greg - Profile]], [[Lora - ProfileDRAFT]], [[Olevia - Profile]], [[Robert - ProfileDRAFT]]
 
 **Dolphin statue** (East side) [[Dolphin Bay (Eastern side)]]
 The dolphin statue is in the heart of the town's activities (besides the fish market, the general goods store, etc.). It's the symbol of the village. The protestants will be mainly gathered around it to reinforce their cause.  
