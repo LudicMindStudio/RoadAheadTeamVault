@@ -6,19 +6,19 @@ Date_Created: 2026-07-10
 # Character Brainstorming 
 [[Little Boy 3 (Elio)]]
 # Reference Art  
-
+Include any links to reference art here 
 # Description
 
 ## Key Information 
 
-| Age                 | 10                     |     |
-| ------------------- | ---------------------- | --- |
-| Profession          | kid                    |     |
-| Relationship Status | Child of Robert & Lora |     |
-|                     |                        |     |
+| Age                 | 10                     |
+| ------------------- | ---------------------- |
+| Profession          | kid                    |
+| Relationship Status | Child of Robert & Lora |
 ## Appearance 
-- Blond hair
-- Bright orange t-shirt
+- Orange hair
+- Bright yellow t-shirt
+- brown eyes
 - black shorts
 - black shoes
 - wears sunglasses
@@ -31,8 +31,9 @@ Elio is the dominant one in a a conversation. He has a hard time letting other p
 Elio always seems to be in a good mood. 
 ## Relationships
 
+Sammy - Elio grew close to Sammy. They get along well. Elio encourages Sammy to be more assertive, but Sammy prefers to 
 
-Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
+
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)

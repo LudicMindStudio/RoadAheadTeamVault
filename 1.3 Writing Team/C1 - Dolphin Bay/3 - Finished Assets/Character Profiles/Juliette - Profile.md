@@ -52,7 +52,7 @@ Use this space to describe generally what the NPC does during their day (optiona
 | MORNING   | Beach          | "Walking" Edris       |               |
 | AFTERNOON | The Clam (inn) | Working               |               |
 | EVENING   | Home           | Reading, Chores       |               |
-| SPECIAL   | Beach          | Reading under the sun | With  Elio    |
+| SPECIAL   | Beach          | Reading under the sun | With Tullia   |
 
 
 --- 

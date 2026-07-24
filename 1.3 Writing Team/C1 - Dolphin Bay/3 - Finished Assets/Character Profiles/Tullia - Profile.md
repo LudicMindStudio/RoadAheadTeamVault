@@ -29,18 +29,24 @@ Description of the vibe of the character. What makes this character tick?
 ## Essential History 
 - Tullia is wary of strangers. She lives with her mom, Juliette and her dad, Francois. She is strongly attached to Cat. She's been hanging out with Cat since they are babies and Tullia learned to trust Cat. 
 ## Relationships
-Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
-- She is part of the group of kids in Dolphin Bay. She feels the closest towards Cat. She will rarely be on her own except sometimes at night, she will come out and watch fireflies in a wooded area in Dolphin Bay. She prefers nightime as people are quieter, but nature seems to be louder. She will not start a conversation and if prompted she prefers to keep conversations short. She is quiet, but knows a lot about what is going on around her as her dad is involded in the protests and her mom runs the local inn. She tells everything she knows only to Cat.
+Cat - Tullia feels the closest towards Cat. She will rarely be on her own except sometimes at night, she will come out and watch fireflies in a wooded area in Dolphin Bay. She prefers nightime as people are quieter, but nature seems to be louder. She will not start a conversation and if prompted she prefers to keep conversations short. She is quiet, but knows a lot about what is going on around her as her dad is involded in the protests and her mom runs the local inn. She tells everything she knows only to Cat.
+
+Sammy - Tullia likes Abby, but doesn't speak much to Sammy
+
+Elio - Tullia finds Elio too blunt. 
+
+Juliette - Juliette shared her love of reading with Tullia. If it is not to read together, they rarely spend time together. 
+
+Francois - Tullia's personality is very different from her Dad. She doesn't agree with his way of doing things and prefers to stay away from everything regarding the protests. 
+
 ## Character Behavior 
 
-Use this space to describe generally what the NPC does during their day (optional table below)
-
-|           | LOCATION    | ACTIVITY          | SPECIAL NOTES |
-| --------- | ----------- | ----------------- | ------------- |
-| MORNING   |             |                   |               |
-| AFTERNOON |             |                   |               |
-| EVENING   | local inn   | helps out her mom |               |
-| SPECIAL   | wooden area | watches fireflies | alone         |
+|           | LOCATION    | ACTIVITY                     | SPECIAL NOTES |
+| --------- | ----------- | ---------------------------- | ------------- |
+| MORNING   |             |                              |               |
+| AFTERNOON |             |                              |               |
+| EVENING   | wooden area | watches fireflies or reading | alone         |
+| SPECIAL   | Beach       | Reading under the sun        | With Juliette |
 
 --- 
 # Character Quests
