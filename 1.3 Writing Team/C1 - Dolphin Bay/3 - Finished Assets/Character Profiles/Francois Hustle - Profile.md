@@ -21,7 +21,7 @@ Include any links to reference art here
 
 ## Appearance 
 
-Francois Hustle gives pirate vibes (think more like the cook). He's a tall, slightly overweight guy (with a large round tummy) and big arms. His lower right arm is missing, and the stump has a finely made leather strap attached to a metal rod with two tongs (the rod has a lock, so that the tongs can be open or closed). He has small kind eyes (almost hidden under his bushy eyebrows) and a big mouth with a noble little nose, and a scar that runs under his chin. He always has his hair in a pony tail. Right now he's sporting quite a bit of stubble (just not around his scar). 
+Francois Hustle gives pirate vibes (think more like the cook). He's a tall, slightly overweight guy (with a large round tummy) and big arms. His lower left arm is missing, and the stump has a finely made leather strap attached to a metal rod with two tongs (the rod has a lock, so that the tongs can be open or closed). He has small kind eyes (almost hidden under his bushy eyebrows) and a big mouth with a noble little nose, and a scar that runs under his chin. He always has his hair in a pony tail. Right now he's sporting quite a bit of stubble (just not around his scar). 
 
 He's always wearing his Hawaiian button up shirts (some chest hair protruding) and his brightly coloured orange bathing suit. He also sports beach shoes (the mesh kind that dry quickly). 
 ## Core Characteristics
