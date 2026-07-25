@@ -47,24 +47,38 @@ The last few months have been the hardest. With only one or two dolphins remaini
 **[[Cat - Profile]]** — Wrote to the sanctuary. To follow up
 
 
+---
+
+## Daily Schedule
+
+See the [[18-sanctuary-production-plan]] in the project planning folder for the full time-blocked schedule. Key anchors:
+- **07:00** — Morning vocalization at the dolphin pens (Anchor 2 — non-negotiable)
+- **12:00** — Lunch with Gyo — best player conversation window (Anchor 3)
+- **17:00** — Wind down with metronome and coffee on the pier
+
+State variants: on research failure, 15:00 block shifts to reflection at the pier.
 
 ---
 
 # Character Dialogue
 
-*To be written*
+All dialogue files are at `Dialogues/Anita/`.
 
-OPENING_INTRODUCTION
-  Brief summary: Lakshmi's first meeting with Anita at the sanctuary
-    Trigger Start - Lakshmi_Visits_Sanctuary_First=True
-    On Clear - Lakshmi_Met_Anita=True
+## [[OpenIntroduction_Anita_0]] — First Meeting
+*Lakshmi's first meeting with Anita in the lab.*
+- `Requires: Lakshmi_Visits_Sanctuary_First=True`
+- `Sets: Lakshmi_Met_Anita=True`
 
-RESEARCH_EXPLANATION
-  Brief summary: Anita explains her dolphin communication research
-    Trigger Start - Lakshmi_Met_Anita=True, Lakshmi_Asks_About_Research=True
-    On Clear - Lakshmi_Knows_About_Dolphin_Calls=True
+## [[AnitaResearch_0]] — Research Deep Dive
+*Anita explains her dolphin communication research in detail.*
+- `Requires: Lakshmi_Met_Anita=True`
+- `Sets: Lakshmi_Known_About_Anita_Dolphin_Calls=True`
 
-ABOUT_FRANCOIS
-  Brief summary: Anita's perspective on the Francois confrontation
-    Trigger Start - Lakshmi_Knows_About_Anita_Dolphin_Calls=True, Lakshmi_Asks_About_Francois=True
-    On Clear - Lakshmi_Hears_Anitas_Side=True
+## [[AboutFrancois_0]] — The Confrontation
+*Anita's clinical perspective on what happened when Francois came to the sanctuary.*
+- `Requires: Lakshmi_Met_Anita=True`
+
+## [[AnitaNonApology_0]] — After the Research Fails
+*Post-Quest D. Anita on the pier at sunset, metronome ticking.*
+- `Requires: DolphinBay_Research_Failed=True`
+- `Sets: DolphinBay_Anita_Accepted_Failure=True`
