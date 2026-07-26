@@ -122,7 +122,89 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.25.3",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "id": "rV_hWPQvs3q-hi0rf3E6H",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "rB9S0vL-hdsS-47bL1R7D",
+            "type": "rectangle",
+            "x": -733.7289206306771,
+            "y": 1419.1857121151181,
+            "width": 172.38211685369026,
+            "height": 85,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "b0b",
+            "roundness": {
+              "type": 3
+            },
+            "seed": 98627914,
+            "version": 651,
+            "versionNonce": 851916630,
+            "isDeleted": false,
+            "boundElements": [
+              {
+                "type": "text",
+                "id": "olBzXfBz"
+              }
+            ],
+            "updated": 1782947904031,
+            "link": null,
+            "locked": false,
+            "hasTextLink": false
+          },
+          {
+            "id": "olBzXfBz",
+            "type": "text",
+            "x": -719.0278219206289,
+            "y": 1436.6857121151181,
+            "width": 142.97991943359375,
+            "height": 50,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "b0c",
+            "roundness": null,
+            "seed": 67647498,
+            "version": 725,
+            "versionNonce": 286560007,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1785102769298,
+            "locked": false,
+            "text": "Gyo, Biologist,\nSushi Chef",
+            "rawText": "Gyo, Biologist, Sushi Chef",
+            "fontSize": 20,
+            "fontFamily": 5,
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "rB9S0vL-hdsS-47bL1R7D",
+            "originalText": "Gyo, Biologist, Sushi Chef",
+            "autoResize": true,
+            "lineHeight": 1.25,
+            "hasTextLink": false
+          }
+        ],
+        "created": 1785102943380
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,
