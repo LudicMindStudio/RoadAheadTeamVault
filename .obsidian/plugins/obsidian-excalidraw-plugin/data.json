@@ -124,6 +124,96 @@
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.25.3",
     "libraryItems": [
       {
+        "id": "hUnE63rDoVzLv22GfDtEC",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "dUw2DXVcs7YLqvkfgV4M1",
+            "type": "rectangle",
+            "x": -706.6253238431473,
+            "y": -429.24907219749736,
+            "width": 223.80210966791117,
+            "height": 115,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "aB",
+            "roundness": {
+              "type": 3
+            },
+            "seed": 1884202551,
+            "version": 394,
+            "versionNonce": 689416758,
+            "isDeleted": false,
+            "boundElements": [
+              {
+                "type": "text",
+                "id": "nCdSE0Jw"
+              },
+              {
+                "id": "QV3KUGWW1fwv_bnwueWL4",
+                "type": "arrow"
+              },
+              {
+                "id": "_-8cI8V87O9Waj7QNVIh_",
+                "type": "arrow"
+              }
+            ],
+            "updated": 1782487766318,
+            "link": null,
+            "locked": false,
+            "hasTextLink": false
+          },
+          {
+            "id": "nCdSE0Jw",
+            "type": "text",
+            "x": -689.4202300077268,
+            "y": -424.24907219749736,
+            "width": 189.3919219970703,
+            "height": 105,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "aC",
+            "roundness": null,
+            "seed": 1378535255,
+            "version": 359,
+            "versionNonce": 118656246,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1782487769087,
+            "locked": false,
+            "text": "Cat the\nLeader of the\nKid's Club",
+            "rawText": "Cat the\nLeader of the Kid's Club",
+            "fontSize": 28,
+            "fontFamily": 5,
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "dUw2DXVcs7YLqvkfgV4M1",
+            "originalText": "Cat the\nLeader of the Kid's Club",
+            "autoResize": true,
+            "lineHeight": 1.25,
+            "hasTextLink": false,
+            "link": null
+          }
+        ],
+        "created": 1785103511931
+      },
+      {
         "id": "rV_hWPQvs3q-hi0rf3E6H",
         "status": "unpublished",
         "elements": [
