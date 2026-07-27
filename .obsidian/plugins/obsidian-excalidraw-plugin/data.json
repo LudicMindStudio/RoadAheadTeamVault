@@ -124,6 +124,92 @@
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.25.3",
     "libraryItems": [
       {
+        "id": "JIptQ-uor9W8Fuod7jZIE",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "fGAW71CxBbzeOsTBu1tWO",
+            "type": "rectangle",
+            "x": 375.2934872444677,
+            "y": 1141.7882196290527,
+            "width": 172.38211685369026,
+            "height": 60,
+            "angle": 0,
+            "strokeColor": "#2f9e44",
+            "backgroundColor": "#ebfbee",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "b0T",
+            "roundness": {
+              "type": 3
+            },
+            "seed": 1680451178,
+            "version": 658,
+            "versionNonce": 746400553,
+            "isDeleted": false,
+            "boundElements": [
+              {
+                "type": "text",
+                "id": "c8NtQkmz"
+              },
+              {
+                "id": "CV0eqtOB",
+                "type": "arrow"
+              }
+            ],
+            "updated": 1785158782883,
+            "link": null,
+            "locked": false,
+            "hasTextLink": false
+          },
+          {
+            "id": "c8NtQkmz",
+            "type": "text",
+            "x": 412.37457557853935,
+            "y": 1146.7882196290527,
+            "width": 98.21994018554688,
+            "height": 50,
+            "angle": 0,
+            "strokeColor": "#2f9e44",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "b0U",
+            "roundness": null,
+            "seed": 1035815210,
+            "version": 604,
+            "versionNonce": 1474289161,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1785158782883,
+            "locked": false,
+            "text": "Doran the\nBuilder",
+            "rawText": "Doran the Builder",
+            "fontSize": 20,
+            "fontFamily": 5,
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "fGAW71CxBbzeOsTBu1tWO",
+            "originalText": "Doran the Builder",
+            "autoResize": true,
+            "lineHeight": 1.25,
+            "hasTextLink": false,
+            "link": null
+          }
+        ],
+        "created": 1785158788960
+      },
+      {
         "id": "hUnE63rDoVzLv22GfDtEC",
         "status": "unpublished",
         "elements": [
