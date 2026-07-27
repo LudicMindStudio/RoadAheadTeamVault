@@ -5,7 +5,7 @@ Date_Created: 2026-03-09
 Age: 13
 Profession: Kid
 ---
-# Character Brainstorming 
+ # Character Brainstorming 
 [[Little Girl 2 (Tullia)]]
 # Reference Art  
 [[Tullia_ConceptArt.jpeg]]

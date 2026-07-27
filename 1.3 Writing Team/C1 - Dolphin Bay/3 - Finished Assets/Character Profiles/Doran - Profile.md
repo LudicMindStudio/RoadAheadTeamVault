@@ -42,7 +42,7 @@ Cared for his father during quarantine, he was sick but made a full recovery. Sh
 Doran built or repaired nearly all the structures in town by this point. He is cherished for his hard work, but he yearns to find an apprentice to take on some of the tasks. 
 ## Relationships
 
-Shirley - absolutely adores her, kisses the ground of which she walks 
+[[Shirley- Profile]] - absolutely adores her, kisses the ground of which she walks 
 
 Warren - tremendous respect, tremendous distance, they sometimes go hunting together 
 
