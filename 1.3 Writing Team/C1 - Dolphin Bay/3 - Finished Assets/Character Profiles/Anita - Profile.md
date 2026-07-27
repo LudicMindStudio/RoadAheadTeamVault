@@ -40,7 +40,7 @@ The last few months have been the hardest. With only one or two dolphins remaini
 
 ## Relationships
 
-**[Gyo - Profile]]** — Her husband of decades. Her opposite in every way that matters and her perfect complement. He's warm where she's clinical, talkative where she's terse, creative where she's empirical. They finish each other's sentences and jab each other constantly. He worries she over-exerts herself. She tells him to stop worrying.
+**[[Gyo - Profile]]** — Her husband of decades. Her opposite in every way that matters and her perfect complement. He's warm where she's clinical, talkative where she's terse, creative where she's empirical. They finish each other's sentences and jab each other constantly. He worries she over-exerts herself. She tells him to stop worrying.
 
 **[[Francois Hustle - Profile]]** — ~~The source of the town's anger. She doesn't understand why he's so upset — she tried to help him. She hasn't processed that her attempt at reassurance was the thing that broke everything.~~
 
