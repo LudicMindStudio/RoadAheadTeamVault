@@ -2,7 +2,7 @@
 tags:
 Date_Created: 2026-07-10
 ---
-
+ 
 # Character Brainstorming 
 
 [[Francois Hustle - ProfileArchive]]
@@ -44,7 +44,7 @@ The Francois of the present:
 
 He hasn't been sleeping. He's full of boundless energy, and optimism. He doesn't worry about the village future or the villagers. His talking is forced, rapid and he doesn't take much time to listen. 
 
-He feels chosen to help the dolphins as they helped him, and he knows that helping the dolphin will save everyone. His connection brain is working on overdrive. Whereas he could rely on the accuracy of his connections before, now, he's bringing things together that just don't work. This leads him to think he's found a secret that will save the village, but he just can't explain it. 
+He feels chosen to help the dolphins as they helped him, and he knows that helping the dolphin will save everyone. His connection brain is working on overdrive. Whereas he could rely on the accuracy of his connections before, now, he's br inging things together that just don't work. This leads him to think he's found a secret that will save the village, but he just can't explain it. 
 
 He's also easily triggered and his optimism is immediately replaced by intense suspicion. He might start to think you're out to get him or the dolphins. 
 
