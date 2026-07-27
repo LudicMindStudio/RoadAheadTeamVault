@@ -1,5 +1,8 @@
 [
   "obsidian-git",
   "obsidian-excalidraw-plugin",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "dialogue-plugin",
+  "obsidian-discord-share",
+  "commentator"
 ]

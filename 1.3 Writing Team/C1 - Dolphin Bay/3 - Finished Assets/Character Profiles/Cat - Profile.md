@@ -59,7 +59,7 @@ CHARACTER SIDE QUEST 1 LINK
 
 ## Essential Reactions 
 
-[[IntroToCatAndTullia_0]] {>>CL: So from what we previously discussed. We can assume Lakshmi met Cat and Tullie before. And the two NPCs can still follow each other at all times so they can be in the same scene if youd like<<}{>>AFP: I like that but I want to make sure everyone is okay with it<<}
+[[IntroToCatAndTullia_0]] 
 	Cat is sitting near the docks with Tullia. They are talking among themselves. Lakshmi comes near and Cat calls her out. 
 		Trigger Start - Lakshmi_comes_near_the_group=True, Lakshmi_Has_Met_Cat_and_Tullia = False
 		On Clear - Lakshmi_Has_Met_Cat_and_Tullia =True
@@ -68,8 +68,7 @@ CHARACTER SIDE QUEST 1 LINK
 	Lakshmi chats with Cat about the ocean.
 		Trigger Start - Lakshmi_Interacts_Cat =True
 		
-[[IntroToCat_0]] {>>CL Cat and Francois both seem to had the same idea of sending mail to the dolphin sanctuary (?) organization. Maybe we need another idea for Cat. Im happy to chat! But that's going into quest making. You can leave it vague for now just ot get a sense that Cat is the leader of the kids <<}{>>Maybe it's interesting that they are both waiting for a response? They are the leaders of different "associations" who share a somewhat common goal.
-<<}
+[[IntroToCat_0]] 
 	Cat talks about her interest in the ocean life. 
 		Trigger Start - Lakshmi_Interacts_Cat=True, Lakshmi_Has_Met_Cat_and_Tullia = False
 
