@@ -33,6 +33,7 @@ Grandpa Dan seems cold and secluded. Does not speak much but loves to take care 
 
 *Description of any character defining events that occurred before they meet Lakshmi*
 
+rough notes:
 - Lost family during the Calamity.
 - Knows Greg before Calamity. Power team during early Calamity.
 - Was a seasoned postal worker, helped Greg find the Guild. Retired. Now mostly spends his days baking bread.
