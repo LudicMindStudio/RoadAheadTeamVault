@@ -40,9 +40,12 @@ Olevia moved from their hometown to Dolphin Bay to become a postal worker. They 
 
 Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
 
-[[Lakshmi - Profile]] - Strangers, will become friends over the quest.
+[[Lakshmi - Profile]] - Strangers, jealous of her easy going nature and natural charm to befriend people easily. Will become friends with her over a quest.
 
-[[Greg - Profile]]
+[[Greg - Profile]] - unexpected future friendship. Both are cynical and 
+
+[[Gyo - Profile]] - would love to befriend. A bit intimidated by Anita.
+
 ## Character Behavior 
 
 *Use this space to describe generally what the NPC does during their day (optional table below)*
