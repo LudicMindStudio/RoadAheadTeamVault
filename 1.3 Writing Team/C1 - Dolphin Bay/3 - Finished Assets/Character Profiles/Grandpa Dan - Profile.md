@@ -39,12 +39,12 @@ Brief description of major relationships (lovers, good friends, enemies etc.). W
 
 Use this space to describe generally what the NPC does during their day (optional table below)
 
-|           | LOCATION | ACTIVITY | SPECIAL NOTES |
-| --------- | -------- | -------- | ------------- |
-| MORNING   |          |          |               |
-| AFTERNOON |          |          |               |
-| EVENING   |          |          |               |
-| SPECIAL   |          |          |               |
+|           | LOCATION                    | ACTIVITY                   | SPECIAL NOTES |
+| --------- | --------------------------- | -------------------------- | ------------- |
+| MORNING   | Greg's Chalet               | Baking                     |               |
+| AFTERNOON | Fog view besides the Chalet | Introspection, looking out |               |
+| EVENING   | Greg's Chalet               | Baking                     |               |
+| SPECIAL   |                             |                            |               |
 
 --- 
 # Character Quests

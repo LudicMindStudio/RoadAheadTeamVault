@@ -34,22 +34,29 @@ Worked as a simple postal man before the disaster. He helped to build the postal
 
 [[Lakshmi - Profile]] is his protégé. The paternal figure to Lakshmi. Tries to overprotect her and is the first person to hide anything related to her past. She got inspired by his mannerisms and his passionate views.
 
-[[Grandpa Dan - Profile]] is his dear friend since before the Calamity. Both take care of Lakshmi. Just frienddssssss?
+[[Grandpa Dan - Profile]] is his dear friend since before the Calamity. His friends' cynicism perfectly balances out his idealism, anchoring his priorities. This balance is essential to take care of Lakshmi. But lately, Dan stopped speaking to him due to disagreement on handling Lakshmi's parenting (refusing to tell Lakshmi's past). This really takes a toll on Greg.
+
+Just frienddssssss? 
 
 [[Doran - Profile]] - is his good friend. Doran helped to build Lakshmi's bed.
 
 [[Francois Hustle - Profile]] - Got along before but not anymore. Greg knows Francois triggers the fog thickening but cannot get through to him. Francois became a stubborn isolationist and does not care about expanding the economy by reaching other villages. Naturally, they do not speak much anymore due to protests. 
 
+[[Lora - Profile]] - Lora is cold with him.
+
+[[Briar-Intern - Profile]] - always forgets their name. Seems cold to them due to unfortunate circumstances and bad timing. All his stress and quipping pours out on Briar. 
+
+
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
 
-|           | LOCATION            | ACTIVITY                             | SPECIAL NOTES |
-| --------- | ------------------- | ------------------------------------ | ------------- |
-| MORNING   | Guild Hall          | Working behind the desk              |               |
-| AFTERNOON | Guild Hall          | Working behind the desk              |               |
-| EVENING   | Outside Dolphin Bay | Chatting with Doran at the campfire? |               |
-| SPECIAL   |                     |                                      |               |
+|           | LOCATION            | ACTIVITY                             | SPECIAL NOTES                                                                   |
+| --------- | ------------------- | ------------------------------------ | ------------------------------------------------------------------------------- |
+| MORNING   | Guild Hall          | Working behind the desk              |                                                                                 |
+| AFTERNOON | Guild Hall          | Chatting with Guild members          | if can cycle randomly between NPCs at the Guild, cool. Otherwise, can be Robert |
+| EVENING   | Outside Dolphin Bay | Chatting with Doran at the campfire? |                                                                                 |
+| SPECIAL   |                     |                                      |                                                                                 |
 ## Brainstorming Links
 
 [[Greg (Guild leader)]]
