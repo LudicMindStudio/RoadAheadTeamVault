@@ -16,10 +16,10 @@ Include any links to reference art here
 
 ## Key Information 
 
-| Age                 |     |
-| ------------------- | --- |
-| Profession          |     |
-| Relationship Status |     |
+| Age                 | -                     |
+| ------------------- | --------------------- |
+| Profession          | Retired postal worker |
+| Relationship Status | Single?               |
 
 ## Appearance 
 

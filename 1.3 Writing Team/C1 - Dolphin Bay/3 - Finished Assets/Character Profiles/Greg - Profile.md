@@ -16,10 +16,10 @@ Use this space to draft ideas of the character or link in brainstorming document
 
 ## Key Information 
 
-| Age                 |     |
-| ------------------- | --- |
-| Profession          |     |
-| Relationship Status |     |
+| Age                 | -            |
+| ------------------- | ------------ |
+| Profession          | Guild Leader |
+| Relationship Status | Single?      |
 
 ## Appearance 
 
@@ -34,17 +34,22 @@ Worked as a simple postal man before the disaster. He helped to build the postal
 
 [[Lakshmi - Profile]] is his protégé. She got inspired by his mannerisms and his passionate views.
 
-[[Grandpa Dan - Profile]] sometimes comes over to his chalet to bake.
+[[Grandpa Dan - Profile]] is his dear friend since before the Calamity. Both take care of Lakshmi. Just frienddssssss?
+
+[[Doran - Profile]] - is his good friend. Doran helped to build Lakshmi's bed.
+
+[[Francois Hustle - Profile]] - Got along before but not anymore. Greg knows Francois triggers the fog thickening but cannot get through to him. Francois became a stubborn isolationist and does not care about expanding the economy by reaching other villages. Naturally, they do not speak much anymore due to protests. 
+
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
 
-|           | LOCATION | ACTIVITY | SPECIAL NOTES |
-| --------- | -------- | -------- | ------------- |
-| MORNING   |          |          |               |
-| AFTERNOON |          |          |               |
-| EVENING   |          |          |               |
-| SPECIAL   |          |          |               |
+|           | LOCATION            | ACTIVITY                             | SPECIAL NOTES |
+| --------- | ------------------- | ------------------------------------ | ------------- |
+| MORNING   | Guild Hall          | Working behind the desk              |               |
+| AFTERNOON | Guild Hall          | Working behind the desk              |               |
+| EVENING   | Outside Dolphin Bay | Chatting with Doran at the campfire? |               |
+| SPECIAL   |                     |                                      |               |
 ## Brainstorming Links
 
 [[Greg (Guild leader)]]
