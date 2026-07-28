@@ -49,6 +49,8 @@ Use this space to describe generally what the NPC does during their day (optiona
 
 CHARACTER SIDE QUEST 1 LINK
 
+
+
 --- 
 # Character Dialogue 
 

@@ -42,7 +42,7 @@ Brief description of major relationships (lovers, good friends, enemies etc.). W
 
 [[Lakshmi - Profile]] - Strangers, jealous of her easy going nature and natural charm to befriend people easily. Will become friends with her over a quest.
 
-[[Greg - Profile]] - unexpected future friendship. Both are cynical and 
+[[Greg - Profile]] - unexpected future friendship. Both are cynical and quiet. 
 
 [[Gyo - Profile]] - would love to befriend. A bit intimidated by Anita.
 
@@ -50,12 +50,12 @@ Brief description of major relationships (lovers, good friends, enemies etc.). W
 
 *Use this space to describe generally what the NPC does during their day (optional table below)*
 
-|           | LOCATION | ACTIVITY | SPECIAL NOTES |
-| --------- | -------- | -------- | ------------- |
-| MORNING   |          |          |               |
-| AFTERNOON |          |          |               |
-| EVENING   |          |          |               |
-| SPECIAL   |          |          |               |
+|           | LOCATION                       | ACTIVITY                | SPECIAL NOTES                               |
+| --------- | ------------------------------ | ----------------------- | ------------------------------------------- |
+| MORNING   | Guild Hall                     | Scrambling Mail, Pacing |                                             |
+| AFTERNOON | Under a tree, in a quiet space | Daydreaming             |                                             |
+| EVENING   | Guild Hall                     | Scrambling Mail, Pacing |                                             |
+| SPECIAL   | Dolphin Sanctuary              | Observing Gyo working   | Observing from the side, sometimes chatting |
 ## Brainstorming Links
 [[Act 1 - Quest 1 - Scene 1 (Rough Work)]]
 [[Act 1 - Pre-graduation Revision#Quest 3, Scene 2 Practical Test - Meeting the Intern|Quest 3, Scene 2 - Intern Dialogue]]
@@ -64,20 +64,17 @@ Brief description of major relationships (lovers, good friends, enemies etc.). W
 --- 
 # Character Quests
 
-CHARACTER SIDE QUEST 1 LINK
+BEFIRENDING LAKSHMI
 
 --- 
 # Character Dialogue 
 
 ## Essential Reactions 
 
-INTRODUCTION TO NPC 
-	Brief summary of intro conversation 
-	Conditions - (START) First interaction with NPC 
-
-*DELIVERED MAIL TO NPC
-	Brief summary of DELIVERED MAIL TO NPC
-		Conditions - (START) Lakshmi must have mail for NPC
+INTRODUCTION TO NPC / DELIVER MAIL
+	[[Quest 3 - Deliver Mail to Intern - Outline]]
+	During Lakshmi's postal work exam
+	Lakshmi practices delivering mail to the intern of the Guild
 
 |DIA|[[InternBanter_0]]
 	Intern Banter unrelated to the Act 1 - Quest 2 and Quest 3. Can happend whenever. Intern nerds out about Dolphin Bay
