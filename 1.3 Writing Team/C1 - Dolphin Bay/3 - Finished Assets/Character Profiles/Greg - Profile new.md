@@ -11,7 +11,7 @@ Date_Created:
 Use this space to draft ideas of the character or link in brainstorming documents 
 # Reference Art  
 
-Include any links to reference art here 
+[[gregportrait.png]]
 # Description
 
 ## Key Information 
@@ -23,13 +23,13 @@ Include any links to reference art here
 
 ## Appearance 
 
-Detailed description of the appearance of the character. What do they physically look like? What do they like to wear? 
+Always wears his postal worker uniform. Always seems on duty. Seems cold by appearance but would take the first person to protect and inspire others. 
 ## Core Characteristics
 
-Description of the vibe of the character. What makes this character tick? 
+He has a militaristic style to things, but this is mostly a façade. He is very kind and forgiving and looks after new recruits. He is very passionate about mail delivery. Even before the disaster he had plenty of experience in this profession. He tends to goof off from time to time. 
 ## Essential History 
 
-Description of any character defining events that occurred before they meet Lakshmi 
+Worked as a simple postal man before the disaster. He helped to build the postal carrier guild and was one of the original founders. 
 ## Relationships
 
 Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 

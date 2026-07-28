@@ -10,18 +10,18 @@ Profession: Guild Hall Leader
 
 # Reference Art Links
 
-[[gregportrait.png]]
+
 # Description
 
 ## Appearance 
 
-Always wears his postal worker uniform. Always seems on duty. Seems cold by appearance but would take the first person to protect and inspire others. 
+
 ## Core Characteristics 
 
-He has a militaristic style to things, but this is mostly a façade. He is very kind and forgiving and looks after new recruits. He is very passionate about mail delivery. Even before the disaster he had plenty of experience in this profession. He tends to goof off from time to time. 
+
 ## Essential History 
 
-Worked as a simple postal man before the disaster. He helped to build the postal carrier guild and was one of the original founders. 
+
 ## Relationships
 
 [[Lakshmi - Profile]] is his protégé. She got inspired by his mannerisms and his passionate views.
