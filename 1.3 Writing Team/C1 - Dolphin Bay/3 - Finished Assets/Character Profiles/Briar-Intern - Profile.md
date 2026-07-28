@@ -85,16 +85,16 @@ HELPING LAKSHMI'S QUEST
 
 INTRODUCTION TO NPC / DELIVER MAIL
 	[[Quest 3 - Deliver Mail to Intern - Outline]]
-	During Lakshmi's postal work exam
-	Lakshmi practices delivering mail to the intern of the Guild
 
-|DIA|[[InternBanter_0]]
+
+(WIP) |DIA|[[InternBanter_0]]
 	Intern Banter unrelated to the Act 1 - Quest 2 and Quest 3. Can happend whenever. Intern nerds out about Dolphin Bay
 		Trigger Start - ExampleTag=True
 		On Clear - ExampleTag=True 
 
 DELIVERED MAIL TO NPC 
 	Act 1 [[Quest 3 - Deliver Mail to Intern - Outline]]
+	During Lakshmi's postal work exam, Lakshmi practices delivering mail to the Guild's new intern 
 		Trigger Start - Lakshmi_Has_NPCs_Mail=True, Lakshmi_Interacts_NPC=True  
 		On Clear - Lakshmi_Has_Delivered_NPCs_Mail=True, Lakshmi_Has_NPCs_Mail=False
 ## Misc Reactions 
