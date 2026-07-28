@@ -30,11 +30,21 @@ Scrawny little bookworm/awkward duck. Ambiguous gender. Around Lakshmi's age, pe
 
 Olevia is an newbie awkward duck who really wants to become a good postal worker. They cannot wait for their exam invitation, so they work extra hard to impress Greg. In contrast to Lakshmi, Olevia is passive and forgettable (hence everyone forgetting their name). They love to daydream and loathe meeting new people. 
 
+As an outsider, its 
+
+They also to learn neat facts about villages. 
+
 ## Essential History 
 
-Description of any character defining events that occurred before they meet Lakshmi.
+*Description of any character defining events that occurred before they meet Lakshmi.*
 
-Olevia moved from their hometown to Dolphin Bay to become a postal worker. They have arrived a week ago or so before the fog got so thick, Dolphin Bay got completely isolated from other villages. Is a bit homesick. Really enjoys learning the history and background of villages and typically spends time in bookstores or hangs out with the librarian.
+Briar moved from their hometown to Dolphin Bay to become a postal worker. They have arrived a week ago or so before the fog got thick and completely isolated Dolphin Bay from from other villages. They are a bit homesick but are scared to admit it to anyone, lest be considered incompetent at their job. They really have a hard time meeting new people, and often forget other's names, and others forget theirs - that seems fair, one would suppose. 
+
+They want to become a good postal worker, so they work extra hard to prove their worth. If need be, one can skip a night's rest! That's how you make sure other's will remember their name... right? How does it come so easy to Lakshmi? What is she doing better than them?
+
+They really enjoy learning the history and background of villages and typically spend time in bookstores or hangs out with the librarian. In Dolphin Bay, they hang out mostly in the Guild Hall to read books. 
+
+They enjoy watching Gyo work to learn about dolphins, for he is warmer and less intimidating than Anita.
 
 ## Relationships
 
@@ -55,7 +65,7 @@ Brief description of major relationships (lovers, good friends, enemies etc.). W
 | MORNING   | Guild Hall                     | Scrambling Mail, Pacing |                                             |
 | AFTERNOON | Under a tree, in a quiet space | Daydreaming             |                                             |
 | EVENING   | Guild Hall                     | Scrambling Mail, Pacing |                                             |
-| SPECIAL   | Dolphin Sanctuary              | Observing Gyo working   | Observing from the side, sometimes chatting |
+| SPECIAL   | Dolphin Sanctuary              | Observing Gyo work      | Observing from the side, sometimes chatting |
 ## Brainstorming Links
 [[Act 1 - Quest 1 - Scene 1 (Rough Work)]]
 [[Act 1 - Pre-graduation Revision#Quest 3, Scene 2 Practical Test - Meeting the Intern|Quest 3, Scene 2 - Intern Dialogue]]
@@ -65,6 +75,10 @@ Brief description of major relationships (lovers, good friends, enemies etc.). W
 # Character Quests
 
 BEFIRENDING LAKSHMI
+
+HELPING LAKSHMI'S QUEST
+
+
 
 --- 
 # Character Dialogue 
