@@ -24,21 +24,5 @@ Newbie to the village. Likes the village and what the dolphin history it has.
 ## Relationships
 
 Met Greg in a village and was inspired to become a postal worker. 
-## Brainstorming Links
-[[Act 1 - Quest 1 - Scene 1 (Rough Work)]]
-[[Act 1 - Pre-graduation Revision#Quest 3, Scene 2 Practical Test - Meeting the Intern|Quest 3, Scene 2 - Intern Dialogue]]
-[[Act 1 - Pre-graduation Revision#Quest 3, Scene 3 Practical Test - Intern Memory|Quest 3, Scene 3 - Intern Memory]]
 
---- 
-# Character Dialogue 
-
-|DIA|[[InternBanter_0]]
-	Intern Banter unrelated to the Act 1 - Quest 2 and Quest 3. Can happend whenever. Intern nerds out about Dolphin Bay
-		Trigger Start - ExampleTag=True
-		On Clear - ExampleTag=True 
-
-DELIVERED MAIL TO NPC 
-	Act 1 [[Quest 3 - Deliver Mail to Intern - Outline]]
-		Trigger Start - Lakshmi_Has_NPCs_Mail=True, Lakshmi_Interacts_NPC=True  
-		On Clear - Lakshmi_Has_Delivered_NPCs_Mail=True, Lakshmi_Has_NPCs_Mail=False
 
