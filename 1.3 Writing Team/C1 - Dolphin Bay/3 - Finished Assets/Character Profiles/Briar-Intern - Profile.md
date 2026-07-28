@@ -42,7 +42,7 @@ Briar moved from their hometown to Dolphin Bay to become a postal worker. They h
 
 They want to become a good postal worker, so they work extra hard to prove their worth. If need be, one can skip a night's rest! That's how you make sure other's will remember their name... right? How does it come so easy to Lakshmi? What is she doing better than them?
 
-They really enjoy learning the history and background of villages and typically spend time in bookstores or hangs out with the librarian. In Dolphin Bay, they hang out mostly in the Guild Hall to read books. 
+Briar really enjoys learning of the village history and typically spend their time reading books. They pride in their skill to read complex old books and compile it into simple words. That skill does not really earn you friends though does it?
 
 They enjoy watching Gyo work to learn about dolphins, for he is warmer and less intimidating than Anita.
 
