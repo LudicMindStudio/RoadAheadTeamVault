@@ -23,7 +23,7 @@ Use this space to draft ideas of the character or link in brainstorming document
 
 ## Appearance 
 
-Always wears his postal worker uniform. Always seems on duty. Seems cold by appearance but would take the first person to protect and inspire others. 
+Always wears his postal worker uniform. Always seems on duty. Seems cold by appearance but would take the first person to protect and inspire others. Idealistic and the face of the Guild embodying all of its values to the core. Needs to be stopped by his close friend Dan to review his ideas if they push too far. 
 ## Core Characteristics
 
 He has a militaristic style to things, but this is mostly a façade. He is very kind and forgiving and looks after new recruits. He is very passionate about mail delivery. Even before the disaster he had plenty of experience in this profession. He tends to goof off from time to time. 
@@ -32,7 +32,7 @@ He has a militaristic style to things, but this is mostly a façade. He is very 
 Worked as a simple postal man before the disaster. He helped to build the postal carrier guild and was one of the original founders. 
 ## Relationships
 
-[[Lakshmi - Profile]] is his protégé. She got inspired by his mannerisms and his passionate views.
+[[Lakshmi - Profile]] is his protégé. The paternal figure to Lakshmi. Tries to overprotect her and is the first person to hide anything related to her past. She got inspired by his mannerisms and his passionate views.
 
 [[Grandpa Dan - Profile]] is his dear friend since before the Calamity. Both take care of Lakshmi. Just frienddssssss?
 

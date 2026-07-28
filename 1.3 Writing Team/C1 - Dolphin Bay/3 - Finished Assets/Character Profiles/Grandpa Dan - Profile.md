@@ -27,12 +27,14 @@ Detailed description of the appearance of the character. What do they physically
 ## Core Characteristics
 
 Description of the vibe of the character. What makes this character tick? 
+
+Grandpa Dan seems cold and secluded. Does not speak much but loves to take care of others. With age, more distant from his profession but loves to bake. Has a bit of a temper, but you can see it only by getting to know him well. Lakshmi loves to probe that side of him.
 ## Essential History 
 
 Description of any character defining events that occurred before they meet Lakshmi 
 ## Relationships
 
-Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
+Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
