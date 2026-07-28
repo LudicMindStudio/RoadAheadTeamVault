@@ -30,9 +30,7 @@ Scrawny little bookworm/awkward duck. Ambiguous gender. Around Lakshmi's age, pe
 
 Olevia is an newbie awkward duck who really wants to become a good postal worker. They cannot wait for their exam invitation, so they work extra hard to impress Greg. In contrast to Lakshmi, Olevia is passive and forgettable (hence everyone forgetting their name). They love to daydream and loathe meeting new people. 
 
-As an outsider, its 
-
-They also to learn neat facts about villages. 
+They also love to learn neat facts about villages. 
 
 ## Essential History 
 
