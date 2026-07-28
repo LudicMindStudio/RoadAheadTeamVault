@@ -44,19 +44,18 @@ Just frienddssssss?
 
 [[Lora - Profile]] - Lora is cold with him.
 
-[[Briar-Intern - Profile]] - always forgets their name. Seems cold to them due to unfortunate circumstances and bad timing. All his stress and quipping pours out on Briar. 
-
+[[Briar-Intern - Profile]] - always forgets their name. Seems cold to them due to unfortunate circumstances and bad timing. All his stress from Francois and Dan's situations pours out on Briar through unfair quipping and remarks. 
 
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
 
-|           | LOCATION            | ACTIVITY                             | SPECIAL NOTES                                                                   |
-| --------- | ------------------- | ------------------------------------ | ------------------------------------------------------------------------------- |
-| MORNING   | Guild Hall          | Working behind the desk              |                                                                                 |
-| AFTERNOON | Guild Hall          | Chatting with Guild members          | if can cycle randomly between NPCs at the Guild, cool. Otherwise, can be Robert |
-| EVENING   | Outside Dolphin Bay | Chatting with Doran at the campfire? |                                                                                 |
-| SPECIAL   |                     |                                      |                                                                                 |
+|           | LOCATION            | ACTIVITY                                | SPECIAL NOTES                                                                   |
+| --------- | ------------------- | --------------------------------------- | ------------------------------------------------------------------------------- |
+| MORNING   | Guild Hall          | Working behind the desk                 |                                                                                 |
+| AFTERNOON | Guild Hall          | Chatting with Guild members             | if can cycle randomly between NPCs at the Guild, cool. Otherwise, can be Robert |
+| EVENING   | Outside Dolphin Bay | Chatting with Doran during coffee break | While Doran is taking a break from work                                         |
+| SPECIAL   |                     |                                         |                                                                                 |
 ## Brainstorming Links
 
 [[Greg (Guild leader)]]
