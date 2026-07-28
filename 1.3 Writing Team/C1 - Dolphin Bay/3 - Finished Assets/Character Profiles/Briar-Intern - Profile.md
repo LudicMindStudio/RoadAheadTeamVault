@@ -11,15 +11,15 @@ Date_Created: 2026-07-21
 Use this space to draft ideas of the character or link in brainstorming documents 
 # Reference Art  
 
-Include any links to reference art here 
+![[Briar-Intern concept art.jpg]]
 # Description
 
 ## Key Information 
 
-| Age                 | 17                    |
-| ------------------- | --------------------- |
-| Profession          | Postalworker's Intern |
-| Relationship Status | Strangers             |
+| Age                 | 17                  |
+| ------------------- | ------------------- |
+| Profession          | Postalworker Intern |
+| Relationship Status | Single              |
 
 ## Appearance 
 
@@ -39,9 +39,13 @@ Olevia moved from their hometown to Dolphin Bay to become a postal worker. They 
 ## Relationships
 
 Brief description of major relationships (lovers, good friends, enemies etc.). What does the character think of other characters 
+
+[[Lakshmi - Profile]] - Strangers, will become friends over the quest.
+
+[[Greg - Profile]]
 ## Character Behavior 
 
-Use this space to describe generally what the NPC does during their day (optional table below)
+*Use this space to describe generally what the NPC does during their day (optional table below)*
 
 |           | LOCATION | ACTIVITY | SPECIAL NOTES |
 | --------- | -------- | -------- | ------------- |
@@ -49,6 +53,10 @@ Use this space to describe generally what the NPC does during their day (optiona
 | AFTERNOON |          |          |               |
 | EVENING   |          |          |               |
 | SPECIAL   |          |          |               |
+## Brainstorming Links
+[[Act 1 - Quest 1 - Scene 1 (Rough Work)]]
+[[Act 1 - Pre-graduation Revision#Quest 3, Scene 2 Practical Test - Meeting the Intern|Quest 3, Scene 2 - Intern Dialogue]]
+[[Act 1 - Pre-graduation Revision#Quest 3, Scene 3 Practical Test - Intern Memory|Quest 3, Scene 3 - Intern Memory]]
 
 --- 
 # Character Quests
@@ -64,20 +72,9 @@ INTRODUCTION TO NPC
 	Brief summary of intro conversation 
 	Conditions - (START) First interaction with NPC 
 
-
-
 *DELIVERED MAIL TO NPC
 	Brief summary of DELIVERED MAIL TO NPC
 		Conditions - (START) Lakshmi must have mail for NPC
-## Misc Reactions 
-
-EXAMPLE INTERACTION 
-	Brief summary of interaction 
-		Conditions -
-
-
---- 
-# Character Dialogue 
 
 |DIA|[[InternBanter_0]]
 	Intern Banter unrelated to the Act 1 - Quest 2 and Quest 3. Can happend whenever. Intern nerds out about Dolphin Bay
@@ -88,5 +85,12 @@ DELIVERED MAIL TO NPC
 	Act 1 [[Quest 3 - Deliver Mail to Intern - Outline]]
 		Trigger Start - Lakshmi_Has_NPCs_Mail=True, Lakshmi_Interacts_NPC=True  
 		On Clear - Lakshmi_Has_Delivered_NPCs_Mail=True, Lakshmi_Has_NPCs_Mail=False
+## Misc Reactions 
+
+EXAMPLE INTERACTION 
+	Brief summary of interaction 
+		Conditions -
+
+
 
 
