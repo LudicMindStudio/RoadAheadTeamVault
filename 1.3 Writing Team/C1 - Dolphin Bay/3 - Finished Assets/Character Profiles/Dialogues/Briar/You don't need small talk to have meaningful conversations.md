@@ -16,4 +16,5 @@ Briar: And rapport is just glorified small talk?
 Briar: Maybe I'm overthinking again.
 
 Narrator: *Ask something else?*
+
 **Options**

@@ -15,4 +15,8 @@ Briar: Did you know the lake outlining the village is in the shape of a dolphin?
 
 Briar: You can see it better if you walk towards the sanctuary.
 
+Briar: What? You have the look of someone who already knew it.
+
+Briar: I suppose it makes sense since you live here.
+
 **Options**

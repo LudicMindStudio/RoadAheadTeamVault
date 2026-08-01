@@ -102,7 +102,3 @@ INTRODUCTION TO NPC / DELIVER MAIL TO NPC
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
-
-
-

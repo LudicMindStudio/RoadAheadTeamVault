@@ -9,8 +9,8 @@ Date_Created: 2026-08-01
 
 ## Bundle : Do you ever stop working
 
-Briar: Humph.
+Briar: ...
 
-Briar: {sfx:small text} I have to work for what I lack.
+Briar: {sfx:small text} Some people have to work extra for what they lack.
 
 **Options**

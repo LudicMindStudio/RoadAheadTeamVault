@@ -14,9 +14,6 @@ Intern: Oh, hey Lakshmi.
 **Options**
 
 |DIA|[[Whatcha doin]]
-(stressed)
 |DIA|[[Where are you from]]
-(motivation)
 |DIA|[[Do you ever stop working]]
-(jealousy)
 |DIA|[[Tell me a fun fact]]
