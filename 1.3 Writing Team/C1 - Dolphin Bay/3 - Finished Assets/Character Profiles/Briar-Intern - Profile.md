@@ -11,7 +11,7 @@ Date_Created: 2026-07-21
 Use this space to draft ideas of the character or link in brainstorming documents 
 # Reference Art  
 
-![[Briar-Intern concept art.jpg]]
+![[Briar-Intern_Concept_Art_2.jpg]]
 # Description
 
 ## Key Information 
@@ -23,14 +23,14 @@ Use this space to draft ideas of the character or link in brainstorming document
 
 ## Appearance 
 
-Scrawny little bookworm/awkward duck. Ambiguous gender. Around Lakshmi's age, perhaps slightly younger. They take great care of their Guild uniform and wear it with pride, as it represents their dream to become one day a full-fledged postal worker. They should contrast Lakshmi's bright, outgoing appearance, instead leaning toward the look of a "background NPC" - reserved, introverted, and easy to overlook.
+Scrawny little bookworm/awkward duck. Ambiguous gender. Around Lakshmi's age, perhaps slightly younger. They take great care of their Guild uniform and wear it with pride, as it represents their dream to become one day a full-fledged postal worker. They should contrast Lakshmi's bright, outgoing appearance, instead leaning toward the look of a "background NPC" - reserved, introverted, and easy to overlook. They always seem to carry too many items in their hands (like too many envelopes, or an oversized box)
 
-**Special item:** Book.
+**Special item:** Old looking scrapped gadget from the old world.
 ## Core Characteristics
 
 Olevia is an newbie awkward duck who really wants to become a good postal worker. They cannot wait for their exam invitation, so they work extra hard to impress Greg. In contrast to Lakshmi, Olevia is passive and forgettable (hence everyone forgetting their name). They love to daydream and loathe meeting new people. 
 
-They also love to learn neat facts about villages. 
+They also love to collect items from the old world. 
 
 ## Essential History 
 
