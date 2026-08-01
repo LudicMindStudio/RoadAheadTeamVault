@@ -12,4 +12,4 @@ Date_Created: 2026-08-01
 Briar: Ughh. I can't believe I misplaced it again! 
 
 **Options**
-|DIA|[[You ok there]]
+|DIA|[[InternPacingBanter_1]]: You ok there?
