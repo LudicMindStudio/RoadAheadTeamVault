@@ -13,7 +13,7 @@ Intern: Oh, hey Lakshmi.
 
 **Options**
 
-|DIA|[[Whatcha doin]]
-|DIA|[[Where are you from]]
-|DIA|[[Do you ever stop working]]
-|DIA|[[Tell me a fun fact]]
+|DIA|[[InternRelaxBanter_1]]: Whatcha doin
+|DIA|[[InternRelaxBanter_2]]: Where are you from
+|DIA|[[InternRelaxBanter_3]]: Do you ever stop working
+|DIA|[[InternRelaxBanter_4]]: Tell me a fun fact

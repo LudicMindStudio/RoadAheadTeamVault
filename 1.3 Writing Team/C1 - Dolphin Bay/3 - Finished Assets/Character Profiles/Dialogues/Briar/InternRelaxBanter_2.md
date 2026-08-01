@@ -7,7 +7,7 @@ Date_Created: 2026-08-01
 *First Parent* : [[InternRelaxBanter_0]]
 # Characters: ## Bundle : InternRelaxBanter_0
 
-## Bundle : Where are you from
+## Bundle : InternRelaxBanter_2
 
 Briar: I'm from Bubble Town! It's the next town across the river.
 
@@ -20,5 +20,5 @@ Briar: Greg passed by my village once and he was so cool! I also want to connect
 Briar: You see though.. I'm not really a people person.
 
 **Options**
-|DIA|[[Do you ever feel homesick]]
-|DIA|[[Do you need to be a people person]]
+|DIA|[[InternRelaxBanter_2_1]]: Do you ever feel homesick
+|DIA|[[InternRelaxBanter_2_2]]: Do you need to be a people person

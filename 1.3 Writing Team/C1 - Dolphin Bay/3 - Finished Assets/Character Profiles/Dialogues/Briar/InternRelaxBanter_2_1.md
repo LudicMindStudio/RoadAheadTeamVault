@@ -3,11 +3,11 @@ Date_Created: 2026-08-01
 ---
 
 
-*Dialogue Context* : [[Where are you from]]
-*First Parent* : [[Where are you from]]
+*Dialogue Context* : [[InternRelaxBanter_2]]
+*First Parent* : [[InternRelaxBanter_2]]
 # Characters: ## Bundle : InternRelaxBanter_0
 
-## Bundle : Do you ever feel homesick
+## Bundle : InternRelaxBanter_2_1
 
 Briar: Quite a bit actually.
 

@@ -90,12 +90,12 @@ INTRODUCTION TO NPC / DELIVER MAIL TO NPC
 
 |DIA|[[InternRelaxBanter_0]]
 	Happens whenever the Intern is relaxing under a tree outside (tied to [[#Character Behavior]])
-		Trigger Start - Lakshmi_Has_Delivered_Briars_Mail=True
+		Conditions - Lakshmi_Has_Delivered_Briars_Mail=True
 		On Clear - BriarPacing=True
 
 |DIA|[[InternPacingBanter_0]]
 	Happens whenever the Intern is pacing in the Guild Hall (tied to [[#Character Behavior]])
-		Trigger Start - Lakshmi_Has_Delivered_Briars_Mail=True
+		Conditions - Lakshmi_Has_Delivered_Briars_Mail=True
 		On Clear - BriarRelaxing=True
 ## Misc Reactions 
 

@@ -3,11 +3,11 @@ Date_Created: 2026-08-01
 ---
 
 
-*Dialogue Context* : [[Doesn't it get lonely]]
-*First Parent* : [[Doesn't it get lonely]]
+*Dialogue Context* : [[InternRelaxBanter_1_1]]
+*First Parent* : [[InternRelaxBanter_1_1]]
 # Characters: ## Bundle : InternRelaxBanter_0
 
-## Bundle : You don't need small talk to have meaningful conversations
+## Bundle : InternRelaxBanter_1_1_1
 
 Briar: Don't meaningful conversations start by first establishing rapport?
 
