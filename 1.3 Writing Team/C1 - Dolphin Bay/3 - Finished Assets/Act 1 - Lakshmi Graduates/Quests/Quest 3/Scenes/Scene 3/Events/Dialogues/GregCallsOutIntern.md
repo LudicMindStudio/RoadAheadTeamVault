@@ -9,11 +9,13 @@ Date_Created: 2026-03-27
 
 ## Bundle : GregCallsOutIntern
 
-Greg: {sfx: big text} GET {sfx: small text} what's her name {sfx: big text} IN HERE STAT! 
+Greg: {sfx: big text} GET {sfx: small text} what's their name {sfx: big text} IN HERE STAT! 
 
-InternL ...
+Intern: ...
 
-Intern: I'll just hide here... For a minute. 
+Intern: I'll just hide here... For a minute.
+
+Intern: ...or longer.
 
 Intern: Anyway, I've got the whole night to rearrange the mail...
 

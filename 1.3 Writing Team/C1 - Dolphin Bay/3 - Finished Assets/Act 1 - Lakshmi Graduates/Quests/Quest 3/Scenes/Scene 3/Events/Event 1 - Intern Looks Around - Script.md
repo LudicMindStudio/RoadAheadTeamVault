@@ -55,7 +55,7 @@ Greg enters the room - Greg
 	On Clear - GregEnterRoom=True
 
 Greg looks around - Greg 
-	Greg looks briefly around looking for the intern and doesnt find them
+	Greg looks briefly around looking for the intern and doesn't find them
 	On Clear - GregSearchesRoom=True
 
 Greg leaves the room - Greg 

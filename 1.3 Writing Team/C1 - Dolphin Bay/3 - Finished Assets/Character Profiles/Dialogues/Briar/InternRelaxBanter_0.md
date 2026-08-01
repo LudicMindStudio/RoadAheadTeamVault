@@ -1,15 +1,15 @@
 ---
-Date_Created: 2026-03-25
+Date_Created: 2026-08-01
 ---
 
 
-*Dialogue Context* : [[Olevia - Profile]]
-*First Parent* : [[Olevia - Profile]]
+*Dialogue Context* : [[Briar-Intern - Profile]]
+*First Parent* : [[Briar-Intern - Profile]]
 # Characters: 
 
-## Bundle : InternBanter_0
+## Bundle : InternRelaxBanter_0
 
-Intern: Hey Lakshmi! It's good to see you around.
+Intern: Oh, hey Lakshmi. 
 
 Intern: Did you know the lake outlining the village is in the shape of a dolphin? It's appropriately named!
 
@@ -18,4 +18,8 @@ Intern: It was the reason I came here in the first place... I really like how co
 Intern: I haven't found any dolphins though... Maybe I scared them off? I am pretty clumsy.
 
 **Options**
-NA
+
+|DIA|[[Whatcha doin]]
+(stressed)
+|DIA|Where are you from? (motivation)
+|DIA|Do you ever stop working? (jealousy)
