@@ -83,4 +83,3 @@ EXAMPLE INTERACTION
 	Brief summary of interaction 
 		Conditions -
 
-
