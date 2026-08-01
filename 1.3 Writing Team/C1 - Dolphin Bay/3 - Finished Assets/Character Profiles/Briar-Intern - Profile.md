@@ -58,12 +58,12 @@ Brief description of major relationships (lovers, good friends, enemies etc.). W
 
 *Use this space to describe generally what the NPC does during their day (optional table below)*
 
-|           | LOCATION                       | ACTIVITY                | SPECIAL NOTES                                                                                         |
-| --------- | ------------------------------ | ----------------------- | ----------------------------------------------------------------------------------------------------- |
-| MORNING   | Guild Hall                     | Scrambling Mail, Pacing | dialogue trigger start: BriarPacing = True                                                            |
-| AFTERNOON | Under a tree, in a quiet space | Daydreaming             | Trigger Start - Lakshmi_Has_Delivered_Briars_Mail=True<br><br>**paces all night, doesn't go to sleep* |
-| EVENING   | Guild Hall                     | Scrambling Mail, Pacing | dialogue trigger start: BriarPacing = True                                                            |
-| SPECIAL   | Dolphin Sanctuary              | Observing Gyo work      | Observing from the side, sometimes chatting                                                           |
+|           | LOCATION                       | ACTIVITY                | SPECIAL NOTES                                                                                                    |
+| --------- | ------------------------------ | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| MORNING   | Guild Hall                     | Scrambling Mail, Pacing |                                                                                                                  |
+| AFTERNOON | Under a tree, in a quiet space | Daydreaming             | Behaviour: Trigger Start - Lakshmi_Has_Delivered_Briars_Mail=True<br><br>**paces all night, doesn't go to sleep* |
+| EVENING   | Guild Hall                     | Scrambling Mail, Pacing |                                                                                                                  |
+| SPECIAL   | Dolphin Sanctuary              | Observing Gyo work      | Observing from the side, sometimes chatting                                                                      |
 
 ## Brainstorming Links
 [[Act 1 - Quest 1 - Scene 1 (Rough Work)]]
