@@ -11,6 +11,8 @@ Date_Created: 2026-08-01
 
 Briar: Not really. I don't particularly enjoy talking to strangers...
 
-Briar: Besides, 
+Briar: Besides, I'm not very good at small talk.
 
 **Options**
+|DIA|[[Is it that hard]]
+|DIA|[[You don't need small talk to have meaningful conversations]]

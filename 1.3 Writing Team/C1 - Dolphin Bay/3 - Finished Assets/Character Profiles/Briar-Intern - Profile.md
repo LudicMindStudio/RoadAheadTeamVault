@@ -82,26 +82,21 @@ Brief description of major relationships (lovers, good friends, enemies etc.). W
 
 ## Essential Reactions 
 
-(WIP) |DIA|[[InternBanter_0]]
-	Intern Banter unrelated to the Act 1 - Quest 2 and Quest 3. Can happend whenever. Intern nerds out about Dolphin Bay
-		Trigger Start - BriarRelaxing=True
-		On Clear - ExampleTag=True 
-
-|DIA|[[InternRelaxBanter_0]]
-	Happens whenever the Intern is relaxing under a tree outside (see [[#Character Behavior]])
-		Trigger Start - BriarRelaxing=True
-		On Clear - ExampleTag=True
-
-|DIA|[[InternPacingBanter_0]]
-	Happens whenever the Intern is pacing in the Guild Hall (see [[#Character Behavior]])
-		Trigger Start - BriarPacing=True
-		On Clear - ExampleTag=True
-
 INTRODUCTION TO NPC / DELIVER MAIL TO NPC 
 	Act 1 [[Quest 3 - Deliver Mail to Intern - Outline]]
 	During Lakshmi's postal work exam, Lakshmi practices delivering mail to the Guild's new intern 
 		Trigger Start - Lakshmi_Has_Briar_Mail=True, Lakshmi_Interacts_NPC=True  
 		On Clear - Lakshmi_Has_Delivered_Briars_Mail=True, Lakshmi_Has_NPCs_Mail=False
+
+|DIA|[[InternRelaxBanter_0]]
+	Happens whenever the Intern is relaxing under a tree outside (tied to [[#Character Behavior]])
+		Trigger Start - Lakshmi_Has_Delivered_Briars_Mail=True
+		On Clear - BriarPacing=True
+
+|DIA|[[InternPacingBanter_0]]
+	Happens whenever the Intern is pacing in the Guild Hall (tied to [[#Character Behavior]])
+		Trigger Start - Lakshmi_Has_Delivered_Briars_Mail=True
+		On Clear - BriarRelaxing=True
 ## Misc Reactions 
 
 EXAMPLE INTERACTION 

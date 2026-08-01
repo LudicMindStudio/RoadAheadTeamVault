@@ -13,7 +13,7 @@ Briar: I-I wasn't slacking off!
 
 Briar: ...
 
-Briar: I like coming to relax here sometimes. I can see most villagers from here.
+Briar: I like to relax here sometimes. I can see most villagers from here.
 
 **Options**
 |DIA|[[Doesn't it get lonely]]

@@ -9,10 +9,7 @@ Date_Created: 2026-08-01
 
 ## Bundle : InternPacingBanter_0
 
-  
-
-CharacterName: Example words...
-
-  
+Briar: Ughh. I can't believe I misplaced it again! 
 
 **Options**
+|DIA|[[You ok there]]
