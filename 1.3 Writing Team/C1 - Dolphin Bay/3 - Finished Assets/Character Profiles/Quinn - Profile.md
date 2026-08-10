@@ -11,6 +11,8 @@ Profession: Bakery clerk/server
 # Reference Art Links
 
 ![[image0.jpeg]]
+## Portraits
+
 # Description
 
 ## Appearance 
@@ -38,6 +40,7 @@ Brainstorming Document One
 Brainstorming Document Two...
 
 --- 
+
 # Character Dialogue 
 
 DIALOGUE_0 ONE

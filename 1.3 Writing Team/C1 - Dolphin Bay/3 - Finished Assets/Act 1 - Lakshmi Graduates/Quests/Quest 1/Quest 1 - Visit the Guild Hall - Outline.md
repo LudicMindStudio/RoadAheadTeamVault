@@ -28,7 +28,7 @@ Trigger Clear - Lakshmi_Visited_GuildHall=True (Lakshmi enters the Guildhall)
 --- 
 # Quest Scenes
 
-[[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Scene 1 - Chalet First Morning - Outline]]
+[[Scene 1 - Chalet First Morning - Outline]]
 	Location: [[Greg's Chalet - Location Outline]]
 	Lakshmi goes downstairs and leaves the Chalet 
 		Trigger Start - Lakshmi=True 

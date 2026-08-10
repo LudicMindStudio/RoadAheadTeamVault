@@ -11,6 +11,8 @@ Profession: Baker
 # Reference Art  
 
 Include any links to reference art here 
+## Portraits
+
 # Description
 
 ## Key Information 
@@ -48,6 +50,7 @@ Use this space to describe generally what the NPC does during their day (optiona
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
+
 # Character Dialogue 
 
 ## Essential Reactions 
@@ -67,7 +70,4 @@ CHARACTER SIDE QUEST 1 LINK
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
-
-
 

@@ -11,6 +11,10 @@ Profession: Kid
 # Reference Art  
 
 ![[Pasted image 20260710155906.png|290]]
+## Portraits
+
+[[cat.png]]
+
 # Description
 
 ## Key Information 
@@ -48,13 +52,13 @@ Sammy - Cat used to be very close with her brother, but these days he's been spe
 | EVENING   | At home                          | Builds mini turtle sanctuary with Sammy         |               |
 | SPECIAL   |                                  |                                                 |               |
 
-
 --- 
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
+
 # Character Dialogue 
 
 ## Essential Reactions 
@@ -83,5 +87,4 @@ CHARACTER SIDE QUEST 1 LINK
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
 

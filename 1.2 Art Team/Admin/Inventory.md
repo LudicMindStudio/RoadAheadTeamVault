@@ -1,80 +1,81 @@
-Portraits
+# Art Asset Inventory
 
-| Name        |     |     |
-| ----------- | --- | --- |
-| Female NPC  |     |     |
-| Grandpa Dan |     |     |
-| Greg        |     |     |
-| Lakshmi     |     |     |
-| Male NPC    |     |     |
+> Last updated: 2026-07-27
+> See `!!Master Task List.md` for what's still needed
 
-Walking sprites
+## Character Portraits
 
-| Name                 |     |
-| -------------------- | --- |
-| Female Child NPC     |     |
-| Female NPC           |     |
-| Grandpa Dan          |     |
-| Lakshmi              |     |
-| Male NPC             |     |
-| Blank walking sprite |     |
-|                      |     |
+Location: `General Assets/Character Portraits/`
+Aseprite sources: `General Assets/Character Portraits/sources/`
 
-Tilesets
+### Named — Done
 
-|     |     |
-| --- | --- |
-|     |     |
+| Character | Base | Variants | Redo |
+|-----------|------|----------|------|
+| Lakshmi | `lakshmiportrait.png` | beaming, angry, sad, annoyed | — |
+| Greg | `gregportrait.png` | — | `gregredo.png` |
+| Grandpa Dan | `grandpadanportrait.png` | — | `grandpadanrework.png` |
+| Francois | `francois.png` | — | — |
+| Garp | `garp.png` | — | — |
+| Robert | `robert.png` | — | — |
+| Olevia | `olevia.png` | — | — |
+| Lora | `lora.png` | — | — |
+| Cat | `cat.png` | — | — |
 
+### Generic — Done
 
+| Type | File |
+|------|------|
+| Female NPC | `femalenpcportrait.png` |
+| Male NPC | `malenpcportrait.png` |
+| Female Child NPC | `femalechildnpcportrait.png` |
+| Male Child NPC | `malechildnpcportrait.png` |
 
-Objects
+### Needed — Not Yet Started
 
-| Name                 | Notes                                  |
-| -------------------- | -------------------------------------- |
-| Fence                |                                        |
-| Stump                |                                        |
-| dolphin statue small |                                        |
-| dolphin statue big   |                                        |
-| firefly              |                                        |
-| Fist Statue          |                                        |
-| Telephone            | This probably shouldn't be in the game |
-| Thinker              |                                        |
-| Grass Patch_1        |                                        |
-| Grass Patch_2        |                                        |
-| Grass Patch_3        |                                        |
-| Leaves_1             |                                        |
-| Leaves_2             |                                        |
-| Leaves_3             |                                        |
-| Dolphin Statue Blue  |                                        |
-| Bush                 |                                        |
-| Bush                 |                                        |
-| Bush                 |                                        |
-| Flower pot           |                                        |
-| Flower pot           |                                        |
-| Flower pot           |                                        |
-| Leaves pot           |                                        |
-| Hay Bundle           |                                        |
-| Boulder              |                                        |
-| Boulder              |                                        |
-| Boulder              |                                        |
-| Barrels              |                                        |
-| Barrel               |                                        |
-| Mailbox              |                                        |
-| Mailbox open         |                                        |
-| Fence_vertical       |                                        |
-| Fence_horizontal     |                                        |
-| Fence_horizontal_2   |                                        |
-| Fence Stake          |                                        |
-| Unknown              | Not sure what this is                  |
-| Unknown              |                                        |
-| Trees                |                                        |
-| Trees                |                                        |
-| Trees                |                                        |
-| Trees                |                                        |
-|                      |                                        |
+Camie, Tullia, Sammy, Elio, Doran, Gatz, Quinn, Leaf, Warren, Felix, Lisa
+Plus Liam's Memory cast (8 characters)
 
-UI
+---
 
+## Walking Sprites
 
-Splash Images
+Location: `General Assets/Walk Frames/`
+
+### Done
+
+| Character | File |
+|-----------|------|
+| Lakshmi | `WalkFramesLakshmi.png` |
+| Greg | `WalkFramesGreg.png` |
+| Grandpa Dan | `WalkFramesGrandpaDan.png` |
+| Female NPC | `WalkFramesFemaleNPC.png` |
+| Male NPC | `WalkFramesMaleNPC.png` |
+| Female Child NPC | `WalkFramesFemaleChildNPC.png` |
+| Template base | `WalkFramesTemplateNPC.aseprite` |
+| Base (adult) | `!NPCBase.png` |
+| Base (child) | `!ChildNPCBase.png` |
+
+### Needed
+
+Male Child NPC, all character-specific walk sprites
+
+---
+
+## Tilesets & Sprites
+
+Location: `C1 - Dolphin Bay/3 - Finished Assets/Sprites & Tiles/`
+
+### Exterior (20 files)
+
+Docks (5), houses (2), fences (2), vegetation (3), market stands (2),
+paths/cobble (1), dirt wall (1), sea wall (1), dolphin statue (1),
+misc outdoor (2)
+
+### Interior (8 files)
+
+Walls/floor/counter/windows, furniture, mail items, teacup, objects
+
+### Lakshmi Quiz Doodles
+
+`Laskhmi_Quizz_Doodles.png` + `.aseprite`

@@ -65,12 +65,17 @@ Use this space to describe generally what the NPC does during their day (optiona
 
 CHARACTER SIDE QUEST 1 LINK
 
---- 
-# Character Dialogue 
+---
 
-## Essential Reactions 
+## Portraits
 
-INTRODUCTION TO NPC 
+[[grandpadanportrait.png]]
+
+# Character Dialogue
+
+## Essential Reactions
+
+INTRODUCTION TO NPC
 	Brief summary of intro conversation 
 	Conditions - (START) First interaction with NPC 
 
@@ -82,4 +87,4 @@ DELIVERED MAIL TO NPC
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
+>>>>>>> Stashed changes
