@@ -102,8 +102,19 @@ def collect_blocks(filepath: str) -> list[dict]:
         return found
 
     section = None
+    in_fence = False
     for idx, raw in enumerate(lines):
         line = raw.rstrip("\n")
+        # Fenced code blocks (``` or ~~~) are documentation/examples, not
+        # dialogue content. The Writer's Guide shows syntax inside fences;
+        # those flags must NOT enter the registry. Real dialogue files
+        # never fence their Conditions/Sets sections.
+        if line.startswith("```") or line.startswith("~~~"):
+            in_fence = not in_fence
+            section = None
+            continue
+        if in_fence:
+            continue
         sec_m = SECTION_RE.match(line)
         if sec_m:
             section = sec_m.group(1)
