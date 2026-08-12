@@ -90,7 +90,8 @@ var ResultModal = class extends import_obsidian.Modal {
 var FlagRegistryPlugin = class extends import_obsidian.Plugin {
   constructor(app, manifest) {
     super(app, manifest);
-    this.scriptsDir = path.join(manifest.dir || "", "scripts");
+    const relOrAbs = manifest.dir || "";
+    this.scriptsDir = path.isAbsolute(relOrAbs) ? path.join(relOrAbs, "scripts") : path.join(this.vaultPath(), relOrAbs, "scripts");
   }
   async onload() {
     await this.loadSettings();

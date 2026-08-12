@@ -171,11 +171,18 @@ def vault_walk(vault_path: str):
 
 
 def obsidian_link(abs_path: str, vault_path: str) -> str:
-    """Obsidian wiki-link relative to the vault root, no extension."""
+    """Obsidian wiki-link relative to the vault root, no extension.
+
+    The pipe before the alias is ESCAPED (\\|) because Obsidian's markdown
+    table parser splits every `|` as a column separator — even inside
+    [[wikilinks]]. Escaping keeps the alias working inside the registry
+    table (known Obsidian behavior, see forum threads on wikilink aliases
+    in tables). Renders as `[[path|alias]]`.
+    """
     rel = os.path.relpath(abs_path, vault_path)
     rel_noext = os.path.splitext(rel)[0]
     stem = os.path.basename(rel_noext)
-    return f"[[{rel_noext}|{stem}]]"
+    return f"[[{rel_noext}\\|{stem}]]"
 
 
 def write_registry(flags: list[dict], vault_path: str, output: str) -> None:
