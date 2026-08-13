@@ -11,7 +11,7 @@ Date_Created: 2026-03-27
 
 Intern: Aw, thanks Lakshmi!
 
-Narrator: Olevia' face flushes with relief. They look more relaxed than they did before.  
+Narrator: Briar' face flushes with relief. They look more relaxed than they did before.  
 
 **Options**
 - |DIA|[[LakshmiThanksIntern_3_1]] : Encourage them

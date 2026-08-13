@@ -2,6 +2,19 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 
+# Per-user Obsidian configs (machine-specific — plugin settings, hotkeys, appearance)
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/community-plugins.json
+.obsidian/core-plugins.json
+.obsidian/graph.json
+.obsidian/hotkeys.json
+.obsidian/templates.json
+.obsidian/types.json
+
+# Plugin per-user settings (machine-specific)
+.obsidian/plugins/*/data.json
+
 # Dialogue plugin — build/dev artifacts (not needed at runtime)
 .obsidian/plugins/obsidian-dialogue-plugin/node_modules/
 .obsidian/plugins/obsidian-dialogue-plugin/temp_debug_files/

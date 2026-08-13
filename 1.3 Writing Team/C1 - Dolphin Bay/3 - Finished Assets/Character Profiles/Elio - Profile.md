@@ -7,6 +7,8 @@ Date_Created: 2026-07-10
 [[Little Boy 3 (Elio)]]
 # Reference Art  
 Include any links to reference art here 
+## Portraits
+
 # Description
 
 ## Key Information 
@@ -33,8 +35,11 @@ TO DO
 
 Sammy - Elio grew close to Sammy. They get along well. 
 
+<<<<<<< HEAD
 TO DO
 
+=======
+>>>>>>> origin/master
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
@@ -52,6 +57,7 @@ Use this space to describe generally what the NPC does during their day (optiona
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
+
 # Character Dialogue 
 
 ## Essential Reactions 
@@ -68,7 +74,6 @@ DELIVERED MAIL TO NPC
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
 
 # Dialogue to digest
 

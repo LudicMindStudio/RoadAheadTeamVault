@@ -17,14 +17,14 @@ Lakshmi tries to thank the intern for steadying her while she had a flashback (i
 ## Event Logic
 
 Trigger Start - InternMemoryEnd=True
-On Clear - OleviaMailDelivered=True
+On Clear - BriarMailDelivered=True
 
 --- 
 # Event Script
 
 |DIA|[[LakshmiThanksIntern_0]]
-	Remember the interns name to thank her. Play has the option to encourage Olevia
+	Remember the interns name to thank her. Play has the option to encourage Briar
 		On Clear - InternHasName=True 
-		On Clear - LakshmiEncouragedIOlvia=True 
+		On Clear - LakshmiEncouragedIBriar=True 
 
 

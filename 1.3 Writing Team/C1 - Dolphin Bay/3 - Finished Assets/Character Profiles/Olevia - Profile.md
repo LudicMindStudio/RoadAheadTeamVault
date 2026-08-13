@@ -9,6 +9,10 @@ Include any links to reference art here
 # Reference Art Links
 
 No art reference yet.
+## Portraits
+
+[[olevia.png]]
+
 # Description
 
 ## Appearance 
@@ -30,6 +34,7 @@ Met Greg in a village and was inspired to become a postal worker.
 [[Act 1 - Pre-graduation Revision#Quest 3, Scene 3 Practical Test - Intern Memory|Quest 3, Scene 3 - Intern Memory]]
 
 --- 
+
 # Character Dialogue 
 
 |DIA|[[InternBanter_0]]

@@ -15,7 +15,7 @@ Lakshmi: ...
 
 Lakshmi: That's their name, right?
 
-Narrator: The intern cracks an awkward smile. You notice the name tag on their shirt: {sfx: italic} Olevia.
+Narrator: The intern cracks an awkward smile. You notice the name tag on their shirt: {sfx: italic} Briar.
 
 Lakshmi: Oopsies.
 

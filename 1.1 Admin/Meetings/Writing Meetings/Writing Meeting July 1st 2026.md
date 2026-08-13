@@ -37,14 +37,14 @@ How has everyone been? What stood out from the June 22 meeting?
 - Lakshmi, François Hustle (vision/arc), Biologist (Musician), Biologist (Sushi Chef), Dr. Lamborghini, Felix, Oliver
 
 **Aaron**
-- Garp, Lora, Warren (mapmaker, was Gordon), Robert, Doran, Gatz, Mysterious Man, Leaf/Surfer, Libby, Julia
+- Garp, Lora, Warren (mapmaker, was Gordon), Robert, Doran, Gatz, Mysterious Man, Leaf/Surfer, Libby, Julia (Juliette now)
 - François Hustle (dialogue, collaborating with Trent)
 
 **Arkana**
 - Camie, Cat, Tullia, Lisa, Elio, Sammy
 
 **Corina**
-- Greg, Grandpa Dan, Olevia
+- Greg, Grandpa Dan, Olevia (Briar now)
 
 **Nina**
 - Quinn (inn worker/barkeep — was grocer)

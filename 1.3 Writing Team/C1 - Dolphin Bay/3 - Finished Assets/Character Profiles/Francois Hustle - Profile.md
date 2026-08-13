@@ -2,13 +2,17 @@
 tags:
 Date_Created: 2026-07-10
 ---
-
+ 
 # Character Brainstorming 
 
 [[Francois Hustle - ProfileArchive]]
 # Reference Art  
 
 Include any links to reference art here 
+## Portraits
+
+[[francois.png]]
+
 # Description
 
 ## Key Information 
@@ -21,7 +25,7 @@ Include any links to reference art here
 
 ## Appearance 
 
-Francois Hustle gives pirate vibes (think more like the cook). He's a tall, slightly overweight guy (with a large round tummy) and big arms. His lower right arm is missing, and the stump has a finely made leather strap attached to a metal rod with two tongs (the rod has a lock, so that the tongs can be open or closed). He has small kind eyes (almost hidden under his bushy eyebrows) and a big mouth with a noble little nose, and a scar that runs under his chin. He always has his hair in a pony tail. Right now he's sporting quite a bit of stubble (just not around his scar). 
+Francois Hustle gives pirate vibes (think more like the cook). He's a tall, slightly overweight guy (with a large round tummy) and big arms. His lower left arm is missing, and the stump has a finely made leather strap attached to a metal rod with two tongs (the rod has a lock, so that the tongs can be open or closed). He has small kind eyes (almost hidden under his bushy eyebrows) and a big mouth with a noble little nose, and a scar that runs under his chin. He always has his hair in a pony tail. Right now he's sporting quite a bit of stubble (just not around his scar). 
 
 He's always wearing his Hawaiian button up shirts (some chest hair protruding) and his brightly coloured orange bathing suit. He also sports beach shoes (the mesh kind that dry quickly). 
 ## Core Characteristics
@@ -44,7 +48,7 @@ The Francois of the present:
 
 He hasn't been sleeping. He's full of boundless energy, and optimism. He doesn't worry about the village future or the villagers. His talking is forced, rapid and he doesn't take much time to listen. 
 
-He feels chosen to help the dolphins as they helped him, and he knows that helping the dolphin will save everyone. His connection brain is working on overdrive. Whereas he could rely on the accuracy of his connections before, now, he's bringing things together that just don't work. This leads him to think he's found a secret that will save the village, but he just can't explain it. 
+He feels chosen to help the dolphins as they helped him, and he knows that helping the dolphin will save everyone. His connection brain is working on overdrive. Whereas he could rely on the accuracy of his connections before, now, he's br inging things together that just don't work. This leads him to think he's found a secret that will save the village, but he just can't explain it. 
 
 He's also easily triggered and his optimism is immediately replaced by intense suspicion. He might start to think you're out to get him or the dolphins. 
 
@@ -62,7 +66,7 @@ Juliette - his grounding anchor, partner in running the village, the calculation
 
 Tulia - fully attentive when he has the time, but he rarely does. She feels like she has to compete for the spotlight of his attention. Beach days are magical (Juliette will be reading so they spend time one on one). 
 
-Garp - shares a love for the sea, and chat about being dads, kids grew up very close, Francois refuses to go sailing with Garp, and there's always distance between the two. He loves to smoke Garp's homegrown tobacco with him. 
+Garp - shar es a love for the sea, and chat about being dads, kids grew up very close, Francois refuses to go sailing with Garp, and there's always distance between the two. He loves to smoke Garp's homegrown tobacco with him. 
 
 Greg - get along fabulously, love to play cards (especially with Lora), but they disagree about external outreach. Francois is an isolationist, and isn't interested in really expanding the guilds efforts to connect to the new world 
 
@@ -84,6 +88,7 @@ Use this space to describe generally what the NPC does during their day (optiona
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
+
 # Character Dialogue 
 
 ## Essential Reactions 
@@ -100,5 +105,4 @@ DELIVERED MAIL TO NPC
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
 

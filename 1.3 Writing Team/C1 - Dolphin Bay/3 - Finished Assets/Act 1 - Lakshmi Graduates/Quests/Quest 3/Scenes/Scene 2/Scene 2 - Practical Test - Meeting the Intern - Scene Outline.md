@@ -16,7 +16,7 @@ Date_Created:
 [[Guild Hall - Location Outline]]
 ## Character List
 
-[[Olevia - Profile]] - Intern
+[[Briar-Intern - Profile]] - Intern
 
 Lakshmi 
 ## Brainstorming Links

@@ -8,6 +8,8 @@ Date_Created: 2026-07-06
 # Reference Art  
 
 ![[Pasted image 20260707170535.png|324]]
+## Portraits
+
 # Description
 
 ## Key Details 
@@ -43,6 +45,8 @@ Juliette once wrote a manuscript about her youth and her voyage to dolphin bay. 
 Francois - Juliette is married to Francois whom she has a close bond. He fills her with energy. She likes to tell him stories about great queens of the past, and he compares her to them. 
 
 Tullia - Juliette is a frequent critique of Tullia. She does occasionally share some of her treasured novels with her. Tulia will always remembers nights spent reading them outload. On the whole, neither parent have much time to spend with their child.  The three of them do like to spend time at the beach together (although she tends to do her own thing). 
+
+Quinn! - her employee
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
@@ -54,13 +58,13 @@ Use this space to describe generally what the NPC does during their day (optiona
 | EVENING   | Home           | Reading, Chores       |               |
 | SPECIAL   | Beach          | Reading under the sun | With Tullia   |
 
-
 --- 
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
+
 # Character Dialogue 
 
 ## Essential Reactions 
