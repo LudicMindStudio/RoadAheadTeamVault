@@ -12,6 +12,7 @@ Detailed description of the object the player is interacting with
 # Default Interactions
 
 Root Location - LOCATION NAME
+Root POI - POI NAME
 
 DIALOGUE_0 ONE 
 	(Actors) ...
@@ -37,7 +38,6 @@ ENVIRONMENTAL DESCRIPTION ONE
 	Conditions -...
 
 ...
-
 ```
 > Leave blank if there are no default interactions
 ```
@@ -65,4 +65,3 @@ ENVIRONMENTAL DESCRIPTION ONE
 ```
 > Leave blank if there are no scene specific interactions 
 ```
-

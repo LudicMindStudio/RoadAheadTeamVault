@@ -7,10 +7,7 @@ Updated: 2026-08-12
 
 # Writing Flags — The Writer's Guide
 
-> Flags are the game's memory. When a story moment happens, a flag records it.
-> Other scenes, quests, and NPC dialogue read flags to decide what the player
-> sees next. This page is the full guide: what flags are, how to name them,
-> and the exact syntax to write them in dialogue files.
+ Flags are the game's memory. When a story moment happens, a flag records it. Other scenes, quests, and NPC dialogue read flags to decide what the player sees next. This page is the full guide: what flags are, how to name them, and the exact syntax to write them in dialogue files.
 
 ---
 
@@ -18,7 +15,7 @@ Updated: 2026-08-12
 
 A flag is a named piece of world state that is either **True** or **False** (or a number).
 
-- The party talks to Anita for the first time → `Anita_Introduced` becomes True.
+- The player talks to Anita for the first time → `Anita_Introduced` becomes True.
 - The player finishes Scene 1 of the Fish Supply quest → `FishSupply_1` becomes True.
 - Anita's trust in the player changes → `Anita_Trust` becomes a number.
 
@@ -92,8 +89,7 @@ For values that aren't True/False. Used rarely — most flags are boolean.
 
 Flags appear in dialogue and interactable files inside **Conditions** and
 **Sets** sections. The scanner (`scan_flags.py`) finds these sections
-automatically and builds the master registry from them. **You do not need to
-register a flag anywhere — just use its name in a Conditions or Sets block.**
+automatically and builds the master registry from them. **You do not need to register a flag anywhere — just use its name in a Conditions or Sets block.**
 
 ```
 **Conditions**
@@ -152,8 +148,7 @@ Supported operators: `>=`, `<=`, `==`, `!=`, `>`, `<`.
 | `Distance(Player, 20)` | Runtime check — how close the player is | Checked live, never saved |
 | `Has(MailItem_X)` | Inventory check — does the player hold an item | Checked live against inventory |
 
-These go inside Conditions if the moment needs them, but the scanner skips
-them — they are not world state.
+These go inside Conditions if the moment needs them, but the scanner skips them — they are not world state.
 
 ---
 
@@ -166,19 +161,13 @@ vault root:
 - **Description** — a short context snippet pulled from the source file
 - **Source** — a link back to the file that uses the flag
 
-The registry is **generated — never edit it by hand**. It exists so writers
-can see every flag that exists and where it came from, and so the comparison
-tool can check the vault against the game.
+The registry is **generated — never edit it by hand**. It exists so writers can see every flag that exists and where it came from, and so the comparison tool can check the vault against the game.
 
 ### How to run the scan
 
 - **In Obsidian:** click the flag ribbon icon, or Command Palette →
   "Run flag scan". The registry opens when done.
-- **From terminal:**
-  ```bash
-  python3 ~/code/obsidian-flag-registry/scan_flags.py ~/Documents/RoadAheadTeamVault
-  ```
-
+- 
 ### Checking against the game
 
 Command Palette → "Compare Obsidian registry vs Unity FlagRegistry".
