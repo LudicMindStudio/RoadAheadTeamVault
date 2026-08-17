@@ -9,6 +9,6 @@ Date_Created: 2026-03-27
 
 ## Bundle : InternComplains
 
-Intern: Are you kidding me? How am I going to get up there?
+Intern: Are you kidding me? How am I getting up there?
 
 **Options**

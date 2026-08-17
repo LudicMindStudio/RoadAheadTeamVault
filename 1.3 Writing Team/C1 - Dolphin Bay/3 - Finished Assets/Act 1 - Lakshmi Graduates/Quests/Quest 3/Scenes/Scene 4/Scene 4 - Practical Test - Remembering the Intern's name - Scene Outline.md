@@ -16,7 +16,7 @@ Date_Created:
 [[Guild Hall - Location Outline]]
 ## Character List
 
-[[Olevia - Profile]]
+[[Briar-Intern - Profile]]
 Lakshmi
 ## Brainstorming Links
 
@@ -29,7 +29,7 @@ Storage room on first floor
 Lakshmi tries to thank the intern by recalling their name.
 ## Scene Logic 
 Trigger Start - InternMemoryEnd=True
-Trigger Clear - OleviaMailDelivered=True
+Trigger Clear - BriarMailDelivered=True
 
 --- 
 # Scene Events

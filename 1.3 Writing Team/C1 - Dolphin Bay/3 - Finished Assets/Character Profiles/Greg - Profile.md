@@ -12,6 +12,10 @@ Use this space to draft ideas of the character or link in brainstorming document
 # Reference Art  
 
 [[gregportrait.png]]
+## Portraits
+
+[[gregportrait.png]]
+
 # Description
 
 ## Key Information 
@@ -66,6 +70,7 @@ Use this space to describe generally what the NPC does during their day (optiona
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
+
 # Character Dialogue 
 
 ## Essential Reactions 

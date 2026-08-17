@@ -12,6 +12,8 @@ Date_Created: 2026-07-08
 # Reference Art  
 
 ![[Pasted image 20260708181237.png|338]]
+## Portraits
+
 # Description
 
 ## Key Information 
@@ -74,13 +76,13 @@ Use this space to describe generally what the NPC does during their day (optiona
 | EVENING   | Outskirts of town | Looking for Alfred                      |               |
 | SPECIAL   | In the woods      | Hunting trip                            |               |
 
-
 --- 
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
+
 # Character Dialogue 
 
 ## Essential Reactions 
@@ -97,5 +99,4 @@ DELIVERED MAIL TO NPC
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
 

@@ -23,6 +23,6 @@ Lakshmi: No no...You did nothing wrong? Thanks for your help-
 
 **Options**
 
-- |DIA|[[LakshmiThanksIntern_1]] : Octavius
-- |DIA|[[LakshmiThanksIntern_2]] : Olevia
-- |DIA|[[LakshmiThanksIntern_3]] : Olivier
+- |DIA|[[LakshmiThanksIntern_1]] : Brian
+- |DIA|[[LakshmiThanksIntern_2]] : Briar
+- |DIA|[[LakshmiThanksIntern_3]] : Brienne

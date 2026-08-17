@@ -9,6 +9,8 @@ Date_Created:
 # Reference Art  
 
 -![[Pasted image 20260710154902.png|152]]![[Pasted image 20260710154935.png|195]]![[Pasted image 20260710155049.png|197]]
+## Portraits
+
 # Description
 
 ## Key Information 
@@ -59,6 +61,7 @@ Cat - Sammy admires Cat's spirit.
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
+
 # Character Dialogue 
 
 ## Essential Reactions 
@@ -75,7 +78,6 @@ DELIVERED MAIL TO NPC
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
 
 # Dialogue to digest
 

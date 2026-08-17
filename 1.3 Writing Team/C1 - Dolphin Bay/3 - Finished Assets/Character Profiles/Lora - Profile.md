@@ -10,6 +10,10 @@ Date_Created: 2026-07-11
 # Reference Art  
 
 Include any links to reference art here 
+## Portraits
+
+[[lora.png]]
+
 # Description
 
 ## Key Information 
@@ -76,6 +80,7 @@ Use this space to describe generally what the NPC does during their day (optiona
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
+
 # Character Dialogue 
 
 ## Essential Reactions 
@@ -92,5 +97,4 @@ DELIVERED MAIL TO NPC
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
 

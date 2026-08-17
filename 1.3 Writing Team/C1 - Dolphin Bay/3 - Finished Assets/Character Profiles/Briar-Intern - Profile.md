@@ -58,12 +58,13 @@ Brief description of major relationships (lovers, good friends, enemies etc.). W
 
 *Use this space to describe generally what the NPC does during their day (optional table below)*
 
-|           | LOCATION                       | ACTIVITY                | SPECIAL NOTES                               |
-| --------- | ------------------------------ | ----------------------- | ------------------------------------------- |
-| MORNING   | Guild Hall                     | Scrambling Mail, Pacing |                                             |
-| AFTERNOON | Under a tree, in a quiet space | Daydreaming             |                                             |
-| EVENING   | Guild Hall                     | Scrambling Mail, Pacing |                                             |
-| SPECIAL   | Dolphin Sanctuary              | Observing Gyo work      | Observing from the side, sometimes chatting |
+|           | LOCATION                       | ACTIVITY                | SPECIAL NOTES                                                                                                    |
+| --------- | ------------------------------ | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| MORNING   | Guild Hall                     | Scrambling Mail, Pacing |                                                                                                                  |
+| AFTERNOON | Under a tree, in a quiet space | Daydreaming             | Behaviour: Trigger Start - Lakshmi_Has_Delivered_Briars_Mail=True<br><br>**paces all night, doesn't go to sleep* |
+| EVENING   | Guild Hall                     | Scrambling Mail, Pacing |                                                                                                                  |
+| SPECIAL   | Dolphin Sanctuary              | Observing Gyo work      | Observing from the side, sometimes chatting                                                                      |
+
 ## Brainstorming Links
 [[Act 1 - Quest 1 - Scene 1 (Rough Work)]]
 [[Act 1 - Pre-graduation Revision#Quest 3, Scene 2 Practical Test - Meeting the Intern|Quest 3, Scene 2 - Intern Dialogue]]
@@ -72,37 +73,32 @@ Brief description of major relationships (lovers, good friends, enemies etc.). W
 --- 
 # Character Quests
 
-BEFIRENDING LAKSHMI
+(WIP) BEFIRENDING LAKSHMI
 
-HELPING LAKSHMI'S QUEST
-
-
+(WIP) HELPING LAKSHMI'S QUEST
 
 --- 
 # Character Dialogue 
 
 ## Essential Reactions 
 
-INTRODUCTION TO NPC / DELIVER MAIL
-	[[Quest 3 - Deliver Mail to Intern - Outline]]
-
-
-(WIP) |DIA|[[InternBanter_0]]
-	Intern Banter unrelated to the Act 1 - Quest 2 and Quest 3. Can happend whenever. Intern nerds out about Dolphin Bay
-		Trigger Start - ExampleTag=True
-		On Clear - ExampleTag=True 
-
-DELIVERED MAIL TO NPC 
+INTRODUCTION TO NPC / DELIVER MAIL TO NPC 
 	Act 1 [[Quest 3 - Deliver Mail to Intern - Outline]]
 	During Lakshmi's postal work exam, Lakshmi practices delivering mail to the Guild's new intern 
-		Trigger Start - Lakshmi_Has_NPCs_Mail=True, Lakshmi_Interacts_NPC=True  
-		On Clear - Lakshmi_Has_Delivered_NPCs_Mail=True, Lakshmi_Has_NPCs_Mail=False
+		Trigger Start - Lakshmi_Has_Briar_Mail=True, Lakshmi_Interacts_NPC=True  
+		On Clear - Lakshmi_Has_Delivered_Briars_Mail=True, Lakshmi_Has_NPCs_Mail=False
+
+|DIA|[[InternRelaxBanter_0]]
+	Happens whenever the Intern is relaxing under a tree outside (tied to [[#Character Behavior]])
+		Conditions - Lakshmi_Has_Delivered_Briars_Mail=True
+		On Clear - BriarPacing=True
+
+|DIA|[[InternPacingBanter_0]]
+	Happens whenever the Intern is pacing in the Guild Hall (tied to [[#Character Behavior]])
+		Conditions - Lakshmi_Has_Delivered_Briars_Mail=True
+		On Clear - BriarRelaxing=True
 ## Misc Reactions 
 
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
-
-
-

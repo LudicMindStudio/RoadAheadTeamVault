@@ -9,6 +9,6 @@ Date_Created: 2026-03-27
 
 ## Bundle : LakshmiSucceedsGreetingLetterIntern
 
-Intern: Are you a savant or something? 
+Intern: Wow! First try? You were looking pretty cool there Lakshmi! 
 
 **Options**

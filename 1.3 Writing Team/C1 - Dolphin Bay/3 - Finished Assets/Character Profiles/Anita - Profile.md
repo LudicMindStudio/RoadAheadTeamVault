@@ -9,12 +9,13 @@ Profession: Dolphin Communication Researcher (Sanctuary)
 
 # Reference Art Links
 
-
 ![User:TrainerSplash/Lillie/Lillie (Gallery) - Bulbapedia, the community ...](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.1KCQK2fr_P2i8DXTb92l3wAAAA%3Fr%3D0%26pid%3DApi&f=1&ipt=6272084d92ebd4976284f5032aba834cbcefbc8279c26c925881b02e0e486128)
 
 MIXED WITH 
 
 ![[Pasted image 20260708193653.png]]
+
+## Portraits
 
 # Description
 
@@ -46,9 +47,13 @@ The last few months have been the hardest. With only one or two dolphins remaini
 
 **[[Cat - Profile]]** — Wrote to the sanctuary. To follow up
 
-
 ---
 
+<<<<<<< HEAD
+---
+
+=======
+>>>>>>> origin/master
 ## Daily Schedule
 
 See the [[18-sanctuary-production-plan]] in the project planning folder for the full time-blocked schedule. Key anchors:
@@ -69,11 +74,26 @@ All dialogue files are at `Dialogues/Anita/`.
 - `Requires: Lakshmi_Visits_Sanctuary_First=True`
 - `Sets: Lakshmi_Met_Anita=True`
 
+<<<<<<< HEAD
 ## [[AnitaResearch_0]] — Research Deep Dive
 *Anita explains her dolphin communication research in detail.*
 - `Requires: Lakshmi_Met_Anita=True`
 - `Sets: Lakshmi_Known_About_Anita_Dolphin_Calls=True`
 
+=======
+Lakshmi: dsadsadas
+
+Anita: dadsada
+
+Option 1
+Option 2
+
+## [[AnitaResearch_0]] — Research Deep Dive
+*Anita explains her dolphin communication research in detail.*
+- `Requires:Lakshmi_Has_3_Hearts=True`
+- `Sets: Lakshmi_Known_About_Anita_Dolphin_Calls=True`
+
+>>>>>>> origin/master
 ## [[AboutFrancois_0]] — The Confrontation
 *Anita's clinical perspective on what happened when Francois came to the sanctuary.*
 - `Requires: Lakshmi_Met_Anita=True`

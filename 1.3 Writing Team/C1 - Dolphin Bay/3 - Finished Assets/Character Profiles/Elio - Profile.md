@@ -7,6 +7,8 @@ Date_Created: 2026-07-10
 [[Little Boy 3 (Elio)]]
 # Reference Art  
 Include any links to reference art here 
+## Portraits
+
 # Description
 
 ## Key Information 
@@ -28,12 +30,16 @@ Include any links to reference art here
 Elio is the dominant one in a a conversation. He has a hard time letting other people talk about their ideas. He acts this way because he is fed up with the way adults act around him. He wants people to truly care about the animals and not protesting to fuel their discontentment. He wants to be heard and for his town to become more harmonized than polarized.  Loves fun facts about animals. 
 ## Essential History 
 
-Elio always seems to be in a good mood. 
+TO DO
 ## Relationships
 
-Sammy - Elio grew close to Sammy. They get along well. Elio encourages Sammy to be more assertive, but Sammy prefers to 
+Sammy - Elio grew close to Sammy. They get along well. 
 
+<<<<<<< HEAD
+TO DO
 
+=======
+>>>>>>> origin/master
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
@@ -51,6 +57,7 @@ Use this space to describe generally what the NPC does during their day (optiona
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
+
 # Character Dialogue 
 
 ## Essential Reactions 
@@ -67,7 +74,6 @@ DELIVERED MAIL TO NPC
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
 
 # Dialogue to digest
 
