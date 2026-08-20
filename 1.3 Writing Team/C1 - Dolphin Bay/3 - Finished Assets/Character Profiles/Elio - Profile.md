@@ -35,11 +35,6 @@ TO DO
 
 Sammy - Elio grew close to Sammy. They get along well. 
 
-<<<<<<< HEAD
-TO DO
-
-=======
->>>>>>> origin/master
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
