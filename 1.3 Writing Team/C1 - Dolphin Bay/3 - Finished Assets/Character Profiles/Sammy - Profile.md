@@ -22,7 +22,7 @@ Date_Created:
 |                     | brother of Cat |
 
 ## Appearance 
-- Brown hair
+- dark Brown very short hair
 - blue t-shirt with a turtle on it
 - bucket hat 
 - White shorts
@@ -31,7 +31,7 @@ Date_Created:
 Loves sea animal especially turtles. He has one at home and cares for it very well. His dad, Garp and his sister, Cat helped him rescue it. He likes to show off his turtle, Abby. When it rains, Sammy goes outside in the grass and digs worms to feed his turtle. He talks about Abby as his pride and joy. When he is older, he hopes he will be able to open a turtle sanctuary to care for more hurt turtles. 
 ## Essential History 
 
-Sammy lives with his dad and sister, but has grown close to Elio's parents as the two boys spend a lot of time together. Elio is protective over Sammy and treats him as a younger brother. 
+Sammy lives with his dad and sister, but has grown close to Elio's parents as the two boys spend a lot of time together. 
 ## Relationships
 
 Garp - His dad and him share the love of sea, but they don't spend too much time together. They spend their evening in close vicinity but they don't talk much
@@ -40,7 +40,7 @@ Robert - Sammy has a lot of respect towards Robert. He knows that he wouldn't be
 
 Lora - Sammy sees her as a mother figure. He knows that if she can be there for him if he were to need comfort.
 
-Elio - Sammy appreciates greatly Elio's friendship. It seems like Cat and Elio sometimes fight to be the better older "sibiling".
+Elio - Sammy appreciates greatly Elio's friendship. 
 
 Tullia - Sammy often sees Tullia as she hangs out with his sister but he doesn't talk to her much. 
 
@@ -48,12 +48,12 @@ Cat - Sammy admires Cat's spirit.
  
 ## Character Behavior 
 
-|           | LOCATION                     | ACTIVITY                             | SPECIAL NOTES |
-| --------- | ---------------------------- | ------------------------------------ | ------------- |
-| MORNING   | At home                      | takes care of his turtle             |               |
-| AFTERNOON | Around the docks and village | Hangs out                            |               |
-| EVENING   | At home                      | Works on the mini sanctuary with Cat |               |
-| SPECIAL   | At home                      | digs up worms                        | When it rains |
+|           | LOCATION                     | ACTIVITY                                         | SPECIAL NOTES |
+| --------- | ---------------------------- | ------------------------------------------------ | ------------- |
+| MORNING   | At home                      | takes care of his turtle and hangs out with Elio |               |
+| AFTERNOON | Around the docks and village | Hangs out                                        |               |
+| EVENING   | At home                      | Works on the mini sanctuary with Cat             |               |
+| SPECIAL   | At home                      | digs up worms                                    | When it rains |
 
 --- 
 # Character Quests
