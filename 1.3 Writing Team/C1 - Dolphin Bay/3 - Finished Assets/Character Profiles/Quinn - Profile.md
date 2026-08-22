@@ -41,6 +41,13 @@ Brainstorming Document Two...
 
 --- 
 
+## Key Items
+
+
+- His dad's old guitar, leaning in the corner?
+- A notebook of half-finished song lyrics and chords?
+- A stack of sheet music by the window?
+
 # Character Dialogue 
 
 DIALOGUE_0 ONE

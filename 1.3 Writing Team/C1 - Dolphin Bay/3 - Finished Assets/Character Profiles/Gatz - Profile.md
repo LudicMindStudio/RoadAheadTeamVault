@@ -79,6 +79,13 @@ Use this space to describe generally what the NPC does during their day (optiona
 |           | Old library | movie night       | once a month  |
 
 --- 
+## Key Items
+
+
+- A small glass tank with his pet zebrafish "Proudhon" on the bookshelf?
+- A stack of poetry notebooks, each line crossed out and rewritten?
+- A film projector and a can of reels in the corner?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK

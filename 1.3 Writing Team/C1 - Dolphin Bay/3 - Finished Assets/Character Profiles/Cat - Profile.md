@@ -53,6 +53,13 @@ Sammy - Cat used to be very close with her brother, but these days he's been spe
 | SPECIAL   |                                  |                                                 |               |
 
 --- 
+## Key Items
+
+
+- A jar of sea-glass and oyster shells she has collected?
+- A tiny turtle hatchling enclosure?
+- A worn photograph of her late mom?
+
 # Character Quests
 [[CAT- Side Quest Brainstorm]]
 CHARACTER SIDE QUEST 1 LINK

@@ -65,6 +65,13 @@ State variants: on research failure, 15:00 block shifts to reflection at the pie
 
 ---
 
+## Key Items
+
+
+- Pocket field recorder?
+- Hand-written call-and-response logbooks?
+- Coffee journal?
+
 # Character Dialogue
 
 All dialogue files are at `Dialogues/Anita/`.

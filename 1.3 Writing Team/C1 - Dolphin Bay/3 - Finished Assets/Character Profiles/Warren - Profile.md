@@ -77,6 +77,13 @@ Use this space to describe generally what the NPC does during their day (optiona
 | SPECIAL   | In the woods      | Hunting trip                            |               |
 
 --- 
+## Key Items
+
+
+- Bundles of his old letters to Alfred?
+- His hand-drawn charts of the region pinned to his wall?
+- Bobby Boy's worn feeding bowl?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK

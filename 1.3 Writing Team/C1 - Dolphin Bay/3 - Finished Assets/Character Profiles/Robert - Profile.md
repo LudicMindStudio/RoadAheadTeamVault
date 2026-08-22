@@ -65,6 +65,13 @@ Use this space to describe generally what the NPC does during their day (optiona
 | SPECIAL   |                       |                |               |
 
 --- 
+## Key Items
+
+
+- A set of worn boxing gloves?
+- A polished silver tea set?
+- A polished field-medic kit from his peacekeeping days?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK

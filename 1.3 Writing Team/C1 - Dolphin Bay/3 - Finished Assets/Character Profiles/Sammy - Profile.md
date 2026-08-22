@@ -56,6 +56,13 @@ Cat - Sammy admires Cat's spirit.
 | SPECIAL   | At home                      | digs up worms                        | When it rains |
 
 --- 
+## Key Items
+
+
+- Abby the rescued turtle in her home tank?
+- The little backyard turtle sanctuary he built with Cat?
+- A crayon drawing of the grand turtle sanctuary he hopes to open?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK

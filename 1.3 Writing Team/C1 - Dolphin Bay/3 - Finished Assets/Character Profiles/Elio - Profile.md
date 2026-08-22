@@ -52,6 +52,13 @@ Use this space to describe generally what the NPC does during their day (optiona
 | SPECIAL   |          |          |               |
 
 --- 
+## Key Items
+
+
+- Animal fun-fact cards?
+- A seahorse figure?
+- A shell collection?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK

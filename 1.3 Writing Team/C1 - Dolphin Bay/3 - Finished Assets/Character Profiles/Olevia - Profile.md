@@ -35,6 +35,13 @@ Met Greg in a village and was inspired to become a postal worker.
 
 --- 
 
+## Key Items
+
+
+- A wall pinboard of mail routes?
+- A shuffled stack of letters and mis-sorted mail?
+- Hand-drawn route map?
+
 # Character Dialogue 
 
 |DIA|[[InternBanter_0]]
