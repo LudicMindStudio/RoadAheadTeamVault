@@ -45,6 +45,13 @@ Use this space to describe generally what the NPC does during their day (optiona
 | SPECIAL   |          |          |               |
 
 --- 
+## Key Items
+
+
+- A basket of experimental loaves on the counter?
+- A stack of protest signs and dolphin pins by the door?
+- A hand-copied recipe book of experimental bakes?
+
 # Character Quests
 [[Camie - Side Quest Brainstorm]]
 CHARACTER SIDE QUEST 1 LINK

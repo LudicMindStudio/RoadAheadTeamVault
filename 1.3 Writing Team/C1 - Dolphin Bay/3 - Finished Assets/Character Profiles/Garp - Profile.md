@@ -79,6 +79,13 @@ Use this space to describe generally what the NPC does during their day (optiona
 | SPECIAL   | Warf            | Smoking                           | around sunset |
 
 --- 
+## Key Items
+
+
+- A little carved 'Crab-Maid' figure he whittled for Cat on the windowsill?
+- A sealed urn of Alexi's ashes on the shelf?
+- A battered harmonica resting on the armchair?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK

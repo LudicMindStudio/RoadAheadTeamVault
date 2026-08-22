@@ -51,6 +51,13 @@ Francois - Tullia's personality is very different from her Dad. She doesn't agre
 | SPECIAL   | Beach       | Reading under the sun        | With Juliette |
 
 --- 
+## Key Items
+
+
+- Her current book from Juliette?
+- A firefly jar?
+- A seashell wind-chime hanging by her window?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK

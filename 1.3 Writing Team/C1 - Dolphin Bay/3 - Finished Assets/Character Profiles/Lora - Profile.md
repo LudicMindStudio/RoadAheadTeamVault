@@ -75,6 +75,13 @@ Use this space to describe generally what the NPC does during their day (optiona
 | SPECIAL   |                   |                                                        |               |
 
 --- 
+## Key Items
+
+
+- Her set of orca teeth for divination?
+- Her hand-inked deck of divination cards?
+- Saanvi's transcribed final conversations?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK

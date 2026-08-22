@@ -68,6 +68,13 @@ Use this space to describe generally what the NPC does during their day (optiona
 | SPECIAL   |                                     |          |               |
 
 --- 
+## Key Items
+
+
+- His well-worn tool belt hanging in the workshop?
+- A half-finished scale model of the village gazebo with careful plans?
+- A jar of freshly whittled wood shavings and spare screws?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK

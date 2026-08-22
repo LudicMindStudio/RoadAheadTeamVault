@@ -66,6 +66,13 @@ State variants: fish shortage (protest active) adds rationing at 08:00.
 
 ---
 
+## Key Items
+
+
+- His good knife, for prepping the dolphins' meals?
+- A spice-tin collection from his cooking experiments?
+- Feeding-and-mood logbook?
+
 # Character Dialogue
 
 All dialogue files are at `Dialogues/Gyo/`.

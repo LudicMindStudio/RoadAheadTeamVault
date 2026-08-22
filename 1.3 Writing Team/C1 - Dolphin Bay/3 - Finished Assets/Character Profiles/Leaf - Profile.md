@@ -54,6 +54,13 @@ Use this space to describe generally what the NPC does during their day (optiona
 | SPECIAL   |                       |                                                      |               |
 
 --- 
+## Key Items
+
+
+- Surfboard?
+- A small keepsake of his favorite dolphin, Penguin?
+- "How to speak dolphin" notebook?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK

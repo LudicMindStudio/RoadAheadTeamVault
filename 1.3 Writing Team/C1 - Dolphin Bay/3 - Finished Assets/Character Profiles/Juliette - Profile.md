@@ -59,6 +59,13 @@ Use this space to describe generally what the NPC does during their day (optiona
 | SPECIAL   | Beach          | Reading under the sun | With Tullia   |
 
 --- 
+## Key Items
+
+
+- A hidden manuscript of her youth tucked under the sink?
+- A small wicker bed and waterdish for her pet rat Edris?
+- The thick village ledger recording grain and stored water?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK

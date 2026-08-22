@@ -52,6 +52,13 @@ Elio is raised by his loving mom, Lora and thoughtful dad, Robert. Elio was born
 |           |                   |                        |               |
 
 --- 
+## Key Items
+
+
+- Animal fun-fact cards?
+- A seahorse figure?
+- A shell collection?
+
 # Character Quests
 
 None for now. Could help Cat in hers. 
