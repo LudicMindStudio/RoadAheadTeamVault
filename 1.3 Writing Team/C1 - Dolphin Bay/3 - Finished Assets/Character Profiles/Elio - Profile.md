@@ -18,8 +18,8 @@ Include any links to reference art here
 | Profession          | kid                    |
 | Relationship Status | Child of Robert & Lora |
 ## Appearance 
-- Orange hair
-- Bright yellow t-shirt
+- blond hair
+- Bright orange t-shirt
 - brown eyes
 - black shorts
 - black shoes
@@ -27,19 +27,14 @@ Include any links to reference art here
 - He gives off Sun vibes 
 ## Core Characteristics
 
-Elio is the dominant one in a a conversation. He has a hard time letting other people talk about their ideas. He acts this way because he is fed up with the way adults act around him. He wants people to truly care about the animals and not protesting to fuel their discontentment. He wants to be heard and for his town to become more harmonized than polarized.  Loves fun facts about animals. 
+Elio is the dominant one in a a conversation. He has a hard time letting other people talk about their ideas. He will sometimes act on impulse without questioning himself much. He's passionate about sea animals and loves to share his passion with the ones he crosses path with.  He doesn't like to hear people shouting or being part of a big crowd. Therefore, he stays away when the protesters are around. He loves the sounds of the beach and will spend most of his time near it. However, he has to wear his sunglasses at all times when he is outside as he has sensible eyes. When he goes to the beach, he always brings his favorite towel. His attitude can be seen as rude but he works on being better with his autoregulation with his mom.
 ## Essential History 
 
-TO DO
+Elio is raised by his loving mom, Lora and thoughtful dad, Robert. 
 ## Relationships
 
 Sammy - Elio grew close to Sammy. They get along well. 
 
-<<<<<<< HEAD
-TO DO
-
-=======
->>>>>>> origin/master
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
