@@ -22,6 +22,7 @@ Bottom Floor: there is a large kitchen with baking supplies out in plain view. T
 Top Floor: Lakshmi has a small room on the top floor (next to the stairs) with a desk covered in her studying materials. She has bright windows, a full size **mirror** and a large **wardrobe** on the north side of her room. Her bed is tucked in the corner. Going South, Greg's room is next door with a comfortable arm chair and a small bed. They have only the necessities of life.  
 ## Location Connections
 
+Parent: [[Greg's Chalet Exterior - Location Outline]]
 Door (South) to Grandpa Dan Chalet Exterior 
 
 ---

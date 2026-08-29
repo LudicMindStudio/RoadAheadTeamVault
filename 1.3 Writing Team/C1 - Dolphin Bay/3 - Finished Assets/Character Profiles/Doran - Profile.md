@@ -3,7 +3,6 @@ tags:
 Date_Created: 2026-07-07
 ---
 
-
 # Character Brainstorming 
 
 [[Doran]]
@@ -12,6 +11,8 @@ Date_Created: 2026-07-07
 # Reference Art  
 
 Include any links to reference art here 
+## Portraits
+
 # Description
 
 ## Key Information 
@@ -67,11 +68,19 @@ Use this space to describe generally what the NPC does during their day (optiona
 | SPECIAL   |                                     |          |               |
 
 --- 
+## Key Items
+
+
+- His well-worn tool belt hanging in the workshop?
+- A half-finished scale model of the village gazebo with careful plans?
+- A jar of freshly whittled wood shavings and spare screws?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
+
 # Character Dialogue 
 
 ## Essential Reactions 
@@ -88,5 +97,4 @@ DELIVERED MAIL TO NPC
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
 

@@ -10,6 +10,10 @@ Date_Created: 2026-07-07
 # Reference Art  
 
 Include any links to reference art here 
+## Portraits
+
+[[robert.png]]
+
 # Description
 
 ## Key Information 
@@ -61,11 +65,19 @@ Use this space to describe generally what the NPC does during their day (optiona
 | SPECIAL   |                       |                |               |
 
 --- 
+## Key Items
+
+
+- A set of worn boxing gloves?
+- A polished silver tea set?
+- A polished field-medic kit from his peacekeeping days?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
+
 # Character Dialogue 
 
 ## Essential Reactions 
@@ -82,5 +94,4 @@ DELIVERED MAIL TO NPC
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
 

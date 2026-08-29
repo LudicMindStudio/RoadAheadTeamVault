@@ -61,16 +61,28 @@ Use this space to describe generally what the NPC does during their day (optiona
 | SPECIAL   |                             |                            |               |
 
 --- 
+## Key Items
+
+
+- A bubbling sourdough starter jar?
+- A faded postal badge and old route ledger?
+- A worn armchair turned toward the fog view?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK
 
---- 
-# Character Dialogue 
+---
 
-## Essential Reactions 
+## Portraits
 
-INTRODUCTION TO NPC 
+[[grandpadanportrait.png]]
+
+# Character Dialogue
+
+## Essential Reactions
+
+INTRODUCTION TO NPC
 	Brief summary of intro conversation 
 	Conditions - (START) First interaction with NPC 
 
@@ -82,4 +94,4 @@ DELIVERED MAIL TO NPC
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
+>>>>>>> Stashed changes

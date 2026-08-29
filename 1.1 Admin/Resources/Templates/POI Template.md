@@ -8,7 +8,8 @@ created: {{date}}
 
 ## Location
 
-Which scene/area of Dolphin Bay? Where exactly?
+Which location does this live in? Wikilink the parent Location Outline.
+Which zone — indoor or outdoor?
 
 ## Description
 
@@ -20,13 +21,19 @@ What is the narrative or gameplay purpose of this place? Why is it interesting?
 
 ## Who Goes Here
 
-| Character | When / Why |
-|-----------|-----------|
+| Character    | When / Why                 |
+| ------------ | -------------------------- |
 | [[NPC Name]] | e.g. evenings, to meditate |
 
 ## What Happens Here
 
 Events, interactions, story beats tied to this location.
+
+## Interactables
+
+The objects that tell this POI's story. Each is a separate Interactable file.
+
+- [[Interactable Name - Interactable]] — brief
 
 ## Connected To
 

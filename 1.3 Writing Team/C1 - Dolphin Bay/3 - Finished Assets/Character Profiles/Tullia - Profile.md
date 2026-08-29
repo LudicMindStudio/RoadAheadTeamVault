@@ -9,6 +9,8 @@ Profession: Kid
 [[Little Girl 2 (Tullia)]]
 # Reference Art  
 [[Tullia_ConceptArt.jpeg]]
+## Portraits
+
 # Description
 
 ## Key Information 
@@ -49,11 +51,19 @@ Francois - Tullia's personality is very different from her Dad. She doesn't agre
 | SPECIAL   | Beach       | Reading under the sun        | With Juliette |
 
 --- 
+## Key Items
+
+
+- Her current book from Juliette?
+- A firefly jar?
+- A seashell wind-chime hanging by her window?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
+
 # Character Dialogue 
 
 ## Essential Reactions 
@@ -62,7 +72,6 @@ CHARACTER SIDE QUEST 1 LINK
 	Tullia is walking in Dolphin Bay by herself
 			Trigger Start - Lakshmi_Has_Tullias_Mail=False, Lakshmi_Interacts_Tullia=True
 			On Clear - Lakshmi_ Finds_Tullia_Interesting = True
-
 
 [[LakshmiDeliversMailToTullia_0]]
 	Tullia is alone near her residence and Lakshmi find her.
@@ -73,6 +82,5 @@ CHARACTER SIDE QUEST 1 LINK
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
 
 --- 

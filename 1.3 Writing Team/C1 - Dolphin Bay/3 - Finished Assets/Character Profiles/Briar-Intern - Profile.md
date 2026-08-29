@@ -71,6 +71,13 @@ Brief description of major relationships (lovers, good friends, enemies etc.). W
 [[Act 1 - Pre-graduation Revision#Quest 3, Scene 3 Practical Test - Intern Memory|Quest 3, Scene 3 - Intern Memory]]
 
 --- 
+## Key Items
+
+
+- Their treasured reading book?
+- A stack of borrowed village-history tomes by their bed?
+- An unsent letter home?
+
 # Character Quests
 
 (WIP) BEFIRENDING LAKSHMI

@@ -35,3 +35,10 @@ conflict-files-obsidian-git.md
 # Other
 *.gdrive
 Utitled 1.base
+
+# Hermes lore-engine scaffolding — machine-local pipeline (tra-lore-engine), not team content
+1.3 Writing Team/C1 - Dolphin Bay/1 - Brainstorming/Lore/
+1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Lore/
+
+# Stray duplicate vault config (opened plugins/ as vault)
+.obsidian 2/

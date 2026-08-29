@@ -9,6 +9,10 @@ Date_Created: 2026-07-10
 # Reference Art  
 
 Include any links to reference art here 
+## Portraits
+
+[[francois.png]]
+
 # Description
 
 ## Key Information 
@@ -79,11 +83,19 @@ Use this space to describe generally what the NPC does during their day (optiona
 | SPECIAL   | BEACH    | smoking                      | Smoking a pipe with Garp/EVENING         |
 
 --- 
+## Key Items
+
+
+- A carved wooden diving-kit stand by the door, weathered from sea use?
+- A corked brass diving whistle and well-worn snorkel set, ready for the next swim?
+- Two clay pipes on the mantel, sitting side by side?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
+
 # Character Dialogue 
 
 ## Essential Reactions 
@@ -100,5 +112,4 @@ DELIVERED MAIL TO NPC
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
 
