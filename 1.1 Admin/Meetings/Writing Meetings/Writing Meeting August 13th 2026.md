@@ -156,10 +156,11 @@ All scaffolded and waiting. Fill what serves the story — not everything needs 
   - [[Warren's House - Location Outline]] — Warren
   - [[Gatz's House - Location Outline]] — Gatz + Proudhon
   - [[Lisa's House - Location Outline]] — Oliver + Lisa
-  - Grandpa Dan's? — own house or the chalet
+  - [[Grandpa Dan's House - Location Outline]] - Grandpa Dan + (eventually, Briar the intern) — own house or the chalet (own house, added on 2026-08-29) 
   - [[The Bakery - Location Outline]] — Camie above, Quinn maybe
   - [[Dolphin Bay Sanctuary - Location Outline]] — Anita + Gyo
   - [[The Clam - Location Outline]] — Juliette's inn, Felix boards
+  - Briar sleeps in a storage room in Guild Hall 
 - Each home supports its occupants' schedules
 
 ---

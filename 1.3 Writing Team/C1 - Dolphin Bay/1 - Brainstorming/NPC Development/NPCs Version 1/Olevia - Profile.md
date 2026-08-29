@@ -5,6 +5,8 @@ Date_Created: 2026-03-13
 Age: 18
 Profession: Postal worker intern
 ---
+# OLD! This character is now known as Briar [[Briar-Intern - Profile]]
+
 Include any links to reference art here 
 # Reference Art Links
 

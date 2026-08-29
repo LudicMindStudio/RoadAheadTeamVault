@@ -124,7 +124,7 @@ Every home gets its own location outline. Each one must support its occupants' s
 - **Warren's House** — [[Warren's House - Location Outline]] — home office next to the guild hall. Needs scene
 - **Gatz's House** — [[Gatz's House - Location Outline]] — Gatz + Proudhon the fish, an art yard. Needs scene
 - **Lisa's House** — [[Lisa's House - Location Outline]] — Oliver + Lisa. 92 Peak Street
-- **Grandpa Dan's House?** — own house or the chalet? OPEN
+- **Grandpa Dan's House** -- [[Grandpa Dan's House - Location Outline]] -- Grandpa Dan + (eventually) Briar
 - **The Bakery** — [[The Bakery - Location Outline]] — Camie lives above. Quinn maybe too? OPEN
 - **The Sanctuary** — Anita + Gyo's home. Outline exists ([[Dolphin Bay Sanctuary - Location Outline]])
 - **The Clam** — [[The Clam - Location Outline]] — Juliette's inn. Felix boards here. Maybe Briar too? OPEN
