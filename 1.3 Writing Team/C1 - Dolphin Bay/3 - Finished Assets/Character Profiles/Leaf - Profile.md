@@ -8,6 +8,8 @@ Use this space to draft ideas of the character or link in brainstorming document
 # Reference Art  
 
 Include any links to reference art here 
+## Portraits
+
 # Description
 
 ## Key information 
@@ -52,11 +54,19 @@ Use this space to describe generally what the NPC does during their day (optiona
 | SPECIAL   |                       |                                                      |               |
 
 --- 
+## Key Items
+
+
+- Surfboard?
+- A small keepsake of his favorite dolphin, Penguin?
+- "How to speak dolphin" notebook?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
+
 # Character Dialogue 
 
 ## Essential Reactions 
@@ -73,5 +83,4 @@ DELIVERED MAIL TO NPC
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
 

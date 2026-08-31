@@ -28,7 +28,11 @@ Trigger Clear - Lakshmi_Visited_GuildHall=True (Lakshmi enters the Guildhall)
 --- 
 # Quest Scenes
 
+<<<<<<< HEAD
 [[1.3 Writing Team/C1 - Dolphin Bay/3 - Finished Assets/Act 1 - Lakshmi Graduates/Quests/Quest 1/Scenes/Scene 1/Scene 1 - Chalet First Morning - Outline]]
+=======
+[[Scene 1 - Chalet First Morning - Outline]]
+>>>>>>> origin/master
 	Location: [[Greg's Chalet - Location Outline]]
 	Lakshmi goes downstairs and leaves the Chalet 
 		Trigger Start - Lakshmi=True 
@@ -36,7 +40,7 @@ Trigger Clear - Lakshmi_Visited_GuildHall=True (Lakshmi enters the Guildhall)
 
 
 [[Scene 2 - Outdoor Reflections - Scene Outline]]
-	Location: [[Greg's Chalet Exterior - Location Outline]]
+	Location: [[Greg's Chalet Exterior - Location Outline]] [[Grandpa Dan's Bench Overlooking Dolphin Bay - POI]]
 	Lakshmi can sit down with Grandpa Dan to contemplate the fog 
 		Trigger Start - Lakshmi_Left_Chalet=True
 		Trigger Clear - Lakshmi_Enters_EasternDolphinBay=True 

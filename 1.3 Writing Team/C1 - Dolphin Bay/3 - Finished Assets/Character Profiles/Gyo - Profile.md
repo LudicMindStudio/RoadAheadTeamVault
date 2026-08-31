@@ -12,11 +12,11 @@ Profession: Dolphin Behavioral Researcher (Sanctuary)
 
 ![Brock - Pokémon Wiki - Neoseeker](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.5ko2A1VQF1etKIuR3o8TIwAAAA%3Fpid%3DApi&f=1&ipt=22689c102368b77069408b7b9dee7aa5d01d2e5e71b127390d800226d194bd35)![Brock - Pokémon Wiki - Neoseeker](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.staticneo.com%2Fw%2Fpokemon%2F7%2F71%2FDP-Brock.png&f=1&nofb=1&ipt=6483819c0310ccc9f3a74852575ee8d0c9bf24b6fd4e3a38dd0522046dea6e23)
 
-
 MIXED WITH 
 
-
 ![Dave The Diver Save Location On PC And Steam](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.qTbUf-5KCE3iO6sBhQ_UlQHaEK%3Fr%3D0%26pid%3DApi&f=1&ipt=93b2194145f166152823900b8feb450b2048811658977664b045a515d0da84b2)
+## Portraits
+
 # Description
 
 ## Appearance
@@ -65,6 +65,13 @@ See the [[18-sanctuary-production-plan]] in the project planning folder for the 
 State variants: fish shortage (protest active) adds rationing at 08:00.
 
 ---
+
+## Key Items
+
+
+- His good knife, for prepping the dolphins' meals?
+- A spice-tin collection from his cooking experiments?
+- Feeding-and-mood logbook?
 
 # Character Dialogue
 

@@ -11,7 +11,9 @@ Date_Created: 2026-08-01
 
 Briar: Oh, sure!
 
-Briar: Did you know the lake outlining the village is in the shape of a dolphin? Isn't it appropriately named?
+Briar: Did you know the lake outlining the village is in the shape of a dolphin? 
+
+Briar: Isn't it appropriately named?
 
 Briar: You can see it better if you walk towards the sanctuary.
 

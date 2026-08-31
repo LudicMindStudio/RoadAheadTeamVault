@@ -7,6 +7,8 @@ Date_Created: 2026-07-10
 [[Little Boy 3 (Elio)]]
 # Reference Art  
 Include any links to reference art here 
+## Portraits
+
 # Description
 
 ## Key Information 
@@ -15,9 +17,11 @@ Include any links to reference art here
 | ------------------- | ---------------------- |
 | Profession          | kid                    |
 | Relationship Status | Child of Robert & Lora |
+|                     | friend of Sammy        |
+
 ## Appearance 
-- Orange hair
-- Bright yellow t-shirt
+- blond hair
+- Bright orange t-shirt
 - brown eyes
 - black shorts
 - black shoes
@@ -25,38 +29,48 @@ Include any links to reference art here
 - He gives off Sun vibes 
 ## Core Characteristics
 
-Elio is the dominant one in a a conversation. He has a hard time letting other people talk about their ideas. He acts this way because he is fed up with the way adults act around him. He wants people to truly care about the animals and not protesting to fuel their discontentment. He wants to be heard and for his town to become more harmonized than polarized.  Loves fun facts about animals. 
+Elio is the dominant one in a a conversation. He has a hard time letting other people talk about their ideas. He will sometimes act on impulse without questioning himself much. He's passionate about sea animals and loves to share his passion with the ones he crosses path with.  When he hears shouting, he will go investigate and will sometimes get frustrated by what he hears the protesters saying. He knows the sea animals need to be protected but doesn't agree with what the adults are saying and he will make them know it. His attitude can be seen as rude or off putting but he's working on his autoregulation with his mom.
 ## Essential History 
 
-Elio always seems to be in a good mood. 
+Elio is raised by his loving mom, Lora and thoughtful dad, Robert. Elio was born with very sensitive eyes and must wear sunglasses at all times. Nonetheless, he loves spending his time outside when it's bright out and likes to go to the beach to watch the sunset.  He's grown close to Sammy and enjoys spending time with him. He has a lot of energy and loves to help.
 ## Relationships
 
-Sammy - Elio grew close to Sammy. They get along well. Elio encourages Sammy to be more assertive, but Sammy prefers to 
+[[Sammy - Profile]] - Elio grew close to Sammy. They get along well. They like to do silly stuff together. Having Sammy as a friend has helped Elio give space to other people. 
 
+[[Robert - Profile]] - Elio's personality and his father's often clash but they both mean well for each other. They both agree on the protection of sea animals and Elio greatly appreciate his dad support on the matter.
+
+[[Lora - Profile]] - When Elio is with his mom, he feels the most at peace. She's able to calm him by making him feel heard and understood. Her hugs instantly make him feel better. 
 
 ## Character Behavior 
 
-Use this space to describe generally what the NPC does during their day (optional table below)
-
-|           | LOCATION | ACTIVITY | SPECIAL NOTES |
-| --------- | -------- | -------- | ------------- |
-| MORNING   |          |          |               |
-| AFTERNOON |          |          |               |
-| EVENING   |          |          |               |
-| SPECIAL   |          |          |               |
+|           | LOCATION          | ACTIVITY               | SPECIAL NOTES |
+| --------- | ----------------- | ---------------------- | ------------- |
+| MORNING   | Sammy's house     | Hanging out with Sammy |               |
+| AFTERNOON | Docks and village | Hanging out            |               |
+| EVENING   | Beach             | Watching the sunset    |               |
+| SPECIAL   |                   |                        |               |
+|           |                   |                        |               |
 
 --- 
+## Key Items
+
+
+- Animal fun-fact cards?
+- A seahorse figure?
+- A shell collection?
+
 # Character Quests
 
-CHARACTER SIDE QUEST 1 LINK
+None for now. Could help Cat in hers. 
 
 --- 
 # Character Dialogue 
 
+All dialogue files are at `Dialogues/Elio/`.
 ## Essential Reactions 
 
-INTRODUCTION TO NPC 
-	Brief summary of intro conversation 
+[[IntroToElio_0]] 
+	Lashkmi interacts with Elio for the first time.
 	Conditions - (START) First interaction with NPC 
 
 DELIVERED MAIL TO NPC
@@ -67,38 +81,3 @@ DELIVERED MAIL TO NPC
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
-
-# Dialogue to digest
-
-**Event**
-	While Lakshmi crosses the a bridge to get to the dolphin statue corner, Elio intercepts her.
-
-*Elio*
-	_Hello! Did you know that the male seahorse gives birth?_
-	
-*Lakshmi*
-	_Haha... no I didn't know._
-
-*Elio*
-	_Did you know that octupuses have 3 hearts? Animals are so interesting!_
-
-*Lakshmi*
-	_No, I..._
-*ELio*
-	 _Animals are so interesting!_
-
-*Lakshmi*
-	*Yes, they...*
-	
-*Elio*
-	_Did you know that sea otters hold hands when they sleep on their backs?_
-
-*Lakshmi*
-	_Sorry, I have to go. Thank you for the fun facts._
-
-*Elio*
-	_I wouldn't go that way if I were you but do as you wish!_
-
-**Event**
-	Elio leaves happily. Lakshmi continues crossing the bridge a bit scared. 

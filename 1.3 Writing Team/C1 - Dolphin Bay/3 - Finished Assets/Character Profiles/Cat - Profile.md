@@ -11,6 +11,10 @@ Profession: Kid
 # Reference Art  
 
 ![[Pasted image 20260710155906.png|290]]
+## Portraits
+
+[[cat.png]]
+
 # Description
 
 ## Key Information 
@@ -27,7 +31,7 @@ Profession: Kid
 - bandana in her hair
 - tank top and shorts
 ## Core Characteristics
-Cat (short for Caterina) Everyone calls her Cat because she can be soft and kind but when needed she can be fierce. That's why she's the leader of the kids.  She has developed a love for animals and has been actively working to protect the wildlife around Dolphin Bay. She appreciates the beauty and complexity of all creatures (big or small). She is protective over her hometown. She encourages her brother in his dream of building a turtle sanctuary. She has started to built a little one in their backyard. 
+Cat (short for Caterina) Everyone calls her Cat because she can be soft and kind but when needed she can be fierce. That's why she's the leader of the kids.  She has developed a love for animals and has been actively working to protect the wildlife around Dolphin Bay. She appreciates the beauty and complexity of all creatures (big or small). She is protective over her hometown. She encourages her brother in his dream of building a turtle sanctuary. She has started to build a little one in their backyard. 
 ## Essential History 
 
 She lost her mom when her younger brother was born. It's been hard on her but she grew closer to her father, Garp as well as wildlife. She loves her brother and recognizes that Elio has been a great friend to Sammy.  Cat has grown up hearing stories about the ocean as her father is a sailor and she's been telling the same ones to Sammy. 
@@ -48,13 +52,20 @@ Sammy - Cat used to be very close with her brother, but these days he's been spe
 | EVENING   | At home                          | Builds mini turtle sanctuary with Sammy         |               |
 | SPECIAL   |                                  |                                                 |               |
 
-
 --- 
-# Character Quests
+## Key Items
 
+
+- A jar of sea-glass and oyster shells she has collected?
+- A tiny turtle hatchling enclosure?
+- A worn photograph of her late mom?
+
+# Character Quests
+[[CAT- Side Quest Brainstorm]]
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
+
 # Character Dialogue 
 
 ## Essential Reactions 
@@ -83,5 +94,4 @@ CHARACTER SIDE QUEST 1 LINK
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
 

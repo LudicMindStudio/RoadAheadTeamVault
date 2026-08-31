@@ -8,6 +8,8 @@ Date_Created: 2026-07-06
 # Reference Art  
 
 ![[Pasted image 20260707170535.png|324]]
+## Portraits
+
 # Description
 
 ## Key Details 
@@ -56,13 +58,20 @@ Use this space to describe generally what the NPC does during their day (optiona
 | EVENING   | Home           | Reading, Chores       |               |
 | SPECIAL   | Beach          | Reading under the sun | With Tullia   |
 
-
 --- 
+## Key Items
+
+
+- A hidden manuscript of her youth tucked under the sink?
+- A small wicker bed and waterdish for her pet rat Edris?
+- The thick village ledger recording grain and stored water?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
+
 # Character Dialogue 
 
 ## Essential Reactions 

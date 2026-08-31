@@ -49,6 +49,8 @@ rough notes:
 
 [[Lakshmi - Profile]] - motherly parents her. Although he doesn't speak much, he takes great care of her. 
 
+[[Briar-Intern - Profile]] - Passingly has seen them. Has no opinion. They are strangers in the beginning. Will grow closer later.
+
 ## Character Behavior 
 
 Use this space to describe generally what the NPC does during their day (optional table below)
@@ -61,16 +63,28 @@ Use this space to describe generally what the NPC does during their day (optiona
 | SPECIAL   |                             |                            |               |
 
 --- 
+## Key Items
+
+
+- A bubbling sourdough starter jar?
+- A faded postal badge and old route ledger?
+- A worn armchair turned toward the fog view?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK
 
---- 
-# Character Dialogue 
+---
 
-## Essential Reactions 
+## Portraits
 
-INTRODUCTION TO NPC 
+[[grandpadanportrait.png]]
+
+# Character Dialogue
+
+## Essential Reactions
+
+INTRODUCTION TO NPC
 	Brief summary of intro conversation 
 	Conditions - (START) First interaction with NPC 
 
@@ -82,4 +96,4 @@ DELIVERED MAIL TO NPC
 EXAMPLE INTERACTION 
 	Brief summary of interaction 
 		Conditions -
-
+>>>>>>> Stashed changes

@@ -12,6 +12,10 @@ Use this space to draft ideas of the character or link in brainstorming document
 # Reference Art  
 
 [[gregportrait.png]]
+## Portraits
+
+[[gregportrait.png]]
+
 # Description
 
 ## Key Information 
@@ -61,11 +65,19 @@ Use this space to describe generally what the NPC does during their day (optiona
 [[Greg (Guild leader)]]
 
 --- 
+## Key Items
+
+
+- Founding charter of the Postal Guild?
+- His weather-worn mail satchel from his first route, kept as a home keepsake?
+- A framed old photo of him and Dan before the Calamity?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
+
 # Character Dialogue 
 
 ## Essential Reactions 

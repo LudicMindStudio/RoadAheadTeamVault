@@ -59,6 +59,13 @@ Use this space to describe generally what the NPC does during their day (optiona
 | SPECIAL   | Delivery day            | Helping the guild distribute fresh veggies | every Tuesday morning |
 
 --- 
+## Key Items
+
+
+- Sergio, her needy Fiddle-Leaf Fig, recovering on the windowsill?
+- A tin of exotic seeds and pressed leaves from her woods expeditions?
+- A hand-painted watering can, its handle worn smooth?
+
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK
