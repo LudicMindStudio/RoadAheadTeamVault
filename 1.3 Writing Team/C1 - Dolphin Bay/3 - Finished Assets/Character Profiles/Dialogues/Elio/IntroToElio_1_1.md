@@ -8,5 +8,7 @@
 *Elio*
 	_Did you know that sea otters hold hands when they sleep on their backs?_
 
-- [[IntroToElio_2_]]: No, wow!
+**Options**
+- [[IntroToElio_1_1_1]]: No, wow!
+- [[IntroToElio_1_1_2]]: Yes, it's quite cute.
 
