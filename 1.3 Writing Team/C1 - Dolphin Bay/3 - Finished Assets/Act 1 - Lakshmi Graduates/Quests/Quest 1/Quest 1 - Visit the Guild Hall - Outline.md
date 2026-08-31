@@ -40,7 +40,7 @@ Trigger Clear - Lakshmi_Visited_GuildHall=True (Lakshmi enters the Guildhall)
 
 
 [[Scene 2 - Outdoor Reflections - Scene Outline]]
-	Location: [[Greg's Chalet Exterior - Location Outline]]
+	Location: [[Greg's Chalet Exterior - Location Outline]] [[Grandpa Dan's Bench Overlooking Dolphin Bay - POI]]
 	Lakshmi can sit down with Grandpa Dan to contemplate the fog 
 		Trigger Start - Lakshmi_Left_Chalet=True
 		Trigger Clear - Lakshmi_Enters_EasternDolphinBay=True 

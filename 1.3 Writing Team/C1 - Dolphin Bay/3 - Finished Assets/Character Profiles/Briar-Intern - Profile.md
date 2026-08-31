@@ -9,9 +9,11 @@ Date_Created: 2026-07-21
 # Character Brainstorming 
 
 Use this space to draft ideas of the character or link in brainstorming documents 
+
+***previously known as Olevia. Name change due to conflicting character names*
 # Reference Art  
 
-![[Briar-Intern concept art.jpg]]
+![[Briar-Intern_Concept_Art_2.jpg]]
 # Description
 
 ## Key Information 
@@ -23,14 +25,14 @@ Use this space to draft ideas of the character or link in brainstorming document
 
 ## Appearance 
 
-Scrawny little bookworm/awkward duck. Ambiguous gender. Around Lakshmi's age, perhaps slightly younger. They take great care of their Guild uniform and wear it with pride, as it represents their dream to become one day a full-fledged postal worker. They should contrast Lakshmi's bright, outgoing appearance, instead leaning toward the look of a "background NPC" - reserved, introverted, and easy to overlook.
+Scrawny little bookworm/awkward duck. Ambiguous gender. Around Lakshmi's age, perhaps slightly younger. They take great care of their Guild uniform and wear it with pride, as it represents their dream to become one day a full-fledged postal worker. They should contrast Lakshmi's bright, outgoing appearance, instead leaning toward the look of a "background NPC" - reserved, introverted, and easy to overlook. They always seem to carry too many items in their hands (like too many envelopes, or an oversized box)
 
-**Special item:** Book.
+**Special item:** Old looking scrapped gadget from the old world.
 ## Core Characteristics
 
-Olevia is an newbie awkward duck who really wants to become a good postal worker. They cannot wait for their exam invitation, so they work extra hard to impress Greg. In contrast to Lakshmi, Olevia is passive and forgettable (hence everyone forgetting their name). They love to daydream and loathe meeting new people. 
+Briar is an newbie awkward duck who really wants to become a good postal worker. They cannot wait for their exam invitation, so they work extra hard to impress Greg. In contrast to Lakshmi, Briar is passive and forgettable (hence everyone forgetting their name). They love to daydream and loathe meeting new people. 
 
-They also love to learn neat facts about villages. 
+They also love to collect items from the old world. 
 
 ## Essential History 
 
@@ -39,6 +41,8 @@ They also love to learn neat facts about villages.
 Briar moved from their hometown to Dolphin Bay to become a postal worker. They have arrived a week ago or so before the fog got thick and completely isolated Dolphin Bay from from other villages. They are a bit homesick but are scared to admit it to anyone, lest be considered incompetent at their job. They really have a hard time meeting new people, and often forget other's names, and others forget theirs - that seems fair, one would suppose. 
 
 They want to become a good postal worker, so they work extra hard to prove their worth. If need be, one can skip a night's rest! That's how you make sure other's will remember their name... right? How does it come so easy to Lakshmi? What is she doing better than them?
+
+Because they have moved so recently, nobody realized they live at the Guild Hall, in a makeshift bedroom in a small storage room. They don't tell anyone because they are ashamed. [[Briar's Makeshift Bedroom - POI]]
 
 Briar really enjoys learning of the village history and typically spend their time reading books. They pride in their skill to read complex old books and compile it into simple words. That skill does not really earn you friends though does it?
 
@@ -53,6 +57,8 @@ Brief description of major relationships (lovers, good friends, enemies etc.). W
 [[Greg - Profile]] - unexpected future friendship. Both are cynical and quiet. 
 
 [[Gyo - Profile]] - would love to befriend. A bit intimidated by Anita.
+
+[[Grandpa Dan - Profile]] - Passingly met him in Guild Hall. He acts cold to everyone, but he seems to have a lot on his plate. Briar is curious about him. 
 
 ## Character Behavior 
 

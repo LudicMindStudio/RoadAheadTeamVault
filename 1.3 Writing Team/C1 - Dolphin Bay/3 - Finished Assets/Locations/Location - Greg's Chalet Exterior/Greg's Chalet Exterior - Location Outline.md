@@ -25,6 +25,12 @@ Level One Description: ....
 Floor Design Link One... 
 ## Location Connections
 
+[[Greg's Chalet - Location Outline]]
+Door (South) to Grandpa Dan Chalet Exterior 
+
+[[Grandpa Dan's House - Location Outline]]
+(precise location left to artists/implementors)
+
 Door (East) to LOCATION ONE OUTLINE 
 Door (North) to LOCATION TWO OUTLINE 
 

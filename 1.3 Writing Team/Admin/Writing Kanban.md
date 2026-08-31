@@ -10,18 +10,19 @@ kanban-plugin: board
 - [ ] Francois Character Template UPDATE
 - [ ] Garp Character Template UPDATE
 - [ ] Lora Character Template UPDATE
-- [ ] Warren Character Template UPDATE 
-- [ ] Robert character template UPDATE 
-- [ ] Doran character template UPDATE 
-- [ ] Gatz character template UPDATE 
-- [x] Leaf character template UPDATE 
-- [ ] Libby/Shirley character template 
-- [ ] Julia character template 
+- [ ] Warren Character Template UPDATE
+- [ ] Robert character template UPDATE
+- [ ] Doran character template UPDATE
+- [ ] Gatz character template UPDATE
+- [x] Leaf character template UPDATE
+- [ ] Libby/Shirley character template
+- [ ] Julia character template
 
 
 ## In Progress
 
 - [ ] Revising dialogue of guild hall members : Aaron (2026-03-17)
+- [ ] Greg Chalet, Grandpa Dan House, Grandpa Dan bench POI, Briar's storage room POI. - Corina
 
 
 ## Complete
