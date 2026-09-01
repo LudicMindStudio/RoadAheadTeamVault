@@ -25,7 +25,7 @@ Use this space to draft ideas of the character or link in brainstorming document
 
 ## Appearance 
 
-Scrawny little bookworm/awkward duck. Ambiguous gender. Around Lakshmi's age, perhaps slightly younger. They take great care of their Guild uniform and wear it with pride, as it represents their dream to become one day a full-fledged postal worker. They should contrast Lakshmi's bright, outgoing appearance, instead leaning toward the look of a "background NPC" - reserved, introverted, and easy to overlook. They always seem to carry too many items in their hands (like too many envelopes, or an oversized box)
+Scrawny little bookworm/awkward duck. Ambiguous gender. Around Lakshmi's age, looks a bit  younger. They take great care of their Guild uniform and wear it with pride, for it represents their dream to become one day a full-fledged postal worker. They should contrast Lakshmi's bright, outgoing appearance, instead leaning toward the look of a "background NPC" - reserved, introverted, and easy to overlook. They always seem to carry too many items in their hands (like too many envelopes, or an oversized box)
 
 **Special item:** Old looking scrapped gadget from the old world.
 ## Core Characteristics
