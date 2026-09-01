@@ -43,6 +43,8 @@ Sammy lives with his dad and sister, but has grown close to Elio's parents as th
 
 [[Tullia - Profile]] - Sammy often sees Tullia as she hangs out with his sister but he doesn't talk to her much. 
 
+[[Camie - Profile]] - Sammy sometimes goes to the bakery to pick up special cookies for Abby. He appreciates Camie for what she does for him. 
+
  [[Cat - Profile]] - Sammy admires Cat's spirit. 
  
 ## Character Behavior 
@@ -53,6 +55,7 @@ Sammy lives with his dad and sister, but has grown close to Elio's parents as th
 | AFTERNOON | Around the docks and village | Hangs out                                        |               |
 | EVENING   | At home                      | Works on the mini sanctuary with Cat             |               |
 | SPECIAL   | At home                      | digs up worms                                    | When it rains |
+| SPECIAL   | Bakery                       | Picks up special cookies for Abby                |               |
 
 --- 
 ## Key Items

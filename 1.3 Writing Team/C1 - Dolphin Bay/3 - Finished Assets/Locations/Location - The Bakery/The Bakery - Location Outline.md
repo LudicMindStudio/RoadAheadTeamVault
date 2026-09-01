@@ -16,7 +16,7 @@ Status: scaffold — content pending
 # Location Description
 
 ## Purpose
-- This is the village bakery. It is owned by [[Camie - Profile]]. Camie lives above her bakery. She fastly learned that this was more practical as she has to start working early in the morning to offer fresh pastries everyday. 
+- This is the village bakery. It is owned by [[Camie - Profile]]. Camie lives above her bakery. She fastly learned that this was more practical as she has to start working early in the morning to offer fresh pastries everyday. The bakery is a place that welcomes everyone to take a break from it all and simply enjoy a delicious (most of the time) pastry. 
 ## Vibe and visual description
 Camie is creative in the pastries she offers and the look of the bakery mirrors that. 
 The bakery has a costal vibe to it with accent of blue and red. Swirls on the walls. 
