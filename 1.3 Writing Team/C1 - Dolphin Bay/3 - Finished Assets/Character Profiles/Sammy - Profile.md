@@ -20,7 +20,6 @@ Date_Created:
 | Profession          | kid            |
 | Relationship Status | Son of Garp    |
 |                     | brother of Cat |
-
 ## Appearance 
 - dark Brown very short hair
 - blue t-shirt with a turtle on it
@@ -34,17 +33,17 @@ Loves sea animal especially turtles. He has one at home and cares for it very we
 Sammy lives with his dad and sister, but has grown close to Elio's parents as the two boys spend a lot of time together. 
 ## Relationships
 
-Garp - His dad and him share the love of sea, but they don't spend too much time together. They spend their evening in close vicinity but they don't talk much
+[[Garp - Profile]] - His dad and him share the love of sea, but they don't spend too much time together. They spend their evening in close vicinity but they don't talk much
 
-Robert - Sammy has a lot of respect towards Robert. He knows that he wouldn't be alive if it weren't for him.
+[[Robert - Profile]] - Sammy has a lot of respect towards Robert. He knows that he wouldn't be alive if it weren't for him.
 
-Lora - Sammy sees her as a mother figure. He knows that if she can be there for him if he were to need comfort.
+[[Lora - Profile]]- Sammy sees her as a mother figure. He knows that if she can be there for him if he were to need comfort.
 
-Elio - Sammy appreciates greatly Elio's friendship. 
+[[Elio - Profile]] - Sammy appreciates greatly Elio's friendship. 
 
-Tullia - Sammy often sees Tullia as she hangs out with his sister but he doesn't talk to her much. 
+[[Tullia - Profile]] - Sammy often sees Tullia as she hangs out with his sister but he doesn't talk to her much. 
 
-Cat - Sammy admires Cat's spirit. 
+ [[Cat - Profile]] - Sammy admires Cat's spirit. 
  
 ## Character Behavior 
 
@@ -57,7 +56,6 @@ Cat - Sammy admires Cat's spirit.
 
 --- 
 ## Key Items
-
 
 - Abby the rescued turtle in her home tank?
 - The little backyard turtle sanctuary he built with Cat?
@@ -73,11 +71,13 @@ CHARACTER SIDE QUEST 1 LINK
 
 ## Essential Reactions 
 
-INTRODUCTION TO NPC 
-	Brief summary of intro conversation 
+All dialogue files are at `Dialogues/Sammy/`.
+
+­[[IntroToSammy­_0]] 
+	Lashkmi interacts with Sammy for the first time.
 	Conditions - (START) First interaction with NPC 
 
-DELIVERED MAIL TO NPC
+[[LakshmiDeliversMailToSammy]]
 	Brief summary of DELIVERED MAIL TO NPC
 		Conditions - (START) Lakshmi must have mail for NPC
 ## Misc Reactions 
@@ -92,10 +92,10 @@ EXAMPLE INTERACTION
 	Sammy is in front of his house looking for worms and bugs while Lakshmi arrives at his front door.
 
 *Lakshmi*
-	_Hello! I'm here to deliver mail for Libby?_
+	_Hello! I'm here to deliver mail for Cat?_
 
 *Sammy*
-	_Hi, that's my mom. You can leave it on the ground. I'll bring it inside once I'm done here._
+	_Hi, that's my sister. You can leave it on the ground. I'll bring it inside once I'm done here._
 
 *Lakshmi*
 	_Okay!_

@@ -3,4 +3,4 @@
 
 **Options**
 - [[IntroToElio_1_2_1]]: No, wow!
-- [[IntroToElio_1_2]]: Yes, it's quite cute.
+- [[IntroToElio_1_2_2]]: Yes, it's quite cute.

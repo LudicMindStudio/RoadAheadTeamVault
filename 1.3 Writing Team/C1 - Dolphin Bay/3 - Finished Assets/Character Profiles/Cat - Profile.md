@@ -37,11 +37,11 @@ Cat (short for Caterina) Everyone calls her Cat because she can be soft and kind
 She lost her mom when her younger brother was born. It's been hard on her but she grew closer to her father, Garp as well as wildlife. She loves her brother and recognizes that Elio has been a great friend to Sammy.  Cat has grown up hearing stories about the ocean as her father is a sailor and she's been telling the same ones to Sammy. 
 ## Relationships
 
-Tullia - Cat doesn't mind being followed by Tullia all the time. They have grown up together and she's learned to love Tullia as she is.
+[[Tullia - Profile]] - Cat doesn't mind being followed by Tullia all the time. They have grown up together and she's learned to love Tullia as she is.
 
-Garp - Cat is very close with her Dad. She tells him everything and he listens with an attentive ear. She likes to hang out by the docks to be near her dad. 
+[[Garp - Profile]] - Cat is very close with her Dad. She tells him everything and he listens with an attentive ear. She likes to hang out by the docks to be near her dad. 
 
-Sammy - Cat used to be very close with her brother, but these days he's been spending a lot of time with Elio. They mostly hang out together building a mini turtle sanctuary so Abby can have friends. 
+[[Sammy - Profile]] - Cat used to be very close with her brother, but these days he's been spending a lot of time with Elio. They mostly hang out together building a mini turtle sanctuary so Abby can have friends. 
 
 ## Character Behavior 
 
@@ -63,6 +63,7 @@ Sammy - Cat used to be very close with her brother, but these days he's been spe
 # Character Quests
 [[CAT- Side Quest Brainstorm]]
 CHARACTER SIDE QUEST 1 LINK
+[[CatSideQuest1]]
 
 --- 
 
@@ -75,15 +76,9 @@ CHARACTER SIDE QUEST 1 LINK
 		Trigger Start - Lakshmi_comes_near_the_group=True, Lakshmi_Has_Met_Cat_and_Tullia = False
 		On Clear - Lakshmi_Has_Met_Cat_and_Tullia =True
 		
-[[LakshmiMeetsCat_0]]
-	Lakshmi chats with Cat about the ocean.
-		Trigger Start - Lakshmi_Interacts_Cat =True
-		
 [[IntroToCat_0]] 
 	Cat talks about her interest in the ocean life. 
 		Trigger Start - Lakshmi_Interacts_Cat=True, Lakshmi_Has_Met_Cat_and_Tullia = False
-
-		On Clear - Lakshmi_Has_Met_Cat_and_Tullia =True
 		
 [[LakshmiDeliversMailToCat_0]]
 	Lakshmi delivers mail to Cat and learns that she is waiting for an answer from the mayor.
