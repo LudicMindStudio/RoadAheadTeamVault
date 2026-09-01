@@ -20,7 +20,6 @@ Profession: Kid
 | Profession          | teen                            |
 | Relationship Status | daughter of Juliette & Francois |
 |                     | BFF with Cat                    |
-
 ## Appearance 
 - long braided hair
 - dark eyes
@@ -31,39 +30,35 @@ Description of the vibe of the character. What makes this character tick?
 ## Essential History 
 - Tullia is wary of strangers. She lives with her mom, Juliette and her dad, Francois. She is strongly attached to Cat. She's been hanging out with Cat since they are babies and Tullia learned to trust Cat. 
 ## Relationships
-Cat - Tullia feels the closest towards Cat. She will rarely be on her own except sometimes at night, she will come out and watch fireflies in a wooded area in Dolphin Bay. She prefers nightime as people are quieter, but nature seems to be louder. She will not start a conversation and if prompted she prefers to keep conversations short. She is quiet, but knows a lot about what is going on around her as her dad is involded in the protests and her mom runs the local inn. She tells everything she knows only to Cat.
+[[Cat - Profile]]-Tullia feels the closest towards Cat. She will rarely be on her own except sometimes at night, she will come out and watch fireflies in a wooded area in Dolphin Bay. She prefers nightime as people are quieter, but nature seems to be louder. She will not start a conversation and if prompted she prefers to keep conversations short. She is quiet, but knows a lot about what is going on around her as her dad is involded in the protests and her mom runs the local inn. She tells everything she knows only to Cat.
 
-Sammy - Tullia likes Abby, but doesn't speak much to Sammy
+[[Sammy - Profile]] - Tullia likes Abby, but doesn't speak much to Sammy
 
-Elio - Tullia finds Elio too blunt. 
+[[Elio - Profile]]]- Tullia finds Elio too blunt. 
 
-Juliette - Juliette shared her love of reading with Tullia. If it is not to read together, they rarely spend time together. 
+[[Juliette - Profile]] - Juliette shared her love of reading with Tullia. If it is not to read together, they rarely spend time together. 
 
-Francois - Tullia's personality is very different from her Dad. She doesn't agree with his way of doing things and prefers to stay away from everything regarding the protests. 
+[[Francois Hustle - Profile]] - Tullia's personality is very different from her Dad. She doesn't agree with his way of doing things and prefers to stay away from everything regarding the protests. 
 
 ## Character Behavior 
 
-|           | LOCATION    | ACTIVITY                     | SPECIAL NOTES |
-| --------- | ----------- | ---------------------------- | ------------- |
-| MORNING   |             |                              |               |
-| AFTERNOON |             |                              |               |
-| EVENING   | wooden area | watches fireflies or reading | alone         |
-| SPECIAL   | Beach       | Reading under the sun        | With Juliette |
+|           | LOCATION                         | ACTIVITY                     | SPECIAL NOTES |
+| --------- | -------------------------------- | ---------------------------- | ------------- |
+| MORNING   | At home                          | Reading                      |               |
+| AFTERNOON | Around the village and the docks | Hangs out                    |               |
+| EVENING   | wooden area                      | watches fireflies or reading | alone         |
+| SPECIAL   | Beach                            | Reading under the sun        | With Juliette |
 
 --- 
 ## Key Items
-
-
 - Her current book from Juliette?
 - A firefly jar?
 - A seashell wind-chime hanging by her window?
-
 # Character Quests
 
 CHARACTER SIDE QUEST 1 LINK
 
 --- 
-
 # Character Dialogue 
 
 ## Essential Reactions 
