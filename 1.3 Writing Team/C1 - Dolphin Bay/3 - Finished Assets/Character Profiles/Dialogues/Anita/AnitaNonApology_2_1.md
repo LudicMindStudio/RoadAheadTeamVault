@@ -5,11 +5,11 @@ Lakshmi: Maybe you don't have to fix it alone.
 
 *[She considers this. The metronome ticks three times.]*
 
-Anita: You sound like Gyo.
+Anita{flat}: You sound like Gyo.
 
 *[A long exhale.]*
 
-Anita: I'll think about it.
+Anita{flat}: I'll think about it.
 
 **Options**
 - NA

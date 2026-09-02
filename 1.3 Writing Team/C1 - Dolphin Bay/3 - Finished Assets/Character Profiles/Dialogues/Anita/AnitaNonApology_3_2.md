@@ -5,11 +5,11 @@ Lakshmi: Want to get some coffee?
 
 *[A beat. Then, softly.]*
 
-Anita: I'd like that.
+Anita{soft}: I'd like that.
 
 *[She picks up her metronome. They walk back toward the living quarters together.]*
 
-Anita: Gyo will insist on making it. Just so you know. He has opinions about my brewing.
+Anita{wry}: Gyo will insist on making it. Just so you know. He has opinions about my brewing.
 
 **Options**
 - NA

@@ -8,15 +8,15 @@ Date_Created: 2026-07-18
 
 *[Anita blinks.]*
 
-Anita: Frequency shifts tell me the physical state of the vocal cords and the emotional state of the caller simultaneously. A stressed dolphin produces a narrower range than a relaxed one. The remaining dolphin's range has contracted by roughly twelve percent over the last quarter.
+Anita{excited}: Frequency shifts tell me the physical state of the vocal cords and the emotional state of the caller simultaneously. A stressed dolphin produces a [narrower range]{text_effect=bold} than a relaxed one. The remaining dolphin's range has contracted by roughly twelve percent over the last quarter.
 
 *[She taps the chart.]*
 
-Anita: But here's what I can't explain. The pattern correlates with something else. Social isolation. When we'd lose a dolphin, the remaining ones shifted their calls within forty-eight hours. Grief? Loneliness? A survival response?
+Anita{excited}: But here's what I can't explain. The pattern correlates with something else. Social isolation. When we'd lose a dolphin, the remaining ones shifted their calls within forty-eight hours. {text_speed=0.8} Grief? Loneliness? A survival response? {text_speed=1}
 
 *[She looks up from the chart.]*
 
-Anita: I don't know which. That's what I'm trying to find out.
+Anita{soft}: I don't know which. That's what I'm trying to find out.
 
 **Options**
 NA

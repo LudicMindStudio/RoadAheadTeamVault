@@ -85,7 +85,7 @@ What Dolphin Bay endows into the game. Every location, home, and story beat in t
 ## The Town Today
 
 - **Identity** — fishing town, animal lovers, handmade and imperfect. Bright buildings, thin walls, plenty of windows. Grass growing through the stone
-- **Daily life** — morning on the sea, afternoon rounds through town, evening in the homes. Schedules are the town's heartbeat ([[TRA Meeting Aug 10th 2026]])
+- **Daily life** — morning on the sea, afternoon rounds through town, evening in the homes. Schedules are the town's heartbeat
 - **The sea wall** — stone bricks along the coast, stairs at several points, locals sit there to watch the water
 - **The bay** — dolphin-shaped, semi-tropical. The water used to be clear enough to see sealife; it is not so nice anymore
 - **What the town believes** — the fog is a fact of life. The sanctuary debate is the current wound
@@ -132,7 +132,7 @@ Every home gets its own location outline. Each one must support its occupants' s
 Open questions carried from the team meeting:
 - Who shares a house that shouldn't? Who is missing a house?
 - Who lives above their shop? Who boards at the inn?
-- Note: Shirley, Lisa, Oliver, and Felix have no profile files yet — the household list must be verified against profiles (Aaron's task)
+- Note: Shirley, Lisa, Oliver, and Felix have no profile files yet
 
 ---
 
@@ -179,7 +179,7 @@ Outdoor locations are the top-level scenes. Indoor locations hang off them as pa
 - [[The Dolphin Statue - POI]] — East Dolphin Bay. Village symbol, protest gathering
 - [[The Fish Market - POI]] — East Dolphin Bay. Around the statue fountain
 - [[The Protester Podium - POI]] — East Dolphin Bay, near the playground (the kids overhear)
-- [[The Sea Wall - POI]] — Center Dolphin Bay
+- [[The Sea Wall - POI]] — East Dolphin Bay
 - [[The Gazebo Garden - POI]] — West Dolphin Bay
 - [[The Fishing Hole - POI]] — East Dolphin Bay
 - [[The Old Dock - POI]] — Sanctuary Exterior
@@ -220,7 +220,7 @@ The resolution state: the town reaches normal or ideal operation. Understanding 
 ## The Fog in Dolphin Bay
 
 - Environmental manifestation — it rolls in, it affects wildlife, it feeds on the protesters' anger. No creatures here; this town's fog is atmosphere
-- Where the town's fear is dense, the fog is heavy: the protest, the docks with empty nets, the forest's edge where Warren watches for Alfred
+- Where the town's fear is dense, the fog is heavy: the protest, the docks with empty nets, the forest's edge
 - The fog here is the town's anxiety made visible. Empathy and understanding thin it; panic and anger thicken it
 
 ---
@@ -235,18 +235,3 @@ This doc is the trunk. Branches:
 - **Village Plot** — the storyline → acts → quests → scenes → event scripts ([[Plot Outline Template]])
 - **Character-Specific Locations** — what each place says about the person who lives or works there
 - **Lore threads** — the deep history feeds the threads: The Calamity, The Fog's Nature, The Postal Guild's Origin, Lakshmi's Parents, Dr. Lamborghini's Research, The World Beyond
-
----
-
-## Open Questions for the Writers Meeting
-
-- Household calls: Grandpa Dan's house, who lives above the bakery, who boards at The Clam, Hustle House in the inn or separate
-- Scene vs POI calls: the Abandoned Amphitheatre, the protester podium's parent scene
-- What is on a character's map that is not on our list? What does the town need to feel alive?
-- Lore scope: how much history does each location outline carry?
-- François Hustle: how he is written across the town without stereotypes — his psychosis is the central story, destigmatizing disability is a core value ([[Francois Hustle - Profile]])
-- Economy: the guild-central model is assumed but unbuilt — does the fish market, the bakery, and the veggie deliveries hold it up?
-
----
-
-**Thanks Everyone!**

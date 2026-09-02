@@ -4,7 +4,7 @@
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Create and manage branching dialogue trees with custom syntax and inline buttons",
-	"author": "Your Name",
+	"author": "Trent Powell",
 	"authorUrl": "",
 	"fundingUrl": "",
 	"isDesktopOnly": false

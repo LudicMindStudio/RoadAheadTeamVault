@@ -4,7 +4,7 @@
 	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
 	"description": "Scan vault dialogue files for flag definitions (Conditions/Sets), maintain master-registry.md, and compare against the Unity FlagRegistry.",
-	"author": "Ludic Mind Studio",
+	"author": "Trent Powell",
 	"authorUrl": "",
 	"fundingUrl": "",
 	"isDesktopOnly": true

@@ -5,11 +5,11 @@ Lakshmi: You communicated with the dolphins.
 
 *[A long pause.]*
 
-Anita: Yes. That I did.
+Anita{soft}: [Yes. That I did.]{text_effect=bold}
 
 *[She looks at the water. The last dolphin surfaces, takes a breath, submerges.]*
 
-Anita: Maybe that's enough for now. I don't know.
+Anita{soft}: Maybe that's enough for now. I don't know.
 
 **Options**
 - NA

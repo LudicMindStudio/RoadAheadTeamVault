@@ -6,11 +6,11 @@
 **Conditions**
 {Requires=HelpAnitaResearch_1=True}
 
-Anita: The experiment did not produce the expected response.
+Anita{flat}: The experiment did not produce the expected response.
 
 *[She clicks off the recorder.]*
 
-Anita: Frequency was right. Pattern was correct. They didn't call back. That's a failure.
+Anita{flat}: Frequency was right. Pattern was correct. They didn't call back. [That's a failure.]{text_effect=bold}
 
 *[She glances at the water. Notes the dolphins. Logs it.]*
 
@@ -23,3 +23,6 @@ Anita: Thank you for your help. I can pack up from here.
 - [[Anita_Session_Done_1]]: They stayed at the surface. That's different.
 - [[Anita_Session_Done_2]]: Alright. I'll check in later.
 - [[Anita_Session_Done_3]]: Want help packing up?
+
+**Notes**
+- "That's a failure." bold: the line lands hard, no softening — flat delivery, heavy word
