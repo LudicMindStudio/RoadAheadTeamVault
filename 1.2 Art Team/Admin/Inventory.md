@@ -1,28 +1,41 @@
 # Art Asset Inventory
 
-> Last updated: 2026-07-27
-> See `!!Master Task List.md` for what's still needed
+> Last updated: 2026-09-04 — verified against actual files on disk
+> See the [[../Artist Kanban.md|Artist Kanban board]] for what's needed
 
 ## Character Portraits
 
 Location: `General Assets/Character Portraits/`
 Aseprite sources: `General Assets/Character Portraits/sources/`
 
-### Named — Done
+### Named — Done (32 files)
 
-| Character | Base | Variants | Redo |
-|-----------|------|----------|------|
-| Lakshmi | `lakshmiportrait.png` | beaming, angry, sad, annoyed | — |
-| Greg | `gregportrait.png` | — | `gregredo.png` |
-| Grandpa Dan | `grandpadanportrait.png` | — | `grandpadanrework.png` |
-| Francois | `francois.png` | — | — |
-| Garp | `garp.png` | — | — |
-| Robert | `robert.png` | — | — |
-| Olevia | `olevia.png` | — | — |
-| Lora | `lora.png` | — | — |
-| Cat | `cat.png` | — | — |
+| Character | File(s) | Notes |
+|-----------|---------|-------|
+| Lakshmi | `lakshmiportrait.png` + beaming/angry/sad/annoyed | 5 variants |
+| Greg | `gregportrait.png`, `gregredo.png` | Base + redo |
+| Grandpa Dan | `grandpadanportrait.png`, `grandpadanrework.png` | Base + rework |
+| Camie | `Camie.png` | Capital C |
+| Cat | `cat.png` | |
+| Francois | `francois.png` | |
+| Garp | `garp.png` | |
+| Olevia | `olevia.png` | |
+| Robert | `robert.png` | |
+| Lora | `lora.png` | |
+| Tullia | `tulia.png` | Saved as `tulia` (profile: Tullia) |
+| Quinn | `quinn.png` | |
+| Sammy | `sammy.png` | |
+| Elio | `elio.png` | |
+| Doran | `Doran.png` | Capital D |
+| Gatz | `Gatz.png` | Capital G |
+| Leaf | `leaf.png` | |
+| Warren | `Warren.png` | Capital W |
+| Shirley | `Shirley.png` | Capital S |
+| Briar | `briar.png` | 48x80 (off-spec) |
+| Anita | `anitawip.png` | WIP, 48x80 (off-spec) |
+| Juliette | `Juliet.png` | Saved as Juliet |
 
-### Generic — Done
+### Generic — Done (4 files)
 
 | Type | File |
 |------|------|
@@ -33,8 +46,7 @@ Aseprite sources: `General Assets/Character Portraits/sources/`
 
 ### Needed — Not Yet Started
 
-Camie, Tullia, Sammy, Elio, Doran, Gatz, Quinn, Leaf, Warren, Felix, Lisa
-Plus Liam's Memory cast (8 characters)
+Lisa, Gyo, Felix (+ any Memory cast characters)
 
 ---
 
@@ -42,23 +54,31 @@ Plus Liam's Memory cast (8 characters)
 
 Location: `General Assets/Walk Frames/`
 
-### Done
+### Done (16 files)
 
-| Character | File |
-|-----------|------|
-| Lakshmi | `WalkFramesLakshmi.png` |
-| Greg | `WalkFramesGreg.png` |
-| Grandpa Dan | `WalkFramesGrandpaDan.png` |
-| Female NPC | `WalkFramesFemaleNPC.png` |
-| Male NPC | `WalkFramesMaleNPC.png` |
-| Female Child NPC | `WalkFramesFemaleChildNPC.png` |
-| Template base | `WalkFramesTemplateNPC.aseprite` |
-| Base (adult) | `!NPCBase.png` |
-| Base (child) | `!ChildNPCBase.png` |
+| Character | File | Notes |
+|-----------|------|-------|
+| Lakshmi | `WalkFramesLakshmi.png` | |
+| Greg | `WalkFramesGreg.png` | |
+| Grandpa Dan | `WalkFramesGrandpaDan.png`, `WalkFramesGrandpaDan 1.png` | Two variants |
+| Cat | `WalkFramesCat.png` + `cat.png` | Frame + single sprite |
+| Francois | `WalkFramesFrancois.png` + `francois.png` | |
+| Garp | `WalkFramesGarp.png` + `Garp.png` | |
+| Female NPC | `WalkFramesFemaleNPC.png` | |
+| Male NPC | `WalkFramesMaleNPC.png` | |
+| Female Child NPC | `WalkFramesFemaleChildNPC.png` | |
+| Dolphin | `dolphinspritesheet.png` | |
+| Base (adult) | `!NPCBase.png` | |
+| Base (child) | `!ChildNPCBase.png` | |
+| Aseprite source | `cat.aseprite`, `francois.aseprite`, `garp.aseprite`, etc. | In walk frames dir |
 
-### Needed
+### Needed — Have Portrait, Need Walking Sprite
 
-Male Child NPC, all character-specific walk sprites
+Camie, Tullia, Quinn, Sammy, Elio, Doran, Gatz, Leaf, Warren, Shirley, Briar, Anita, Lora, Olevia, Robert — 15 characters
+
+### Needed — Missing Both Portrait and Sprite
+
+Lisa, Gyo, Felix, Juliette (has `Juliet.png` but needs confirmation)
 
 ---
 
@@ -66,11 +86,11 @@ Male Child NPC, all character-specific walk sprites
 
 Location: `C1 - Dolphin Bay/3 - Finished Assets/Sprites & Tiles/`
 
-### Exterior (20 files)
+### Exterior (22 files)
 
 Docks (5), houses (2), fences (2), vegetation (3), market stands (2),
 paths/cobble (1), dirt wall (1), sea wall (1), dolphin statue (1),
-misc outdoor (2)
+misc outdoor (4)
 
 ### Interior (8 files)
 
