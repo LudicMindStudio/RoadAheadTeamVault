@@ -40,7 +40,7 @@ Status: scaffold — content pending
 
 ## Location Connections
 
-- Parent: [[Center Dolphin Bay - Location Outline]]
+- Parent: [[West Outer Dolphin Bay - Location Outline]]
 
 ---
 
