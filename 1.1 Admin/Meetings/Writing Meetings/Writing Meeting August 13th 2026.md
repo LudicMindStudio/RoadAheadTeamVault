@@ -120,7 +120,7 @@ All scaffolded and waiting. Fill what serves the story — not everything needs 
   - [[Sanctuary Interior - Location Outline]] — parent Sanctuary Exterior
   - [[Greg's Chalet - Location Outline]] — parent Greg's Chalet Exterior
   - [[Guild Hall - Location Outline]] — parent Center Dolphin Bay
-  - [[Warren's House - Location Outline]] — parent Center Dolphin Bay
+  - [[Gatz's House - Location Outline]] — parent Center Dolphin Bay
   - [[Hustle House - Location Outline]] — parent West Dolphin Bay
   - [[Garp's House - Location Outline]] — parent West Dolphin Bay
   - [[Robert & Lora House - Location Outline]] — parent West Dolphin Bay
@@ -153,7 +153,7 @@ All scaffolded and waiting. Fill what serves the story — not everything needs 
   - [[Doran & Shirley House - Location Outline]] — Doran + Shirley
   - [[Greg's Chalet - Location Outline]] — Greg + Lakshmi
   - [[Leaf's Dojo-Casa - Location Outline]] — Leaf
-  - [[Warren's House - Location Outline]] — Warren
+  - [[Gatz's House - Location Outline]] — Warren
   - [[Gatz's House - Location Outline]] — Gatz + Proudhon
   - [[Lisa's House - Location Outline]] — Oliver + Lisa
   - [[Grandpa Dan's House - Location Outline]] - Grandpa Dan + (eventually, Briar the intern) — own house or the chalet (own house, added on 2026-08-29) 

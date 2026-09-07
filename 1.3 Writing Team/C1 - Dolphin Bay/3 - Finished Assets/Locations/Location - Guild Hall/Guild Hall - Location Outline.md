@@ -13,6 +13,11 @@ Include any links to reference art here
 ## Brainstorming Links
 
 [[Pregarduation/Pre-graduation Dialogue-Events|Pre-graduation Dialogue-Events]]
+
+Offices Needed:
+Lora 
+Warren - logistics room 
+Greg 
 ## General Description 
 Provide a brief description of the purpose and vibe of the location. 
 ## Floor By Floor Layout 

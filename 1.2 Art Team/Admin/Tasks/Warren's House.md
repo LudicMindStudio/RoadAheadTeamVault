@@ -13,7 +13,7 @@ Warren's House is home to one of the named villagers.
 
 ## Context
 
-[[Warren's House - Location Outline]] — scaffold.
+[[Gatz's House - Location Outline]] — scaffold.
 
 ## What to Make
 

@@ -121,7 +121,7 @@ Every home gets its own location outline. Each one must support its occupants' s
 - **Doran & Shirley House** — [[Doran & Shirley House - Location Outline]] — Doran + Shirley. Maybe a garden outside? OPEN
 - **Greg's Chalet** — Greg + Lakshmi. Outline exists ([[Greg's Chalet - Location Outline]])
 - **Leaf's Dojo-Casa** — [[Leaf's Dojo-Casa - Location Outline]] — Leaf. Just a house? OPEN
-- **Warren's House** — [[Warren's House - Location Outline]] — home office next to the guild hall. Needs scene
+- **Warren's House** — [[Gatz's House - Location Outline]] — home office next to the guild hall. Needs scene
 - **Gatz's House** — [[Gatz's House - Location Outline]] — Gatz + Proudhon the fish, an art yard. Needs scene
 - **Lisa's House** — [[Lisa's House - Location Outline]] — Oliver + Lisa. 92 Peak Street
 - **Grandpa Dan's House** -- [[Grandpa Dan's House - Location Outline]] -- Grandpa Dan + (eventually) Briar
@@ -161,7 +161,7 @@ Outdoor locations are the top-level scenes. Indoor locations hang off them as pa
 - [[Sanctuary Interior - Location Outline]] — parent Sanctuary Exterior
 - [[Greg's Chalet - Location Outline]] — parent Greg's Chalet Exterior
 - [[Guild Hall - Location Outline]] — parent Center Dolphin Bay
-- [[Warren's House - Location Outline]] — parent Center Dolphin Bay
+- [[Gatz's House - Location Outline]] — parent Center Dolphin Bay
 - [[Hustle House - Location Outline]] — parent West Dolphin Bay
 - [[Garp's House - Location Outline]] — parent West Dolphin Bay
 - [[Robert & Lora House - Location Outline]] — parent West Dolphin Bay
