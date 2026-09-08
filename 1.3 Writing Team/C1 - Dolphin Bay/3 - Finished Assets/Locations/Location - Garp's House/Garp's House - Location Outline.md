@@ -10,7 +10,7 @@ Status: scaffold — content pending
 
 ## Reference Art Links
 
--
+![[Pasted image 20260908190053.png]]
 
 ---
 
@@ -22,9 +22,9 @@ Garp's childhood home which he inherited, and Alexi updated into the spunky ecle
 
 ## Vibe and visual description
 
-Garp lives in a classic wooden home which sits on stilts to raise it slightly from the ground below. There's two levels. The siding is painted a bright yellow which has faded over the years. The rough is looking in bad need of repair with a family of birds nested ...
+Garp lives in a classic wooden home of the bay which sits on stilts to raise it slightly from the ground below. There's two levels, but it's generally shorter than most of the houses in the bay. The siding is painted a bright yellow which has faded over the years. The roof is looking in bad need of repair with a family of birds nested in the eavestrough. 
 
-The original aesthetic was psychedelic pirate with accent walls painted in distinct spiral patterns and bright colours. Every knob is replaced with a bright gold, and a captains wheel is bolted to the border of the loft really giving the boat vibe. However, since Alexi's death nothing has been updated, so there's lots of junk about and the colours have faded. Her paintings of quaint sea scenes with strange psychedelic spirits remain on the walls. It's a home brimming with new energy, but the neglect is melancholic. 
+The original aesthetic of the interior was psychedelic pirate with accent walls painted in distinct spiral patterns and bright colours. Every knob is replaced with a bright gold, and a captains wheel is bolted to the border of the loft really giving the boat vibe. However, since Alexi's death nothing has been updated, so there's lots of junk about and the colours have faded. Her paintings of quaint sea scenes with strange psychedelic spirits remain on the walls. It's a home brimming with new energy, but the neglect is melancholic. 
 
 It's clearly the home of young children with plenty of experiments afoot. The only spot of relative calm is Garp's "office" where his more sacred fishing supplies, and a photo of his biggest catch lie. 
 
@@ -45,7 +45,9 @@ It's clearly the home of young children with plenty of experiments afoot. The on
 
 ## Floor By Floor Layout
 
--
+First Floor: 
+
+The entrance gives way to a large room. On the left is a bustling kitchen 
 
 ## Location Connections
 

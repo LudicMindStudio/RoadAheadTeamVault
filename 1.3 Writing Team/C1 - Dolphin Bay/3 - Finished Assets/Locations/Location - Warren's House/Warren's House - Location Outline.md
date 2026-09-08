@@ -37,6 +37,7 @@ Tree with meat hook
 Large freezer 
 Chicken Coop
 Hunting Shed
+Outhouse
 ### Indoor Zone
 
 Kitchen
