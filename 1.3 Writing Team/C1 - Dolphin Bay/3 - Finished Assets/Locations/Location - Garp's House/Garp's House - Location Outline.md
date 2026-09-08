@@ -28,11 +28,16 @@ This is a test purpose
 
 ### Outdoor Zone
 
--
+-Carb-Queen under repair 
+-Campfire 
+-Tabaco patch 
 
 ### Indoor Zone
 
--
+-Kitchen and Dinning room 
+-Bunkhouse 
+-Loft 
+-Office 
 
 ## Floor By Floor Layout
 
@@ -46,7 +51,7 @@ This is a test purpose
 
 # Location POIs
 
-- [[Garp's Boat Crab-Queen - POI]] — the boat under repair, Alexi's ashes aboard
+- [[Garp's Boat Crab-Queen - POI]] — the boat under repair
 
 ---
 
@@ -54,7 +59,12 @@ This is a test purpose
 
 Each interactable names its Root Location and Root POI.
 
--
+-Harmonica
+-Alexi's Ashes 
+-Vinyl Collection
+-Crab-Maid Fan fiction
+-Exotic Nymph fly collection 
+-Turtle Bed
 
 ---
 
