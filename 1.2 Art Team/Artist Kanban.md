@@ -35,7 +35,6 @@ kanban-plugin: board
 - [ ] [Leaf's Dojo-Casa](Admin/Tasks/Leaf's%20Dojo-Casa.md) #p2 #location
 - [ ] [Lisa's House](Admin/Tasks/Lisa's%20House.md) #p2 #location
 - [ ] [Robert & Lora's House](Admin/Tasks/Robert%20&%20Lora's%20House.md) #p2 #location
-- [ ] [Warren's House](Admin/Tasks/Warren's%20House.md) #p2 #location
 - [ ] [Doran & Shirley's House](Admin/Tasks/Doran%20&%20Shirley's%20House.md) #p2 #location
 - [ ] [Guild Hall](Admin/Tasks/Guild%20Hall.md) #p2 #location
 - [ ] [The Clam](Admin/Tasks/The%20Clam.md) #p2 #location
@@ -53,6 +52,7 @@ kanban-plugin: board
 - [ ] [The Bakery](Admin/Tasks/The%20Bakery.md) #p2 #location
 - [ ] [Dolphin Bay Sanctuary](Admin/Tasks/Dolphin%20Bay%20Sanctuary.md) #p2 #location
 - [ ] [[Develop House Exterior Templates]]
+- [ ] [Warren's House](Admin/Tasks/Warren's%20House.md) #p2 #location
 
 
 ## In Progress — Characters (portrait done, need walking sprite)
