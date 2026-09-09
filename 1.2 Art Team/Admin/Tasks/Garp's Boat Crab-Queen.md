@@ -17,8 +17,8 @@ The Crab-Queen is Garp's fishing vessel. It's a visual centerpiece at the docks.
 
 ## What to Make
 
-- [ ] Boat exterior sprite
-- [ ] Fishing gear or traps on deck
+- [x] Boat exterior sprite
+- [x] Fishing gear or traps on deck
 
 ## References
 
