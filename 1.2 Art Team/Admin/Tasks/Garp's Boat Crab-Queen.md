@@ -23,3 +23,4 @@ The Crab-Queen is Garp's fishing vessel. It's a visual centerpiece at the docks.
 ## References
 
 [[Art specifications.md]] | [[Garp's House - Location Outline]]
+![[CrabQueen.png]]
