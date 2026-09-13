@@ -3,7 +3,7 @@ tags:
   - DolphinBay
   - location
 Date_Created: 2026-08-13
-Status: scaffold — content pending
+Status: interactables, POIs needed
 ---
 
 # Doran & Shirley House — Location Outline
@@ -52,13 +52,18 @@ Ground floor:
 -The door opens to a well organized mud room. Several racks for storing shoes and large hooks already holding overalls and big jackets. 
 -Leaving the mudroom you enter a massive open concept kitchen and dinning room. The kitchen has a large island covered in various bowls of spices. Herbs grow in a wooden book near the sink and large window. Everything is arranged neatly and tucked into the many cupboards that cover the far wall and kitchen area. 
 
-Still in the same room, but on the far-side there's a couch, loveseat and fireplace (arranged to create a separate space). A beautiful throw blanket cover the couch. Carved sea creatures are arranged above the mental that the fireplace is contained within. 
+Still in the same room, but on the far-side there's a couch, loveseat and fireplace (arranged to create a separate space). A beautiful throw blanket cover the couch. Carved sea creatures are arranged above the mantal that the fireplace is contained within. 
 
 The back of the kitchen opens up in to a gorgeous spirally staircase with a wide polished wooden rail. To the right of the staircase is a door which leads into their panty. To the left of the staircase is a door leading into the cleaning room. The cleaning room is a small bathroom combined with a big tub (for washing), and it opens to the outside where a hanging line awaits. 
 
 Upstairs: 
+-The door opens to a massive bedroom. An ensuite bathroom is to the left. The back of the bedroom gives way to the balcony. 
 
+An enormous king-size bed with a canopy like that of royalty takes up center stage. A beautifully handmaid bench lies at the foot of the bed. Positively massive tropical plants take up the corners of the bedroom. A colorful trunk lies against one wall, and a large wardrobe beside that. The handles of the wardrobe are carved to look like little waves. A large mirror rests on the other free wall it has an ornate frame with a clamshell and pearl carved at the top. 
 
+The bathroom is unremarkable with the exception of the gorgeous bathtub which takes up most of the room. Dried herbs hang from the ceiling. 
+
+The double doors to the balcony have been lovingly handcrafted and they give way to two wooden chairs with colorful cushions and beautiful hand woven blanket throws. An intricate tapestry depicting a narwhal lies under the two chairs. Trellises frame the sides of the balcony, and these are covered with vines and ferry lights. 
 
 ## Location Connections
 
@@ -77,11 +82,13 @@ Upstairs:
 
 Each interactable names its Root Location and Root POI.
 
--large mirror 
--Crossword book 
--Mamas blanket 
+-Oystery mirror - various creatures on the sea floor, crabs, coral seaweed all visible on closer inspection 
+-Crossword book - lies on the nightstand beside the table, a difficult trivia question is filled in 
+-Couch throw blanket - bright bu
+-Spice bowls - smells like coco, cumin and turmeric 
 -Cauldron - on the stove, beans are stewing 
--Carved Narwhale 
+-Carved Narwhal - the narwhal looks a bit sad 
+-Sawhorses - evidence of his latest project
 
 
 ---
