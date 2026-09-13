@@ -3,7 +3,7 @@ tags:
   - DolphinBay
   - location
 Date_Created: 2026-08-13
-Status: scaffold — content pending
+Status: interactables, POIs needed
 ---
 
 # Garp's House — Location Outline
@@ -33,6 +33,7 @@ It's clearly the home of young children with plenty of experiments afoot. The on
 ### Outdoor Zone
 
 -Carb-Queen under repair 
+-Crab-Maid's Vengeance (treehouse)
 -Campfire 
 -Tabaco patch 
 
@@ -47,7 +48,17 @@ It's clearly the home of young children with plenty of experiments afoot. The on
 
 First Floor: 
 
-The entrance gives way to a large room. On the left is a bustling kitchen 
+The entrance gives way to a large room. On the left is a bustling kitchen set against the wall. A small round table with a bright swirling pattern lies near the counters of the kitchen. Against the far wall is a door that leads to the stairs to the loft above. Under the stairs is an overstuffed pantry. 
+
+On the right is a hammock and a bunkbed. A curtain with a turtle print surrounds the top bunk giving the sleeper some privacy. Behind the beds near to the back right of the room is a wooden box and two wardrobes full of clothes (mostly spilling out). 
+
+In-between the two back rooms is a very small room. This is Garp's office. It is well organized with a small bright yellow chair. An old radio, a pipe and an old log sit on a family heirloom of a desk tucked into the room. Brightly colored Nymph flies hang from the wall along with a photo of a young Garp and Alexi. They hold the biggest fish you've ever seen. 
+
+Second Floor: 
+
+This loft only covers half of the house (the floor is above the kitchen). A line for drying laundry runs from the balcony of the loft to the top post of the bunkbed. A miniature captain's wheel is also bolted to the balcony. 
+
+The loft is carpeted and the walls of the loft spot the majority of Alexi's paintings and a few recent additions from Sammy. There's no furniture just pillows scattered in a circle around a wind up-record player. Vinyl albums line a small shelf bordering the room. Tucked into his own corner of the shelf is the tank for Sammy's turtle which sports it's own dolphin statue. His feeding supplies are nearby. 
 
 ## Location Connections
 
@@ -72,6 +83,8 @@ Each interactable names its Root Location and Root POI.
 -Crab-Maid Fan fiction
 -Exotic Nymph fly collection 
 -Turtle Tank
+-Alexi's paintings 
+-Sammy's paintings 
 
 ---
 
