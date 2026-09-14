@@ -39,7 +39,9 @@ Living Room (and fish tank)
 Basement 
 ## Floor By Floor Layout
 
-Ground floor - The ground floor consists of two rooms one open concept bedroom, kitchen, and dining area and a separate small bathroom. The door opens to his living area where he has a twin bed and book shelf that face each other. The book shelf is short and wide, and his fish tank lies on top. Although guests typically notice his flashy skateboard propped by the door first. On the far side of the room is a basic wooden table, and across from that is a very small kitchen set up. A wide propane grill connected to two propane tanks. Some haphazard shelfing around it hold all his spices, grains and it essentially serves as his pantry. 
+Ground floor - The ground floor consists of two rooms one open concept bedroom, kitchen, and dining area and a separate small bathroom (to the left of the entrance. The door opens to his living area where he has a twin bed and book shelf that face each other. The book shelf is short and wide, and his fish tank lies on top. Although guests typically notice his flashy skateboard propped by the door first. On the far side of the room is a basic wooden table, and across from that is a very small kitchen set up. A wide propane grill connected to two propane tanks. Some haphazard shelfing around it hold all his spices, grains and it essentially serves as his pantry. 
+
+Basement/creator suite - It consists of two tight rooms connected by a single door. Although a large window is placed between the two rooms (see the reference image above). The side closest to the stairwell is more for painting and drawing. Three easels wait with canvases yet to be finished. A row of books line the far wall. A cart stuffed with drawing and painting supplies is placed next to one of the canvases. Bits of paint can be found on the floor and wall. The adjoining room is more simple just the red typewriter on the former DJ desk and a shelf containing old DJ equipment. A trashcan is overflowing with paper and stacks of papers and open books cover the surface next to the typewriter. Unlike the organized chaos of the floor above, the basement is pure creative chaos. 
 
 Rooftop antenna - the roof is accessible from the lower level. Gatz and friends will frequently take the ladder to the roof and sit cozily inside the antenna (where Gatz has placed some comfy pillows)
 
@@ -51,7 +53,7 @@ Rooftop antenna - the roof is accessible from the lower level. Gatz and friends 
 
 # Location POIs
 
--
+-Rooftop Antenna 
 
 ---
 
@@ -59,7 +61,11 @@ Rooftop antenna - the roof is accessible from the lower level. Gatz and friends 
 
 Each interactable names its Root Location and Root POI.
 
--
+-Red Typewriter 
+-Fish tank with Proudhorn 
+-Special Skateboard 
+-That one skateboarding magazine clipping 
+-Easel 
 
 ---
 
