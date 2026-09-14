@@ -30,24 +30,18 @@ However, the real magic of the place, unlike nearly every building on the bay. T
 
 ### Outdoor Zone
 
-NA
+Rooftop Antenna 
 ### Indoor Zone
 
-Bedroom 
-K
+Main room 
+Bathroom
+Living Room (and fish tank)
+Basement 
 ## Floor By Floor Layout
 
-The home is composed of only one floor. 
+Ground floor - The ground floor consists of two rooms one open concept bedroom, kitchen, and dining area and a separate small bathroom. The door opens to his living area where he has a twin bed and book shelf that face each other. The book shelf is short and wide, and his fish tank lies on top. Although guests typically notice his flashy skateboard propped by the door first. On the far side of the room is a basic wooden table, and across from that is a very small kitchen set up. A wide propane grill connected to two propane tanks. Some haphazard shelfing around it hold all his spices, grains and it essentially serves as his pantry. 
 
-The kitchen is directly to the left of the entrance with an eating area directly in front of the door. To the right is a small living room area and at the far right side is the cat palace.  
-
-The kitchen - Fancy copper pots and pans hang from the shelves. Everything is very well organized and he even has a cabinet of arranged spices. 
-
-Eating area - Small retro cafe table with plush baby blue chairs lit by candles. It’s tight, but stylish. 
-
-Living Room - Pink and white striped pull-out couch with a dozen velvety baby blue cushions. Across from the couch is a handcrafted wardrobe. A map of the area is framed to the left of the wardrobe - a dozen red pins are spread across its surface. A box full of rolled up maps sits beside the bed. 
-
-Cat Palace - the biggest homemade cat tree you’ve ever seen. Everything done in soft baby blue fabric. Which contrasts with the pink rug that runs under the tree. The arms of the tree extend towards the back window and end in a golden box which hangs from the tree. The perfect resting spot for sun bathing. A luxurious eating tray and running water fountain lay beside the tree. 
+Rooftop antenna - the roof is accessible from the lower level. Gatz and friends will frequently take the ladder to the roof and sit cozily inside the antenna (where Gatz has placed some comfy pillows)
 
 ## Location Connections
 
