@@ -10,7 +10,7 @@ Status: scaffold — content pending
 
 ## Reference Art Links
 
-
+![[Pasted image 20260914175632.png]]
 
 ---
 
@@ -18,29 +18,23 @@ Status: scaffold — content pending
 
 ## Purpose
 
-Former ice-cream parlor 
+Former radio station headquarters, now semi-permanent home of Gatz. 
 
 ## Vibe and visual description
 
-Warren lives in a grey c-can that he has been slowly converting into a home. The exterior looks rough and uninviting, but the interior is soft and surprisingly lavish and comfortable. It’s not the kind of place you’d ever **want** to go door knocking, but if you did find yourself invited inside you’d be right at ease. 
+97FM The Wave headquarters was abandoned shortly after the calamity and Gatz fell totally in love with his new quaint home. The exterior is a quaint wooden building with a large antenna and a recently updated painting of a wave along with the frequency painted in bold letters on the building facade. The inside of the home is a tidy fairly non-descript studio apartment with various newspaper clippings from skateboarding magazines tacked to the wall. 
 
-A wooden porch runs along the side of the c-can like in the photo above, but the roof is of much worse quality: an old-fashioned hay roof clearly constructed recently. The porch is empty save for two rocking chairs and some assorted junk like cans and boxes. A single lamp hangs down from the roof lighting the door. 
+However, the real magic of the place, unlike nearly every building on the bay. The Wave headquarters has a developed basement. Gatz has transformed this space into his artist's den. Candles cover most of the space. Multiple easels are set up with abstract art finished to various degrees, and then in the joining room (separated by a large window) with a sign that reads "on air" lies his treasured type writer on the former DJs desk. The walls are painted in dark colors contrasted only by the bright paint on his easel and his bright red type-writer. Much of the old tech remains in the DJ booth really adding to a techno punk aesthetic for the whole room. 
 
 ## Zones (Indoor / Outdoor)
 
 ### Outdoor Zone
 
-Outdoor Zone 
-Porch 
-Manual Well 
-Tree with meat hook 
-Large freezer 
+NA
 ### Indoor Zone
 
-Kitchen
-Dinning Room
-Living Room 
-Cat Palace 
+Bedroom 
+K
 ## Floor By Floor Layout
 
 The home is composed of only one floor. 
@@ -57,7 +51,7 @@ Cat Palace - the biggest homemade cat tree you’ve ever seen. Everything done i
 
 ## Location Connections
 
-- Parent: [[West Outer Dolphin Bay - Location Outline]]
+- Parent: [[East Dolphin Bay - Location Outline]]
 
 ---
 
