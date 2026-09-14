@@ -10,7 +10,7 @@ Status: scaffold — content pending
 
 ## Reference Art Links
 
--
+![[Pasted image 20260913200627.png]]
 
 ---
 
@@ -18,17 +18,21 @@ Status: scaffold — content pending
 
 ## Purpose
 
--
+Former surf shack, now fulltime Leaf residency 
 
 ## Vibe and visual description
 
--
+Calling this a home is generous, but it's got everything a **dude** needs. Like in the image above it's a classic surfer hut type structure with a shaggy roof and cobbled together wooden interior. Unlike in the image above, the house has one large opening that opens to the beach front and no door. A hamock swings from the overhang of the b
+
+Inside is just the bare essentials, but it's honestly pretty cool and comfortable. He's even got a little mini bar with tiki umbrellas. 
 
 ## Zones (Indoor / Outdoor)
 
 ### Outdoor Zone
 
--
+-outhouse 
+-surfboard storage 
+-hammock 
 
 ### Indoor Zone
 

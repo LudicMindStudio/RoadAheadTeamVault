@@ -84,7 +84,7 @@ Each interactable names its Root Location and Root POI.
 
 -Oystery mirror - various creatures on the sea floor, crabs, coral seaweed all visible on closer inspection 
 -Crossword book - lies on the nightstand beside the table, a difficult trivia question is filled in 
--Couch throw blanket - bright bu
+-Couch throw blanket - bright colors but you're struck by the smell, gift from Shirley's mom 
 -Spice bowls - smells like coco, cumin and turmeric 
 -Cauldron - on the stove, beans are stewing 
 -Carved Narwhal - the narwhal looks a bit sad 
