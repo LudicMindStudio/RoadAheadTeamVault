@@ -10,7 +10,7 @@ Status: scaffold — content pending
 
 ## Reference Art Links
 
--
+![[Pasted image 20260920180011.png|574]]
 
 ---
 
@@ -18,11 +18,11 @@ Status: scaffold — content pending
 
 ## Purpose
 
--
+Former summer residence of judge Jacobs but now full time residence of Robert, Juliette and Tullia. 
 
 ## Vibe and visual description
 
--
+Well not quite the Italian mansion above,  
 
 ## Zones (Indoor / Outdoor)
 
