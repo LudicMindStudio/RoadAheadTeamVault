@@ -52,12 +52,17 @@ First Floor -
 
 Second Floor - bedrooms
 
-Tulia has a stain glass window in her room of a mermaid 
+To the left of the stairs are two rooms: Tullia's bedroom and the library. Tullia's bedroom is decorated in a tasteful yellow. She has a bed with purple sheets, a sea serpent stuffy and a princess like canopy. A stained glass window of a mermaid lights her room. She has a small vanity with her journal open on the desk, an inkwell, and dozens of candles. A flower shaped mirror hangs to the left of her bed. 
+
+On the mirror side of Tullia's desk is her mother's writing desk. Her a stack of papers and books are carefully aligned. She too has an inkwell and many candles doting her desk. A bust of Mary Shelly sits on the corner of her desk. On the other side of the room is a an absolutely overstuffed library which reaches to the ceiling, a sliding ladder has been crafted for reaching the top shelf.  Thick velvety curtains frame the one large 
 
 Third Floor (workshop)
 
-The third floor is all one room three large windows facing the ocean flood the penthouse workshop with light. Three large, evenly dispersed pillars are the only divisions of the room. Near the window on a small table lies a large metal box (a prototype sonar display unit). Various tools and gears are spread across the table and a cozy tool sits just behind the table. 
+The third floor is all one room three large windows facing the ocean flood the penthouse workshop with light. Three large, evenly dispersed pillars are the only divisions of the room. 
 
+Near the window on a small table lies a large metal box (a prototype sonar display unit). Various tools and gears are spread across the table and a cozy tool sits just behind the table. 
+
+On the far side of the room is a large wooden desk with the blueprints for the device spread-out across the table. three different types of prosthetic hands with different tools lay on the table. A wooden toolbox lays on the table and against the wall with hundreds of little wooden drawers filled with various odds and ends. Just above the tool box, many different tinkering tools lie from hooks anchored into the wall. 
 ## Location Connections
 
 - Parent: [[West Dolphin Bay - Location Outline]]
