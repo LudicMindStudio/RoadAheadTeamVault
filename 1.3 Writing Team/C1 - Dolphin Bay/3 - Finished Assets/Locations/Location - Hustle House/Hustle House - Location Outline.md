@@ -48,13 +48,23 @@ Courtyard
 -Kitchen 
 ## Floor By Floor Layout
 
-First Floor - 
+First Floor - hosting 
+
+The house has a rather large entrance, with two large closets for putting away jackets and shoes. From here you enter the extra large salon composed of two rooms. On the one side is a small fireplace and on top of the fireplace mantle is a  recently commissioned portrait of the whole family. On the other side is a poker table surrounded by chairs. Both of these rooms help to form a circle around the central stairwell which only accessible by going through the salon and into the kitchen or dinning room. 
+
+The dinning room which connects to the poker room is notable for it's enormous chandelier, and a small champagne kart full of spirits. The table always has silk placemats and crystal glasses. A cabinet of fine china lies in the corner of the room. 
+
+The kitchen is spacious and fancy pots and pans hang from hooks above the kitchen sink. The gas stove is particularly large with ti
+
+Family portrait 
 
 Second Floor - bedrooms
 
 To the left of the stairs are two rooms: Tullia's bedroom and the library. Tullia's bedroom is decorated in a tasteful yellow. She has a bed with purple sheets, a sea serpent stuffy and a princess like canopy. A stained glass window of a mermaid lights her room. She has a small vanity with her journal open on the desk, an inkwell, and dozens of candles. A flower shaped mirror hangs to the left of her bed. 
 
-On the mirror side of Tullia's desk is her mother's writing desk. Her a stack of papers and books are carefully aligned. She too has an inkwell and many candles doting her desk. A bust of Mary Shelly sits on the corner of her desk. On the other side of the room is a an absolutely overstuffed library which reaches to the ceiling, a sliding ladder has been crafted for reaching the top shelf.  Thick velvety curtains frame the one large 
+On the mirror side of Tullia's desk is her mother's writing desk. Her a stack of papers and books are carefully aligned. She too has an inkwell and many candles doting her desk. A bust of Mary Shelly sits on the corner of her desk. On the other side of the room is a an absolutely overstuffed library which reaches to the ceiling, a sliding ladder has been crafted for reaching the top shelf.  Thick velvety curtains frame the one very large window which illumes the room. 
+
+To the right of the stairs is the master suite including a bathroom. The bedroom is simple with a king-size bed and two night stands. A special wooden stump for affixing Francois' prosthetic sits on his nightstand. A pile of books sits on Juliette's. A wooden nose waits for holding her glasses. Two large windows bathe the room in light. A connected walk-in closet holds their clothing. 
 
 Third Floor (workshop)
 
