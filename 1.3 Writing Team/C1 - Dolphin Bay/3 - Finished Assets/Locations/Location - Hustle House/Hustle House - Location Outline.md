@@ -37,14 +37,26 @@ Courtyard
 - hedges 
 - apple trees 
 - lanterns 
-
 ### Indoor Zone
 
--
-
+-Francois' workshop 
+-Juliette's private library and office 
+-Parent's room 
+-Tulia's room 
+-Dinning Room 
+-Living Room 
+-Kitchen 
 ## Floor By Floor Layout
 
--
+First Floor - 
+
+Second Floor - bedrooms
+
+Tulia has a stain glass window in her room of a mermaid 
+
+Third Floor (workshop)
+
+The third floor is all one room three large windows facing the ocean flood the penthouse workshop with light. Three large, evenly dispersed pillars are the only divisions of the room. Near the window on a small table lies a large metal box (a prototype sonar display unit). Various tools and gears are spread across the table and a cozy tool sits just behind the table. 
 
 ## Location Connections
 
@@ -62,7 +74,7 @@ Courtyard
 
 Each interactable names its Root Location and Root POI.
 
--
+-Sonar device - a black box attached and a large cylinder display on the front. The display is entirely analog tracking wavelengths not unlike a lie detector. Two panels fold out from the sides connected by winglike hinges. 
 
 ---
 
