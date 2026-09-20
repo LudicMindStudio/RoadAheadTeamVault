@@ -10,7 +10,7 @@ Status: scaffold — content pending
 
 ## Reference Art Links
 
-- 
+- ![[Pasted image 20260920180011.png|574]]
 
 ---
 
@@ -18,17 +18,25 @@ Status: scaffold — content pending
 
 ## Purpose
 
--
+Former summer residence of judge Jacobs but now full time residence of Francois, Juliette and Tullia. 
 
 ## Vibe and visual description
 
--
+Well not quite the luxurious Italian mansion above, the Hustle house is definitely the most luxurious home dolphin bay has to offer. 
 
+It's notable for the tall hedges that frame a small courtyard, the bright yellow color of the painted walls, the tall Spanish style windows, and the nifty columns that hold up the front entrance. With three floors it's also one of the tallest buildings in the bay. 
+
+It sits imposingly at the top of the eastern town section and overseas the bay. At one point in time it would have been a frightening beast, but Francois has worked hard to soften it's exterior. The hedges are shaped into fun ocean animals, a couple apple trees lie with accessible ladders for picking in the yard, and a series of handmade lanterns dot the path to the home. 
+
+Inside, the beautiful home is set up for an ideal hosting experience. Juliette has fashioned the home into the height of luxury with fancy cabinets, silverware and a fabulous chandelier. A magnificent wooden staircase winds it's way up the home, and similar beautiful wood finishes contrast nicely the silvery extravagance. 
 ## Zones (Indoor / Outdoor)
 
 ### Outdoor Zone
 
--
+Courtyard 
+- hedges 
+- apple trees 
+- lanterns 
 
 ### Indoor Zone
 
