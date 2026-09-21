@@ -44,14 +44,18 @@ The second floor is darker and typically lit by candlelight. Here are their bedr
 
 ## Floor By Floor Layout
 
+Workout station 
+-Robert has setup thanks to Doran simple bars and holds setup for doing all kinds of calisthenics. This is where he spends his morning  
+
 Porch 
 -A zero gravity chair hangs from the ceiling and beside it two lounging chairs with small tables for placing books and drinks 
 -lanterns hang from the ceiling lighting the porch at night
 
 First Floor 
--An extra large living room. Two yoga mats lie on the floor angled towards the window. Against the wall is a small card table and two chairs. 
+-An extra large living room. Two yoga mats lie on the floor angled towards the window. Beside the yoga matches is a treasure chest like box, and various plastic animals lay beside the box. On the other side of the room is a small card table and two chairs. Within reach is an end table. A small bamboo box with a clay teapot, cups and matcha brush lies on top.  The portrait of Saanvi is framed just above the teapot. A staircase lit by a skylight breaks up the back left wall and a door leading to the kitchen breaks up the right side. 
+-The kitchen and connected dinning room is notable for the very brightly colored and patterned handwoven tablecloth and the abundance of rich smells and spices that are bustling from every cupboard. Although carefully arranged and labeled there are just too many to fit into the storage facilities. The stove is of a vintage wooden design and a stack of firewood sits on a mat next to it. The space is lit by old
 
-A small bamboo box with a clay teapot, cups and matcha brush lies  
+
 
 
 
