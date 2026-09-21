@@ -22,7 +22,7 @@ Juliette's motel/inn. No one really remembers who Carol was, but the name stuck,
 
 ## Vibe and visual description
 
-Cute and tacky smalltown motel with an especially large front office. Juliette has fully adopted the retro aesthetic and kept the bright colours and patterns you might associate with the 70s. It's shaped very much like the image above with the six cabins and a hayshed forming a semi-circle. The parking lot has long since become covered in grass, and has a couple cute benches and a chicken coop. Even a few horse hitching posts dot the grass. Francois' custom jellyfish lanterns light the whole place at night. 
+Cute and tacky smalltown motel with an especially large front office. Juliette has fully adopted the retro aesthetic and kept the bright colours and patterns you might associate with the 70s. It's shaped very much like the image above with the six cabins and a stable forming a semi-circle. The parking lot has long since become covered in grass, and has a couple cute benches and a chicken coop. Even a few horse hitching posts dot the grass. Francois' custom jellyfish lanterns light the whole place at night. 
 
 It's most iconic feature is the motel sign standing proudly like in the image above, only the sign is shaped like a big pink coral reef (with the text "Carol's Reef") with a silly looking clown fish in lipstick suspended just above the text. 
 
@@ -31,19 +31,19 @@ The main office of the motel is three times the size of the individual units. It
 
 ### Outdoor Zone
 
--chicken coop 
--benches 
--
+-courtyard - benches, kitchen coop, hitching poles 
+-stable 
 
 ### Indoor Zone
 
-- The bar
-- Rooms
+-Reception (diner, kitchen, office)
+-Cabins 1 through 6 interiors 
 
 ## Floor By Floor Layout
 
--
-
+Reception 
+-The lobby of the reception is divided into two parts. To the left there's a smaller dinner and to the right there's a classic motel counter and office. 
+-The dinner is further subdivided b
 ## Location Connections
 
 - Parent: [[East Dolphin Bay - Location Outline]]
