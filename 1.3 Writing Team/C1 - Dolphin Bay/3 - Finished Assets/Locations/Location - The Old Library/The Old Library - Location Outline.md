@@ -23,6 +23,8 @@ One of the bay's greatest prides a dynamic but quaint complex of a greenhouse an
 
 The greenhouse is very large and used to grow most of the more sensitive crops (like tomatoes) to supply the village. It features an oversized solarpunk bubble shape with a few architectural flurishes in common with the more quaint two story tower of a library that it is connected to (via a long hallway). The silhouette of the two together is a bit like a bulbus "L". The greenhouse is long and bubbly while the library is tall and thin. 
 
+
+
 ## Zones (Indoor / Outdoor)
 
 ### Outdoor Zone
