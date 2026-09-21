@@ -3,7 +3,7 @@ tags:
   - DolphinBay
   - location
 Date_Created: 2026-08-13
-Status: scaffold — content pending
+Status: interactables, POIs needed
 ---
 
 # Hustle House — Location Outline
@@ -28,7 +28,7 @@ It's notable for the tall hedges that frame a small courtyard, the bright yellow
 
 It sits imposingly at the top of the eastern town section and overseas the bay. At one point in time it would have been a frightening beast, but Francois has worked hard to soften it's exterior. The hedges are shaped into fun ocean animals, a couple apple trees lie with accessible ladders for picking in the yard, and a series of handmade lanterns dot the path to the home. 
 
-Inside, the beautiful home is set up for an ideal hosting experience. Juliette has fashioned the home into the height of luxury with fancy cabinets, silverware and a fabulous chandelier. A magnificent wooden staircase winds it's way up the home, and similar beautiful wood finishes contrast nicely the silvery extravagance. 
+Inside, the beautiful home is set up for an ideal hosting experience. Juliette has fashioned the home into the height of luxury with fancy cabinets, silverware and a fabulous chandelier. A magnificent wooden staircase winds it's way up the home, and similar beautiful wood finishes contrast nicely with the silvery extravagance. 
 ## Zones (Indoor / Outdoor)
 
 ### Outdoor Zone
@@ -50,13 +50,11 @@ Courtyard
 
 First Floor - hosting 
 
-The house has a rather large entrance, with two large closets for putting away jackets and shoes. From here you enter the extra large salon composed of two rooms. On the one side is a small fireplace and on top of the fireplace mantle is a  recently commissioned portrait of the whole family. On the other side is a poker table surrounded by chairs. Both of these rooms help to form a circle around the central stairwell which only accessible by going through the salon and into the kitchen or dinning room. 
+The house has a rather large entrance, with two large closets for putting away jackets and shoes. From here you enter the extra large salon composed of two rooms. On the one side is a small fireplace and on top of the fireplace mantle is a recently commissioned portrait of the whole family. On the other side is a poker table surrounded by chairs. Both of these rooms help to form a circle around the central stairwell which is only accessible by going through the salon and into the kitchen or dinning room. 
 
-The dinning room which connects to the poker room is notable for it's enormous chandelier, and a small champagne kart full of spirits. The table always has silk placemats and crystal glasses. A cabinet of fine china lies in the corner of the room. 
+The dinning room which connects to the poker room is notable for it's enormous chandelier, and a small champagne kart full of spirits. The table always has silk placemats and crystal glasses. A cabinet of fine China lies in the corner of the room. 
 
-The kitchen is spacious and fancy pots and pans hang from hooks above the kitchen sink. The gas stove is particularly large with ti
-
-Family portrait 
+The kitchen (which connects to the fireplace room) is very spacious and organized. Fancy pots and pans hang from hooks above the kitchen sink. The gas stove is particularly large with it's six burners. A bottle of wine in a handstitched wine cozy sits on the kitchen island. 
 
 Second Floor - bedrooms
 
@@ -89,6 +87,14 @@ On the far side of the room is a large wooden desk with the blueprints for the d
 
 Each interactable names its Root Location and Root POI.
 
+-Family portrait by Gatz 
+-Mermaid stained glass window 
+-Poker card table
+-Sea Serpent stuffie 
+-Mary Shelly Bust 
+-Title of Tulia's diary - "Banished on the Bay"
+-LOCKED - Juliette's secret manuscript 
+-Workshop tools 
 -Sonar device - a black box attached and a large cylinder display on the front. The display is entirely analog tracking wavelengths not unlike a lie detector. Two panels fold out from the sides connected by winglike hinges. 
 
 ---

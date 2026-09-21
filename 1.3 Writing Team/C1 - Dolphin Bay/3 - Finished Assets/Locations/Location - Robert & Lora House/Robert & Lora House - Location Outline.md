@@ -18,7 +18,7 @@ Status: scaffold — content pending
 
 ## Purpose
 
-Former summer residence of judge Jacobs but now full time residence of Francois, Juliette and Tullia. 
+Permanent residence of Robert, Lora and Elio 
 
 ## Vibe and visual description
 
