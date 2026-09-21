@@ -9,12 +9,12 @@ created: 2026-09-04
 
 ## Why
 
-Felix is a stranded visitor at [[The Clam - Location Outline|The Clam]]. Needs a portrait and walking sprite.
+Felix is a stranded visitor at [[Carol's Reef- Location Outline|The Clam]]. Needs a portrait and walking sprite.
 
 ## Context
 
 [[Felix - Profile]]
-- [[The Clam - Location Outline]]
+- [[Carol's Reef- Location Outline]]
 
 ## What to Make
 

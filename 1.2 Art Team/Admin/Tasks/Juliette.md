@@ -15,7 +15,7 @@ Juliette runs The Clam inn. Portrait at `Juliet.png`. Needs a walking sprite.
 
 ![[Juliet.png]]
 - [[Juliette - Profile]] — innkeeper, Francois' wife
-- [[The Clam - Location Outline]]
+- [[Carol's Reef- Location Outline]]
 
 ## What to Make
 

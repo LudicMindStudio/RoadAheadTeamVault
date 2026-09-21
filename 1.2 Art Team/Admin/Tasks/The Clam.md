@@ -13,7 +13,7 @@ The Clam is Juliette's inn. The town's social hub where Felix boards.
 
 ## Context
 
-[[The Clam - Location Outline]] — has purpose text but scaffold on details.
+[[Carol's Reef- Location Outline]] — has purpose text but scaffold on details.
 
 ## What to Make
 

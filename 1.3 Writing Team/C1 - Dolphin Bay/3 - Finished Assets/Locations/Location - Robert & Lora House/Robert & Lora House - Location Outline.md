@@ -45,11 +45,11 @@ The second floor is darker and typically lit by candlelight. Here are their bedr
 ## Floor By Floor Layout
 
 Workout station 
--Robert has setup thanks to Doran simple bars and holds setup for doing all kinds of calisthenics. This is where he spends his morning  
+-Robert has setup simple bars and holds equipped for doing all kinds of calisthenics and acrobatic workouts. This is where he spends his morning  
 
 Porch 
--A zero gravity chair hangs from the ceiling and beside it two lounging chairs with small tables for placing books and drinks 
--lanterns hang from the ceiling lighting the porch at night
+-A zero gravity chair hangs from the roof overhang and beside it two lounging chairs with small tables for placing books and drinks 
+-lanterns hang from the overhang lighting the porch at night
 
 First Floor 
 -An extra large living room. Two yoga mats lie on the floor angled towards the window. Beside the yoga matches is a treasure chest like box, and various plastic animals lay beside the box. On the other side of the room is a small card table and two chairs. Within reach is an end table. A small bamboo box with a clay teapot, cups and matcha brush lies on top.  A portrait of Saanvi is framed just above the teapot. A staircase lit by a skylight breaks up the back left wall and a door leading to the kitchen breaks up the right side. 
@@ -58,8 +58,8 @@ First Floor
 Top Floor 
 -Elio and the model room take up one half of the top floor and the parent bedroom takes up the other. 
 -Elio's bedroom is painted with dark paint and covered in star stickers. He has a couple of posters: one of octopus habits and the other of panda fun facts. The headboard of his bed is shaped and painted like a yellow submarine. He has thick curtains to block out the sun. Multiple pairs of sunglasses sit on his wardrobe. 
--The parents bedroom is exceptional for the writing desk which lies against one wall and the military trunk which lies against another. A stack of letters lies at the desk, beside a pen and a letter currently being composed. Photos of Lora's brothers lie at the desk. Lora's framed degrees are also on the wall.  
--The small model room is made all the more cramped by a large table which takes up most of the space. Elio and Robert having been working on recreating a hydrothermal vent and surrounding seabed. They have painstakingly recreated the giant tub worms, clams, shrimp and other life that life is this habitat, and one day they will flood the whole model with water for the final dramatic effect. A cabinet composed of smaller drawers sits beside the model.  Some paintbrushes and model paint lie on the table. 
+-The parents bedroom is exceptional for the writing desk which lies against one wall and the military trunk which lies against another. A stack of letters lies at the desk, beside a pen and a letter currently being composed. Photos of Lora's brothers sit just behind these letters. Lora's framed degrees are also on the wall.  
+-The small model room is made all the more cramped by a large table which takes up most of the space. Elio and Robert having been working on a model of a hydrothermal vent and surrounding seabed. They have painstakingly recreated the giant tub worms, clams, shrimp and other life that life in this habitat, and one day they will flood the whole model with water for the final dramatic effect. A cabinet composed of smaller drawers sits beside the model.  Some paintbrushes and model paint lie on the table. 
 ## Location Connections
 
 - Parent: [[West Dolphin Bay - Location Outline]]
@@ -86,6 +86,7 @@ Each interactable names its Root Location and Root POI.
 -Military chest 
 -Letter being composed 
 -Model 
+-Portrait of Robert as a surgeon 
 
 ---
 

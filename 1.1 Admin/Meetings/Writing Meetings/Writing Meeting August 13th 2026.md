@@ -130,7 +130,7 @@ All scaffolded and waiting. Fill what serves the story — not everything needs 
   - [[Leaf's Dojo-Casa - Location Outline]] — parent West Dolphin Bay
   - [[The Bakery - Location Outline]] — parent East Dolphin Bay
   - [[The Old Library - Location Outline]] — parent East Dolphin Bay
-  - [[The Clam - Location Outline]] — parent East Dolphin Bay
+  - [[Carol's Reef- Location Outline]] — parent East Dolphin Bay
   - [[The Abandoned Amphitheatre - Location Outline]] — parent East Dolphin Bay, scene or POI? OPEN
 - POIs, by parent:
   - East Dolphin Bay: [[The Fish Market - POI]], [[The Dolphin Statue - POI]], [[The Playground - POI]], [[The Protester Podium - POI]], [[The Fishing Hole - POI]]
@@ -159,7 +159,7 @@ All scaffolded and waiting. Fill what serves the story — not everything needs 
   - [[Grandpa Dan's House - Location Outline]] - Grandpa Dan + (eventually, Briar the intern) — own house or the chalet (own house, added on 2026-08-29) 
   - [[The Bakery - Location Outline]] — Camie above, Quinn maybe
   - [[Dolphin Bay Sanctuary - Location Outline]] — Anita + Gyo
-  - [[The Clam - Location Outline]] — Juliette's inn, Felix boards
+  - [[Carol's Reef- Location Outline]] — Juliette's inn, Felix boards
   - Briar sleeps in a storage room in Guild Hall 
 - Each home supports its occupants' schedules
 
