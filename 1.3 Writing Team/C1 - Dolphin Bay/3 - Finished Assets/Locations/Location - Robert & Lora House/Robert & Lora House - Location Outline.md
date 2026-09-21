@@ -10,7 +10,7 @@ Status: scaffold — content pending
 
 ## Reference Art Links
 
-
+![[Pasted image 20260921092813.png]]
 
 ---
 
@@ -22,8 +22,9 @@ Permanent residence of Robert, Lora and Elio
 
 ## Vibe and visual description
 
-Well not quite the Italian mansion above,  
+Robert and Lora had the good fortune of building their home together before the calamity, it's a beautiful, rustic tranquil home dominated by forest greens and earthy brown. More of a solar punk futuristic looking home. 
 
+The facade is made up of a glass wall which bathes the central living room in morning light, and gives them a breathtaking view of the ocean. Wicker chairs, kumbucha bottles 
 ## Zones (Indoor / Outdoor)
 
 ### Outdoor Zone

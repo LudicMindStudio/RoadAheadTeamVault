@@ -50,9 +50,9 @@ Courtyard
 
 First Floor - hosting 
 
-The house has a rather large entrance, with two large closets for putting away jackets and shoes. From here you enter the extra large salon composed of two rooms. On the one side is a small fireplace and on top of the fireplace mantle is a recently commissioned portrait of the whole family. On the other side is a poker table surrounded by chairs. Both of these rooms help to form a circle around the central stairwell which is only accessible by going through the salon and into the kitchen or dinning room. 
+The house has a rather large entrance, with two large closets for putting away jackets and shoes. A large staircase follows breaking up an extra large salon into two parts. On the one side is a small fireplace and on top of the fireplace mantle is a recently commissioned portrait of the whole family. An upholstered velvet green midcentury loveseat is stationed beside the fireplace. Next to the window is an elaborate doll house with a rodent water bottle welded to one side and a food bowl next to it. On the other side is a poker table surrounded by chairs. 
 
-The dinning room which connects to the poker room is notable for it's enormous chandelier, and a small champagne kart full of spirits. The table always has silk placemats and crystal glasses. A cabinet of fine China lies in the corner of the room. 
+Around the staircase, and past the salon, is the dinning room and kitchen. The dinning room which connects to the poker room is notable for it's enormous chandelier, and a small champagne kart full of spirits. The table always has silk placemats and crystal glasses. A cabinet of fine China lies in the corner of the room. 
 
 The kitchen (which connects to the fireplace room) is very spacious and organized. Fancy pots and pans hang from hooks above the kitchen sink. The gas stove is particularly large with it's six burners. A bottle of wine in a handstitched wine cozy sits on the kitchen island. 
 
@@ -79,7 +79,8 @@ On the far side of the room is a large wooden desk with the blueprints for the d
 
 # Location POIs
 
--
+-Hustle Courtyard 
+-Hustle Workshop
 
 ---
 
@@ -88,6 +89,7 @@ On the far side of the room is a large wooden desk with the blueprints for the d
 Each interactable names its Root Location and Root POI.
 
 -Family portrait by Gatz 
+-Edris Dollhouse
 -Mermaid stained glass window 
 -Poker card table
 -Sea Serpent stuffie 
