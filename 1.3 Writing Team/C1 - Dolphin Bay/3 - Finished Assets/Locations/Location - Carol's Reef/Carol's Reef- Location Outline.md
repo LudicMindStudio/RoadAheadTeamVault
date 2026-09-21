@@ -32,6 +32,7 @@ The main office of the motel is three times the size of the individual units. It
 ### Outdoor Zone
 
 -chicken coop 
+-benches 
 -
 
 ### Indoor Zone
