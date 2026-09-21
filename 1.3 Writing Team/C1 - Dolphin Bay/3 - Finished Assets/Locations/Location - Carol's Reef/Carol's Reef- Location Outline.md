@@ -3,7 +3,7 @@ tags:
   - DolphinBay
   - location
 Date_Created: 2026-08-13
-Status: scaffold — content pending
+Status: interactables, POIs needed
 ---
 
 # Carol's Reef — Location Outline
@@ -43,13 +43,16 @@ The main office of the motel is three times the size of the individual units. It
 
 Reception 
 -The lobby of the reception is divided into two parts. To the left there's a smaller dinner and to the right there's a classic motel counter and office. 
--The dinner consists of two rows (one of booths against the wall and the other small tables), and the far side is a little stage (with a disco ball hanging from above). The booths and chairs are a classic cushiony bright red which pops against the blue accent colors of the walls. Driftwood and petrified coral are arranged in little centerpieces at each table. The floor is a striking black and white checker patten. The stage is just one level elevated and painted all black with a fancy metal chair waiting for a performer in the corner. 
+-The diner consists of two rows (one of booths against the wall and the other small tables), and the far side is a little stage (with a disco ball hanging from above). The booths and chairs are a classic cushiony bright red which pops against the blue accent colors of the walls. Driftwood and petrified coral are arranged in little centerpieces at each table. The floor is a striking black and white checker patten. The stage is just one level elevated and painted all black with a fancy metal chair waiting for a performer in the corner. 
 -Behind the counter is a large thin wooden frame holding each of the six hotel keys from hooks and just to the left of the keys is a door which leads into a tiny office where a ledger is laid out on a table. 
 -Beside the counter is a little book shelf. Just above it a sign reads "Take one, leave one". 
 -Just past the book shelf (to the right of the stage) to swinging doors lead into the kitchen. It's very minimal with a simple stove for warming coffee, an ice-box, cooler with beers and a big bag of flour. 
 
 Cabins 1 through 6 
--Apart from the flowerboxes outside of each window, these are very standard cabins. They haven't been updated since the 70s, but they're clean. Bed, side table, closet and bathroom. Each cabin has a strange abstract painting (painted by Gatz) framed on the wall. 
+-Apart from the flowerboxes outside of each window, these are very standard cabins. They haven't been updated since the 70s, but they're clean. Bed, side table, closet and bathroom. Each cabin has a strange abstract painting (painted by Gatz) framed on the wall. The cabins are each painted in different bright colours and the colour of the keys match their associated cabin. 
+
+Stables 
+-while used significantly less now that horse travel has become more perilous a makeshift stable is setup at the end of the semi-circle. Here there's two troughs for water and grain and a big stack of hay. There's three empty stalls. 
 ## Location Connections
 
 - Parent: [[East Dolphin Bay - Location Outline]]
@@ -58,7 +61,9 @@ Cabins 1 through 6
 
 # Location POIs
 
--
+-Reef Stage (interior)
+-Reef courtyard 
+-Stable
 
 ---
 
@@ -66,10 +71,15 @@ Cabins 1 through 6
 
 Each interactable names its Root Location and Root POI.
 
--
+-Little library 
+-Chicken Coop 
+-Disco-ball 
+-Diner menu 
+-Ledger (mostly village logistics)
+-Abstract painting 1 
 
 ---
 
 # Location Events
 
--
+**-QUEST lead the donkey to the stables!** 
