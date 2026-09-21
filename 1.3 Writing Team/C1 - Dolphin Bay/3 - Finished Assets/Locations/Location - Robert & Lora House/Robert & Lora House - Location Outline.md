@@ -3,7 +3,7 @@ tags:
   - DolphinBay
   - location
 Date_Created: 2026-08-13
-Status: scaffold — content pending
+Status: interactables, POIs needed
 ---
 
 # Robert & Lora House — Location Outline
@@ -76,12 +76,16 @@ Top Floor
 
 Each interactable names its Root Location and Root POI.
 
+-Zero gravity swing
 -Tea station 
 -Portrait of Saanvi 
 -Spice parlor 
 -Plastic toy and treasure chest 
--Animal posters 
--
+-Sunglasses collection
+-Animal posters (x2)
+-Military chest 
+-Letter being composed 
+-Model 
 
 ---
 
