@@ -3,7 +3,7 @@ tags:
   - DolphinBay
   - location
 Date_Created: 2026-08-13
-Status: scaffold — content pending
+Status: interactables, POIs needed
 ---
 
 # The Old Library — Location Outline
@@ -25,12 +25,13 @@ The greenhouse is very large and used to grow most of the more sensitive crops (
 
 The library is stylishly similar to the greenhouse in that it has a large glass windows which take up much of the wall space this keeps both spaces absolutely washed in daylight. 
 
+Some bags of dirt and wheelbarrow sit dormant outside the greenhouse on one side, and a nicely kept path crawls up to the library and primary greenhouse entrance on the other 
+
 ## Zones (Indoor / Outdoor)
 
 ### Outdoor Zone
 
--
-
+Greenhouse path 
 ### Indoor Zone
 
 -Greenhouse Pond 
@@ -45,7 +46,10 @@ Greenhouse
 
 Library 
 First floor
--Accessible through a separate door or the connecting hallway the first floor of the library is made up of a tight staircase off to one side, and wide open circular room with a recessed floor. At the bottom of the floor lies a series of cushions (for the different students) and a large cushion for the teacher arranged in a circle. A large chalkboard and stand rests by the large cushion, and small chalkboards are arranged next to each of the smaller cushions. At the center of the recessed floor is a diagram of a dolphin. 
+-Accessible through a separate door or the connecting hallway the first floor of the library is made up of a tight staircase off to one side, and wide open circular room with a recessed floor (about two steps deep). At the bottom of the floor lies a series of cushions (for the different students) and a large cushion for the teacher arranged in a circle. A large chalkboard and stand rests by the large cushion, and small chalkboards are arranged next to each of the smaller cushions. At the center of the recessed floor is a diagram of a dolphin. Book shelves line the back three walls surrounding the recessed floor. A papier-mâché  octopus hangs from the ceiling of the room, and other student projects like students posters are tacked to remaining wall space. 
+
+Second floor 
+Unlike the rest of the building the archival section has small windows (still round), and is largely in the dark. The archival section is tightly packed with bookshelves, and there's only a small working desk area for people wanting to actually read the archive. A magnifying glass lies beside a tome on one of these desks. A still uncracked safe is hidden in the corner. 
 
 ## Location Connections
 
@@ -63,7 +67,12 @@ First floor
 
 Each interactable names its Root Location and Root POI.
 
--
+-Sergio 
+-Bench by the pond 
+-Student chalkboard 
+-Professor chalkboard 
+-Papier-mâché Octopus 
+-Archival Tome "The Rising Tide Archives 1977-1978" 
 
 ---
 
