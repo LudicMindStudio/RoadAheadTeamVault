@@ -30,7 +30,7 @@ Juliette comes from a rich family and behaves as an elegant woman of high societ
 
 She owns a pet rat "Edris", who she cares for very much, and she allows Edris to be replaced by a new Edris every few years without acknowledging the replacement. Her current Edris is old. 
 
-Juliette runs the local inn know as "The Clam". Which she likes because she doesn't have many visitors, and she prefers of course to be reading (especially by the beach). She also works as the manager of the village's ledger which records the quantities of grain, stored water etc. the village has access to at any given time. She works closely with her husband on such matters. She is largely considered the real brains behind Francois' leadership. 
+Juliette runs the local inn know as "Carol's Reef". Which she likes because she doesn't have many visitors, and she prefers of course to be reading (especially by the beach). She also works as the manager of the village's ledger which records the quantities of grain, stored water etc. the village has access to at any given time. She works closely with her husband on such matters. She is largely considered the real brains behind Francois' leadership. 
 ## Essential History 
 
 Juliette ran away from home when she was 20 years old because her family was forcing her into a marriage she despised. She found Dolphin Bay before the calamity and started her small business. Francois swept her off her feet, and they've been married for almost 15 years. 

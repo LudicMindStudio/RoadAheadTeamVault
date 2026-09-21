@@ -127,7 +127,7 @@ Every home gets its own location outline. Each one must support its occupants' s
 - **Grandpa Dan's House** -- [[Grandpa Dan's House - Location Outline]] -- Grandpa Dan + (eventually) Briar
 - **The Bakery** — [[The Bakery - Location Outline]] — Camie lives above. Quinn maybe too? OPEN
 - **The Sanctuary** — Anita + Gyo's home. Outline exists ([[Dolphin Bay Sanctuary - Location Outline]])
-- **The Clam** — [[The Clam - Location Outline]] — Juliette's inn. Felix boards here. Maybe Briar too? OPEN
+- **The Clam** — [[Carol's Reef- Location Outline]] — Juliette's inn. Felix boards here. Maybe Briar too? OPEN
 
 Open questions carried from the team meeting:
 - Who shares a house that shouldn't? Who is missing a house?
@@ -171,7 +171,7 @@ Outdoor locations are the top-level scenes. Indoor locations hang off them as pa
 - [[Leaf's Dojo-Casa - Location Outline]] — parent West Dolphin Bay
 - [[The Bakery - Location Outline]] — parent East Dolphin Bay
 - [[The Old Library - Location Outline]] — parent East Dolphin Bay
-- [[The Clam - Location Outline]] — parent East Dolphin Bay
+- [[Carol's Reef- Location Outline]] — parent East Dolphin Bay
 - [[The Abandoned Amphitheatre - Location Outline]] — parent East Dolphin Bay, scene or POI? OPEN
 
 ### Example POIs (each links to its template file)
