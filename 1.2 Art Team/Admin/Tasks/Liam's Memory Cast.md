@@ -6,7 +6,21 @@ phase: story
 assignee: 
 created: 2026-09-04
 ---
+![[liamscastYoungLiam.png]]
 
+![[liamscastDogLady.png]]
+
+![[liamscastFather.png]]
+
+![[liamscastGrandma.png]]
+
+![[liamscastLianaOlder.png]]
+
+![[liamscastLianaYoung.png]]
+
+![[liamscastMom.png]]
+
+![[liamscastOlderLiam.png]]
 ## Why
 
 Liam's Memory is a flashback that drives Lakshmi's motivation. The cast needs period character art in sepia palette.
