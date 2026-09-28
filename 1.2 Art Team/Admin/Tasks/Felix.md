@@ -19,9 +19,10 @@ Felix is a stranded visitor at [[Carol's Reef- Location Outline|The Clam]]. Need
 ## What to Make
 
 - [ ] Walking sprite — 32x16px, 4 directions
-- [ ] Portrait — 80x48px
+- [x] Portrait — 80x48px
 - [ ] 1 key item (mail piece or character object)
 
 ## References
 
 [[Art specifications.md]]
+![[FelixandWilly.png]]
