@@ -17,6 +17,8 @@ Date_Created:
 
 Lakshmi does the Postal Work practical test (first memory), and graduates. 
 
+{++The practical is the first memory. Play briefly as the intern, with a little parkour to fetch mail stuck on top of boxes. Very short. After graduation, the mail loop begins (see [[Act 1 - Lakshmi Graduates Outline]]).++}
+
 ## Quest Logic 
 Trigger Start - LakshmiTalksGregPracticalTest =True
 Trigger Clear - LakshmiGraduates=True

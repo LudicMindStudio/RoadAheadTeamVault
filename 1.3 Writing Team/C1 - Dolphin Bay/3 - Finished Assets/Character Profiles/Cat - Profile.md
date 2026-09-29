@@ -52,6 +52,21 @@ She lost her mom when her younger brother was born. It's been hard on her but sh
 | EVENING   | At home                          | Builds mini turtle sanctuary with Sammy         |               |
 | SPECIAL   |                                  |                                                 |               |
 
+{++## Daily Schedule
+
+| Time | Activity | Chain | Location | Duration | Variants | Tags |
+|---|---|---|---|---|---|---|
+| 00:00-05:00 | Sleep | `Navigate(Home) > Animate(Sleep) > Wait(180s)` | Home @ GarpHouseInterior | 180s | | |
+| 05:00-08:00 | Beach with Garp: traps, oysters, the food-bag sort | `Navigate(Beach) > Animate(Fishing) > Wait(105s)` | Beach @ WestDolphinBay | 105s | | spawn, anchor |
+| 08:00-12:00 | Promenade rounds: crabs, gulls, her squirrel spots | `Navigate(Promenade) > Wait(145s)` | Promenade @ WestDolphinBay | 145s | | |
+| 12:00-15:00 | Docks with Tullia and Sammy | `Navigate(Docks) > Wait(105s)` | Docks @ WestDolphinBay | 105s | | player-window |
+| 15:00-18:00 | Critter corner at home | `Navigate(Home) > Wait(105s)` | Home @ GarpHouseInterior | 105s | | |
+| 18:00-20:00 | On the dock, watching the water | `Navigate(Docks) > Wait(70s)` | Docks @ WestDolphinBay | 70s | | anchor |
+| 20:00-22:00 | Home with Sammy: the sanctuary | `Navigate(Home) > Wait(70s)` | Home @ GarpHouseInterior | 70s | | |
+| 22:00-24:00 | Sleep | `Navigate(Home) > Animate(Sleep) > Wait(70s)` | Home @ GarpHouseInterior | 70s | | |
+
+Her rounds carry her quirks: sorting seaweed and prepping the animal food baggies on the beach, watching Garp's inspections for rarities, feeding the seagulls, checking for anything the squirrels cache, running gymnastics at the docks, and doing a snail-versus-turtle experiment in with sammy the yard.++}
+
 --- 
 ## Key Items
 - A jar of sea-glass and oyster shells she has collected?
