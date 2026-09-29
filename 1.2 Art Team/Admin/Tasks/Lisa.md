@@ -6,7 +6,7 @@ phase: characters
 assignee: 
 created: 2026-09-04
 ---
-
+![[Lisaportrait.png]]
 ## Why
 
 Lisa is a named villager. Needs a portrait and walking sprite.
@@ -19,7 +19,7 @@ Lisa is a named villager. Needs a portrait and walking sprite.
 ## What to Make
 
 - [ ] Walking sprite — 32x16px, 4 directions
-- [ ] Portrait — 80x48px
+- [x] Portrait — 80x48px
 - [ ] 1 key item (mail piece or character object)
 
 ## References
