@@ -22,9 +22,13 @@ Trigger Clear - InternMemoryEnter=True
 --- 
 # Event Script
 
+Intern Jumps in place
+	Lakshmi scares the intern 
+	On Clear - HiInternHereIsYourMail=True
+
 |DIA|[[HiInternHereIsYourMail_0]]
 	Lakshmi interacts with intern to deliver mail
-	On Clear - HiInternHereIsYourMail=True
+	On Clear - HiInternHereIsYourMail2=True
 
 Player chooses greeting options in order - Lakshmi
 	Player should choose the greeting options in order (out of 4). Previous options should disappear with each choice. The choices are (in correct order): (1) Hello! (2) I'm Lakshmi from the postal guild here to deliver your mail. (3) Thank you for using our services. (4) Have a good day!

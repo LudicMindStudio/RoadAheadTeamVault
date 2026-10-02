@@ -13,7 +13,7 @@ Lakshmi: Euh... Not feeling superb.
 
 Intern: W-would you like to sit down for a bit...?
 
-Lakshmi: Sure! Thanks... Ol-
+Lakshmi: Sure! Thanks... Br-
 
 Lakshmi: Oh no. Not this again...
 

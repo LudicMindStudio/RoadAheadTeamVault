@@ -9,11 +9,11 @@ Date_Created: 2026-03-27
 
 ## Bundle : HiInternHereIsYourMail
 
-Intern: Dammit where did it go?
+Intern: I'm not slacking!
 
 Lakshmi: Uhmm Hi! Are you the new intern?
 
-Intern: Oh. Hum... Yes. What's up?
+Intern: Oh. You're not here to scold me? Um... Yes. What's up?
 
 Lakshmi: Well, I'm in the middle of my postal guild graduation testing and have a delivery for you!
 
