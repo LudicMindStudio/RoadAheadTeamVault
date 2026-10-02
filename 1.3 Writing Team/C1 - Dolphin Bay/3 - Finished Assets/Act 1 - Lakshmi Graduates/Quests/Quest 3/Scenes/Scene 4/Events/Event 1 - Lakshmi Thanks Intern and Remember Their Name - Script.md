@@ -23,7 +23,7 @@ On Clear - BriarMailDelivered=True
 # Event Script
 
 |DIA|[[LakshmiThanksIntern_0]]
-	Remember the interns name to thank her. Play has the option to encourage Briar
+	Remember the interns name to thank them. Play has the option to encourage Briar
 		On Clear - InternHasName=True 
 		On Clear - LakshmiEncouragedIBriar=True 
 

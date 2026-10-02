@@ -17,7 +17,7 @@ Lakshmi: Ah... Yeah I'm ok sorry...
 
 Lakshmi: These flashbacks are getting more intense...
 
-Intern: What is it something I said? 
+Intern: Is it something I said? 
 
 Lakshmi: No no...You did nothing wrong? Thanks for your help-
 

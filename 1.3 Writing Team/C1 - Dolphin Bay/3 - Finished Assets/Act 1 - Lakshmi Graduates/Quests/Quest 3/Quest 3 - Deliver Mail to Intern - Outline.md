@@ -33,19 +33,20 @@ Trigger Clear - LakshmiGraduates=True
 		Trigger Clear - LakshmHasInternLetter=True
 
 [[Scene 2 - Practical Test - Meeting the Intern - Scene Outline]]
-	Location 2: [[Guild Hall - Location Outline]] - First Floor - StorageRoom
+	{++Location 2: Near [[The Playground - POI]] - under a tree (same location where they daydream, see [[Briar-Intern - Profile#Character Behavior|Briar's Character Behaviours]])++}
 	Lakshmi meets the intern and greets her
 		Trigger Start - LakshmiInteractsIntern=True
 		Trigger Clear - InternMemoryEnter=True
 
 [[Scene 3 - Practical Test - Intern Memory - Scene Outline]]
-	Location 2: [[Guild Hall - Location Outline]] - First Floor - StorageRoom 
+	Location 3: [[Guild Hall - Location Outline]] - First Floor - StorageRoom 
 	Intern's memory 
 		Trigger Start - ExampleTag=True 
 		On Clear - ExampleTag=True 
 
-[[Scene 4 - Practical Test - Remembering the Intern's name - Scene Outline]]
-	Location 2: Guild Hall - First Floor - StorageRoom - Location Outline
+[[Scene 4 - Practical Test - Remembering the Intern's name - Scene Outline]]{++
+	Location 2: Near [[The Playground - POI]] - under a tree (same location where they daydream, see [[Briar-Intern - Profile#Character Behavior|Briar's Character Behaviours]])++}
+	Location 3: Guild Hall - First Floor - StorageRoom - Location Outline
 	Lakshmi tries to remember the intern's name 
 		Trigger Start - InternMemoryStart=True
 		Trigger Clear - InternMemoryEnd=True

@@ -13,7 +13,7 @@ Intern: Dammit where did it go?
 
 Lakshmi: Uhmm Hi! Are you the new intern?
 
-Intern: Oh. Hum... Yes. Hi! What's up?
+Intern: Oh. Hum... Yes. What's up?
 
 Lakshmi: Well, I'm in the middle of my postal guild graduation testing and have a delivery for you!
 
