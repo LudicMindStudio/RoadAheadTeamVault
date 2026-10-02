@@ -86,6 +86,8 @@ Brief description of major relationships (lovers, good friends, enemies etc.). W
 
 # Character Quests
 
+==IMPORTANT!:== Briar should be named "INTERN" before completing the Act1-Quest 3. After that, their name can be displayed as "BRIAR"
+
 (WIP) BEFIRENDING LAKSHMI
 
 (WIP) HELPING LAKSHMI'S QUEST
