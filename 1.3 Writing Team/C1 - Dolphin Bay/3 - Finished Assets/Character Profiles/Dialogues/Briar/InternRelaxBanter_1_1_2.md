@@ -9,13 +9,9 @@ Date_Created: 2026-08-01
 
 ## Bundle : InternRelaxBanter_1_1_2
 
-Lakshmi: People's experience can reveal culture better than any book!
+Briar: Yeah... haha. Thanks. 
 
-Briar: It's just different approaches.
-
-Briar: You can interact with a book at your own pace, in the least.
-
-Lakshmi: That's... not a bad point.
+Briar: {sfx:small} Must be easy for your social butterfly.
 
 Narrator: *Ask something else?*
 

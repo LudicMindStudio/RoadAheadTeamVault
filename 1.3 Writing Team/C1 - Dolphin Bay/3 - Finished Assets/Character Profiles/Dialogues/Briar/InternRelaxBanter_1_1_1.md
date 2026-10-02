@@ -9,11 +9,13 @@ Date_Created: 2026-08-01
 
 ## Bundle : InternRelaxBanter_1_1_1
 
-Briar: Don't meaningful conversations start by first establishing rapport?
+Briar: NO!
 
-Briar: And rapport is just glorified small talk?
+Briar: {sfx:small}Maybe?
 
-Briar: Maybe I'm overthinking again.
+Briar: You must have other things to worry about... 
+
+Briar: Let me think about it. 
 
 Narrator: *Ask something else?*
 

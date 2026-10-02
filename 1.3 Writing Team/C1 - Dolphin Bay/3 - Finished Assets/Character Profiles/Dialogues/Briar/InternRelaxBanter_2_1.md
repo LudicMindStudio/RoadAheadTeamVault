@@ -19,6 +19,6 @@ Lakshmi: I can strangely relate.
 
 Lakshmi: You should meet my friend Grandpa Dan sometime. He matches this exact profile. 
 
-Briar: That sounds nice.
+Briar: He sounds nice.
 
 **Options**
