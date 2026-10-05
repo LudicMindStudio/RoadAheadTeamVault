@@ -1,0 +1,11 @@
+{
+	"id": "dialogue-effects",
+	"name": "Dialogue Effects",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Live preview and insert tooling for dialogue text effects. Same syntax as the game: [words]{effect=value}, {key=value}, Name{sentiment}:",
+	"author": "Trent Powell",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}

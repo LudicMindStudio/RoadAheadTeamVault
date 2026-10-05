@@ -120,7 +120,7 @@ All scaffolded and waiting. Fill what serves the story — not everything needs 
   - [[Sanctuary Interior - Location Outline]] — parent Sanctuary Exterior
   - [[Greg's Chalet - Location Outline]] — parent Greg's Chalet Exterior
   - [[Guild Hall - Location Outline]] — parent Center Dolphin Bay
-  - [[Warren's House - Location Outline]] — parent Center Dolphin Bay
+  - [[Gatz's House - Location Outline]] — parent Center Dolphin Bay
   - [[Hustle House - Location Outline]] — parent West Dolphin Bay
   - [[Garp's House - Location Outline]] — parent West Dolphin Bay
   - [[Robert & Lora House - Location Outline]] — parent West Dolphin Bay
@@ -130,7 +130,7 @@ All scaffolded and waiting. Fill what serves the story — not everything needs 
   - [[Leaf's Dojo-Casa - Location Outline]] — parent West Dolphin Bay
   - [[The Bakery - Location Outline]] — parent East Dolphin Bay
   - [[The Old Library - Location Outline]] — parent East Dolphin Bay
-  - [[The Clam - Location Outline]] — parent East Dolphin Bay
+  - [[Carol's Reef- Location Outline]] — parent East Dolphin Bay
   - [[The Abandoned Amphitheatre - Location Outline]] — parent East Dolphin Bay, scene or POI? OPEN
 - POIs, by parent:
   - East Dolphin Bay: [[The Fish Market - POI]], [[The Dolphin Statue - POI]], [[The Playground - POI]], [[The Protester Podium - POI]], [[The Fishing Hole - POI]]
@@ -153,13 +153,13 @@ All scaffolded and waiting. Fill what serves the story — not everything needs 
   - [[Doran & Shirley House - Location Outline]] — Doran + Shirley
   - [[Greg's Chalet - Location Outline]] — Greg + Lakshmi
   - [[Leaf's Dojo-Casa - Location Outline]] — Leaf
-  - [[Warren's House - Location Outline]] — Warren
+  - [[Gatz's House - Location Outline]] — Warren
   - [[Gatz's House - Location Outline]] — Gatz + Proudhon
   - [[Lisa's House - Location Outline]] — Oliver + Lisa
   - [[Grandpa Dan's House - Location Outline]] - Grandpa Dan + (eventually, Briar the intern) — own house or the chalet (own house, added on 2026-08-29) 
   - [[The Bakery - Location Outline]] — Camie above, Quinn maybe
   - [[Dolphin Bay Sanctuary - Location Outline]] — Anita + Gyo
-  - [[The Clam - Location Outline]] — Juliette's inn, Felix boards
+  - [[Carol's Reef- Location Outline]] — Juliette's inn, Felix boards
   - Briar sleeps in a storage room in Guild Hall 
 - Each home supports its occupants' schedules
 

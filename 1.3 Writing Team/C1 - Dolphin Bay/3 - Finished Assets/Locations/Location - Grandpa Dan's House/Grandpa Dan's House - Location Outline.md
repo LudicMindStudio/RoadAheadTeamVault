@@ -19,6 +19,10 @@ Small house where Grandpa Dan lives (and eventually Briar).
 
 - Very small crammed chalet. Grandpa Dan does not spend much time there. It has 2 small bedrooms. Main attraction is the kitchen where he spends a lot of time baking. 
 
+{++- The kitchen carries the place. Lots of bowls, bags of flour left out, flour everywhere.
+- One of the two bedrooms is really a clutter room: boxes he never cleared out. (Becomes Briar's room later.)
+- Key objects: the badge lives inside his room. The old route ledger's last page shows one person's name, scratched out over and over.++}
+
 ## Zones (Indoor / Outdoor)
 
 ### Outdoor Zone
@@ -37,8 +41,8 @@ Visual Brainstorming : [[Copy of Idea for Prologue Scope of the World.png]]
 
 ## Location Connections
 
-Parent: [[Greg's Chalet Exterior - Location Outline]]
-Somewhere there. Details left to artists/implementors.
+{~~Parent: [[Greg's Chalet Exterior - Location Outline]]
+Somewhere there. Details left to artists/implementors.~>Parent: [[Path to the Chalet - Location Outline]]. The house sits along the path, in the woods. Precise spot left to artists/implementors.~~}
 
 ---
 

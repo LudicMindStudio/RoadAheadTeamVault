@@ -19,13 +19,19 @@ Rustic chalet where Greg and Lakshmi live out in the woods.
 ## Floor By Floor Layout 
 Bottom Floor: there is a large kitchen with baking supplies out in plain view. There's also a large kitchen table with three chairs. There's a door bottom south and a set of stairs going upstairs on the left side of the room. 
 
+{++Flour everywhere. Bags left open, bowls in every state of use.++}
+
 Top Floor: Lakshmi has a small room on the top floor (next to the stairs) with a desk covered in her studying materials. She has bright windows, a full size **mirror** and a large **wardrobe** on the north side of her room. Her bed is tucked in the corner. Going South, Greg's room is next door with a comfortable arm chair and a small bed. They have only the necessities of life.  
+
+{++- Lakshmi's desk carries doodles and little carvings; older journals and scrapbooks are lined along the back, with her writing and drawing utensils.
+- Greg's room: a huge map hangs on the wall, the dominant piece. Strange old-world artifacts (a baseball bat, a signed collectible) sit mixed with new-world tech (fog technology, top-secret guild work) and gear. A clearly locked chest holds expensive guild gear and artifacts.++}
 ## Location Connections
 
 Parent: [[Greg's Chalet Exterior - Location Outline]]
 Door (South) to Grandpa Dan Chalet Exterior 
 
 ---
+
 # Location Interactables
 
 [[Mirror - Interactable]]

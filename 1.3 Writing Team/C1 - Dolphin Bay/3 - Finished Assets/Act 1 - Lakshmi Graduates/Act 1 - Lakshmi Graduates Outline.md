@@ -25,6 +25,10 @@ Lakshmi Saves Dolphin Bay - Main Plot Outline
 
 Lakshmi wakes up in Greg's Chalet and has to rush to the Guild Hall. Once there, Greg gives her a surprise quiz followed by a practical field test. Once she completes these tasks, she graduates and becomes a full guild-member! 
 
+{++**After graduation, the mail loop begins.** A notification points the player toward it, and time starts. The story holds there for now.
+- Deliveries stay friendly and generic: little things like candies for Cat, simple supplies for Dan, standard mail for Greg, with **Garp** as the fourth recipient.
+- The intern's memory is short: play as the intern, with a little parkour to fetch mail stuck on top of boxes. (See [[Quest 3 - Deliver Mail to Intern - Outline]].)++}
+
 --- 
 # Act Quests
 

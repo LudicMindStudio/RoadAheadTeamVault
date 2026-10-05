@@ -9,11 +9,11 @@ Date_Created: 2026-03-27
 
 ## Bundle : MemoryEnterIntern_1
 
-Lakshmi: I am feeling perfect!
+Lakshmi: I am feeling PERFECT!
 
 Intern: If you say so... Are you sure you don't want to sit down for a minute?	
 
-Lakshmi: You worry too much... Ol-
+Lakshmi: You worry too much... Br-
 
 Lakshmi: Oh no. Not this again...
 

@@ -180,7 +180,14 @@
 
 ---
 
-## Notes
-
+> ## Notes
+> **This list has moved.**
+>
+> The new [[.././Artist Kanban.md|Artist Kanban board]] replaces this flat checklist.
+> It has the same categories and items, organized into columns
+> (Backlog / Ready / Assigned / In Progress / Review / Done) with
+> detailed task briefs in [[../Admin/Tasks/]].
+>
+- Lakshmi has portrait variants: `lakshmiportrait.png`, `lakshmiportraitbeaming.png`, `lakshmiportraitangry.png`, `lakshmiportraitsad.png`, `lakshmiportraitannoyed.png`
 - Lakshmi has portrait variants: `lakshmiportrait.png`, `lakshmiportraitbeaming.png`, `lakshmiportraitangry.png`, `lakshmiportraitsad.png`, `lakshmiportraitannoyed.png`
 - Aseprite source files in `General Assets/Character Portraits/sources/`

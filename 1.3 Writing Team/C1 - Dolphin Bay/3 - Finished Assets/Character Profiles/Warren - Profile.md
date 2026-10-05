@@ -32,7 +32,7 @@ He always wears his iconic leather jacket over his turtleneck sweater. The jacke
 ## Core Characteristics
 
 He's a guy who knows things. It's as if he's never doubted anything. Just try to make him doubt something. He always gives unsolicited advise. 
-To him the fog isn't a mystery, it's bi-product of pesticides which degenerates the nervous system. He isn't afraid to venture into the fog, and has logged more fogging time then anyone in the entire guild. He doesn't deliver parcels anymore, he just exchanges information or goes hunting. 
+To him the fog isn't a mystery, it's a bi-product of pesticides which degenerates the nervous system. He isn't afraid to venture into the fog, and he has logged more fogging time then anyone in the entire guild. He doesn't deliver parcels anymore, he just exchanges information or goes hunting. 
 
 He loves to talk about old times, especially about flying his plane up north. He can talk for a long time. 
 
@@ -50,7 +50,7 @@ Loves clamato juice
 
 Warren was a closeted gay man who had married young and had one child (Doran) before he told his wife. She took Doran to raise on her own, and Warren left dolphin bay for work. 
 
-Warren had grown up with a deep crush on his neighbor Alfred. They spent only a few summers together as lovers before the calamity claimed his life. However, recently, Warren has overserved the voice and silhouette of Alfred in the fog, and he has been searching for him ever since. 
+Warren had grown up with a deep crush on his neighbor Alfred. They spent only a few summers together as lovers before the calamity claimed his life. However, recently, Warren has observed the voice and silhouette of Alfred in the fog, and he has been searching for him ever since. 
 
 Warren, Greg, Alfred and Lisa all grew up together in the bay. Warren worked as a bush pilot for most of his life before retiring and returning to the bay (to settle with Alfred). He has kept all the letters of their correspondence while he worked up north. 
 

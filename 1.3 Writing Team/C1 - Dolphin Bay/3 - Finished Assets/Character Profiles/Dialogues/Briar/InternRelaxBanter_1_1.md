@@ -11,13 +11,13 @@ Date_Created: 2026-08-01
 
 Briar: At first. Then I got used to it.
 
+Briar: You see- when I came here, I didn't know anyone. And because everyone was so worried when the protests started, I managed to slip unnoticed by the guild members.
 
+Briar: And it's too awkward to introduce myself now....
 
-==Not really. I don't particularly enjoy talking to strangers.==
+Briar: {sfx:italic}Hey! remember me? The one who has been here for weeks already? What's your name already? 
 
-==Briar: Besides, I think you can learn more about a village by finding cool books instead of wasting time on small talk.==
+Briar: What a mess. 
 
-==**Options** WIP!!==
-==|DIA|[[InternRelaxBanter_1_1_1]]: You don't need small talk to have meaningful conversations==
-==|DIA|[[InternRelaxBanter_1_1_2]]: Talking to people reveals more than a book does==
-
+|DIA|[[InternRelaxBanter_1_1_1]]: Do you want me to introduce you?
+|DIA|[[InternRelaxBanter_1_1_2]]: Aw good luck with that!

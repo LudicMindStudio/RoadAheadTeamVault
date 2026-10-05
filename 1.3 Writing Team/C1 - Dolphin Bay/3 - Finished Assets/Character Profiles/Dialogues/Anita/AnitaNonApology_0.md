@@ -6,11 +6,11 @@
 
 *[This dialogue triggers after Quest D — when Anita's communication research has failed. Lakshmi finds Anita on the pier, near sunset. Her metronome is on the railing, still ticking.]*
 
-Anita: I told him about the frequencies. The fish vendor. When he came here. I thought that was what he needed.
+Anita{flat}: I told him about the frequencies. The fish vendor. When he came here. I thought that was what he needed.
 
 *[She doesn't look at Lakshmi.]*
 
-Anita: I was wrong about that.
+Anita{flat}: [I was wrong about that.]{text_effect=fade, color=gray}
 
 *[The metronome ticks. The water laps.]*
 
@@ -21,3 +21,6 @@ Anita: I was wrong about that.
 - [[AnitaNonApology_1]]: You were trying to help. That counts for something.
 - [[AnitaNonApology_2]]: It's not too late to try again.
 - [[AnitaNonApology_3]]: *Stay silent. Let her sit with it.*
+
+**Notes**
+- "I was wrong about that." fades gray: the failure line lands heavy, stripped of color

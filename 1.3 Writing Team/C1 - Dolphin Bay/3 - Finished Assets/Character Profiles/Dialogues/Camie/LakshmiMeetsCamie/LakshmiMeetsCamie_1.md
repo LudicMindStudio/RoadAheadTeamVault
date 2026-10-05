@@ -2,9 +2,8 @@
 # Characters: Lakshmi, Camie
 ## Bundle : LakshmiMeetsCamie_1
 
-Lakshmi: WOW. THOSE ARE INCREDIBLE! 
+Lakshmi{excited}: [WOW. THOSE ARE INCREDIBLE!]{text_effect=shake}
 
-Camie: The best in town sweetheart!
+Camie{happy}: The best in town sweetheart!
 
 **Options**
-

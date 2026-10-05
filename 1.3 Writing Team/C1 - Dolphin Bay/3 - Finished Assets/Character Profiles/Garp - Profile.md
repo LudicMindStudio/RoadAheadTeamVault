@@ -24,6 +24,7 @@ Date_Created: 2026-07-10
 | Profession          | Fisherman, trapper |
 | Relationship Status | Widowed (Alexi)    |
 |                     | Cat (Daughter)     |
+|                     | Sammy (Son)        |
 
 ## Appearance 
 
@@ -37,9 +38,9 @@ Think aged rocker. He's partied hard, and now he's living for the little things.
 
 He loves being by the water, and being outdoors. He dreams of ice fishing, and wonders what it might be like. He comes from a fishing family, although he never thought he'd end up doing what they did. 
 
-He lets Cat do her own thing (if not a little bit neglectful) and in general doesn't think much of the others. All he really cares about is that his routine is uninterrupted. For instance, he grows his own tabaco and smokes a pipe every evening.
+He lets Cat and Sammy do their own thing (if not a little bit neglectful) and in general doesn't think much of the others. All he really cares about is that his routine is uninterrupted. For instance, he grows his own tabaco and smokes a pipe every evening.
 
-He takes Cat on sailing trips from time to time, and this is primarily how they bond. On the trips they will lie on the deck of the sailing boat and tell stories about an imaginary world they've created together. The main character is named "Crab-Maid" and she's like a mermaid only part crab instead. She crushes bad guys in her powerful claws, but isn't loved by the sea community. Garp will often think of their world, and new stories for Cat while he fishes. 
+He takes his kids on sailing trips from time to time, and this is primarily how they bond. On the trips they will lie on the deck of the sailing boat and tell stories about an imaginary world they've created together. The main character is named "Crab-Maid" and she's like a mermaid only part crab instead. She crushes bad guys in her powerful claws, but isn't loved by the sea community. Garp will often think of their world, and new stories for Cat while he fishes. 
 
 Right now, he's also obsessed with fixing his old boat "Crab-Queen". He works tirelessly on it when he has free time. He promises himself he'll scatter his wife's ashes out deep in the ocean just as the boat is fixed. 
 
