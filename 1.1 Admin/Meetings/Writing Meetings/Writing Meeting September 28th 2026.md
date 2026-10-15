@@ -140,7 +140,7 @@ Making her way to the Hall- route from chalet to hall
 - scenes in west db
 	- **gossip is overheard/whispers from BLANK about unrest**
 - scenes in central dolphin bay
-	- **intro to the kids as a faction scene**
+	- **intro to the kids as a faction scene** -> use this dialogue? -> [[IntroToCatAndTullia_0]] 
 The Surprise at the Hall - The start of the quiz and graduation.
 - players intial reactions to the hall
 - intro to the quiz 

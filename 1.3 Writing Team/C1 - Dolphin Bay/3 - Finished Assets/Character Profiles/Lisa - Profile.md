@@ -26,9 +26,9 @@ Date_Created: 2026-09-11
 - faint reassuring smile
 - always wears a necklace with a pressed flower in it
 ## Core Characteristics
-Always has wisdom for Lakshmi. Loves tea and will always invite the players in. Lisa a flower garden, a vegetable garden and a bee hive around her house. She will always give the player something that she has collected the day of.  You can hear birds chirping and it seems like Lisa's backyard has more wildlife and anywhere else in Dolphin Bay. 
+Always has wisdom for Lakshmi. Loves tea and will always invite the players in. Lisa has a flower garden, a vegetable garden and a bee hive around her house. She will always give the player something that she has collected the day of.  You can hear birds chirping and it seems like Lisa's backyard has more wildlife than anywhere else in Dolphin Bay. 
 
-Lisa is well respected in the bay community. She was the pioneering force behind the reinforcement of the seawall, and has undertaken several projects to improve the resilience of the town in the face of potential weather events. She is also a large contributor to the wholistic farming practices that are commonplace in Dolphin Bay. Lisa isn't afraid of disagreement, and loves to explain her vision of the natural world. One of her highest values is integrity.
+Lisa is well respected in the bay community. She was the pioneering force behind the reinforcement of the seawall, and has undertaken several projects to improve the resilience of the town in the face of potential weather events. She is also a large contributor to the holistic farming practices that are commonplace in Dolphin Bay. Lisa isn't afraid of disagreement, and loves to explain her vision of the natural world. One of her highest values is integrity.
 ## Essential History 
 Warren, Greg, Alfred and Lisa all grew up together in the bay.
 

@@ -26,7 +26,8 @@ The bakery has a costal vibe to it with accent of blue and red. Swirls on the wa
 ### Outdoor Zone
 - The blue and red aesthetic would be shown outside as per the first image below. There would also have a small terrasse in front of the shop.
 - From the outside, villagers will be able to see pastries as shown in the third image. 
-- Above the shop there would be Camie's apartment as per the second image. There could be a few accents of blue and red on the top floor by added a balcony or flowers. There will be a separate door on the side of the building to enter Camie's apartment.
+- Above the shop there would be Camie's apartment as per the second image. There could be a few accents of blue and red on the top floor by added a balcony or flowers. There will be a separate door on the side of the building to enter Camie's apartment. 
+- Keep in mind the overall look of Dolphin but add blue an red.
 -![[Pasted image 20260901093645.png|201]]![[Pasted image 20260901100632.png|156]]![[Pasted image 20260901100421.png|185]]
 
 ### Indoor Zone
