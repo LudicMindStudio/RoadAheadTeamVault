@@ -22,7 +22,6 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] Revising dialogue of guild hall members : Aaron (2026-03-17)
-- [ ] Greg Chalet, Grandpa Dan House, Grandpa Dan bench POI, Briar's storage room POI. - Corina
 
 
 ## Complete
@@ -33,6 +32,7 @@ kanban-plugin: board
 - [ ] Revising pre-graduation script - Quest 1, Scene 1: Aaron (2026-03-17)
 - [ ] Formatting pre-graduation script - Quest 2 & 3: Corina
 - [ ] Revising & Formatting dialogue of all characters profiles who deliver mail: Arkana + Corina
+- [ ] Greg Chalet, Grandpa Dan House, Grandpa Dan bench POI, Briar's storage room POI. - Corina
 
 
 ## HOLD
@@ -50,6 +50,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,true,true,true]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,true,true,true]}
 ```
 %%
