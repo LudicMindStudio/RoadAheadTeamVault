@@ -22,6 +22,11 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] Revising dialogue of guild hall members : Aaron (2026-03-17)
+- [ ] Act 2: Oliver and Felix Quests: Trent
+- [ ] Act 2: Kids planning in the background - building smth? : Arkana
+- [ ] Act 2: POV Sanctuary: Gyo and Anita : Trent
+- [ ] Act 2: Last event protestors by the bridge: Aaron
+- [ ] Act 2: POV Guild Hall + first event protestors in front of Guild Hall: Corina
 
 
 ## Complete
@@ -50,6 +55,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,true,true,true]}
+{"kanban-plugin":"board","list-collapse":[false,false,true,true,true,true]}
 ```
 %%
