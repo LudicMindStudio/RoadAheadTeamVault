@@ -3,7 +3,7 @@ Brainstorming Quest - Act 2: POV Guild Hall + first event protestors in front of
 
 [[Dolphin Bay Organizing - In-person meeting 2026-10-05]]
 
-## Quest: Protestors in front of Guild Hall
+## Event: Protestors in front of Guild Hall
 - conditions: day after graduating
 - on clear: Lakshmi interacts with Francois
 
@@ -55,6 +55,7 @@ Interactions:
 			- François: You guys are sending supplies to the Sanctuary. We are spreading awareness so you guys know who you are helping out! 
 		- **I'll be going then.** (end dialogue)
 			- François: Before you go, may you be so kind to bring a flyer in the Guild Hall? Let's spread awareness together!
+			-  * **gives you a flyer - small item** *
 			- François: So long my friend! 
  
 - [[Doran - Profile]] (DORIAN name change)
@@ -77,23 +78,25 @@ Interactions:
 				**That's it?**
 				- That's it.
 			- François: He's too humble. Most of the wooden planks in Dolphin Bay have been laid down by Dorian.  
-			* ==🔵Francois: Need gardening fences? Dorian's handywork.==
-			- ==🔵Francois: Need new furniture? He built Lisa a custom guard rail with spring powered head and tea holder for her to read in bed in comfort.==
-			- ==🔵Francois: Strong wind gusts stormed your roof? Leave it to Dorian to do the patchwork in the same night.==
+			Francois: Need gardening fences? Dorian's handywork.
+			Francois: Need new furniture? He built Lisa a custom guard rail with spring powered head and tea holder for her to read in bed in comfort.
+			Francois: Strong wind gusts stormed your roof? Leave it to Dorian to do the patchwork in the same night.
 			- Dorian: If I recall correctly, the last one was with your leadership.
 			- François: And your capable hands. I'll give you this one my dear friend. 
 		* **I'll be going then.** (end dialogue)
 
-- [[Gatz - Profile]]
+- ==🔵[[Gatz - Profile]]==
 	- Gatz: Hello! 
-	- Lakshmi: 
+	- Lakshmi: Hi! I
+	- Dialogue tree:
+		- **What are you protesting about?**
+		- **What do you do in the village?**
+		- **I'll be going then.** (end dialogue)
 - [[Camie - Profile]]
 	- [[LakshmiMeetsCamie_0]]
 		(Same protest dialogue) Lakshmi walks around where a protest is happening and Camie is there standing a bit in the back.
 		Trigger Start -  Camie_Interacts_Lakshmi=True  
 		On Clear - LakshmiMeetsCamie_1 - LakshmiTriesBuns = True, LakshmiMeetsCamie_2 - LakshmiDeclinesBuns = True,
-- [[Greg - Profile]]
-	- 
 
 Events
 - Lakshmi looks at the protest, reflects, sees the fog. Wants to talk to them to clear the fog.
