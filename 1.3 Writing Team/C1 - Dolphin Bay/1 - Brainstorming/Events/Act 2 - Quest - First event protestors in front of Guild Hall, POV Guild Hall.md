@@ -71,7 +71,12 @@ Interactions:
 			- Dorian: I swing my hammer and build stuff. 
 				**That's it?**
 				- That's it.
-			- François: He's too humble. Dolphin Bay has been mostly built by Dorian.  
+			- François: He's too humble. Most of the wooden planks in Dolphin Bay have been laid down by Dorian.  
+			* ==🔵Francois: Need gardening fences? Dorian's handywork.==
+			- ==🔵Francois: Need new furniture? He built Lisa a custom guard rail with spring powered head and tea holder for her to read in bed in comfort.==
+			- ==🔵Francois: Strong wind gusts stormed your roof? Leave it to Dorian to do the patchwork in the same night.==
+			- Dorian: If I recall correctly, the last one was with your leadership.
+			- François: And your capable hands. I'll give you this one my dear friend. 
 - [[Gatz - Profile]]
 	- Gatz: Hello! 
 	- Lakshmi: 
