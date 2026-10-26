@@ -26,7 +26,7 @@ Event:
 Interactions:
 - [[Francois Hustle - Profile]]
 	- Lakshmi: Excuse me! May I speak to you?
-	- Francois: Come closer dear. My ears aren't what they used to be.
+	- Francois: Come closer friend. My ears aren't what they used to be.
 	- Francois: You've got those overalls on you. Are you one of the postal workers? 
 	- Lakshmi: Yeah. I'm Lakshmi. Just graduated actually. 
 	- Francois: Then congratulations are in order! 
