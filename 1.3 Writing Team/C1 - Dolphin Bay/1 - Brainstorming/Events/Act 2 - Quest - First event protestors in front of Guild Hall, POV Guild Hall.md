@@ -60,10 +60,18 @@ Interactions:
 	- Dialogue tree:
 		- **Spinny piggybacks?**
 			- Dorian: What's better than a piggyback? A spinning one! The kids love it. Cat especially.
-			- Dorian: The best in town!
+			- Dorian: Dolphin Bay approved.
 				**Can I have one?**
 				- Dorian: We'll have to see about that. We don't want to have a CAT-astrophy. HA! Get it?
-		- 
+		- **What are you protesting about?**
+			- Dorian: You've got the wrong guy I'm afraid. 
+			- Dorian: I'm here to support my bud François. He has a bone to pick with the Guild. You should ask him.
+			- Dorian: All I want is for the village to be at peace.
+		- What do you do in the village?
+			- Dorian: I swing my hammer and build stuff. 
+				**That's it?**
+				- That's it.
+			- François: He's too humble. Dolphin Bay has been mostly built by Dorian.  
 - [[Gatz - Profile]]
 	- Gatz: Hello! 
 	- Lakshmi: 
