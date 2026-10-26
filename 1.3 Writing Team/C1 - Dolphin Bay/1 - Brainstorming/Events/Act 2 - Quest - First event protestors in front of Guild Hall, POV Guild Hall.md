@@ -34,29 +34,30 @@ Interactions:
 	- Dialogue tree:
 		- **What are you guys protesting about?**
 			- Gatz: What a splendid question! 
-			- Francois: You've come to the right place dear.
-			- Francois: I've been in this village for many years. Even before this * he spits to the side theatrically * fog coming up and about - may the tides be gentle.
-			- Francois: The village has always been the kind host to the Dolphins. As I say, the bay is for the dolphins, and we are but the guides.
+			- François: You've come to the right place dear.
+			- François: I've been in this village for many years. Even before this * he spits to the side theatrically * fog coming up and about - may the tides be gentle.
+			- François: The village has always been the kind host to the Dolphins. As I say, the bay is for the dolphins, and we are but the guides.
 				**What happened?**
-				- Francois: The most unfortunate. My buddy Finn has disappeared. The fog is so thick it's impossible to venture out into the woods to find him. 
+				- François: The most unfortunate. My buddy Finn has disappeared. The fog is so thick it's impossible to venture out into the woods to find him. 
 				**What could have caused the fog resurgence?**
-				- Francois: The Sanctuary.
+				- François: The Sanctuary.
 				- Lakshmi: The Sanctuary?
-				- Francois: The Sanctuary.
+				- François: The Sanctuary.
 				- Lakshmi: Isn't it the place where the dolphins are kept safe?
-				- Francois: It used to be. Walk down the path along the lake, see for yourself. They are building a secret machine in there. * whispers * *It causes the fog*.
+				- François: It used to be. Walk down the path along the lake, see for yourself. They are building a secret machine in there. * whispers * *It causes the fog*.
 				**How can you be so sure of it?**
-				- Francois: I can hear Finn. He asks for help. My buddy needs us.
+				- François: I can hear Finn. He asks for help. My buddy needs us.
 		- **Why are you guys protesting in front of the Guild Hall?**
-			- 
+			- François: You guys are sending supplies to the Sanctuary. We are spreading awareness so you guys know who you are helping out! 
+		- **I'll be going then.** (end dialogue)
+			- François: Before you go, may you be so kind to bring a flyer in the Guild Hall? Let's spread awareness together!
+			- François: So long my friend! 
  
-- [[Doran - Profile]] (DORIAN)
-	* Dorian: Haven't seen you around before. Name's Dorian. Nice to meet you!
-	* Lakshmi: Pleased to meet you Dorian! I'm Lakshmi.
-	* 
+- [[Doran - Profile]] (DORIAN name change)
 	- Dorian: Hey there. Are you feeling well? 
 	- Lakshmi: O-oh. Sure!
 	- Dorian: Sorry about that. You reminded me of Cat when she gets dizzy from one too many spinny piggybacks but is too stubborn to admit it. 
+	- Dorian: I'm Dorian by the way.
 	- Dialogue tree:
 		- **Spinny piggybacks?**
 			- Dorian: What's better than a piggyback? A spinning one! The kids love it. Cat especially.
@@ -67,7 +68,7 @@ Interactions:
 			- Dorian: You've got the wrong guy I'm afraid. 
 			- Dorian: I'm here to support my bud François. He has a bone to pick with the Guild. You should ask him.
 			- Dorian: All I want is for the village to be at peace.
-		- What do you do in the village?
+		- **What do you do in the village?**
 			- Dorian: I swing my hammer and build stuff. 
 				**That's it?**
 				- That's it.
@@ -77,6 +78,8 @@ Interactions:
 			- ==🔵Francois: Strong wind gusts stormed your roof? Leave it to Dorian to do the patchwork in the same night.==
 			- Dorian: If I recall correctly, the last one was with your leadership.
 			- François: And your capable hands. I'll give you this one my dear friend. 
+		* **I'll be going then.** (end dialogue)
+
 - [[Gatz - Profile]]
 	- Gatz: Hello! 
 	- Lakshmi: 
