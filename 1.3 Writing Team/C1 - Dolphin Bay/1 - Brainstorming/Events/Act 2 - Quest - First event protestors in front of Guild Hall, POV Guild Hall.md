@@ -17,11 +17,15 @@ Description
 
 Event:
 - Lakshmi approaches the protestants
-	- Francois: Save THE  
+	- François: Save THE  
 	- Everyone else: Dolphins!
-	- Francois: Protect THE
+	- François: Protect THE
 	- Everyone else: Marine Life!
-	- Camie: Aye we got it on the first try!
+	- Camie: Aye we got it on the first try! Way to go boys!
+
+- Lakshmi some hints of the fog at their feet, which quickly disappears.
+	- Lakshmi: Was that? No. Let's see a bit closer.
+
 
 Interactions:
 - [[Francois Hustle - Profile]]
