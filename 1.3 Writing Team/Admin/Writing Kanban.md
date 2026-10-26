@@ -27,6 +27,8 @@ kanban-plugin: board
 - [ ] Act 2: POV Sanctuary: Gyo and Anita : Trent
 - [ ] Act 2: Last event protestors by the bridge: Aaron
 - [ ] Act 2: POV Guild Hall + first event protestors in front of Guild Hall: Corina
+	
+	[[Act 2 - Quest - First event protestors in front of Guild Hall, POV Guild Hall]]
 
 
 ## Complete
