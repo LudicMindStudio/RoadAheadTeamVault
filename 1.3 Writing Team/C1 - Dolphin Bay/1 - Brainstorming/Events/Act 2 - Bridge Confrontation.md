@@ -17,7 +17,7 @@ Briar - "No no. Guess what?"
 
 Lakshmi - "?" 
 
-Briar - "Guess who just got promoted to chief intern! I'm officially delivery parcels now! This right here is my first major delivery!"
+Briar - "Guess who just got promoted to chief intern! I'm officially delivering parcels now! This right here is my first major delivery!"
 
 Lakshmi - "Where to?"
 
@@ -25,13 +25,13 @@ Briar - "The sanctuary. I sure hope Anita is there I've been meaning to..."
 
 ACTION - Francois and the protestors come quickly down the bridge towards Lakshmi and Briar 
 
-Francois - Briar! They have you delivery parcels already? 
+Francois - Briar! They have you delivering parcels already? 
 
 Briar - You... you remembered my name? 
 
 Francois - Of course! Who could forget a name as distinguished as yours! Say, is the old drill sergeant around here today? 
 
-Briar seems a bit shocked and then delighted. They exchange a knowing look with Francois. 
+DESCRIP. Briar's face recovers from the shock and then they beam in delight. 
 
 Briar - When isn't he! 
 
@@ -75,7 +75,7 @@ Francois - On second thought, maybe we ought to inspect for Dolphin pollutants?
 
 EVENT - Briar takes another step back 
 
-Francois - Please Briar. We need to know who's behind all of this. 
+Francois - Please Briar. This is  standard Dolphin Bay Procedure these days. 
 
 Briar - maybe- 
 
@@ -95,7 +95,7 @@ DESCRIP. He tears open the carboard lid. Tears glistening behind his eyes.
 
 Francois - No. No. Not you too. 
 
-EVENT - Briar is backing slowly away. The fog is gathering around the bridge. 
+EVENT - Briar is backing slowly away. The fog is gathering behind Briar. 
 
 Briar - You can't just... I didn't... 
 
@@ -103,7 +103,7 @@ DESCRIP.  His hand tears into the parcel with hunger tossing the careful layers 
 
 Briar - What am I going to... 
 
-DESCRIP - Their back hunches. Dark shadows form around their eyes as their features attempt to retreat into their skull. Tears well and then fall. 
+DESCRIP - Briar's back hunches. Dark shadows form around their eyes as their features attempt to retreat into their skull. Tears well and then fall. 
 
 Francois - So much worse. So much worse 
 
@@ -127,12 +127,30 @@ DORAN - FOG!
 
 EVENT - Everybody turns to see the fog. It's erupting behind Briar in an enormous wave that threatens to crash in on them all. Fog also pushes up along the sides.  
 
-Briar - 
+Briar - I WONT GO BACK!
 
 GATZ - RUN! 
 
 FRANCOIS - RUN LAKSHMI! 
 
-EVENT - The fog spikes suddenly and then the whole wave crashes down on the bridge. Greg leaps towards Briar and shields them with his
+EVENT - The fog spikes suddenly and then the whole wave crashes down on the bridge. Greg leaps towards Briar and shields them with his body. 
+
+EVENT - The player is suddenly given control. Fog errupts in a prearanged pattern making it difficult for the player to escape with the NPCs. Eventually they cross the bridge and make it to east dolphin bay. 
+
+EAST DOLPHIN BAY 
+
+EVENT - the partie rushes forward as a wave of fog hit the ground behind them and then begins to dissapate. They all slow and then stop altogether. 
+
+DESCRIP. The group heaves raggedy breaths. They look around at one another inspecting for harm. 
+
+EVENT - Gatz turns in a circle 
+
+Gatz  - Where's Francois? 
+
+EVENT - DORAN and GATZ look around. 
+
+DORAN - He was right behind me. He crossed the bridge. I know that. 
+
+CAMIE - Then he's safe. I need a minute. He can't have gone far. 
 
 
