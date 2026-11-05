@@ -50,14 +50,41 @@ Descrip. Briar looks at you pleadingly.
 OPTION- 
 (A) Back off! 
 (B) Lie 
-(C) Remain still 
+(C) Shrug 
 
 (A) Lakshmi - That's none of your business! 
+A look of immediate panic passes over Briar's face and they take another step backwards. 
+
+Briar - We'll we're not allowed really... 
 
 (B) Lakshmi - This has Coral's Reef written all over it 
-Francois eyes flash suddenly. You can imme
+Francois eyes flash suddenly, and a look of sadness passes over his face 
+
+Francois - Lakshmi, you know this community is built on trust 
+
 (C) You shrug 
+Briar takes a quick breath before muttering 
+
 Briar - Off to the sanctuary, but... 
+
+//
+
+
+Francois - On second thought, maybe we ought to inspect for Dolphin pollutants? 
+
+EVENT - Briar takes another step back 
+
+Francois - Please Briar. We need to know who's behind all of this. 
+
+Briar - maybe- 
+
+Camie - HEY DONT!
+
+Event - Francois moves forward suddenly, and at the last moment Briar jumps back. 
+
+DESCIP. Francois crumples the torn wrapping paper in his hand and gasps. A giant skull and crossbones is marked clearly on the parcel. 
+
+Event - all the protestors move in towards 
 
 
 
