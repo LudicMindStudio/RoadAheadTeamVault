@@ -82,10 +82,34 @@ Camie - HEY DONT!
 
 Event - Francois moves forward suddenly, and at the last moment Briar jumps back. 
 
-DESCIP. Francois crumples the torn wrapping paper in his hand and gasps. A giant skull and crossbones is marked clearly on the parcel. 
+DESCIP. Francois crumples the torn wrapping paper in his hand. His eyes wide. A skull and cross bones is marked clearly on the side of the parcel. 
 
-Event - all the protestors move in towards 
+Event - all the protestors move in towards the parcel. Briar steps back once more, and the parcel falls out of their hands the frames pass as if in slow motion. 
 
+Francois - No it's worse then I was told 
 
+DESCRIP. He tears open the carboard lid. Tears glistening behind his eyes. 
+
+Francois - No. No. Not you too. 
+
+EVENT - Briar is backing slowly away. The fog is gathering around the bridge. 
+
+Briar - You can't just... I didn't... 
+
+DESCRIP.  His hand tears into the parcel with hunger tossing the careful layers of packaging into the wind 
+
+Briar - What am I going to... 
+
+DESCRIP - Their back hunches. Dark shadows form around thier eyes as their features atempt to retreat into their skull. Tears well and then fall. 
+
+Francois - So much worse. So much worse 
+
+EVENT - Garp comes charging out of the guild hall. He heads straight towards Briar. 
+
+GARP - WHATS WITH YOU! I said this parcel was a priority! 
+
+EVENT - He stops suddenly. Turning and surveying the scene. 
+
+DESCRIP - His anger dissipates immediately 
 
 
