@@ -25,7 +25,40 @@ Briar - "The sanctuary. I sure hope Anita is there I've been meaning to..."
 
 ACTION - Francois and the protestors come quickly down the bridge towards Lakshmi and Briar 
 
-Francois - 
+Francois - Briar! They have you delivery parcels already? 
+
+Briar - You... you remembered my name? 
+
+Francois - Of course! Who could forget a name as distinguished as yours! Say, is the old drill sergeant around here today? 
+
+Briar seems a bit shocked and then delighted. They exchange a knowing look with Francois. 
+
+Briar - When isn't he! 
+
+Francois - HAHA. Same old Greg. I can't imagine it's easy working for that guy, but I'll tell you, you ever NEED anything and he'll be there.
+
+Camie - That's quite the parcel Briar, you need any help with it? 
+
+Briar - Well.. this is my first major delivery so... 
+
+Francois - Nonsense we can give you a hand. Where are you off to? 
+
+ACTION - Francois reaches for the parcel, but Briar takes a step back. 
+
+Descrip. Briar looks at you pleadingly. 
+
+OPTION- 
+(A) Back off! 
+(B) Lie 
+(C) Remain still 
+
+(A) Lakshmi - That's none of your business! 
+
+(B) Lakshmi - This has Coral's Reef written all over it 
+Francois eyes flash suddenly. You can imme
+(C) You shrug 
+Briar - Off to the sanctuary, but... 
+
 
 
 
