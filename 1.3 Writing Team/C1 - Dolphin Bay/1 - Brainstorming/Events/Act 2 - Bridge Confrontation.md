@@ -58,6 +58,7 @@ A look of immediate panic passes over Briar's face and they take another step ba
 Briar - We'll we're not allowed really... 
 
 (B) Lakshmi - This has Coral's Reef written all over it 
+Briar - Yeah its for the....
 Francois eyes flash suddenly, and a look of sadness passes over his face 
 
 Francois - Lakshmi, you know this community is built on trust 
@@ -65,7 +66,7 @@ Francois - Lakshmi, you know this community is built on trust
 (C) You shrug 
 Briar takes a quick breath before muttering 
 
-Briar - Off to the sanctuary, but... 
+Briar - It's for the sanctuary but...  
 
 //
 
@@ -77,6 +78,8 @@ EVENT - Briar takes another step back
 Francois - Please Briar. We need to know who's behind all of this. 
 
 Briar - maybe- 
+
+EVENT - Francois moves slightly forward 
 
 Camie - HEY DONT!
 
@@ -100,16 +103,36 @@ DESCRIP.  His hand tears into the parcel with hunger tossing the careful layers 
 
 Briar - What am I going to... 
 
-DESCRIP - Their back hunches. Dark shadows form around thier eyes as their features atempt to retreat into their skull. Tears well and then fall. 
+DESCRIP - Their back hunches. Dark shadows form around their eyes as their features attempt to retreat into their skull. Tears well and then fall. 
 
 Francois - So much worse. So much worse 
 
-EVENT - Garp comes charging out of the guild hall. He heads straight towards Briar. 
+Briar - Please...  
 
-GARP - WHATS WITH YOU! I said this parcel was a priority! 
+EVENT - GREG comes charging out of the guild hall. He heads straight towards Briar. 
+
+GREG - WHATS WITH YOU! I said this parcel was a priority! 
 
 EVENT - He stops suddenly. Turning and surveying the scene. 
 
-DESCRIP - His anger dissipates immediately 
+DESCRIP - His anger dissipates immediately, replaced with a look of terror 
+
+Francois - pollute everything! 
+
+DESCRIP - His hands tear a buckle from the parcel and fling it into the air 
+
+Briar - I can't- 
+
+DORAN - FOG! 
+
+EVENT - Everybody turns to see the fog. It's erupting behind Briar in an enormous wave that threatens to crash in on them all. Fog also pushes up along the sides.  
+
+Briar - 
+
+GATZ - RUN! 
+
+FRANCOIS - RUN LAKSHMI! 
+
+EVENT - The fog spikes suddenly and then the whole wave crashes down on the bridge. Greg leaps towards Briar and shields them with his
 
 
