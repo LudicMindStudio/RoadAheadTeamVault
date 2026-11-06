@@ -78,60 +78,66 @@ Briar - It's for the sanctuary.
 
 Action - PAUSE 
 
-Briar - 
+Briar - For the dolphin... 
 
 //
 
 
-Francois - On second thought, maybe we ought to inspect for Dolphin pollutants? 
+Francois - On second thought, maybe we ought to inspect it for dolphin pollutants? 
 
-EVENT - Briar takes another step back 
+**ACTION** - Briar takes another step back 
 
-Francois - Please Briar. This is  standard Dolphin Bay Procedure these days. 
+Francois - Please Briar. This is standard Dolphin Bay procedure these days. 
 
 Briar - maybe- 
 
-EVENT - Francois moves slightly forward 
+**ACTION** - Francois moves slightly forward 
 
 Camie - HEY DONT!
 
-Event - Francois moves forward suddenly, and at the last moment Briar jumps back. 
+**ACTION** - Francois moves forward suddenly, and at the last moment Briar jumps back. 
 
-DESCIP. Francois crumples the torn wrapping paper in his hand. His eyes wide. A skull and cross bones is marked clearly on the side of the parcel. 
+Narrator - He has torn a wide hole in the packaging paper, and now, exposed for all to see, a skull and cross bones stamped to the side of the box! 
 
-Event - all the protestors move in towards the parcel. Briar steps back once more, and the parcel falls out of their hands the frames pass as if in slow motion. 
+**ACTION** - all the protestors move in towards the parcel. Briar steps back once more, and the parcel falls out of their hands the frames pass as if in slow motion. 
+
+ACTION - everything freezes for a few moments 
+
+ACTION - Francois rushes towards the parcel 
+
+Narrator - He tears open the carboard lid. 
 
 Francois - No it's worse then I was told 
 
-DESCRIP. He tears open the carboard lid. Tears glistening behind his eyes. 
+Narrator - Tears glisten behind his eyes. 
 
-Francois - No. No. Not you too. 
+Francois - Oh Finn. Poor Finn. 
 
-EVENT - Briar is backing slowly away. The fog is gathering behind Briar. 
+**ACTION** - Briar is backing slowly away. The fog is gathering behind Briar. 
 
 Briar - You can't just... I didn't... 
 
-DESCRIP.  His hand tears into the parcel with hunger tossing the careful layers of packaging into the wind 
+Narrator-  Hand and hook tear into the parcel - throwing it's packaging to the wind 
 
 Briar - What am I going to... 
 
-DESCRIP - Briar's back hunches. Dark shadows form around their eyes as their features attempt to retreat into their skull. Tears well and then fall. 
+Narrator - You notice Briars posture collapse. Dark shadows form around their eyes as their features attempt to retreat into their skull. Tears well and then fall. 
 
 Francois - So much worse. So much worse 
 
 Briar - Please...  
 
-EVENT - GREG comes charging out of the guild hall. He heads straight towards Briar. 
+**ACTION** - GREG comes charging out of the guild hall. He heads straight towards Briar. 
 
 GREG - WHATS WITH YOU! I said this parcel was a priority! 
 
-EVENT - He stops suddenly. Turning and surveying the scene. 
+**ACTION** - He stops suddenly. Turning and surveying the scene. 
 
-DESCRIP - His anger dissipates immediately, replaced with a look of terror 
+Narrator - His anger dissipates immediately, replaced with a look of terror 
 
 Francois - pollute everything! 
 
-DESCRIP - His hands tear a buckle from the parcel and fling it into the air 
+Narrator - 
 
 Briar - I can't- 
 
@@ -145,9 +151,9 @@ GATZ - RUN!
 
 FRANCOIS - RUN LAKSHMI! 
 
-EVENT - The fog spikes suddenly and then the whole wave crashes down on the bridge. Greg leaps towards Briar and shields them with his body. 
+**ACTION**  - The fog spikes suddenly and then the whole wave crashes down on the bridge. Greg leaps towards Briar and shields them with his body. 
 
-EVENT - The player is suddenly given control. Fog errupts in a prearanged pattern making it difficult for the player to escape with the NPCs. Eventually they cross the bridge and make it to east dolphin bay. 
+**ACTION** - The player is suddenly given control. Fog errupts in a prearanged pattern making it difficult for the player to escape with the NPCs. Eventually they cross the bridge and make it to east dolphin bay. 
 
 EAST DOLPHIN BAY 
 
