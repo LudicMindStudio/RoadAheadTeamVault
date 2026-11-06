@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"babae316ed8ab13d","x":200,"y":-345,"width":400,"height":311,"type":"file","file":"Pasted image 20261106084505.png"},
-		{"id":"c87c9f140b7e7775","x":-100,"y":-265,"width":250,"height":90,"type":"text","text":"During one of her walks in the forest, Tullia believes to hear a dolphin"},
-		{"id":"27178bfceda7431e","x":-466,"y":-260,"width":250,"height":80,"type":"text","text":"Oliver shares to Cat he heard Dolphin near the coast"},
-		{"id":"7f2a4894b42a66f0","x":-200,"y":-250,"width":80,"height":60,"type":"text","text":"OR"},
-		{"id":"17e8998e3f089838","x":-285,"y":-160,"width":250,"height":180,"type":"text","text":"Cat recruits Leo and Tullia to come with explore -> by boat or land? Sammy stays behind. He is the only one who knows what they are up to. Cat only tells her dad they'll be out for the day. "},
-		{"id":"a41c5b1bb5c1b65e","x":-285,"y":40,"width":250,"height":100,"type":"text","text":"They pass by Camie's bakery to gather some goods without telling her where they're going."},
-		{"id":"24ceeba436f474fd","x":-285,"y":160,"width":250,"height":60,"type":"text","text":"They leave in the morning to go investigate the sounds. "},
-		{"id":"57b7de120b4ce621","x":-285,"y":-405,"width":250,"height":120,"type":"text","text":"Kids are planning smth: show Francois that he's wrong, that Finn is good and well"},
-		{"id":"0b21d1ec4500f38a","x":-516,"y":245,"width":250,"height":115,"type":"text","text":"They go by boat following the coast and end up on a different part of the island"},
-		{"id":"071f66944a668fca","x":-160,"y":273,"width":250,"height":60,"type":"text","text":"By land, walk to the upper lake. "}
+		{"id":"babae316ed8ab13d","type":"file","file":"Pasted image 20261106084505.png","x":200,"y":-345,"width":400,"height":311},
+		{"id":"c87c9f140b7e7775","type":"text","text":"During one of her walks in the forest, Tullia believes to hear a dolphin","x":-100,"y":-265,"width":250,"height":90},
+		{"id":"27178bfceda7431e","type":"text","text":"Oliver shares to Cat he heard Dolphin near the coast","x":-466,"y":-260,"width":250,"height":80},
+		{"id":"7f2a4894b42a66f0","type":"text","text":"OR","x":-200,"y":-250,"width":80,"height":60},
+		{"id":"17e8998e3f089838","type":"text","text":"Cat recruits Leo and Tullia to come with explore -> by boat or land? Sammy stays behind. He is the only one who knows what they are up to. Cat only tells her dad they'll be out for the day. ","x":-285,"y":-160,"width":250,"height":180},
+		{"id":"a41c5b1bb5c1b65e","type":"text","text":"They pass by Camie's bakery to gather some goods without telling her where they're going.","x":-285,"y":40,"width":250,"height":100},
+		{"id":"24ceeba436f474fd","type":"text","text":"They leave in the morning to go investigate the sounds. ","x":-285,"y":160,"width":250,"height":60},
+		{"id":"57b7de120b4ce621","type":"text","text":"Kids are planning smth: show Francois that he's wrong, that Finn is good and well","x":-285,"y":-405,"width":250,"height":120},
+		{"id":"0b21d1ec4500f38a","type":"text","text":"They go by boat following the coast and end up on a different part of the island","x":-516,"y":245,"width":250,"height":115},
+		{"id":"071f66944a668fca","type":"text","text":"By land, walk to the upper lake. ","x":-160,"y":273,"width":250,"height":60}
 	],
 	"edges":[]
 }
