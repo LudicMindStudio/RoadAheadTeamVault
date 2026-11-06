@@ -130,7 +130,7 @@ Briar - Please...
 
 **ACTION** - GREG comes charging out of the guild hall. He heads straight towards Briar. 
 
-GREG - WHATS WITH YOU! I said this parcel was a priority! 
+Greg - WHATS WITH YOU! I said this parcel was a priority! 
 
 **ACTION** - He stops suddenly. Turning and surveying the scene. 
 
@@ -142,15 +142,15 @@ Narrator - Francois raises his hands above his head forming two tight fists
 
 Briar - I can't- 
 
-DORAN - FOG! 
+Doran - FOG! 
 
 **ACTION** - Everybody turns to see the fog. It's erupting behind Briar in an enormous wave that threatens to crash in on them all. Fog also pushes up along the sides of the bridge.  
 
-Briar - I WONT GO BACK!
+Briar  - I WONT GO BACK!
 
-GATZ - RUN! 
+Gatz - RUN! 
 
-CAMIE - RUN LAKSHMI! 
+Camie - RUN LAKSHMI! 
 
 **ACTION**  - The fog spikes suddenly and then the whole wave crashes down on the bridge. Greg leaps towards Briar and shields them with his body. 
 
@@ -170,11 +170,11 @@ Gatz  - Where's Francois?
 
 **ACTION** - DORAN and GATZ look around. 
 
-DORAN - He was right behind me. He crossed the bridge. I know that. 
+Doran - He was right behind me. He crossed the bridge. I know that. 
 
-CAMIE - Then he's safe. I need a minute. 
+Camie - Then he's safe. I need a minute. 
 
-DORAN - He can't have gone far 
+Doran - He can't have gone far 
 
 
 **Available Interactions**
@@ -182,10 +182,26 @@ DORAN - He can't have gone far
 CAMIE 
 (A) What was that? 
 
-CAMIE - I've never seen anything like it the 
+CAMIE - You're too young to remember, but when the cataclysm first hit the fog came in large waves not unlike that one. It's been so long. That was scary. How are you holding up? 
+
+	Options: 
+	(A) Scared too
+		Lakshmi - that was really intense 
+		Camie - it's normal to feel afraid. That's a really brave thing to do. 
+	(B) Worried about Briar 
+		Lakshmi - What happened to Briar? Will they be okay 
+		Camie - if there's anyone who knows how to deal with the fog it's Greg. I suspect their in very capable hands. 
+	(C) Really curious 
+		Lakshmi - I just can't stop thinking about why this all happened? Where did the fog come from? 
+		Camie - It all happened so fast. I wish I knew what in bay's water just happened. 
+
 (B) What was in the box? 
+
+CAMIE - I couldn't get a good look. It smelt really weird. Like not natural. 
+
 (C) I think I need a minute too 
 
+CAMIE - Tha
 
 
 
