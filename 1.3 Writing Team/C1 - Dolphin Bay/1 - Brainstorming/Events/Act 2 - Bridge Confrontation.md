@@ -139,7 +139,7 @@ EVENT - The player is suddenly given control. Fog errupts in a prearanged patter
 
 EAST DOLPHIN BAY 
 
-EVENT - the partie rushes forward as a wave of fog hit the ground behind them and then begins to dissapate. They all slow and then stop altogether. 
+EVENT - the party rushes forward as a wave of fog hit the ground behind them and then begins to dissipate. They all slow and then stop altogether. 
 
 DESCRIP. The group heaves raggedy breaths. They look around at one another inspecting for harm. 
 
@@ -151,6 +151,8 @@ EVENT - DORAN and GATZ look around.
 
 DORAN - He was right behind me. He crossed the bridge. I know that. 
 
-CAMIE - Then he's safe. I need a minute. He can't have gone far. 
+CAMIE - Then he's safe. I need a minute. 
+
+DORAN - He can't have gone far 
 
 
