@@ -54,16 +54,14 @@ Narrator - Briar looks at you pleadingly.
 (B) Lie 
 (C) Shrug 
 
-(A) 
-
+(A) Back off! 
 Lakshmi - That's none of your business! 
 
 Narrator - A look of immediate panic passes over Briar's face and they take another step backwards. 
 
 Briar - We'll we're not allowed really... 
 
-(B) 
-
+(B) Lie 
 Lakshmi - You were headed to the old library weren't you? 
 
 Briar - Yeah its for the....
@@ -72,9 +70,8 @@ Narrator - Francois eyes flash suddenly, and a look of sadness passes over his f
 
 Francois - Lakshmi, you know this community is built on trust 
 
-(C) 
-
-Narrator - You shrug. Briar takes a deep breath. 
+(C) Shrug 
+Narrator - You shrug. Briar gulps and then looks straight at Francois. 
 
 Briar - It's for the sanctuary. 
 
@@ -218,7 +215,15 @@ Shirley - Be careful delivering parcels to the sanctuary. They do very little to
 
 Francois - One needs to be extra vigilant about dolphin pollutants 
 
-Gatz - 
+Gatz - There are essentially three power structures in the bay. The guildhall, the mayoral office and the sanctuary. One of them is up to something. 
+	Lakshmi - Don't you work for the mayor? 
+	Gatz - Associated 
+
+Juliette - My husband's been super concerned about our dolphin numbers. Understandably so. 
+
+
+
+
 
 
 
