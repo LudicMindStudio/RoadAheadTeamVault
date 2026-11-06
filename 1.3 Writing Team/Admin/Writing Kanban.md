@@ -25,7 +25,7 @@ kanban-plugin: board
 - [ ] Act 2: Oliver and Felix Quests: Trent
 - [ ] Act 2: Kids planning in the background - building smth? : Arkana
 - [ ] Act 2: POV Sanctuary: Gyo and Anita : Trent
-- [ ] Act 2: Last event protestors by the bridge: Aaron
+- [ ] Act 2: Last event protestors by the bridge: Aaron [[Act 2 - Bridge Confrontation]]
 - [ ] Act 2: POV Guild Hall + first event protestors in front of Guild Hall: Corina
 	
 	[[Act 2 - Quest - First event protestors in front of Guild Hall, POV Guild Hall]]
