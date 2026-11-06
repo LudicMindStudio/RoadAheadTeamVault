@@ -39,7 +39,7 @@ Briar - When isn't he!
 
 Francois - HAHA. Same old Greg. I can't imagine it's easy working for that guy, but I'll tell you, you ever NEED anything and he'll be there.
 
-Camie - That's quite the parcel Briar, you need any help with it? 
+Camie - That's quite the parcel Briar, you want any help with it? 
 
 Briar - Well.. this is my first major delivery so... 
 
@@ -99,9 +99,9 @@ Narrator - He has torn a wide hole in the packaging paper, and now, exposed for 
 
 **ACTION** - all the protestors move in towards the parcel. Briar steps back once more, and the parcel falls out of their hands the frames pass as if in slow motion. 
 
-ACTION - everything freezes for a few moments 
+**ACTION** - everything freezes for a few moments 
 
-ACTION - Francois rushes towards the parcel 
+**ACTION** - Francois rushes towards the parcel 
 
 Narrator - He tears open the carboard lid. 
 
@@ -131,7 +131,7 @@ Greg - WHATS WITH YOU! I said this parcel was a priority!
 
 **ACTION** - He stops suddenly. Turning and surveying the scene. 
 
-Narrator - Greg's anger dissipates immediately, replaced with a look of terror 
+Narrator - Greg's anger dissipates immediately; replaced with a look of terror 
 
 Francois - pollute everything! 
 
