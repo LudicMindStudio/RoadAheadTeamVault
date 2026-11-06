@@ -22,7 +22,13 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] Revising dialogue of guild hall members : Aaron (2026-03-17)
-- [ ] Greg Chalet, Grandpa Dan House, Grandpa Dan bench POI, Briar's storage room POI. - Corina
+- [ ] Act 2: Oliver and Felix Quests: Trent
+- [ ] Act 2: Kids planning in the background - building smth? : Arkana
+- [ ] Act 2: POV Sanctuary: Gyo and Anita : Trent
+- [ ] Act 2: Last event protestors by the bridge: Aaron
+- [ ] Act 2: POV Guild Hall + first event protestors in front of Guild Hall: Corina
+	
+	[[Act 2 - Quest - First event protestors in front of Guild Hall, POV Guild Hall]]
 
 
 ## Complete
@@ -33,6 +39,7 @@ kanban-plugin: board
 - [ ] Revising pre-graduation script - Quest 1, Scene 1: Aaron (2026-03-17)
 - [ ] Formatting pre-graduation script - Quest 2 & 3: Corina
 - [ ] Revising & Formatting dialogue of all characters profiles who deliver mail: Arkana + Corina
+- [ ] Greg Chalet, Grandpa Dan House, Grandpa Dan bench POI, Briar's storage room POI. - Corina
 
 
 ## HOLD

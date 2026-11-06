@@ -17,7 +17,7 @@ Brainstorming Document Two...
 ## General Description 
 Provide a brief description of the purpose and vibe of the location. 
 
-{++Forested cliff side. A modest stacked-log chalet with a view of the waterfront; the fog is an ever-present presence over the bay, never filling the frame. Seagulls, and the waves are close. The scene is large: the chalet sits high, and the ground runs down to the shoreline, which cuts towards Dolphin Bay. Rocky, rustic; life about, but not lush.
+Forested cliff side. A modest stacked-log chalet with a view of the waterfront; the fog is an ever-present presence over the bay, never filling the frame. Seagulls, and the waves are close. The scene is large: the chalet sits high, and the ground runs down to the shoreline, which cuts towards Dolphin Bay. Rocky, rustic; life about, but not lush.
 
 **Landmarks:**
 
@@ -26,7 +26,7 @@ Provide a brief description of the purpose and vibe of the location.
 - **The paths.** The shoddy path down toward Grandpa Dan's house; the better-maintained path up toward Greg's.
 - **The Fog Bench.** Right outside the chalet, a cliffside overlook of the fog, weathered. (Other benches exist, scattered near the fog.)
 - **The small rocky slope** drops to a **little beach** below.
-- **The forest edge and the path out.** Wildlife about; a touch reactive as you descend.++}
+- **The forest edge and the path out.** Wildlife about; a touch reactive as you descend.
 ## Floor By Floor Layout 
 Provide a detailed visual description each floor including the position of key interactables, possible event triggers, doors and stairs. 
 
