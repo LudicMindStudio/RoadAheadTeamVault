@@ -7,23 +7,23 @@ Conditions - Lakshmi has met with the protestors and finished all necessary act 
 
 Setup - Briar exits the guild hall and heads towards east dolphin bay. Lakshmi enters the trigger zone 
 
-Briar stands holding a large parcel, Despite the beads of sweat forming on their brow, they have a smile plastered on their face. Between deep breaths they manage to say: 
+Narrator - Their whole body is braced against the weight of the box. Nonetheless a wide smile crosses their mouth. In-between breaths they manage to say: 
 
-Briar - "Hey Lakshmi!"
+Briar - Hey. Lakshmi.
 
-Lakshmi - "Hey you! You need any help with that" 
+Lakshmi - Hey you! You need any help with that
 
-Briar - "No no. Guess what?"
+Briar - No no. Can you believe it?
 
-Lakshmi - "?" 
+Lakshmi- ?
 
-Briar - "Guess who just got promoted to chief intern! I'm officially delivering parcels now! This right here is my first major delivery!"
+Briar - Guess who just got promoted to chief intern! I'm officially delivering parcels now! This right here is my first major delivery!
 
-Lakshmi - "Where to?"
+Lakshmi - Where to?
 
-Briar - "The sanctuary. I sure hope Anita is there I've been meaning to..." 
+Briar - The sanctuary. I sure hope Anita is there I've been meaning to...
 
-ACTION - Francois and the protestors come quickly down the bridge towards Lakshmi and Briar 
+**ACTION** - Francois and the protestors come quickly down the bridge towards Lakshmi and Briar 
 
 Francois - Briar! They have you delivering parcels already? 
 
@@ -31,7 +31,7 @@ Briar - You... you remembered my name?
 
 Francois - Of course! Who could forget a name as distinguished as yours! Say, is the old drill sergeant around here today? 
 
-DESCRIP. Briar's face recovers from the shock and then they beam in delight. 
+Narrator - Briar's face recovers from the sudden shock and then they beam in delight. 
 
 Briar - When isn't he! 
 
@@ -43,30 +43,42 @@ Briar - Well.. this is my first major delivery so...
 
 Francois - Nonsense we can give you a hand. Where are you off to? 
 
-ACTION - Francois reaches for the parcel, but Briar takes a step back. 
+**ACTION** - Francois reaches for the parcel, but Briar takes a step back. They turn to face Lakshmi. 
 
-Descrip. Briar looks at you pleadingly. 
+Narrator - Briar looks at you pleadingly. 
 
 OPTION- 
 (A) Back off! 
 (B) Lie 
 (C) Shrug 
 
-(A) Lakshmi - That's none of your business! 
-A look of immediate panic passes over Briar's face and they take another step backwards. 
+(A) 
+
+Lakshmi - That's none of your business! 
+
+Narrator - A look of immediate panic passes over Briar's face and they take another step backwards. 
 
 Briar - We'll we're not allowed really... 
 
-(B) Lakshmi - This has Coral's Reef written all over it 
+(B) 
+
+Lakshmi - You were headed to the old library weren't you? 
+
 Briar - Yeah its for the....
-Francois eyes flash suddenly, and a look of sadness passes over his face 
+
+Narrator - Francois eyes flash suddenly, and a look of sadness passes over his face 
 
 Francois - Lakshmi, you know this community is built on trust 
 
-(C) You shrug 
-Briar takes a quick breath before muttering 
+(C) 
 
-Briar - It's for the sanctuary but...  
+Narrator - You shrug. Briar takes a deep breath. 
+
+Briar - It's for the sanctuary. 
+
+Action - PAUSE 
+
+Briar - 
 
 //
 
