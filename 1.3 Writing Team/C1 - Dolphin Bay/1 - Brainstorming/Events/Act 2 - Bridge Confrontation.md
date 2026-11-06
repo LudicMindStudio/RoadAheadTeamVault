@@ -1,11 +1,13 @@
 
-# Event - Split the Town in Two 
+# Event - Split the Town in Two (P1)
+
+**Location** - CENTRAL DOLPHIN BAY 
 
 Cast - Lakshmi, Briar, Francois, Camie, Gatz, Doran, Greg 
 
 Conditions - Lakshmi has met with the protestors and finished all necessary act 2 quests 
 
-Setup - Briar exits the guild hall and heads towards east dolphin bay. Lakshmi enters the trigger zone 
+**Setup** - Briar exits the guild hall and heads towards east dolphin bay. Lakshmi enters the trigger zone 
 
 Narrator - Their whole body is braced against the weight of the box. Nonetheless a wide smile crosses their mouth. In-between breaths they manage to say: 
 
@@ -47,7 +49,7 @@ Francois - Nonsense we can give you a hand. Where are you off to?
 
 Narrator - Briar looks at you pleadingly. 
 
-OPTION- 
+**Dialogue Tree-** 
 (A) Back off! 
 (B) Lie 
 (C) Shrug 
@@ -80,8 +82,7 @@ Action - PAUSE
 
 Briar - For the dolphin... 
 
-//
-
+**End of Tree**
 
 Francois - On second thought, maybe we ought to inspect it for dolphin pollutants? 
 
@@ -133,44 +134,59 @@ GREG - WHATS WITH YOU! I said this parcel was a priority!
 
 **ACTION** - He stops suddenly. Turning and surveying the scene. 
 
-Narrator - His anger dissipates immediately, replaced with a look of terror 
+Narrator - Greg's anger dissipates immediately, replaced with a look of terror 
 
 Francois - pollute everything! 
 
-Narrator - 
+Narrator - Francois raises his hands above his head forming two tight fists 
 
 Briar - I can't- 
 
 DORAN - FOG! 
 
-EVENT - Everybody turns to see the fog. It's erupting behind Briar in an enormous wave that threatens to crash in on them all. Fog also pushes up along the sides.  
+**ACTION** - Everybody turns to see the fog. It's erupting behind Briar in an enormous wave that threatens to crash in on them all. Fog also pushes up along the sides of the bridge.  
 
 Briar - I WONT GO BACK!
 
 GATZ - RUN! 
 
-FRANCOIS - RUN LAKSHMI! 
+CAMIE - RUN LAKSHMI! 
 
 **ACTION**  - The fog spikes suddenly and then the whole wave crashes down on the bridge. Greg leaps towards Briar and shields them with his body. 
 
 **ACTION** - The player is suddenly given control. Fog errupts in a prearanged pattern making it difficult for the player to escape with the NPCs. Eventually they cross the bridge and make it to east dolphin bay. 
 
-EAST DOLPHIN BAY 
+# Event - Split the Town in Two (P2) 
 
-EVENT - the party rushes forward as a wave of fog hit the ground behind them and then begins to dissipate. They all slow and then stop altogether. 
+**Location** - EAST DOLPHIN BAY 
 
-DESCRIP. The group heaves raggedy breaths. They look around at one another inspecting for harm. 
+**ACTION** - the party rushes forward as a wave of fog hit the ground behind them and then begins to dissipate. They all slow and then stop altogether. 
 
-EVENT - Gatz turns in a circle 
+Narrator - The group heaves raggedy breaths. They look around at one another inspecting for harm 
+
+**ACTION** - Gatz turns in a circle 
 
 Gatz  - Where's Francois? 
 
-EVENT - DORAN and GATZ look around. 
+**ACTION** - DORAN and GATZ look around. 
 
 DORAN - He was right behind me. He crossed the bridge. I know that. 
 
 CAMIE - Then he's safe. I need a minute. 
 
 DORAN - He can't have gone far 
+
+
+**Available Interactions**
+
+CAMIE 
+(A) What was that? 
+
+CAMIE - I've never seen anything like it the 
+(B) What was in the box? 
+(C) I think I need a minute too 
+
+
+
 
 
