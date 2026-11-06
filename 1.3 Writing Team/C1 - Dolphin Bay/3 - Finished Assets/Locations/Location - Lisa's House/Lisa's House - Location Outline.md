@@ -3,7 +3,7 @@ tags:
   - DolphinBay
   - location
 Date_Created: 2026-08-13
-Status: scaffold — content pending
+Status: interactables, POIs needed
 ---
 
 # Lisa's House — Location Outline
@@ -15,8 +15,7 @@ Status: scaffold — content pending
 # Location Description
 
 ## Purpose
-
--
+- This is Lisa's house. Lisa's house is inviting to all. Her garden and her bees keep her busy, but she loves sharing her passion with others. This is a place to visit when one wants to get away and enjoy the simple things.
 
 ## Vibe and visual description
 ![[Pasted image 20261015152228.png|240]]![[Pasted image 20261015152511.png|215]]![[Pasted image 20261015153509.png|229]]
@@ -44,15 +43,18 @@ Status: scaffold — content pending
 
 # Location POIs
 
--
+- Dinning room for tea time
 
 ---
 
 # Location Interactables
 
 Each interactable names its Root Location and Root POI.
+-  beehive
+- vegetable garden in a bathtub
+- flower garden
+- piano
 
--
 
 ---
 
