@@ -154,7 +154,7 @@ Camie - RUN LAKSHMI!
 
 **ACTION**  - The fog spikes suddenly and then the whole wave crashes down on the bridge. Greg leaps towards Briar and shields them with his body. 
 
-**ACTION** - The player is suddenly given control. Fog errupts in a prearanged pattern making it difficult for the player to escape with the NPCs. Eventually they cross the bridge and make it to east dolphin bay. 
+**ACTION** - The player is suddenly given control. Fog erupts in a prearranged pattern making it difficult for the player to escape with the NPCs. Eventually they cross the bridge and make it to east dolphin bay. 
 
 # Event - Split the Town in Two (P2) 
 
@@ -180,8 +180,13 @@ Doran - He can't have gone far
 **Available Interactions**
 
 CAMIE 
-(A) What was that? 
 
+Dialogue Tree: 
+(A) What was that? 
+(B) What was in the box? 
+(C) I think I need a minute too 
+
+**(A) What was that**? 
 CAMIE - You're too young to remember, but when the cataclysm first hit the fog came in large waves not unlike that one. It's been so long. That was scary. How are you holding up? 
 
 	Options: 
@@ -190,19 +195,30 @@ CAMIE - You're too young to remember, but when the cataclysm first hit the fog c
 		Camie - it's normal to feel afraid. That's a really brave thing to do. 
 	(B) Worried about Briar 
 		Lakshmi - What happened to Briar? Will they be okay 
-		Camie - if there's anyone who knows how to deal with the fog it's Greg. I suspect their in very capable hands. 
+		Camie - if there's anyone who knows how to deal with the fog it's Greg. I suspect they are in very capable hands. 
 	(C) Really curious 
 		Lakshmi - I just can't stop thinking about why this all happened? Where did the fog come from? 
 		Camie - It all happened so fast. I wish I knew what in bay's water just happened. 
 
-(B) What was in the box? 
-
+**(B) What was in the box?** 
 CAMIE - I couldn't get a good look. It smelt really weird. Like not natural. 
 
-(C) I think I need a minute too 
+**(C) I think I need a minute too** 
+CAMIE - Absolutely. Let your needs be known. 
 
-CAMIE - Tha
 
+
+**Additional whispers** 
+
+Doran - I can't understand why the sanctuary never consulted me on their latest construction 
+
+Leaf - I really need to change my slogan "surf like a dolphin" - given there aren't many these days 
+
+Shirley - Be careful delivering parcels to the sanctuary. They do very little to make you feel comfortable 
+
+Francois - One needs to be extra vigilant about dolphin pollutants 
+
+Gatz - 
 
 
 
