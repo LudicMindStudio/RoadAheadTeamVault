@@ -4,7 +4,7 @@ tags:
   - characters
 Date_Created: 2026-09-11
 ---
-
+r
 # Character Brainstorming 
 
 [[Old Granny (Lisa)]]
@@ -42,12 +42,12 @@ Description of any character defining events that occurred before they meet Laks
 [[Cat - Profile]]
 ## Character Behavior 
 
-|           | LOCATION | ACTIVITY               | SPECIAL NOTES |
-| --------- | -------- | ---------------------- | ------------- |
-| MORNING   | Backyard | Attends to her gardens |               |
-| AFTERNOON |          |                        |               |
-| EVENING   |          |                        |               |
-| SPECIAL   |          |                        |               |
+|           | LOCATION         | ACTIVITY                | SPECIAL NOTES                                                   |
+| --------- | ---------------- | ----------------------- | --------------------------------------------------------------- |
+| MORNING   | Ouside her house | Attends to her gardens  | On rainy days, she plays piano and attends to her indoor plants |
+| AFTERNOON | Inside her house | Tea time                |                                                                 |
+| EVENING   | Ouside her house | Attends to the bee hive |                                                                 |
+| SPECIAL   |                  |                         |                                                                 |
 
 --- 
 ## Key Items

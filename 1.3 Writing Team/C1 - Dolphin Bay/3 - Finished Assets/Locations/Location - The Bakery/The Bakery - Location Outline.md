@@ -3,14 +3,12 @@ tags:
   - DolphinBay
   - location
 Date_Created: 2026-08-13
-Status: scaffold — content pending
+Status: interactables, POIs needed
 ---
 
 # The Bakery — Location Outline
 
 ## Reference Art Links
-
--
 
 ---
 # Location Description
@@ -31,14 +29,18 @@ The bakery has a costal vibe to it with accent of blue and red. Swirls on the wa
 -![[Pasted image 20260901093645.png|201]]![[Pasted image 20260901100632.png|156]]![[Pasted image 20260901100421.png|185]]
 
 ### Indoor Zone
-![[Pasted image 20260901093252.png|208]]![[Pasted image 20260901093455.png|186]]![[Pasted image 20260901093546.png|187]]
+![[Pasted image 20260901093252.png|186]]![[Pasted image 20260901093455.png|158]]![[Pasted image 20260901093546.png|156]]![[Pasted image 20261023125049.png|169]]
 - Seperating the room, there is a counter where people go to give their orders. Connected to the counter, there is a display that can be seen from the outside and inside. 
 - On the other side, there is a sitting area. 
 - The inside is rather small.
 - Behind the counter, there is a door leading to a small kitchen where Camie prepares the treats. 
 ## Floor By Floor Layout
 
-- ADD IMAGE
+Main floor : The building is built as a narrow rectangle. On the right side, the is a big counter that separates the place in two. One side is for the bakers to access the kitchen and to serve the clients.  The other side is for clients to give their order and to enjoy their food. The kitchen is small but remains colorful. 
+
+Outside: A terasse can be found in front of the bakery. Few seats and tables are available. 
+
+Second flood: This part is Camie's apartment and is not accessible to the player. 
 ## Location Connections
 
 - Parent: [[East Dolphin Bay - Location Outline]]
@@ -46,18 +48,15 @@ The bakery has a costal vibe to it with accent of blue and red. Swirls on the wa
 ---
 
 # Location POIs
-
-
+- Display viewed from outside
 ---
 # Location Interactables
 
 Each interactable names its Root Location and Root POI.
-IDEAS:
-- Display viewed from outside
 - Counter
 - Door leading to the kitchen 
 - Tables and chair
--
+- Outside menu writen with chalk
 
 ---
 
