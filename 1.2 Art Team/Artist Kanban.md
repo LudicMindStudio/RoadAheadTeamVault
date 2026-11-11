@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] [General World Sprites](Admin/Tasks/General%20World%20Sprites.md) #p2 #sprites
 - [ ] [Wildlife](Admin/Tasks/Wildlife.md) #p1 #sprites
 - [ ] [HUD UI](Admin/Tasks/HUD%20UI.md) #p2 #ui
-- [ ] [Map](Admin/Tasks/Map.md) #p2 #splash
 - [ ] [Expressions](Admin/Tasks/Expressions.md) #polish #vistas
 - [ ] [Height Tile Variants](Admin/Tasks/Height%20Tile%20Variants.md) #p2 #tiles
 - [ ] [Full Screen Art](Admin/Tasks/Full%20Screen%20Art.md) #p2 #vista
@@ -80,6 +79,7 @@ kanban-plugin: board
 
 ## Completed
 
+- [ ] [Map](Admin/Tasks/Map.md) #p2 #splash
 
 
 

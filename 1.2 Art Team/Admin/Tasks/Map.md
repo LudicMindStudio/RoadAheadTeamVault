@@ -19,7 +19,7 @@ depicts ![[zone_map.png]]
 
 ## What to Make
 
-- [ ] Map of Dolphin Bay — pixel art style arial photo view.
+- [x] Map of Dolphin Bay — pixel art style arial photo view.
 
 
 ## References
