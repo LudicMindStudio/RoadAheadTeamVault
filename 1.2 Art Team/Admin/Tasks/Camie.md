@@ -19,7 +19,7 @@ Camie runs the bakery. Portrait is done. She needs a walking sprite to follow he
 
 ## What to Make
 
-- [ ] Walking sprite — 32x16px, 4 directions
+- [x] Walking sprite — 32x16px, 4 directions
 - [x] Portrait
 - [ ] 1 key item (mail piece or character object)
 
