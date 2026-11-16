@@ -184,7 +184,7 @@ Description
 		* Yeah. I heard Greg say we cannot leave the village anytime soon.
 		* Oh golly.
 		* I've got family abroad. What do I do...
-	* Whisper 3:
+
 
 Interactions:
 - [[Greg - Profile]]
