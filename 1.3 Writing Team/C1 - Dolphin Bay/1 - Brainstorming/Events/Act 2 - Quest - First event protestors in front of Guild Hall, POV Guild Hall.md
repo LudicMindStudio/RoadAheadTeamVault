@@ -1,7 +1,10 @@
 Brainstorming Quest - Act 2: POV Guild Hall + first event protestors in front of Guild Hall 
 
+By: Corina
 
 [[Dolphin Bay Organizing - In-person meeting 2026-10-05]]
+
+---
 
 ## Event: Protestors in front of Guild Hall
 - conditions: day after graduating
@@ -131,16 +134,11 @@ Interactions:
 		Trigger Start -  Camie_Interacts_Lakshmi=True  
 		On Clear - LakshmiMeetsCamie_1 - LakshmiTriesBuns = True, LakshmiMeetsCamie_2 - LakshmiDeclinesBuns = True,
 
-Events
-
-- Greg POV
-
-## POV Guildhall
-- conditions: Lakshmi interacts with Francois
-- on clear: next event when protestants close the bridge
 
 * Greg
-	* Prompt: Give the poster to Greg
+- *conditions: Lakshmi interacts with Francois*
+- *on clear: next event when protestors close the bridge*
+	* Prompt: **Give the poster to Greg**
 	* Greg: That...
 	* Narrator: He puts an effort not to squeeze his hand with the poster into a fist.
 	* Event: Greg turns around.
@@ -172,7 +170,21 @@ Events
 	
 
 Description
-- Lakshmi can chat with people in guildhall. Whispers?
+- Lakshmi can chat with people in guildhall. Whispers? 
+
+# Possible Whispers: (no specific NPC in Guild hall. Cannot be Greg.)
+- *conditions: Lakshmi interacts with Francois*
+- *on clear: next event when protestors close the bridge*
+	* Whisper 1: 
+		* Have you seen the protestors outside?
+		* Yeah, I think they are blocking our shipments.
+		* How are we supposed to work then?
+	* Whisper 2:
+		* Have you noticed how thick the fog is lately?
+		* Yeah. I heard Greg say we cannot leave the village anytime soon.
+		* Oh golly.
+		* I've got family abroad. What do I do...
+	* Whisper 3:
 
 Interactions:
 - [[Greg - Profile]]
