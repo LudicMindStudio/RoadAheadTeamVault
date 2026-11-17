@@ -26,13 +26,13 @@ kanban-plugin: board
 - [ ] Act 2: Kids planning in the background - building smth? : Arkana
 - [ ] Act 2: POV Sanctuary: Gyo and Anita : Trent
 - [ ] Act 2: Last event protestors by the bridge: Aaron [[Act 2 - Bridge Confrontation]]
-- [ ] Act 2: POV Guild Hall + first event protestors in front of Guild Hall: Corina
-	
-	[[Act 2 - Quest - First event protestors in front of Guild Hall, POV Guild Hall]]
 
 
 ## Complete
 
+- [ ] Act 2: POV Guild Hall + first event protestors in front of Guild Hall: Corina
+	
+	[[Act 2 - Quest - First event protestors in front of Guild Hall, POV Guild Hall]]
 - [ ] Make a list of the characters in Dolphin Bay: Arkana
 - [ ] Revising pre-graduation script - Quest 2 - Scene 1-6, Quest 1 - Scene 2-4, Quest 1 - Interactables : Corina (2026-03-17)[[Act 1 - Pre-graduation Revision]]
 - [ ] Formatting pre-graduation script - Quest 1 Aaron
