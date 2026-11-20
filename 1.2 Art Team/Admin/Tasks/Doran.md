@@ -18,7 +18,7 @@ Doran is a protester living with [[Shirley - Profile|Shirley]]. Portrait done. N
 
 ## What to Make
 
-- [ ] Walking sprite — 32x16px, 4 directions
+- [x] Walking sprite — 32x16px, 4 directions
 - [x] Portrait
 - [ ] 1 key item (mail piece or character object)
 
