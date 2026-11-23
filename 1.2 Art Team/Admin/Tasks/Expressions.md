@@ -16,14 +16,14 @@ Expressions add personality to dialogue without extra text.
 
 ## What to Make
 
-- [ ] Thought cloud — floating bubble, the rest of the icons go within
-- [ ] Exclamation mark — surprise / attention
-- [ ] Question mark — confusion
-- [ ] Heart — affection / positive reaction
-- [ ] Sweat drop — nervous / awkward
-- [ ] Anger vein — frustration
-- [ ] Sleep Z — sleeping NPC
-- [ ] Music note — happy / enjoying
+- [x] Thought cloud — floating bubble, the rest of the icons go within
+- [x] Exclamation mark — surprise / attention
+- [x] Question mark — confusion
+- [x] Heart — affection / positive reaction
+- [x] Sweat drop — nervous / awkward
+- [x] Anger vein — frustration
+- [x] Sleep Z — sleeping NPC
+- [x] Music note — happy / enjoying
 
 ## References
 

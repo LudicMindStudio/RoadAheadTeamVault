@@ -18,7 +18,7 @@ Leaf runs the dojo-casa. Portrait done. Needs a walking sprite.
 
 ## What to Make
 
-- [ ] Walking sprite — 32x16px, 4 directions
+- [x] Walking sprite — 32x16px, 4 directions
 - [x] Portrait
 - [ ] 1 key item (mail piece or character object)
 
